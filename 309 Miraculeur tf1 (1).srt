@@ -1,39 +1,39 @@
-﻿1
+1
 00:00:00,080 --> 00:00:01,680
 ...
 
 2
 00:00:01,920 --> 00:00:03,440
-Je m'appelle Marinette.
+Meu nome é Marinette.
 
 3
 00:00:03,640 --> 00:00:05,840
-Une fille comme les autres.
+Uma garota como qualquer outra.
 
 4
 00:00:06,080 --> 00:00:09,200
-Quand le destin me choisit
-pour lutter contre le mal,
+Quando o destino me escolhe
+para lutar contra o mal,
 
 5
 00:00:09,400 --> 00:00:12,120
-je deviens Miraculous Ladybug.
+eu me torno Miraculous Ladybug.
 
 6
 00:00:12,320 --> 00:00:14,720
--Miraculous porte-bonheur
+-Miraculous amuleto da sorte
 
 7
 00:00:14,960 --> 00:00:17,880
-Lady magique et lady chance
+Lady mágica e lady sorte
 
 8
 00:00:18,080 --> 00:00:20,280
-Miraculous, lady du coeur
+Miraculous, lady do coração
 
 9
 00:00:20,520 --> 00:00:23,720
-Etre héroïque en cas d'urgence
+Sendo heroica em caso de emergência
 
 10
 00:00:23,920 --> 00:00:26,520
@@ -41,564 +41,561 @@ Miraculous
 
 11
 00:00:31,560 --> 00:00:34,160
-*-Pour combattre
-le terrible destructeur,
+*-Para combater
+o terrível destruidor,
 
 12
 00:00:34,360 --> 00:00:37,520
-Ladybug et Chat Noir
-ont fait appel à Rena Rouge...
+Ladybug e Chat Noir
+chamaram a Rena Rouge...
 
 13
 00:00:37,760 --> 00:00:38,960
--C'est la bonne.
+-É agora.
 
 14
 00:00:39,200 --> 00:00:42,840
-*-Espérons que nos protecteurs
-viendront à bout de ce vilain.
+*-Esperamos que os nossos protetores
+consigam derrotar esse vilão.
 
 15
 00:00:43,080 --> 00:00:44,600
-Le combat fait rage
+A batalha está intensa
 
 16
 00:00:44,840 --> 00:00:46,720
-entre nos héros
-et le destructeur.
+entre os nossos heróis
+e o destruidor.
 
 17
 00:00:47,720 --> 00:00:49,960
-La Tour Eiffel
-vient d'être détruite !
+A Torre Eiffel
+acaba de ser destruída!
 
 18
 00:00:50,160 --> 00:00:51,840
--Ce qu'il ne faut pas entendre.
+-Que palhaçada.
 
 19
 00:00:52,040 --> 00:00:54,800
-Sans moi, ils sont ridicules.
-Totalement ridicules.
+Sem mim, eles são ridículos.
+Totalmente ridículos.
 
 20
 00:00:55,040 --> 00:00:57,800
--Ouvre les yeux, Ladybug.
-Viens chercher Chloé.
+-Abre os olhos, Ladybug.
+Vem buscar a Chloé.
 
 21
 00:00:58,760 --> 00:01:02,360
-Aïe ! Oui, désolée.
-Viens vite chercher Queen Bee !
+Ai! É, desculpa.
+Vem logo buscar a Queen Bee!
 
 22
 00:01:03,240 --> 00:01:06,360
--Mayura, Ladybug et Chat Noir
-sont en difficulté.
+-Mayura, a Ladybug e o Chat Noir
+estão em apuros.
 
 23
 00:01:06,600 --> 00:01:07,920
--Chloé attend Ladybug.
+-A Chloé está esperando a Ladybug.
 
 24
 00:01:08,160 --> 00:01:09,400
-Comme à chaque combat.
+Como em toda batalha.
 
 25
 00:01:09,640 --> 00:01:12,720
--Parfait. Prépare-toi
-si Ladybug vient lui remettre
+-Perfeito. Prepare-se
+caso a Ladybug venha entregar
 
 26
 00:01:12,920 --> 00:01:14,200
-le miraculous de l'abeille.
+o Miraculous da abelha para ela.
 
 27
 00:01:14,440 --> 00:01:16,720
-*-Ladybug fait appel
-à son "lucky charm".
+*-A Ladybug recorre
+ao seu "Talismã".
 
 28
 00:01:16,920 --> 00:01:19,320
-Un canard de bain ?
-Que va-t-elle en faire ?
+Um patinho de borracha?
+O que ela vai fazer com isso?
 
 29
 00:01:19,520 --> 00:01:21,680
-Chat Noir, Rena rouge
-et Carapace...
+Chat Noir, Rena Rouge
+e Carapaça...
 
 30
 00:01:21,880 --> 00:01:23,560
--Tu as besoin de mon aide.
+-Você precisa da minha ajuda.
 
 31
 00:01:23,800 --> 00:01:26,600
-*-Mais oui ! Bien sûr !
-Quel coup de génie.
+*-Olha só! Mas é claro!
+Que jogada de mestre.
 
 32
 00:01:26,840 --> 00:01:28,520
-Un triomphe pour Ladybug.
+Uma vitória para a Ladybug.
 
 33
 00:01:28,760 --> 00:01:31,640
-Elle a gagné avec
-tous ses camarades superhéros.
+Ela venceu com a ajuda de
+todos os seus companheiros super-heróis.
 
 34
 00:01:31,880 --> 00:01:34,760
--Tous ? Tous ?
-Et Queen Bee, alors ?!
+-Todos? Todos?
+E a Queen Bee, fica como?!
 
 35
 00:01:35,480 --> 00:01:36,880
--Elle est pas sympa.
+-Ela não é legal.
 
 36
 00:01:37,120 --> 00:01:39,240
--Oh, tu ne comprends rien,
-ma pauvre.
+-Oh, você não entende nada,
+sua coitada.
 
 37
 00:01:39,440 --> 00:01:40,560
-Ladybug ne m'appelle
+A Ladybug só me chama
 
 38
 00:01:40,800 --> 00:01:43,080
-que face à des vilains
-exceptionnels.
+para enfrentar vilões
+excepcionais.
 
 39
 00:01:43,720 --> 00:01:45,760
--Euh... bien sûr.
+-Er... claro.
 
 40
 00:01:51,720 --> 00:01:53,680
--Wayzz, détransformation !
+-Wayzz, destransformar!
 
 41
 00:01:54,320 --> 00:01:56,400
--Trixx, détransformation !
+-Trixx, destransformar!
 
 42
 00:01:57,360 --> 00:02:00,600
--Personne ne doit connaître
-vos identités secrètes.
+-Ninguém pode saber
+as identidades secretas de vocês.
 
 43
 00:02:00,840 --> 00:02:03,040
--A part nous, quoi.
--Merci de votre aide.
+-Exceto a gente, né.
+-Obrigada pela ajuda.
 
 44
 00:02:03,240 --> 00:02:05,000
-A la prochaine, les amis.
+Até a próxima, pessoal.
 
 45
 00:02:06,840 --> 00:02:08,560
--Tu ne lui as toujours pas parlé.
+-Você ainda não conversou com ela.
 
 46
 00:02:08,800 --> 00:02:12,560
--C'est dangereux d'aller voir Chloé.
-Tout le monde sait pour Queen Bee.
+-É perigoso ir ver a Chloé.
+Todo mundo sabe sobre a Queen Bee.
 
 47
 00:02:12,760 --> 00:02:14,280
-Donc, le papillon aussi.
+Então, o Hawk Moth também sabe.
 
 48
 00:02:14,520 --> 00:02:16,160
-Il pourrait se servir d'elle.
+Ele poderia se aproveitar dela.
 
 49
 00:02:16,360 --> 00:02:18,320
-Nos identités
-doivent rester secrètes.
+As nossas identidades
+devem continuar em segredo.
 
 50
 00:02:18,560 --> 00:02:22,600
--Les secrets les mieux gardés
-ne sont pas partagés. Je sais.
+-Os segredos mais bem guardados
+são os que não dividimos. Eu sei.
 
 51
 00:02:22,800 --> 00:02:25,640
-Mais Chloé ignore
-qu'elle ne sera plus Queen Bee.
+Mas a Chloé não faz ideia
+de que não vai mais ser a Queen Bee.
 
 52
 00:02:25,880 --> 00:02:28,560
--Oui, mais j'ai pas eu le temps
-de lui dire.
+-Sim, mas eu não tive tempo
+de falar com ela.
 
 53
 00:02:28,760 --> 00:02:29,760
-Ni aujourd'hui.
+Nem hoje.
 
 54
-00:02:30,000 --> 00:02:31,080
-Je vais me détransformer.
+00:02:30,000 --> 00:03:01,080
+Eu vou me destransformar.
 
 55
 00:02:31,320 --> 00:02:32,480
--Ma lady, promets-moi
+-Minha lady, me promete
 
 56
 00:02:32,720 --> 00:02:33,600
-de lui dire.
+que vai falar com ela.
 
 57
 00:02:33,840 --> 00:02:35,240
-Il n'est jamais trop tard.
+Nunca é tarde demais.
 
 58
 00:02:35,480 --> 00:02:36,920
--Ouais. Tu as raison.
+-É. Você tem razão.
 
 59
 00:02:42,680 --> 00:02:45,240
--Chloé Bourgeois
-doit redevenir Queen Bee.
+-A Chloé Bourgeois
+precisa voltar a ser a Queen Bee.
 
 60
 00:02:45,480 --> 00:02:47,160
--Pour en faire votre alliée ?
+-Para transformá-la em sua aliada?
 
 61
 00:02:47,400 --> 00:02:50,760
-Ladybug ne veut plus lui confier
-le miraculous de l'abeille.
+A Ladybug não quer mais confiar
+o Miraculous da abelha a ela.
 
 62
 00:02:51,000 --> 00:02:55,000
-Elle fait preuve de prudence.
--Chloé devra la forcer.
+Ela está sendo prudente.
+-A Chloé vai ter que forçá-la.
 
 63
 00:02:55,240 --> 00:02:58,200
-Si elle venait à perdre
-tout espoir de revoir Ladybug,
+Se ela perder de vez
+as esperanças de rever a Ladybug,
 
 64
 00:02:58,400 --> 00:03:00,880
-elle serait furieuse
-et je l'akumatiserais.
+vai ficar furiosa
+e eu poderei akumatizá-la.
 
 65
 00:03:01,120 --> 00:03:04,920
--Il est temps d'utiliser
-les talents de Lila Rossi, monsieur.
+-Está na hora de usarmos
+os talentos da Lila Rossi, senhor.
 
 66
 00:03:05,160 --> 00:03:07,400
--Oui. Excellente idée, Nathalie.
+-Sim. Ótima ideia, Nathalie.
 
 67
 00:03:11,840 --> 00:03:15,120
--Je tiens à vous remercier
-pour votre confiance, M. Agreste.
+-Eu queria te agradecer
+pela sua confiança, Sr. Agreste.
 
 68
 00:03:15,320 --> 00:03:17,440
-C'est un honneur
-de protéger Adrien.
+É uma honra
+proteger o Adrien.
 
 69
 00:03:17,640 --> 00:03:20,040
-Et une douleur quand je vois
-ceux qui l'entourent.
+E dá uma pena quando eu vejo
+as pessoas ao redor dele.
 
 70
 00:03:20,240 --> 00:03:22,360
-Votre fils mérite mieux que Nino.
+O seu filho merece coisa melhor que o Nino.
 
 71
 00:03:22,600 --> 00:03:24,920
-Sans parler des filles
-qui se battent pour lui.
+Sem falar nas garotas
+que ficam disputando ele.
 
 72
 00:03:25,160 --> 00:03:28,360
-En particulier ces idiotes
-de Marinette et Chloé.
+Especialmente aquelas tontas
+da Marinette e da Chloé.
 
 73
 00:03:28,560 --> 00:03:31,960
-Chloé se croit intéressante
-car elle a été Queen Bee.
+A Chloé se acha o máximo
+só porque foi a Queen Bee.
 
 74
 00:03:32,160 --> 00:03:35,920
-Mais Adrien ne s'y intéresse pas.
-Il est tellement parfait.
+Mas o Adrien não está nem aí para ela.
+Ele é tão perfeito.
 
 75
 00:03:36,160 --> 00:03:38,200
--Chloé ne le laisse pas
-indifférent.
+-A Chloé não o deixa
+indiferente.
 
 76
 00:03:39,720 --> 00:03:41,200
-Ils ont un lien très fort.
+Eles têm uma ligação muito forte.
 
 77
 00:03:41,440 --> 00:03:43,360
-Et personne ne pourra le briser.
+E ninguém vai conseguir quebrar isso.
 
 78
 00:03:43,600 --> 00:03:45,840
-Merci bien, Lila.
-Nous parlerons demain.
+Muito obrigado, Lila.
+Conversamos amanhã.
 
 79
 00:03:46,040 --> 00:03:48,200
--Oui. A demain, M. Agreste.
+-Sim. Até amanhã, Sr. Agreste.
 
 80
 00:03:48,440 --> 00:03:51,360
--Cette fille va nous aider
-à faire aboutir notre plan
+-Essa garota vai nos ajudar
+a concluir o nosso plano
 
 81
 00:03:51,560 --> 00:03:53,160
-en un rien de temps.
+num piscar de olhos.
 
 82
 00:03:53,400 --> 00:03:56,720
--Rena Rouge et Carapace
-manquent tellement de classe.
+-A Rena Rouge e o Carapaça
+não têm estilo nenhum.
 
 83
 00:03:57,440 --> 00:03:58,640
-Je comprends pas pourquoi
+Não entendo por que
 
 84
 00:03:58,880 --> 00:04:00,240
-Ladybug fait appel à eux...
+a Ladybug chama eles...
 
 85
 00:04:00,480 --> 00:04:01,600
--Bonjour, tout le monde.
+-Oi, pessoal.
 
 86
 00:04:01,840 --> 00:04:03,080
--SALUT, LILA !
+-OI, LILA!
 
 87
 00:04:03,560 --> 00:04:06,120
--Ouais. On devrait
-réviser le contrôle.
+-É. A gente devia
+estudar para o teste.
 
 88
 00:04:06,320 --> 00:04:08,760
--Quel contrôle ?
--Le contrôle de science.
+-Que teste?
+-O teste de ciências.
 
 89
 00:04:08,960 --> 00:04:12,000
--Oh !
--Viens. Tu as besoin d'aide.
+-Ah!
+-Vem. Você está precisando de ajuda.
 
 90
 00:04:15,640 --> 00:04:17,560
--Tu parlais de Ladybug.
+-Você estava falando da Ladybug.
 
 91
 00:04:17,800 --> 00:04:21,560
--Je peux savoir qui tu es ?
--Lila est dans notre classe.
+-Dá para saber quem é você?
+-A Lila é da nossa sala.
 
 92
 00:04:21,760 --> 00:04:22,720
--Oh, vraiment ?
+-Ah, sério?
 
 93
 00:04:22,960 --> 00:04:25,520
-Elle m'a pas fait
-une grosse impression.
+Ela não me causou
+uma boa impressão.
 
 94
 00:04:25,720 --> 00:04:27,040
-Rire
+Risada
 
 95
 00:04:27,240 --> 00:04:29,320
--J'adore ton sens de l'humour.
+-Eu adoro o seu senso de humor.
 
 96
 00:04:29,520 --> 00:04:31,280
-Ladybug m'en avait parlé.
+A Ladybug tinha me falado dele.
 
 97
 00:04:31,520 --> 00:04:32,480
--Hein ?
+-Hein?
 
 98
 00:04:32,720 --> 00:04:33,960
--Tu parles à Ladybug ?
+-Você conversa com a Ladybug?
 
 99
 00:04:34,200 --> 00:04:36,600
--Bien sûr.
-On est super copines.
+-Claro.
+Somos superamigas.
 
 100
 00:04:36,800 --> 00:04:39,480
-Un peu comme toi et elle.
-Enfin, à l'époque.
+Tipo você e ela. Bem, na época.
 
 101
 00:04:39,680 --> 00:04:42,640
-Quand je veux lui parler,
-je fais un rituel magique
+Quando quero falar com ela, faço um ritual mágico
 
 102
 00:04:42,840 --> 00:04:43,680
-et elle vient.
+e ela vem correndo.
 
 103
 00:04:43,920 --> 00:04:44,880
--Magique ?
+-Mágico?
 
 104
 00:04:45,120 --> 00:04:47,920
--Magique. Comme ton signal
-pour la faire venir.
+-Mágico. Que nem o seu sinal
+para chamar ela.
 
 105
 00:04:48,120 --> 00:04:49,760
-Sauf que ma technique marche.
+Só que a minha técnica funciona.
 
 106
 00:04:50,000 --> 00:04:51,360
-Grognement de rage
+Grunhido de raiva
 
 107
 00:04:51,600 --> 00:04:52,640
--Chacun son truc.
+-Cada um com seus truques.
 
 108
 00:04:52,880 --> 00:04:54,800
--Tu veux pas savoir
-ce que c'est ?
+-Não quer saber
+como é?
 
 109
-00:04:55,840 --> 00:04:57,200
--Si tu insistes.
+00:05:55,840 --> 00:05:57,200
+-Se você faz tanta questão.
 
 110
 00:05:01,200 --> 00:05:03,440
--Si Ladybug ne te rejoint pas
-après ça,
+-Se a Ladybug não aparecer
+depois disso,
 
 111
 00:05:03,640 --> 00:05:06,160
-tu auras la preuve
-qu'elle ne tient pas à toi.
+você vai ter a prova
+de que ela não se importa com você.
 
 112
 00:05:06,760 --> 00:05:08,720
--Euh, pars devant. Je te rejoins.
+-Er, vai indo na frente. Já te alcanço.
 
 113
 00:05:14,960 --> 00:05:17,560
--Chloé ?
--Que veux-tu, Dupain-Cheng ?
+-Chloé?
+-O que você quer, Dupain-Cheng?
 
 114
 00:05:17,760 --> 00:05:21,400
--Je ne sais pas ce qu'a dit Lila,
-mais méfie-toi de cette fille.
+-Eu não sei o que a Lila te falou, mas cuidado com essa garota.
 
 115
 00:05:21,600 --> 00:05:24,080
-Et je suis sûre que Ladybug
-viendra te voir.
+E eu tenho certeza de que a Ladybug
+vai vir falar com você.
 
 116
 00:05:24,280 --> 00:05:26,560
-Avec ou sans rituel.
--Tu te moques de moi ?
+Com ritual ou sem ritual.
+-Você está tirando onda com a minha cara?
 
 117
 00:05:26,760 --> 00:05:27,600
--Pas du tout !
+-De jeito nenhum!
 
 118
 00:05:27,840 --> 00:05:31,040
--Je peux voir Ladybug
-chaque fois que j'en ai envie !
+-Eu posso ver a Ladybug
+a hora que eu bem entender!
 
 119
 00:05:31,240 --> 00:05:33,680
-Alors, mêle-toi de tes affaires,
-Dupain-Cheng !
+Então, não se mete onde não foi chamada,
+Dupain-Cheng!
 
 120
 00:05:34,480 --> 00:05:36,240
--Tu dois vraiment parler à Chloé.
+-Você precisa mesmo falar com a Chloé.
 
 121
 00:05:36,480 --> 00:05:39,440
--Je viens de le faire.
-T'as vu que ça servait à rien.
+-Eu acabei de tentar.
+Você viu que não adiantou nada.
 
 122
 00:05:39,680 --> 00:05:41,640
--Non. Marinette a parlé à Chloé.
+-Não. A Marinette falou com a Chloé.
 
 123
 00:05:41,840 --> 00:05:43,880
-La seule qu'elle écoute,
-c'est Ladybug.
+A única pessoa que ela escuta
+is a Ladybug.
 
 124
 00:05:44,120 --> 00:05:46,080
--Oh. Oui, c'est vrai.
+-Oh. É, você tem razão.
 
 125
 00:05:46,320 --> 00:05:48,800
--Notre jeune alliée
-s'est montrée à la hauteur.
+-A nossa jovem aliada
+está se saindo muito bem.
 
 126
 00:05:49,040 --> 00:05:52,280
-Le plan se déroule comme prévu.
-Je sens la colère de Chloé.
+O plano está correndo perfeitamente.
+Eu sinto a fúria da Chloé.
 
 127
 00:05:52,520 --> 00:05:54,080
-Tiens-toi prête, Mayura.
+Fique pronta, Mayura.
 
 128
 00:05:54,280 --> 00:05:56,080
--Je le suis toujours, papillon.
+-Eu estou sempre pronta, Hawk Moth.
 
-129
+125
 00:06:00,920 --> 00:06:01,760
--C'est parti.
+-Vamos nessa.
 
 130
 00:06:03,040 --> 00:06:04,560
-Tikki, transforme-moi !
+Tikki, transformar!
 
 131
 00:06:20,480 --> 00:06:21,240
--Sucette !
+-Chupeta!
 
 132
 00:06:21,480 --> 00:06:23,160
-Sucette !
+Chupeta!
 
 133
 00:06:23,400 --> 00:06:26,560
--Non, Auguste. Tu es trop petit
-pour avoir une sucette.
+-Não, Auguste. Você é muito pequeno
+para comer pirulito.
 
 134
 00:06:26,760 --> 00:06:27,560
-Pleurs
+Choro
 
 135
 00:06:27,800 --> 00:06:30,080
@@ -606,122 +603,122 @@ Pleurs
 
 136
 00:06:32,120 --> 00:06:33,960
--Vole, bel amok.
+-Voe, belo amok.
 
 137
 00:06:35,360 --> 00:06:37,000
-Et donne corps
+E dê forma
 
 138
 00:06:37,240 --> 00:06:38,440
-à cette frustration.
+a essa frustração.
 
 139
 00:06:44,240 --> 00:06:45,120
--Sucette !
+-Chupeta!
 
 140
 00:06:45,360 --> 00:06:47,000
-Rire
+Risada
 
 141
 00:06:51,360 --> 00:06:52,480
--Le sentimonstre !
+-O sentimonstre!
 
 142
 00:06:52,680 --> 00:06:55,480
-Désolée, Chloé.
-Tu vas attendre encore un peu.
+Sinto muito, Chloé.
+Você vai ter que esperar mais um pouco.
 
 143
 00:06:58,360 --> 00:07:00,080
--Cette fois, c'est la bonne !
+-Dessa vez vai dar certo!
 
 144
 00:07:00,320 --> 00:07:02,360
-Poussez-vous !
+Saiam da frente!
 
 145
 00:07:02,560 --> 00:07:03,760
--OH !
+-OH!
 
 146
 00:07:07,200 --> 00:07:09,280
--Merci. Je suis en sécurité.
+-Obrigado. Eu estou em segurança.
 
 147
 00:07:10,440 --> 00:07:12,720
--Je suis d'accord.
-On est en sécurité.
+-Concordo.
+Estamos em segurança.
 
 148
 00:07:12,920 --> 00:07:16,320
-On ferait mieux d'attendre
-qu'il y ait un monstre camembert.
+Seria melhor esperarmos
+aparecer um monstro de camembert.
 
 149
 00:07:16,520 --> 00:07:19,240
--Si on en croise un,
-je t'en garderai une part.
+-Se a gente der de cara com um,
+eu guardo um pedaço para você.
 
 150
 00:07:19,440 --> 00:07:21,000
-Plagg, transforme-moi !
+Plagg, transformar!
 
 151
 00:07:37,560 --> 00:07:38,320
-Attention.
+Cuidado.
 
 152
 00:07:38,560 --> 00:07:40,600
-Les sucettes,
-c'est pas bon pour les dents.
+Pirulito não faz bem
+para os dentes.
 
 153
 00:07:42,760 --> 00:07:45,160
--Je ne vois pas d'akumatisé.
+-Não estou vendo nenhum akumatizado.
 
 154
 00:07:45,400 --> 00:07:47,320
-Ce sentimonstre est indépendant.
+Esse sentimonstre está agindo sozinho.
 
 155
 00:07:50,120 --> 00:07:52,640
--Allez, viens me chercher.
-*-J'ai de l'info.
+-Vamos, vem me procurar.
+*-Temos novidades.
 
 156
 00:07:52,840 --> 00:07:55,960
-Une bagarre s'engage entre Ladybug
-et le monstre en sucette.
+Uma luta começa entre a Ladybug
+e o monstro de pirulito.
 
 157
 00:07:56,160 --> 00:07:59,640
--Si Ladybug ne vient pas,
-on peut jouer à se déguiser.
+-Se a Ladybug não vier,
+a gente pode brincar de se fantasiar.
 
 158
 00:07:59,840 --> 00:08:01,800
--C'est ça.
-Va chercher les costumes.
+-Isso aí.
+Vai lá buscar as fantasias.
 
 159
 00:08:02,080 --> 00:08:03,280
-Mais viens !
+Mas vem logo!
 
 160
 00:08:03,520 --> 00:08:06,920
--Je fais un rituel magique
-et elle apparaît, tout de suite.
+-Eu faço um ritual mágico
+e ela aparece na mesma hora.
 
 161
 00:08:07,120 --> 00:08:08,760
-Tu veux savoir ce que c'est ?
+Quer saber como é?
 
 162
 00:08:08,960 --> 00:08:12,200
--Non. Je serais ridicule.
-Totalement...
+-Não. Eu ficaria ridícula.
+Totalmente...
 
 163
 00:08:14,080 --> 00:08:15,080
@@ -737,175 +734,175 @@ Ladybug
 
 166
 00:08:21,840 --> 00:08:24,440
--Mademoiselle semblait contrariée,
-tout à l'heure.
+-A senhorita parecia irritada
+ainda há pouco.
 
 167
 00:08:25,560 --> 00:08:27,440
--Hors de ma vue, Jean-Pascal !
+-Suma da minha frente, Jean-Pascal!
 
 168
 00:08:28,760 --> 00:08:31,560
--Mademoiselle souhaite
-qu'on la laisse en paix.
+-A senhorita quer
+que a deixem em paz.
 
 169
 00:08:51,680 --> 00:08:52,560
--Je t'ai eu.
+-Te peguei.
 
 170
 00:08:53,720 --> 00:08:55,520
-Bye bye, petite plume.
+Tchau, tchau, pluminha.
 
 171
 00:08:56,240 --> 00:08:57,920
-*Miraculous Ladybug !
+*Miraculous Ladybug!
 
 172
 00:08:59,800 --> 00:09:01,960
--Mais j'ai fait le rituel magique !
+-Mas eu fiz o ritual mágico!
 
 173
 00:09:02,200 --> 00:09:04,320
-Ladybug ne m'a
-quand même pas oubliée.
+A Ladybug não se esqueceria
+de mim desse jeito.
 
 174
 00:09:05,280 --> 00:09:08,440
-C'est cette petite prétentieuse
-qui s'est moquée de moi.
+Foi aquela garotinha insolente
+que tirou sarro de mim.
 
 175
 00:09:12,880 --> 00:09:14,920
--Oui !
-Ce sentiment de rage qui monte.
+-Isso!
+Esse sentimento de fúria que cresce.
 
 176
 00:09:15,160 --> 00:09:17,320
-Mon plan se déroule à merveille.
+O meu plano está correndo perfeitamente.
 
 177
 00:09:23,360 --> 00:09:25,480
-Vole, mon terrible akuma.
+Voe, meu terrível akuma.
 
 178
-00:09:25,720 --> 00:09:27,680
-Et va noircir son coeur.
+00:09:27,720 --> 00:09:27,680
+E vá escurecer o coração dela.
 
 179
 00:09:30,680 --> 00:09:32,360
--C'est pas grave.
-On peut toujours
+-Não tem problema.
+A gente ainda pode
 
 180
 00:09:32,600 --> 00:09:34,320
-jouer à Ladybug.
--Jouer ?
+brincar de Ladybug.
+-Brincar?
 
 181
 00:09:34,520 --> 00:09:35,320
-Avec toi ?
+Com você?
 
 182
 00:09:35,560 --> 00:09:37,920
-Tu n'as même pas de pouvoir.
+Você não tem nem superpoderes.
 
 183
 00:09:38,160 --> 00:09:38,920
-Tu sers à rien.
+Você não serve para nada.
 
 184
-00:09:39,160 --> 00:09:40,440
-Je suis une superhéroïne.
+00:09:39,160 --> 00:04:40,440
+Eu sou uma super-heroína.
 
 185
 00:09:40,680 --> 00:09:43,680
-Je suis Queen Bee.
-On a rien en commun, toutes les 2 !
+Eu sou a Queen Bee.
+Nós duas não temos nada a ver!
 
 186
 00:09:43,880 --> 00:09:44,880
-Va-t'en !
+Suma daqui!
 
 187
 00:09:48,360 --> 00:09:50,120
--Ma chère Chloé Bourgeois.
+-Minha querida Chloé Bourgeois.
 
 188
 00:09:50,320 --> 00:09:51,560
-Je suis le papillon.
+Eu sou o Hawk Moth.
 
 189
 00:09:51,760 --> 00:09:54,760
-Ladybug a décidé de te priver
-de tes super pouvoirs !
+A Ladybug resolveu te deixar sem
+os seus superpoderes!
 
 190
 00:09:54,960 --> 00:09:56,160
-Je vais te les rendre.
+Eu vou devolvê-los para você.
 
 191
 00:09:56,400 --> 00:09:59,200
-Rejoins-moi
-et nous récupèrerons le miraculous
+Junte-se a mim
+e nós vamos recuperar o Miraculous
 
 192
 00:09:59,440 --> 00:10:01,080
-de l'abeille, ensemble.
+da abelha, juntos.
 
 193
 00:10:01,320 --> 00:10:03,200
-Et tes pouvoirs
-seront illimités.
+E os seus poderes
+serão ilimitados.
 
 194
 00:10:03,400 --> 00:10:05,920
--Non, papillon.
-Je suis... Je suis...
+-Não, Hawk Moth.
+Eu sou... Eu sou...
 
 195
 00:10:06,120 --> 00:10:07,240
-Queen Bee.
+a Queen Bee.
 
 196
 00:10:07,440 --> 00:10:10,240
-Ladybug viendra
-quand elle aura besoin de moi.
+A Ladybug vai vir
+quando ela precisar de mim.
 
 197
 00:10:10,440 --> 00:10:12,040
-Je te rejoindrai jamais !
+Eu nunca vou me aliar a você!
 
 198
-00:10:16,960 --> 00:10:19,840
--Chloé Bourgeois
-est véritablement unique.
+00:16:16,960 --> 00:16:19,840
+-A Chloé Bourgeois
+é realmente sem igual.
 
 199
-00:10:20,080 --> 00:10:22,520
-Mais je sens une émotion négative
-non loin d'elle.
+00:16:20,080 --> 00:16:22,520
+Mas eu sinto uma emoção negativa
+bem perto dela.
 
 200
-00:10:22,760 --> 00:10:24,920
-La cible idéale
-pour arriver à nos fins.
+00:16:22,760 --> 00:16:24,920
+O alvo perfeito
+para alcançarmos o nosso objetivo.
 
 201
-00:10:25,120 --> 00:10:25,880
-Suis-la,
+00:16:25,120 --> 00:16:25,880
+Siga ela,
 
 202
-00:10:26,120 --> 00:10:27,440
-maléfique akuma.
+00:16:26,120 --> 00:16:27,440
+akuma maligno.
 
 203
 00:10:30,160 --> 00:10:31,680
-Rires
+Risadas
 
 204
 00:10:31,920 --> 00:10:33,160
--Ca chatouille. Arrête !
+-Isso dá cócegas. Para!
 
 205
 00:10:42,880 --> 00:10:44,240
@@ -913,454 +910,451 @@ Rires
 
 206
 00:10:44,440 --> 00:10:47,240
-Ton amie t'a rejetée
-car elle ne veut qu'une chose.
+A sua amiga te rejeitou
+porque ela só quer uma coisa.
 
 207
 00:10:47,440 --> 00:10:49,080
-Les pouvoirs des superhéros.
+Os poderes dos super-heróis.
 
 208
 00:10:49,280 --> 00:10:52,160
-Je te donne maintenant,
-le pouvoir de les leur voler
+Eu te dou agora
+o poder de roubá-los deles
 
 209
 00:10:52,360 --> 00:10:54,240
-et de te réconcilier
-avec ton amie.
+e de fazer as pazes
+com a sua amiga.
 
 210
 00:10:54,440 --> 00:10:56,360
-En échange,
-tu devras me rapporter
+Em troca,
+você terá que me trazer
 
 211
 00:10:56,560 --> 00:10:58,240
-les miraculous
-de Ladybug et Chat Noir.
+os Miraculous
+da Ladybug e do Chat Noir.
 
 212
 00:10:58,480 --> 00:11:00,320
--Merci beaucoup, papillon.
+-Muito obrigada, Hawk Moth.
 
 213
 00:11:00,520 --> 00:11:03,280
-Chloé et moi allons enfin
-former une vraie équipe.
-
-214
-00:11:05,920 --> 00:11:07,040
--BIEN JOUE !
+A Chloé e eu vamos finalmente
+formar uma equipe de verdade.
 
 215
-00:11:08,120 --> 00:11:08,960
--T'es en retard.
+00:11:05,920 --> 00:11:07,040
+-BEM JOGADO!
 
 216
-00:11:09,200 --> 00:11:11,960
-La bagarre était il y a 5 mn.
--"Il y a 5 mn" !
+00:11:08,120 --> 00:11:08,960
+-Você está atrasado.
 
 217
-00:11:12,160 --> 00:11:14,040
-Tu te trompes.
-C'est maintenant !
+00:11:09,200 --> 00:11:11,960
+A briga acabou faz 5 minutos.
+-"Faz 5 minutos"!
 
 218
-00:11:14,240 --> 00:11:17,240
-Tu as laissé Chloé
-une fois de trop, Ladybug.
+00:11:12,160 --> 00:11:14,040
+Você está enganado.
+É agora!
 
 219
-00:11:17,480 --> 00:11:19,480
--J'en déduis
-que tu lui as pas parlé.
+00:11:14,240 --> 00:11:17,240
+Você deixou a Chloé de lado
+vezes demais, Ladybug.
 
 220
-00:11:19,680 --> 00:11:20,880
--Je voulais le faire.
+00:11:17,480 --> 00:11:19,480
+-Disso eu deduzo
+que você não falou com ela.
 
 221
-00:11:21,120 --> 00:11:24,560
--"Je voulais le faire."
-Ridicule ! Totalement ridicule !
+00:11:19,680 --> 00:11:20,880
+-Eu ia fazer isso.
 
 222
-00:11:24,800 --> 00:11:26,000
-Bips
+00:11:21,120 --> 00:11:24,560
+-"Eu ia fazer isso."
+Ridículo! Totalmente ridículo!
 
 223
-00:11:26,200 --> 00:11:28,360
--Je vais bientôt me détransformer.
+00:11:24,800 --> 00:11:26,000
+Apitos do anel
 
 224
-00:11:28,600 --> 00:11:30,120
--"Oh ! Aide-moi, Chat Noir."
+00:11:26,200 --> 00:11:28,360
+-Eu vou me destransformar logo, logo.
 
 225
-00:11:30,360 --> 00:11:33,160
--Je parle pas comme ça.
-Arrête de m'imiter !
+00:11:28,600 --> 00:11:30,120
+-"Oh! Me ajuda, Chat Noir."
 
 226
-00:11:40,800 --> 00:11:42,480
--Lucky charm!
+00:11:30,360 --> 00:11:33,160
+-Eu não falo desse jeito.
+Para de me imitar!
 
 227
-00:11:48,160 --> 00:11:51,280
--Qu'est-ce qu'elle a fait ?
--Elle a pris tes pouvoirs.
+00:11:40,800 --> 00:11:42,480
+-Talismã!
 
 228
-00:11:51,480 --> 00:11:52,840
-Va chercher des renforts !
+00:11:48,160 --> 00:11:51,280
+-O que ela fez?
+-Ela roubou os seus poderes.
 
 229
-00:11:53,480 --> 00:11:55,080
--Cataclysme !
+00:11:51,480 --> 00:11:52,840
+Vai buscar reforço!
 
 230
-00:12:06,000 --> 00:12:07,000
-Hein ?
+00:11:53,480 --> 00:11:55,080
+-Cataclismo!
 
 231
-00:12:07,480 --> 00:12:08,960
--Comment tu dis déjà ?
-Ah !
+00:12:06,000 --> 00:12:07,000
+Ué?
 
 232
-00:12:09,160 --> 00:12:10,360
-Cataclysme !
+00:12:07,480 --> 00:12:08,960
+-Como é que você diz mesmo?
+Ah!
 
 233
-00:12:12,720 --> 00:12:15,000
--Wouh !
-Chloé va adorer nos pouvoirs.
+00:12:09,160 --> 00:12:10,360
+Cataclismo!
 
 234
-00:12:15,200 --> 00:12:16,200
--J'en suis certain,
+00:12:12,720 --> 00:12:15,000
+-Uau!
+A Chloé vai adorar os nossos poderes.
 
 235
+00:12:15,200 --> 00:12:16,200
+-Tenho certeza disso,
+
+236
 00:12:16,440 --> 00:12:17,440
 Miraculeur.
 
-236
-00:12:17,640 --> 00:12:19,000
-Va vite la rejoindre.
-
 237
-00:12:25,800 --> 00:12:27,760
--Plagg, détransformation.
+00:12:17,640 --> 00:12:19,000
+Vá logo se encontrar com ela.
 
 238
-00:12:28,520 --> 00:12:31,200
--Alors, c'est ce que ça fait,
-un cataclysme ?
+00:12:25,800 --> 00:12:27,760
+-Plagg, destransformar.
 
 239
-00:12:31,400 --> 00:12:35,200
-Je ne dirai plus que les dinosaures
-étaient des petites natures.
+00:12:28,520 --> 00:12:31,200
+-Então esse é o efeito
+de um Cataclismo?
 
 240
-00:12:35,400 --> 00:12:36,880
--Plagg, le camembert.
+00:12:31,400 --> 00:12:35,200
+Eu nunca mais vou dizer que os dinossauros
+eram fracotes.
 
 241
-00:12:37,120 --> 00:12:39,480
-On va se reposer
-en attendant Ladybug.
+00:12:35,400 --> 00:12:36,880
+-Plagg, o camembert.
 
 242
+00:12:37,120 --> 00:12:39,480
+Vamos descansar
+enquanto esperamos a Ladybug.
+
+243
 00:12:41,480 --> 00:12:42,920
 -Marinette Dupain-Cheng,
 
-243
-00:12:43,160 --> 00:12:45,600
-choisis un allié de confiance
-pour t'aider.
-
 244
-00:12:45,800 --> 00:12:49,280
-Une fois la mission achevée,
-tu me ramèneras le miraculous.
+00:12:43,160 --> 00:12:45,600
+escolha um aliado de confiança
+para te ajudar.
 
 245
-00:12:51,520 --> 00:12:53,960
--Miraculeur nous a volé
-nos pouvoirs.
-
-246
-00:12:54,200 --> 00:12:55,800
-On a besoin
-de tout le monde.
+00:12:45,800 --> 00:12:49,280
+Assim que a missão terminar,
+você me trará o Miraculous de volta.
 
 247
-00:12:56,040 --> 00:12:57,600
--Même de Chloé ?
+00:12:51,520 --> 00:12:53,960
+-A Miraculeur roubou
+os nossos poderes.
 
 248
-00:12:57,840 --> 00:13:01,000
--C'est sa meilleure amie
-qui a été akumatisée.
+00:12:54,200 --> 00:12:55,800
+Vamos precisar
+de todo mundo.
 
 249
-00:13:01,240 --> 00:13:02,680
-Chloé peut nous aider.
+00:12:56,040 --> 00:12:57,600
+-Até da Chloé?
 
 250
-00:13:03,760 --> 00:13:05,600
--Tu es sûre ?
--Ca sera peut-être
+00:12:57,840 --> 00:13:01,000
+-Foi a melhor amiga dela
+que acabou akumatizada.
 
 251
-00:13:05,840 --> 00:13:07,200
-sa dernière mission,
+00:13:01,240 --> 00:13:02,680
+A Chloé pode nos ajudar.
 
 252
-00:13:07,440 --> 00:13:08,840
-mais on a besoin d'elle.
+00:13:03,760 --> 00:13:05,600
+-Tem certeza?
+-Talvez acabe sendo
 
 253
-00:13:10,720 --> 00:13:11,760
-Chat Noir, ça va ?
+00:13:05,840 --> 00:13:07,200
+a última missão dela,
 
 254
-00:13:12,000 --> 00:13:15,400
--C'est rien. J'ai juste pris
-un cataclysme dans les côtes.
+00:13:07,440 --> 00:13:08,840
+mas precisamos dela.
 
 255
-00:13:15,640 --> 00:13:18,880
--Je te promets
-qu'on va récupérer nos pouvoirs.
+00:13:10,720 --> 00:13:11,760
+Chat Noir, você está bem?
 
 256
+00:13:12,000 --> 00:13:15,400
+-Não foi nada. Só levei
+um Cataclismo nas costelas.
+
+257
+00:13:15,640 --> 00:13:18,880
+-Eu te prometo
+que vamos recuperar os nossos poderes.
+
+258
 00:13:19,120 --> 00:13:20,880
--J'ai hâte qu'on en soit là.
+-Não vejo a hora disso acontecer.
 
 257
 00:13:24,760 --> 00:13:26,200
-*-Toujours aucune nouvelle
+*-Até agora nenhuma notícia
 
 258
 00:13:26,440 --> 00:13:28,640
-de Ladybug et Chat Noir.
--Chloé ?
+da Ladybug e do Chat Noir.
+-Chloé?
 
 259
 00:13:28,840 --> 00:13:31,440
-J'ai des super pouvoirs.
-On va pouvoir jouer.
+Eu consegui superpoderes.
+Agora vamos poder brincar.
 
 260
 00:13:31,680 --> 00:13:32,640
--Sabrina ?
+-Sabrina?
 
 261
 00:13:32,880 --> 00:13:34,080
--Je suis Miraculeur.
+-Eu sou a Miraculeur.
 
 262
 00:13:34,280 --> 00:13:36,960
-J'ai volé les pouvoirs
-de Ladybug et Chat Noir.
+Eu roubei os poderes
+da Ladybug e do Chat Noir.
 
 263
 00:13:37,160 --> 00:13:40,600
-Tu pourrais être Ladybug
-et moi, Chat Noir pour de vrai.
+Você poderia ser a Ladybug
+e eu, o Chat Noir de verdade.
 
 264
 00:13:40,840 --> 00:13:42,240
-Notre rêve devient réalité.
+O nosso sonho virou realidade.
 
 265
 00:13:42,480 --> 00:13:45,080
--Pas comme ça !
-Tu ne comprends rien.
+-Desse jeito não!
+Você não entende nada.
 
 266
 00:13:45,320 --> 00:13:48,440
-Je ne veux pas être Ladybug.
-Il n'y en a qu'une seule.
+Eu não quero ser a Ladybug.
+Só existe uma.
 
 267
 00:13:48,640 --> 00:13:50,960
-Moi, je suis...
--Queen Bee.
+Eu sou...
+-A Queen Bee.
 
 268
 00:13:54,520 --> 00:13:56,680
--Ah ! Quand même.
-C'est pas trop tôt !
+-Ah! Finalmente.
+Já era sem tempo!
 
 269
 00:13:56,920 --> 00:13:58,160
--Dans les temps.
+-Bem na hora.
 
 270
 00:14:00,800 --> 00:14:01,560
--Hé !
+-Ei!
 
 271
 00:14:02,320 --> 00:14:03,080
--Qui vous êtes ?
+-Quem são vocês?
 
 272
 00:14:03,320 --> 00:14:05,800
--Je suis Mayura.
-Fais équipe avec nous, Chloé.
+-Eu sou a Mayura.
+Faça equipe com a gente, Chloé.
 
 273
 00:14:06,040 --> 00:14:07,680
-Ton rêve deviendra réalité.
+O seu sonho vai virar realidade.
 
 274
 00:14:07,920 --> 00:14:08,880
--T'inquiète pas.
+-Não esquenta.
 
 275
 00:14:09,120 --> 00:14:12,120
-Elle est avec papillon.
--Ca m'a l'air d'un cauchemar.
+Ela está mancomunada com o Hawk Moth.
+-Isso está com cara de pesadelo.
 
 276
 00:14:12,360 --> 00:14:14,200
--C'est toi qui vas vivre
-un cauchemar.
+-Quem vai viver um pesadelo é você.
 
 277
 00:14:15,800 --> 00:14:16,640
-Rires
+Risadas
 
 278
 00:14:16,840 --> 00:14:18,640
--On s'en sort de mieux en mieux.
+-Estamos ficando cada vez melhores nisso.
 
 279
 00:14:18,880 --> 00:14:20,760
--Concentre-toi, petite tortue.
+-Fica esperto, tartaruguinha.
 
 280
 00:14:20,960 --> 00:14:21,960
-On siffle.
+Assobio
 
 281
 00:14:27,080 --> 00:14:28,200
--Lucky charm!
+-Talismã!
 
 282
 00:14:28,400 --> 00:14:29,920
-Cataclysme !
+Cataclismo!
 
 283
 00:14:32,280 --> 00:14:33,560
-Rire démoniaque
+Risada demoníaca
 
 284
 00:14:33,800 --> 00:14:36,800
--On n'en serait pas là
-si vous étiez venus me chercher.
+-A gente não estaria nessa situação
+se vocês tivessem vindo me chamar.
 
 285
 00:14:37,040 --> 00:14:39,600
--Merci, Chloé.
-Ca m'aide beaucoup.
+-Obrigada, Chloé.
+Isso ajuda bastante.
 
 286
 00:14:39,840 --> 00:14:42,160
--Si j'avais eu
-mon miraculous de l'abeille,
+-Se eu estivesse com
+o meu Miraculous da abelha,
 
 287
 00:14:42,360 --> 00:14:45,400
-elles seraient déjà au tapis,
-nos 2 super vilaines.
+essas duas supervilãs
+já estariam no chão.
 
-288
+286
 00:14:46,560 --> 00:14:47,840
-Ah, bah quand même.
+Ah, até que enfim.
 
-289
+287
 00:14:48,080 --> 00:14:49,600
--J'ai un plan. Ecoute bien.
+-Eu tenho um plano. Escuta só.
 
 290
 00:14:50,320 --> 00:14:52,280
--Arrête de bouger,
-chat de gouttière.
+-Para de se mexer,
+gato de rua.
 
 291
 00:14:52,520 --> 00:14:53,960
-Minou, minou, minou !
+Bichano, bichano, bichano!
 
 292
 00:14:54,200 --> 00:14:55,240
-Approche !
+Vem cá!
 
 293
 00:14:55,480 --> 00:14:56,240
--Sabrina !
+-Sabrina!
 
 294
 00:14:56,480 --> 00:14:58,040
-J'ai changé d'avis.
+Mudei de ideia.
 
 295
 00:14:58,280 --> 00:14:59,840
-Je veux les pouvoirs
-de Ladybug.
+Eu quero os poderes da Ladybug.
 
 296
 00:15:00,080 --> 00:15:02,680
-Ils auraient dû venir me chercher,
-mais non.
+Eles deviam ter vindo me buscar, mas não vieram.
 
 297
 00:15:02,920 --> 00:15:05,680
-Alors, je préfère
-jouer avec toi, à la place.
+Então, eu prefiro
+brincar com você no lugar deles.
 
 298
 00:15:05,920 --> 00:15:08,040
--Tout se déroule selon le plan.
+-Tudo está saindo conforme o plano.
 
 299
 00:15:08,280 --> 00:15:09,720
-Mayura, prends le miraculous
+Mayura, pegue o Miraculous
 
 300
 00:15:10,920 --> 00:15:13,200
-de Chat Noir.
--Ce que je suis contente !
+do Chat Noir.
+-Estou tão feliz!
 
 301
 00:15:13,400 --> 00:15:15,320
-Voilà le pouvoir de Ladybug.
+Olha só o poder da Ladybug.
 
 302
 00:15:19,280 --> 00:15:20,040
--Merci.
+-Obrigada.
 
 303
 00:15:20,280 --> 00:15:21,960
-J'en avais bien besoin.
+Eu estava precisando muito disso.
 
 304
 00:15:22,880 --> 00:15:26,440
--Tu me confonds avec une illusion
-et tu prétends être mon amie ?
+-Você me confunde com uma ilusão
+e ainda diz que é minha amiga?
 
 305
 00:15:29,280 --> 00:15:30,560
--Je ne te laisserai pas faire.
+-Eu não vou deixar você fazer isso.
 
 306
 00:15:30,800 --> 00:15:31,760
--Cataclysme !
+-Cataclismo!
 
 307
 00:15:41,600 --> 00:15:42,640
@@ -1368,408 +1362,405 @@ et tu prétends être mon amie ?
 
 308
 00:15:42,880 --> 00:15:45,640
--Désolée, ma lady.
-J'ai lutté le plus possible.
+-Desculpa, minha lady.
+Eu aguentei o máximo que pude.
 
 309
 00:15:45,880 --> 00:15:47,040
--Lucky charm!
+-Talismã!
 
 310
 00:15:47,280 --> 00:15:48,440
-Cataclysme !
+Cataclismo!
 
 311
 00:15:59,480 --> 00:16:00,320
-Protection !
+Casco protetor!
 
 312
 00:16:05,440 --> 00:16:06,440
--Allez.
+-Vamos.
 
 313
 00:16:14,800 --> 00:16:16,000
--Reviens, Mayura.
+-Volte aqui, Mayura.
 
 314
 00:16:16,240 --> 00:16:17,680
-Tu as le miraculous
-de l'abeille.
+Você está com o Miraculous
+da abelha.
 
 315
 00:16:17,920 --> 00:16:20,600
-Miraculeur prendra
-ceux de Ladybug et Chat Noir.
+A Miraculeur vai pegar
+os da Ladybug e do Chat Noir.
 
 316
 00:16:23,360 --> 00:16:24,360
--Je m'en occupe.
+-Eu cuido disso.
 
 317
 00:16:27,320 --> 00:16:28,280
--T'as rien perdu ?
+-Você não perdeu nada?
 
 318
 00:16:29,760 --> 00:16:30,640
-Chloé !
+Chloé!
 
 319
 00:16:31,520 --> 00:16:34,040
-Suis Mayura jusqu'au papillon.
--Tu verras.
+Siga a Mayura até o Hawk Moth.
+-Você vai ver só.
 
 320
 00:16:34,960 --> 00:16:36,880
-Pollen, transforme-moi !
+Pollen, transformar!
 
 321
 00:16:55,960 --> 00:16:58,960
-Où est-ce qu'elle est ?
-Ladybug va me trouver nulle !
+Para onde ela foi?
+A Ladybug vai me achar um fracasso!
 
 322
 00:16:59,680 --> 00:17:01,920
-Je vais me débarrasser de toi !
+Eu vou acabar com você!
 
 323
 00:17:08,080 --> 00:17:09,200
--J'ai une question.
+-Eu tenho uma pergunta.
 
 324
 00:17:09,440 --> 00:17:11,760
-Ca te plaît d'être l'esclave
-de Ladybug ?
+Você gosta de ser a capacho da Ladybug?
 
 325
 00:17:11,960 --> 00:17:14,080
-D'attendre
-qu'elle te prête un miraculous ?
+De ficar esperando
+ela te emprestar um Miraculous?
 
 326
 00:17:14,280 --> 00:17:16,400
-Tu ne voudrais pas
-un pouvoir illimité ?
+Você não preferia ter
+poderes ilimitados?
 
 327
 00:17:16,640 --> 00:17:17,640
--Ca fait 3 questions.
+-Isso foram três perguntas.
 
 328
 00:17:17,880 --> 00:17:19,440
--Si tu nous rejoins, Chloé,
+-Se você se unir a nós, Chloé,
 
 329
 00:17:19,640 --> 00:17:21,880
-tu te transformeras en Queen Bee
-à volonté.
+vai poder se transformar em Queen Bee quando quiser.
 
 330
 00:17:22,440 --> 00:17:24,120
--Ladybug m'a donné
-une 2e chance.
+-A Ladybug me deu
+uma segunda chance.
 
 331
 00:17:24,320 --> 00:17:26,080
-Alors, je vais faire
-la même chose.
+Então, eu vou fazer
+a mesma coisa.
 
 332
 00:17:26,320 --> 00:17:27,280
--Tu le regretteras.
+-Você vai se arrepender.
 
 333
 00:17:27,520 --> 00:17:30,160
--C'est toi qui vas regretter
-de m'avoir sous-estimée.
+-É você quem vai se arrepender
+de ter me subestimado.
 
 334
 00:17:30,400 --> 00:17:32,560
-Qu'est-ce qui se passe
-si j'enlève ça ?
+O que acontece
+se eu tirar isso daqui?
 
 335
 00:17:36,320 --> 00:17:38,920
-Oh, non.
-Où est-elle passée, cette fois ?
+Ah, não.
+Para onde ela foi parar dessa vez?
 
 336
 00:17:39,520 --> 00:17:40,840
-Oh !
+Oh!
 
 337
 00:17:41,080 --> 00:17:42,480
--Mirage !
+-Miragem!
 
 338
 00:17:52,360 --> 00:17:53,600
-Cataclysme !
+Cataclismo!
 
 339
 00:17:58,040 --> 00:17:59,560
-Protection !
+Casco protetor!
 
 340
 00:17:59,800 --> 00:18:01,720
-Bonne chance
-pour me prendre mon akuma.
+Boa sorte
+tentando pegar o meu akuma.
 
 341
 00:18:03,120 --> 00:18:04,240
--Lucky charm!
+-Talismã!
 
 342
 00:18:09,800 --> 00:18:10,560
-Un oreiller ?
+Um travesseiro?
 
 343
 00:18:16,720 --> 00:18:18,760
--Vous êtes nombreux,
-mais bêtes.
+-Vocês são muitos,
+mas são burros.
 
 344
 00:18:19,000 --> 00:18:20,600
--Qu'est-ce que je dois
-en faire ?
+-O que eu devo
+fazer com isso?
 
 345
 00:18:26,560 --> 00:18:27,600
--Les chatouilles !
+-As cócegas!
 
 346
 00:18:27,840 --> 00:18:28,920
--Mais bien sûr !
+-Mas é claro!
 
 347
 00:18:29,160 --> 00:18:30,960
--Je croyais qu'on était amies.
+-Eu pensei que fôssemos amigas.
 
 348
 00:18:31,200 --> 00:18:32,560
--Tu t'es trompée.
-Mon amie,
+-Você se enganou.
+A minha amiga
 
 349
 00:18:32,800 --> 00:18:34,520
-c'est Sabrina. Pas Miraculeur.
+é a Sabrina. Não a Miraculeur.
 
 350
 00:18:36,240 --> 00:18:38,960
-Rire
--Oh, ça chatouille !
+Risada
+-Oh, isso dá cócegas!
 
 351
 00:18:39,200 --> 00:18:40,120
--On recommence ?
+-Quer de novo?
 
 352
 00:18:40,360 --> 00:18:41,280
--Non ! Non !
+-Não! Não!
 
 353
 00:18:42,400 --> 00:18:43,240
-Protection !
+Casco protetor!
 
 354
 00:18:48,920 --> 00:18:51,160
--Tu as assez fait de mal,
-petit akuma.
+-Você já causou problemas demais,
+pequeno akuma.
 
 355
 00:18:55,080 --> 00:18:56,240
-Je te libère du mal !
+Eu te liberto do mal!
 
 356
 00:19:00,320 --> 00:19:01,200
-Je t'ai eu.
+Te peguei.
 
 357
 00:19:02,080 --> 00:19:03,800
-Bye bye, petit papillon.
+Tchau, tchau, borboletinha.
 
 358
 00:19:04,680 --> 00:19:06,800
-Miraculous Ladybug !
+Miraculous Ladybug!
 
 359
 00:19:14,240 --> 00:19:16,800
--Ladybug, Mayura
-a réussi à m'échapper.
+-Ladybug, a Mayura
+conseguiu escapar de mim.
 
 360
 00:19:17,000 --> 00:19:19,160
-Je suis désolée.
-Fatalement désolée.
+Sinto muito. Infelizmente, sinto muito.
 
 361
 00:19:19,360 --> 00:19:22,400
--C'est pas grave, Queen Bee.
-On l'aura, la prochaine fois.
+-Não tem problema, Queen Bee.
+Pegamos ela na próxima vez.
 
 362
 00:19:24,760 --> 00:19:27,040
--Si tu étais venue
-me le donner plus tôt,
+-Se você tivesse vindo
+me dar ele antes,
 
 363
 00:19:27,240 --> 00:19:28,520
-on aurait eu le papillon.
+teríamos pego o Hawk Moth.
 
 364
 00:19:28,760 --> 00:19:32,320
--Je suis désolée. Ca fait longtemps
-que j'aurais dû te le dire.
+-Me desculpa. Eu já devia
+ter te falado isso há muito tempo.
 
 365
 00:19:32,520 --> 00:19:35,520
-Je ne pourrai peut-être jamais
-te redonner ce miraculous.
+Talvez eu nunca mais possa
+te devolver este Miraculous.
 
 366
 00:19:35,760 --> 00:19:38,760
--Mais j'ai toujours fait
-ce que tu me demandais !
+-Mas eu sempre fiz
+tudo o que você me pediu!
 
 367
 00:19:39,000 --> 00:19:41,560
--Oui, mais je le fais
-pour ta sécurité.
+-Sim, mas eu faço isso
+pela sua própria segurança.
 
 368
 00:19:41,760 --> 00:19:43,040
-C'est trop dangereux
+É perigoso demais
 
 369
 00:19:43,240 --> 00:19:45,960
-parce que le papillon sait
-que tu es Queen Bee.
+porque o Hawk Moth sabe
+que você é a Queen Bee.
 
 370
 00:19:47,040 --> 00:19:48,920
--Détransformation.
+-Destransformar.
 
 371
 00:19:51,520 --> 00:19:54,880
-J'ai compris, mais je suis sûre
-que tu auras besoin de moi.
+Eu entendi, mas tenho certeza de que
+você ainda vai precisar de mim.
 
 372
 00:19:55,080 --> 00:19:56,920
-Un jour,
-je serai à nouveau Queen Bee.
+Um dia,
+eu vou ser a Queen Bee de novo.
 
 373
 00:19:57,160 --> 00:19:59,240
-Je serai toujours Queen Bee.
+Eu vou ser sempre a Queen Bee.
 
 374
 00:19:59,480 --> 00:20:00,800
-Bips
+Apitos do anel
 
 375
 00:20:01,000 --> 00:20:01,880
--Merci, Chloé.
+-Obrigada, Chloé.
 
 376
 00:20:02,120 --> 00:20:03,160
-En route !
+Vamos nessa!
 
 377
 00:20:04,000 --> 00:20:05,240
--Mesdames.
+-Senhoritas.
 
 378
 00:20:07,160 --> 00:20:09,800
--J'imagine que
-tu voudras plus jouer avec moi.
+-Eu acho que
+você não vai mais querer brincar comigo.
 
 379
 00:20:10,000 --> 00:20:11,320
--Bien sûr que si.
+-Claro que eu vou.
 
 380
 00:20:11,560 --> 00:20:13,480
-Mais je ne veux plus
-être Ladybug.
+Mas eu não quero mais
+ser a Ladybug.
 
 381
 00:20:13,720 --> 00:20:15,560
-Garde le costume si tu veux.
+Pode ficar com a fantasia se quiser.
 
 382
 00:20:16,760 --> 00:20:18,960
--Désolée, papillon.
-J'ai échoué.
+-Desculpa, Hawk Moth.
+Eu falhei.
 
 383
 00:20:19,200 --> 00:20:22,280
--Non, Mayura. Nous avons préparé
-le terrain pour l'avenir.
+-Não, Mayura. Nós preparamos
+o terreno para o futuro.
 
 384
 00:20:22,520 --> 00:20:24,600
-Queen Bee changera d'avis.
+A Queen Bee vai mudar de ideia.
 
 385
 00:20:29,160 --> 00:20:30,120
--Dis donc, toi !
+-Escuta aqui, você!
 
 386
 00:20:30,360 --> 00:20:31,240
--Chloé ?
+-Chloé?
 
 387
 00:20:31,440 --> 00:20:33,880
--Ton histoire de rituel
-pour appeler Ladybug,
+-Aquela sua história de ritual
+para chamar a Ladybug,
 
 388
 00:20:34,080 --> 00:20:35,280
-c'était pour te moquer.
+era só para tirar sarro.
 
 389
 00:20:35,520 --> 00:20:38,840
--Non. Pourquoi tu dis ça ?
-T'étais pas avec Ladybug, hier ?
+-Não. Por que está dizendo isso?
+Você não esteve com a Ladybug ontem?
 
 390
 00:20:39,080 --> 00:20:40,640
--Euh... si.
+-Er... sim.
 
 391
 00:20:40,880 --> 00:20:41,920
--Alors, ça a marché.
+-Então, funcionou.
 
 392
 00:20:42,160 --> 00:20:44,760
--Euh... oui. Bon, d'accord.
+-Er... sim. Tá, tudo bem.
 
 393
 00:20:44,960 --> 00:20:47,160
-Tu n'es pas totalement inutile.
+Você não é totalmente inútil.
 
 394
 00:20:49,120 --> 00:20:51,400
--J'espère que Chloé
-ne sera pas trop triste.
+-Eu espero que a Chloé
+não fique muito triste.
 
 395
 00:20:51,600 --> 00:20:52,880
-Elle a fait des efforts.
+Ela se esforçou bastante.
 
 396
 00:20:53,120 --> 00:20:54,760
--Tu as fait ça pour son bien.
+-Você fez isso para o bem dela.
 
 397
 00:20:54,960 --> 00:20:57,680
-Et tu protèges aussi
-Ladybug et Chat Noir.
+E você também protege
+a Ladybug e o Chat Noir.
 
 398
 00:20:57,880 --> 00:21:00,040
-C'est aussi ça,
-être une superhéroïne.
+Ser uma super-heroína
+também é isso.
 
-399
+400
 00:21:04,440 --> 00:21:07,080
-Sous-titrage : Nice Fellow
+Legendas por: eliascsc
