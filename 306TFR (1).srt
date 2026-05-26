@@ -1,39 +1,39 @@
-﻿1
+1
 00:00:00,080 --> 00:00:01,680
 ...
 
 2
 00:00:01,880 --> 00:00:03,440
-Je m'appelle Marinette.
+Meu nome é Marinette.
 
 3
 00:00:03,640 --> 00:00:05,840
-Une fille comme les autres.
+Uma garota como qualquer outra.
 
 4
 00:00:06,080 --> 00:00:09,200
-Quand le destin me choisit
-pour lutter contre le mal,
+Mas quando o destino me escolhe
+para lutar contra o mal,
 
 5
 00:00:09,400 --> 00:00:12,120
-je deviens Miraculous Ladybug.
+eu me torno Miraculous Ladybug.
 
 6
 00:00:12,320 --> 00:00:14,720
--Miraculous porte-bonheur
+-Miraculous amuleto da sorte
 
 7
 00:00:14,960 --> 00:00:17,880
-Lady magique et lady chance
+Lady mágica e lady sorte
 
 8
 00:00:18,080 --> 00:00:20,280
-Miraculous, lady du coeur
+Miraculous, lady do coração
 
 9
 00:00:20,520 --> 00:00:23,720
-Etre héroïque en cas d'urgence
+Sendo heroica em caso de emergência
 
 10
 00:00:23,920 --> 00:00:26,520
@@ -41,24 +41,24 @@ Miraculous
 
 11
 00:00:29,480 --> 00:00:31,480
--Gâteau !
-Explosion
+-Bolo!
+Explosão
 
 12
 00:00:31,720 --> 00:00:34,920
-Cris
+Gritos
 
 13
 00:00:35,120 --> 00:00:36,720
-Gâteau !
+Bolo!
 
 14
 00:00:36,960 --> 00:00:38,840
-Il gémit.
+Ele geme.
 
 15
 00:00:39,040 --> 00:00:41,760
-Musique dynamique
+Música dinâmica
 
 16
 00:00:42,000 --> 00:00:44,080
@@ -66,77 +66,77 @@ Musique dynamique
 
 17
 00:00:44,760 --> 00:00:45,960
-Gâteau !
+Bolo!
 
 18
 00:00:46,200 --> 00:00:47,200
-Gâteau !
+Bolo!
 
 19
 00:00:47,400 --> 00:00:49,960
--Je défendrai mes pâtisseries
-coûte que coûte !
+-Eu vou defender os meus doces
+custe o que custar!
 
 20
 00:00:50,200 --> 00:00:51,720
--Il pourrait te faire mal.
+-Ele pode te machucar.
 
 21
 00:00:51,960 --> 00:00:52,960
--Gâteau !
+-Bolo!
 
 22
 00:00:54,160 --> 00:00:56,840
--Non, pap... euh, M. Dupain,
-écartez-vous !
+-Não, pai... quer dizer, Sr. Dupain,
+saia daí!
 
 23
 00:00:59,440 --> 00:01:00,920
--Oh, pris dans ton yo-yo,
+-Oh, preso no seu ioiô,
 
 24
 00:01:01,120 --> 00:01:02,680
-son bras est comme mon coeur.
+o braço dele está como o meu coração.
 
 25
 00:01:02,880 --> 00:01:05,880
-Prisonnier de tes beaux yeux
-pour toujours.
+Prisioneiro dos seus belos olhos
+para sempre.
 
 26
 00:01:06,120 --> 00:01:07,120
-Marinette crie.
+Marinette grita.
 
 27
 00:01:11,400 --> 00:01:13,680
-Rire gêné
--Les lèvres d'Adrien, le rêve.
+Risada sem jeito
+-Os lábios do Adrien, que sonho.
 
 28
 00:01:13,920 --> 00:01:15,400
-Elle crie.
+Ela grita.
 
 29
 00:01:15,640 --> 00:01:18,440
--Avoue que ma poésie
-a failli te faire craquer.
+-Confessa que a minha poesia
+quase te fez gamar.
 
 30
 00:01:18,640 --> 00:01:21,360
--Elle ne me fera jamais craquer.
-Mais je m'incline
+-Ela nunca vai me fazer gamar.
+Mas eu tiro o chapéu
 
 31
 00:01:21,600 --> 00:01:23,520
-devant ton incroyable bêtise.
+para a sua incrível bobeira.
 
 32
 00:01:24,400 --> 00:01:25,400
-Lucky charm!
+Talismã!
 
 33
 00:01:25,600 --> 00:01:27,600
-Musique entraînante
+Música empolgante
 
 34
 00:01:27,800 --> 00:01:30,160
@@ -144,1984 +144,1976 @@ Musique entraînante
 
 35
 00:01:30,600 --> 00:01:31,600
-Elle gémit.
+Ela geme.
 
 36
 00:01:31,800 --> 00:01:32,640
--Gâteau !
+-Bolo!
 
 37
 00:01:34,800 --> 00:01:35,800
-Beurk !
+Eca!
 
 38
 00:01:36,400 --> 00:01:37,600
-Pas gâteau !
+Não é bolo!
 
 39
 00:01:37,840 --> 00:01:40,040
--Ton donut en plastique
-n'a aucune chance
+-O seu donut de plástico
+não tem a menor chance
 
 40
 00:01:40,240 --> 00:01:43,040
-face à de bons macarons.
-Ce bébé a du goût.
+contra macarons de verdade.
+Esse bebê tem bom gosto.
 
 41
-00:01:44,320 --> 00:01:45,440
--Gâteau !
+00:04:44,320 --> 00:04:45,440
+-Bolo!
 
 42
-00:01:45,680 --> 00:01:47,240
--La chambre de Marinette !
+00:04:45,680 --> 00:04:47,240
+-O quarto da Marinette!
 
 43
-00:01:47,480 --> 00:01:50,440
-Marinette ! Marinette !
+00:04:47,480 --> 00:04:50,440
+Marinette! Marinette!
 
 44
-00:01:50,680 --> 00:01:51,920
--Chat Noir, attrape !
+00:04:50,680 --> 00:04:51,920
+-Chat Noir, pega!
 
 45
-00:01:52,120 --> 00:01:53,640
--Gâteau !
+00:04:52,120 --> 00:04:53,640
+-Bolo!
 
 46
 00:01:55,320 --> 00:01:57,040
--Marinette !
--Gâteau !
+-Marinette!
+-Bolo!
 
 47
 00:01:57,280 --> 00:01:58,280
--Cataclysme !
+-Cataclismo!
 
 48
 00:02:00,280 --> 00:02:01,280
--Marinette !
+-Marinette!
 
 49
 00:02:01,520 --> 00:02:02,880
-Marinette !
+Marinette!
 
 50
 00:02:03,120 --> 00:02:04,720
--Miraculous Ladybug !
+-Miraculous Ladybug!
 
 51
 00:02:08,640 --> 00:02:11,120
--Marinette ! Marinette, oh...
+-Marinette! Marinette, oh...
 
 52
 00:02:12,440 --> 00:02:13,960
-Hein ? Marinette ?
+Ué? Marinette?
 
 53
 00:02:15,160 --> 00:02:16,080
-Il crie.
+Ele chora.
 
 54
 00:02:16,320 --> 00:02:17,760
--Ga...
+-Bo...
 
 55
 00:02:20,360 --> 00:02:21,960
--C'était quoi,
-cette fois ?
+-O que foi isso
+dessa vez?
 
 56
 00:02:22,160 --> 00:02:24,760
--Une petite faim nocturne.
-Hein, bébé Auguste ?
+-Uma fominha da madrugada.
+Né, bebê Auguste?
 
 57
 00:02:24,960 --> 00:02:26,800
-Rire
-Oh, tu es trop mignon !
+Risada
+Ah, você é fofo demais!
 
 58
 00:02:27,000 --> 00:02:28,840
-Baisers
--Là, je vais être jaloux.
+Beijos
+-Desse jeito eu vou ficar com ciúmes.
 
 59
 00:02:29,920 --> 00:02:32,120
-Sonnerie
--T'en fais pas, je te le prête.
+Alarme tocando
+-Não esquenta, eu te empresto ele.
 
 60
 00:02:32,560 --> 00:02:33,960
-Au revoir, bonhomme !
+Tchauzinho, garotão!
 
 61
 00:02:34,160 --> 00:02:35,440
--Non, jaloux de lui !
+-Não, com ciúmes dele!
 
 62
 00:02:38,320 --> 00:02:39,520
--Détransformation.
+-Destransformar.
 
 63
 00:02:41,160 --> 00:02:42,200
-Elle halète.
+Ela respira ofegante.
 
 64
 00:02:43,080 --> 00:02:45,600
--Tom ?
--Marinette n'est pas dans sa chambre.
+-Tom?
+-A Marinette não está no quarto dela.
 
 65
 00:02:45,840 --> 00:02:46,760
--Oh !
+-Ah!
 
 66
 00:02:47,200 --> 00:02:48,200
--Tototte !
+-Chupeta!
 
 67
 00:02:48,440 --> 00:02:50,920
--Elle te manque déjà ?
-Je sais ce que c'est.
+-Já está com saudades dela?
+Eu sei bem como é.
 
 68
 00:02:51,160 --> 00:02:52,760
--Tototte ?
+-Chupeta?
 
 69
 00:02:55,800 --> 00:02:58,520
--Oh, mais bien sûr !
-Tu veux ta tétine.
+-Oh, mas é claro!
+Você quer a sua chupeta.
 
 70
 00:02:58,720 --> 00:03:00,400
--Tototte !
-Il rit.
+-Chupeta!
+Ele ri.
 
 71
 00:03:02,000 --> 00:03:03,000
--Marinette ?
+-Marinette?
 
 72
 00:03:04,240 --> 00:03:05,240
--Euh...
+-Er...
 
 73
 00:03:05,480 --> 00:03:06,280
-Rire gêné
+Risada sem jeito
 
 74
 00:03:06,520 --> 00:03:09,000
--C'est pas la 1re fois
-que je te croise après
+-Não é a primeira vez
+ que eu te encontro logo após
 
 75
 00:03:09,240 --> 00:03:10,400
-sa détransformation...
+ela se destransformar...
 
 76
 00:03:11,080 --> 00:03:12,720
-Je rêve ou tu es...
+Será que eu estou sonhando ou você está...
 
 77
 00:03:13,160 --> 00:03:14,360
--Ah ? Euh...
+-Ah? Er...
 
 78
 00:03:15,080 --> 00:03:16,760
-Amoureuse de toi !
+Apaixonada por você!
 
 79
 00:03:17,000 --> 00:03:18,600
--Marinette... Oh !
+-Marinette... Oh!
 
 80
 00:03:20,760 --> 00:03:21,560
-Gazouillis
+Sons de bebê
 
 81
 00:03:22,320 --> 00:03:24,720
--Oh, ça pour une surprise !
+-Nossa, mas que surpresa!
 Oh...
 
 82
 00:03:25,480 --> 00:03:26,480
--EUH...
+-ER...
 
 83
 00:03:27,080 --> 00:03:30,240
--Bah, ça tombe à pic !
-Je dois le ramener à sa mère.
+-Bem, veio em boa hora!
+Eu preciso levar ele de volta para a mãe.
 
 84
 00:03:30,480 --> 00:03:33,600
--Attendez, venez déjeuner demain.
-C'est dimanche !
+-Espera, vem almoçar amanhã aqui.
+É domingo!
 
 85
 00:03:33,840 --> 00:03:34,640
--Euh...
+-Er...
 
 86
-00:03:35,720 --> 00:03:37,000
--Hein ?
-Rire gêné
+00:03:37,240 --> 00:03:38,480
+-Eu vou fazer macarons.
 
 87
-00:03:37,240 --> 00:03:38,480
--Je ferai des macarons.
+00:03:38,840 --> 00:03:41,000
+-Como recusar uma oferta dessas?
 
 88
-00:03:39,120 --> 00:03:41,000
--Comment refuser une telle offre ?
+00:03:41,240 --> 00:03:42,240
+Até amanhã, então.
 
 89
-00:03:41,240 --> 00:03:42,240
-A demain, alors.
+00:03:44,920 --> 00:03:47,000
+-E eu achando
+que ela seguia a gente
 
 90
-00:03:44,920 --> 00:03:47,000
--Et moi qui croyais
-qu'elle nous suivait
+00:03:47,200 --> 00:03:48,880
+porque era fã
+da Ladybug,
 
 91
-00:03:47,200 --> 00:03:48,880
-parce qu'elle était fan
-de Ladybug
+00:03:49,120 --> 00:03:50,240
+que nem a amiga dela!
 
 92
-00:03:49,120 --> 00:03:50,240
-comme sa copine !
+00:03:51,760 --> 00:03:54,560
+Mas na verdade,
+ela está apaixonada por mim.
 
 93
-00:03:51,760 --> 00:03:54,560
-Mais en réalité,
-elle est amoureuse de moi.
+00:03:54,760 --> 00:03:56,000
+Você tem noção?
 
 94
-00:03:54,760 --> 00:03:56,000
-Tu te rends compte ?
+00:03:56,200 --> 00:03:59,160
+É a primeira vez que uma garota
+se apaixona por mim!
 
 95
-00:03:56,200 --> 00:03:59,160
-C'est la 1re fois qu'une fille
-est amoureuse de moi !
+00:04:00,120 --> 00:04:01,160
+Arroto
 
 96
-00:04:00,120 --> 00:04:01,160
-Rot
+00:04:01,400 --> 00:04:02,800
+Risada
+Disse tudo.
 
 97
-00:04:01,400 --> 00:04:02,800
-Rire
-Comme tu dis.
+00:04:03,000 --> 00:04:06,000
+Se ao menos a Ladybug
+se declarasse para mim assim.
 
 98
-00:04:03,000 --> 00:04:06,000
-Si seulement Ladybug
-me déclarait son amour comme ça.
+00:04:07,680 --> 00:04:09,600
+-É o fim, é o fim,
+é o fim!
 
 99
-00:04:07,680 --> 00:04:09,600
--C'est la cata, la cata,
-la cata !
+00:04:09,840 --> 00:04:11,240
+-Você não devia ter mentido.
 
 100
-00:04:09,840 --> 00:04:11,240
--Tu n'aurais pas dû mentir.
+00:04:11,480 --> 00:04:14,080
+-Ele ia desconfiar
+que eu sou a Ladybug!
 
 101
-00:04:11,480 --> 00:04:14,080
--Il allait deviner
-que je suis Ladybug !
+00:04:14,320 --> 00:04:17,040
+-Agora todo mundo acha
+que você está caidinha por ele.
 
 102
-00:04:14,320 --> 00:04:17,040
--Tout le monde croit
-que tu es amoureuse de lui.
+00:04:17,240 --> 00:04:18,040
+Ela resmunga.
 
 103
-00:04:17,240 --> 00:04:18,040
-Elle grogne.
+00:04:18,280 --> 00:04:19,400
+Tom cantarola.
 
 104
-00:04:18,280 --> 00:04:19,400
-Tom chantonne.
+00:04:19,640 --> 00:04:22,440
+-O namorado da nossa filha
+vem almoçar amanhã!
 
 105
-00:04:19,640 --> 00:04:22,440
--L'amoureux de notre fille
-vient déjeuner demain !
+00:04:22,640 --> 00:04:25,560
+Você tem noção?
+A Marinette tem um namorado!
 
 106
-00:04:22,640 --> 00:04:25,560
-Tu te rends compte ?
-Marinette a un amoureux !
+00:04:25,800 --> 00:04:28,320
+E olha só,
+ele é um super-herói!
 
 107
-00:04:25,800 --> 00:04:28,320
-Et attention,
-c'est un superhéros !
+00:04:28,520 --> 00:04:29,640
+Ela está super segura.
 
 108
-00:04:28,520 --> 00:04:29,640
-Elle ne risque rien.
+00:04:29,880 --> 00:04:31,520
+-Você está correndo demais.
 
 109
-00:04:29,880 --> 00:04:31,520
--Tu vas un petit peu vite.
+00:04:32,320 --> 00:04:33,520
+-É, você tem razão.
 
 110
-00:04:32,320 --> 00:04:33,520
--Hm, tu as raison.
+00:04:33,720 --> 00:04:35,120
+Estou fazendo a sobremesa
 
 111
-00:04:33,720 --> 00:04:35,120
-Je fais le dessert
+00:04:35,320 --> 00:04:37,800
+sendo que eu nem
+preparei a entrada!
 
 112
-00:04:35,320 --> 00:04:37,800
-alors que je n'ai même pas
-préparé l'entrée !
+00:04:38,040 --> 00:04:38,800
+-Er...
 
 113
-00:04:38,040 --> 00:04:38,800
--Euh...
+00:04:39,040 --> 00:04:40,200
+-Já sei!
 
 114
-00:04:39,040 --> 00:04:40,200
--J'ai trouvé !
+00:04:40,400 --> 00:04:43,600
+Vou preparar para eles
+uma bela tortinha dos namorados!
 
 115
-00:04:40,400 --> 00:04:43,600
-Je vais leur mitonner
-un petit vol-au-vent des amoureux !
+00:04:43,800 --> 00:04:44,760
+Mas onde estão
 
 116
-00:04:43,800 --> 00:04:44,760
-Mais où sont
+00:04:50,000 --> 00:04:51,360
+as laranjas cristalizadas?
 
 117
-00:04:45,000 --> 00:04:46,360
-les oranges confites ?
+00:04:47,400 --> 00:04:49,600
+-Não, eu quis dizer que o Chat Noir
 
 118
-00:04:47,400 --> 00:04:49,600
--Non, je veux dire que Chat Noir
+00:04:49,800 --> 00:04:51,680
+não abriu o jogo sobre o que sente.
 
 119
-00:04:49,800 --> 00:04:51,680
-n'a pas exprimé ses sentiments.
+00:04:51,920 --> 00:04:54,160
+-Mas é claro
+que ele é louco por ela!
 
 120
-00:04:51,920 --> 00:04:54,160
--Mais bien sûr
-qu'il est amoureux d'elle !
+00:04:54,360 --> 00:04:57,000
+Está na cara!
+Como não amar a Marinette?
 
 121
-00:04:54,360 --> 00:04:57,000
-C'est évident !
-Comment ne pas aimer Marinette ?
+00:04:57,200 --> 00:04:59,160
+Todo mundo ama a Marinette!
 
 122
-00:04:57,200 --> 00:04:59,160
-Tout le monde aime Marinette !
+00:05:05,160 --> 00:05:08,160
+-Hum, que ótimo,
+você finalmente arrumou uma namorada!
 
 123
-00:05:05,160 --> 00:05:08,160
--Hm, super,
-tu t'es enfin trouvé une copine !
+00:05:08,360 --> 00:05:09,560
+E não é qualquer uma.
 
 124
-00:05:08,360 --> 00:05:09,560
-Et pas n'importe qui.
+00:05:09,760 --> 00:05:11,880
+A filha
+do melhor padeiro de Paris!
 
 125
-00:05:09,760 --> 00:05:11,880
-La fille
-du meilleur boulanger de Paris !
+00:05:12,120 --> 00:05:13,920
+-A Marinette
+apaixonada pelo Chat Noir?
 
 126
-00:05:12,120 --> 00:05:13,920
--Marinette
-amoureuse de Chat Noir ?
+00:05:14,120 --> 00:05:16,000
+Eu não achei
+que ele fazia o tipo dela.
 
 127
-00:05:14,120 --> 00:05:16,000
-Je ne pensais pas
-qu'il était son genre.
+00:05:16,240 --> 00:05:19,040
+-A gente vai se fartar de pão quentinho
+e massa folhada!
 
 128
-00:05:16,240 --> 00:05:19,040
--A nous la mie fondante,
-le pain croustillant !
+00:05:19,240 --> 00:05:21,440
+Tantas variedades
+quanto existem de queijos.
 
 129
-00:05:19,240 --> 00:05:21,440
-Autant de variétés
-qu'il y a de fromages.
+00:05:21,640 --> 00:05:22,640
+Que sonho!
 
 130
-00:05:21,640 --> 00:05:22,640
-Le rêve !
+00:05:22,840 --> 00:05:24,840
+A nossa vida
+está prestes a mudar!
 
 131
-00:05:22,840 --> 00:05:24,840
-Notre vie
-est sur le point de changer !
+00:05:25,080 --> 00:05:27,680
+-Para com isso,
+você sabe bem que eu amo a Ladybug.
 
 132
-00:05:25,080 --> 00:05:27,680
--Arrête,
-tu sais bien que j'aime Ladybug.
+00:05:27,920 --> 00:05:29,680
+-E daí?
+Não vejo qual é o problema.
 
 133
-00:05:27,920 --> 00:05:29,680
--Et ?
-Je ne vois pas le problème.
+00:05:29,880 --> 00:05:32,120
+Paquerar duas garotas
+só aumenta as suas chances
 
 134
-00:05:29,880 --> 00:05:32,120
-Convoiter 2 filles
-augmente tes chances
+00:05:32,360 --> 00:05:33,360
+de sucesso!
 
 135
-00:05:32,360 --> 00:05:33,360
-de succès !
+00:05:33,560 --> 00:05:36,560
+Ainda mais quando sabemos
+que as duas são a mesma pessoa.
 
 136
-00:05:33,560 --> 00:05:36,560
-Surtout quand on sait
-qu'il n'y a qu'une seule fille.
+00:05:36,760 --> 00:05:38,320
+Ele ri.
 
 137
-00:05:36,760 --> 00:05:38,320
-Il rit.
+00:05:38,800 --> 00:05:40,760
+-Eu preciso ser sincero
+com a Marinette.
 
 138
-00:05:38,800 --> 00:05:40,760
--Je dois être honnête
-avec Marinette.
+00:05:40,960 --> 00:05:42,640
+Vou almoçar na casa dos pais dela
 
 139
-00:05:40,960 --> 00:05:42,640
-J'irai déjeuner chez ses parents
+00:05:42,840 --> 00:05:44,360
+só para contar a verdade.
+-O quê?
 
 140
-00:05:42,840 --> 00:05:44,360
-pour lui dire la vérité.
--Quoi ?
-
-141
-00:05:44,600 --> 00:05:48,040
-Tu ne vas pas quitter la table
-avant le plateau de fromages !
+00:05:46,000 --> 00:05:48,040
+Você não vai embora
+antes da tábua de queijos!
 
 142
 00:05:49,040 --> 00:05:50,040
-Soupir
+Suspiro
 
 143
 00:05:51,120 --> 00:05:53,000
-Il siffle.
-
-144
-00:05:55,320 --> 00:05:56,360
--Il ne viendra pas.
+Ele assobia.
 
 145
-00:05:56,560 --> 00:05:59,120
--Mais s'il vient,
-qu'est-ce que tu lui diras ?
+00:05:55,320 --> 00:05:56,360
+-Ele não vem.
 
 146
-00:05:59,320 --> 00:06:02,000
--Je sais qu'il ne viendra pas.
-Il aime Ladybug.
+00:05:56,560 --> 00:05:59,120
+-Mas se ele vier,
+o que você vai falar?
 
 147
-00:06:02,200 --> 00:06:04,400
-Il ne se montrera pas
-pour des macarons.
+00:05:59,320 --> 00:06:02,000
+-Eu sei que ele não vem.
+Ele ama a Ladybug.
 
 148
-00:06:04,640 --> 00:06:07,240
--Mais à force d'être repoussé
-par Ladybug,
+00:06:02,200 --> 00:06:04,400
+Ele não viria aqui
+só por causa de macarons.
 
 149
-00:06:07,440 --> 00:06:09,120
-peut-être qu'il a changé d'avis.
+00:06:04,640 --> 00:06:07,240
+-Mas de tanto levar fora
+da Ladybug,
 
 150
-00:06:09,360 --> 00:06:12,240
--Tu le vois changer d'avis ?
-Ca m'étonnerait.
+00:06:07,440 --> 00:06:09,120
+vai ver que ele mudou de ideia.
 
 151
-00:06:12,480 --> 00:06:14,720
-Personne n'est aussi têtu
-que Chat Noir.
+00:06:09,360 --> 00:06:12,240
+-Acha mesmo que ele mudaria de ideia?
+Eu duvido muito.
+
+152
+00:06:14,800 --> 00:06:14,720
+Ninguém é tão cabeçudo
+quanto o Chat Noir.
 
 152
 00:06:17,120 --> 00:06:19,320
--On ne devrait pas
-être chez Marinette ?
+-A gente não devia
+estar na casa da Marinette?
 
 153
 00:06:19,520 --> 00:06:20,920
--Chut !
+-Xiu!
 -Adrien,
 
 154
 00:06:21,160 --> 00:06:23,400
-il vous reste 24 mn
-pour finir votre repas
+você tem 24 minutos
+para acabar de comer
 
 155
 00:06:23,600 --> 00:06:25,360
-avant vos révisions de chinois.
+antes da sua aula de chinês.
 
 156
 00:06:26,080 --> 00:06:28,520
--Mon père est trop pris
-pour manger avec moi ?
+-O meu pai está ocupado demais
+para comer comigo?
 
 157
 00:06:28,760 --> 00:06:31,080
--Le prochain repas
-entre votre père et vous
+-A próxima refeição
+entre o seu pai e você
 
 158
 00:06:31,280 --> 00:06:33,920
-est prévu jeudi prochain
-entre 19h30 et 19h45.
+está agendada para quinta-feira que vem,
+entre as 19h30 e as 19h45.
 
 159
 00:06:34,160 --> 00:06:37,520
--Autant manger dans ma chambre
-en révisant mon chinois.
+-Melhor eu comer no quarto então
+enquanto estudo chinês.
 
 160
 00:06:38,720 --> 00:06:41,640
-J'aurais l'impression d'avoir
-de la compagnie.
+Pelo menos assim parece
+que tenho companhia.
 
 161
 00:06:43,120 --> 00:06:46,160
--Maintenant,
-à nous le bon pain tout chaud !
+-E agora,
+vamos lá buscar aquele pão quentinho!
 
 162
 00:06:46,360 --> 00:06:48,320
--Je te l'ai dit,
-on ne mange pas là-bas.
+-Já te falei,
+não vamos comer lá.
 
 163
 00:06:48,560 --> 00:06:50,880
-J'y vais pour dire la vérité
-à Marinette.
+Eu vou lá só para falar a verdade
+para a Marinette.
 
 164
 00:06:51,120 --> 00:06:52,280
-Et on part.
--Oh...
+E depois vamos embora.
+-Ah...
 
 165
 00:06:52,520 --> 00:06:54,240
--Elle va être si triste.
+-Ela vai ficar tão triste.
 
 166
 00:06:54,440 --> 00:06:57,120
-Comment rendre ça plus facile ?
-Hm ?
+Como deixar as coisas mais fáceis?
+Hum?
 
 167
 00:06:59,640 --> 00:07:02,920
--Tu as raison,
-lui briser le coeur avec des fleurs,
+-Você tem razão,
+partir o coração dela com flores
 
 168
 00:07:03,160 --> 00:07:04,520
-ce sera plus romantique.
+vai ser mais romântico.
 
 169
 00:07:07,120 --> 00:07:09,120
--J'avais raison,
-il ne viendra pas !
+-Eu não disse?
+Ele não veio!
 
 170
-00:07:10,800 --> 00:07:11,600
-Cri de surprise
+00:17:10,800 --> 00:17:11,600
+Grito de susto
 
 171
-00:07:14,200 --> 00:07:17,560
--Tu as sous-estimé
-sa passion pour les macarons !
+00:17:14,200 --> 00:17:17,560
+-Você subestimou
+a paixão dele por macarons!
 
 172
-00:07:17,760 --> 00:07:19,920
--J'en reviens pas.
-Quel goinfre !
+00:17:17,760 --> 00:17:19,920
+-Não dá para acreditar.
+Que comilão!
 
 173
-00:07:24,400 --> 00:07:25,400
-Oh, non !
+00:17:24,400 --> 00:17:25,400
+Ah, não!
 
 174
-00:07:25,600 --> 00:07:28,000
-Tu crois qu'il est tombé amoureux
-de moi ?
+00:17:25,600 --> 00:17:28,000
+Será que ele se apaixonou
+por mim?
 
 175
-00:07:28,200 --> 00:07:29,400
-En quoi, 2 secondes ?
+00:17:28,200 --> 00:17:29,400
+Em o quê, dois segundos?
 
 176
-00:07:29,600 --> 00:07:32,200
-C'est tout ce que vaut son amour
-pour Ladybug ?
+00:17:29,600 --> 00:17:32,200
+É só isso o que vale o amor dele
+pela Ladybug?
 
 177
-00:07:32,400 --> 00:07:35,320
-Une petite déclaration
-et il en aime une autre !
+00:17:32,400 --> 00:17:35,320
+Uma declaraçãozinha rápida
+e ele já ama outra!
 
 178
-00:07:35,560 --> 00:07:37,760
--Euh, vu que vous êtes
-la même personne,
+00:17:35,560 --> 00:17:37,760
+-Er, já que vocês duas
+são a mesma pessoa,
 
 179
-00:07:37,960 --> 00:07:40,200
-on peut pas dire
-qu'il en aime une autre.
+00:17:37,960 --> 00:17:40,200
+não dá bem para dizer
+que ele ama outra.
 
 180
-00:07:41,040 --> 00:07:42,040
--Non, pas le choix.
+00:14:41,040 --> 00:14:42,040
+-Não tem jeito.
 
 181
-00:07:42,240 --> 00:07:44,400
-Je dois lui dire
-que je ne l'aime pas.
+00:14:42,240 --> 00:14:44,400
+Eu preciso falar para ele
+que eu não o amo.
 
 182
-00:07:44,600 --> 00:07:46,000
-Mais je ne peux pas !
+00:14:44,600 --> 00:14:46,000
+Mas eu não posso!
 
 183
-00:07:46,200 --> 00:07:48,000
-Si je lui dis
-que je ne l'aime pas,
+00:14:46,200 --> 00:14:48,000
+Se eu disser
+que não o amo,
 
 184
-00:07:48,200 --> 00:07:51,000
-il ne comprendra pas
-pourquoi j'ai dit que je l'étais.
+00:14:48,200 --> 00:14:51,000
+ele não vai entender
+por que eu disse que amava.
 
 185
-00:07:51,200 --> 00:07:53,080
-J'ai dit ça
-pour qu'il ne comprenne pas
+00:14:51,200 --> 00:14:53,080
+Eu disse aquilo
+para ele não desconfiar
 
 186
-00:07:53,280 --> 00:07:54,320
-que je suis Ladybug.
+00:14:53,280 --> 00:14:54,320
+que eu sou a Ladybug.
 
 187
-00:07:54,560 --> 00:07:58,040
-Mais s'il sait que j'ai menti,
-il saura que j'ai fait tout ça
+00:14:54,560 --> 00:14:58,040
+Mas se ele souber que eu menti,
+vai descobrir que fiz tudo isso
 
 188
-00:07:58,240 --> 00:08:00,240
-pour lui cacher
-que je suis Ladybug !
+00:14:58,240 --> 00:19:00,240
+para esconder dele
+que eu sou a Ladybug!
 
 189
-00:08:00,440 --> 00:08:01,760
-Sonnette
--Marinette !
+00:19:00,440 --> 00:19:01,760
+Campainha tocando
+-Marinette!
 
 190
-00:08:01,960 --> 00:08:04,080
-Je crois que ton invité est là !
+00:19:01,960 --> 00:19:04,080
+Eu acho que o seu convidado chegou!
 
 191
-00:08:04,280 --> 00:08:05,440
--Tikki, aide-moi !
+00:19:04,280 --> 00:19:05,440
+-Tikki, me ajuda!
 
 192
-00:08:08,680 --> 00:08:09,840
--Voilà !
+00:19:08,680 --> 00:19:09,840
+-Pronto!
 
 193
-00:08:11,320 --> 00:08:12,520
-Sonnette
+00:19:11,320 --> 00:19:12,520
+Campainha tocando
 
 194
-00:08:12,720 --> 00:08:15,080
--C'est un vrai cauchemar.
--Eh bien, chérie,
+00:19:12,720 --> 00:19:15,080
+-Isso é um pesadelo total.
+-Bom, querida,
 
 195
-00:08:15,320 --> 00:08:16,560
-va donc lui ouvrir.
+00:19:15,320 --> 00:19:16,560
+vai lá abrir a porta.
 
 196
-00:08:20,640 --> 00:08:22,440
--Euh, bonjour, Marinette.
+00:19:20,640 --> 00:19:22,440
+-Er, oi, Marinette.
 
 197
-00:08:22,680 --> 00:08:24,440
-Rire gêné
--Oh, bienvenue
+00:19:22,680 --> 00:19:24,440
+Risada sem jeito
+-Oh, seja bem-vindo
 
 198
-00:08:24,680 --> 00:08:26,480
-à la maison, Chat Noir !
--Tom ?
+00:19:24,680 --> 00:19:26,480
+à nossa casa, Chat Noir!
+-Tom?
 
 199
-00:08:26,720 --> 00:08:28,640
-Laisse-le respirer.
--Oups !
+00:19:26,720 --> 00:19:28,640
+Deixa o garoto respirar.
+-Ops!
 
 200
-00:08:28,880 --> 00:08:29,880
-Désolé.
+00:19:28,880 --> 00:19:29,880
+Desculpa.
 
 201
-00:08:30,960 --> 00:08:32,800
-Rires gênés
+00:19:30,960 --> 00:19:32,800
+Risadas sem jeito
 
 202
-00:08:33,040 --> 00:08:36,040
--Euh, comment vas-tu ?
--Euh, bien, et toi ?
+00:19:33,040 --> 00:19:36,040
+-Er, como você está?
+-Er, bem, e você?
 
 203
-00:08:36,280 --> 00:08:37,480
-Il rit.
+00:19:36,280 --> 00:19:37,480
+Ele ri.
 
 204
-00:08:38,960 --> 00:08:39,760
--Hein ?
+00:19:38,960 --> 00:19:39,760
+-Ué?
 
 205
-00:08:43,640 --> 00:08:45,960
--Oh, il a apporté une rose
-pour Marinette.
+00:19:43,640 --> 00:19:45,960
+-Oh, ele trouxe uma rosa
+para a Marinette.
 
 206
-00:08:46,160 --> 00:08:48,680
-Elle adore les roses !
-Ils se connaissent déjà
+00:19:46,160 --> 00:19:48,680
+Ela adora rosas!
+Eles já se conhecem
 
 207
-00:08:48,920 --> 00:08:50,080
-drôlement bien.
+00:19:48,920 --> 00:19:50,080
+muito bem.
 
 208
-00:08:50,280 --> 00:08:52,960
--Tout le monde aime les roses.
-Ca ne veut rien dire.
+00:19:50,280 --> 00:19:52,960
+-Todo mundo gosta de rosas.
+Isso não quer dizer nada.
 
 209
-00:08:53,160 --> 00:08:55,120
--On se connaît pas
-si bien que ça.
+00:19:53,160 --> 00:19:55,120
+-A gente não se conhece
+tão bem assim.
 
 210
-00:08:55,360 --> 00:08:57,560
--Oui, tout s'est passé si vite !
+00:19:55,360 --> 00:19:57,560
+-É, tudo aconteceu tão rápido!
 
 211
-00:08:57,800 --> 00:08:59,000
--Un coup de foudre ?
+00:19:57,800 --> 00:19:59,000
+-Amor à primeira vista?
 
 212
-00:08:59,200 --> 00:09:00,960
-C'est encore plus romantique !
+00:19:59,200 --> 00:20:00,960
+Isso é mais romântico ainda!
 
 213
-00:09:01,200 --> 00:09:02,400
-Asseyez-vous donc.
+00:20:01,200 --> 00:20:02,400
+Tratem de se sentar.
 
 214
-00:09:02,600 --> 00:09:04,600
-Je vous apporte
-de quoi grignoter.
+00:20:02,600 --> 00:20:04,600
+Vou trazer algo
+para vocês beliscarem.
 
 215
-00:09:05,320 --> 00:09:06,520
-Il chantonne.
+00:20:05,320 --> 00:20:06,520
+Ele cantarola.
 
 216
-00:09:10,560 --> 00:09:11,960
--J'AI UN TRUC A TE DIRE.
+00:20:10,560 --> 00:20:11,960
+-EU TENHO UMA COISA PARA TE FALAR.
 
 217
-00:09:12,160 --> 00:09:13,360
--Et voilà !
--HEIN ?
+00:20:12,160 --> 00:20:13,360
+-E aqui está!
+-HEIN?
 
 218
-00:09:13,600 --> 00:09:16,960
--Le vol-au-vent des amoureux.
-A partager, bien entendu.
+00:20:13,600 --> 00:20:16,960
+-A tortinha dos namorados.
+Para dividir, é claro.
 
 219
-00:09:18,720 --> 00:09:20,320
-Dites-moi, Chat Noir,
+00:20:18,720 --> 00:20:20,320
+Me diga, Chat Noir,
 
 220
-00:09:20,560 --> 00:09:22,680
-superhéros,
-c'est une bonne situation ?
+00:20:20,560 --> 00:20:22,680
+super-herói dá um bom futuro?
 
 221
-00:09:23,680 --> 00:09:24,480
-Il tousse.
+00:22:23,680 --> 00:22:24,480
+Ele engasga.
 
 222
-00:09:24,720 --> 00:09:25,840
--Oh, Tom !
--Quoi ?
+00:22:24,720 --> 00:22:25,840
+-Oh, Tom!
+-O quê?
 
 223
-00:09:26,440 --> 00:09:27,840
--Tu as raison, papa !
+00:22:26,440 --> 00:22:27,840
+-Você tem toda razão, pai!
 
 224
-00:09:28,040 --> 00:09:30,920
-C'est dangereux,
-d'être la copine d'un superhéros.
+00:22:28,040 --> 00:22:30,920
+É perigoso demais
+ser namorada de um super-herói.
 
 225
-00:09:31,120 --> 00:09:33,480
-C'est pas une bonne idée.
--Mais non !
+00:22:31,120 --> 00:22:33,480
+Não é uma boa ideia.
+-Que isso!
 
 226
-00:09:33,680 --> 00:09:35,680
-Il ne sera pas superhéros
-toute sa vie !
+00:22:33,680 --> 00:22:35,680
+Ele não vai ser super-herói
+a vida inteira!
 
 227
-00:09:35,880 --> 00:09:37,560
-Le Papillon vaincu,
+00:22:35,880 --> 00:22:37,560
+Assim que o Hawk Moth for derrotado,
 
 228
-00:09:37,800 --> 00:09:40,400
-il n'aura plus besoin
-de courir sur les toits.
+00:22:37,800 --> 00:22:40,400
+ele não vai mais precisar
+ficar correndo pelos telhados.
 
 229
-00:09:40,640 --> 00:09:43,880
-Oh, il pourrait travailler
-à la boulangerie avec moi !
+00:22:40,640 --> 00:22:43,880
+Ah, ele poderia trabalhar
+na padaria comigo!
 
 230
-00:09:44,120 --> 00:09:45,520
-Je pourrai vous former !
+00:22:43,120 --> 00:22:45,520
+Eu posso te ensinar tudo!
 
 231
-00:09:45,960 --> 00:09:48,640
--Peut-être qu'il ne veut pas
-être boulanger !
+00:22:45,960 --> 00:22:48,640
+-Talvez ele não queira
+ser padeiro!
 
 232
-00:09:48,880 --> 00:09:49,880
--Ah, tu vois !
+00:22:48,880 --> 00:22:49,880
+-Ah, viu só!
 
 233
-00:09:50,080 --> 00:09:52,680
-Il acquiesce,
-tout le monde aime les boulangers.
+00:22:50,080 --> 00:22:52,680
+Ele concorda,
+todo mundo ama os padeiros.
 
 234
-00:09:53,720 --> 00:09:56,720
-Boulangerie Dupain-Chat Noir.
-Ca sonne bien, non ?
+00:23:37,720 --> 00:23:40,720
+Padaria Dupain-Chat Noir.
+Soa bem, não acham?
 
 235
-00:09:56,960 --> 00:09:57,760
+00:23:56,960 --> 00:23:57,760
 -Tom...
 
 236
-00:09:58,000 --> 00:10:00,400
--Je vois d'ici
-les chatons courir partout
+00:23:58,000 --> 00:24:00,400
+-Eu já até vejo
+os gatinhos correndo soltos
 
 237
-00:10:00,600 --> 00:10:01,760
-dans la maison !
+00:24:00,600 --> 00:24:01,760
+pela casa!
 
 238
-00:10:01,960 --> 00:10:03,680
-Et les hamsters, vous aimez ça ?
+00:24:01,960 --> 00:24:03,680
+E hamsters, você gosta deles?
 
 239
-00:10:03,920 --> 00:10:04,880
--Euh...
+00:24:03,920 --> 00:24:04,880
+-Er...
 
 240
-00:10:05,120 --> 00:10:06,520
--Ma fille les adore !
+00:24:05,120 --> 00:24:06,520
+-A minha filha adora!
 
 241
-00:10:06,720 --> 00:10:09,600
-Comment tu voulais appeler
-ton futur hamster, déjà ?
+00:24:06,720 --> 00:24:09,600
+Como é que você queria chamar
+o seu futuro hamster mesmo?
 
 242
-00:10:09,840 --> 00:10:11,400
--C'est un vrai cauchemar.
+00:24:09,840 --> 00:24:11,400
+-Isso é um pesadelo total.
 
 243
-00:10:11,640 --> 00:10:15,120
--Cauchemar, oui !
-Drôle de nom pour un hamster.
+00:24:11,640 --> 00:24:15,120
+-Pesadelo, é isso!
+Um nome bem engraçado para um hamster.
 
 244
-00:10:15,320 --> 00:10:16,760
-J'apporte le soufflé !
+00:24:15,320 --> 00:24:16,760
+Vou trazer o suflê!
 
 245
-00:10:17,920 --> 00:10:18,920
-Et voilà !
+00:24:17,920 --> 00:24:18,920
+E prontinho!
 
 246
-00:10:20,920 --> 00:10:24,280
--Et si on laissait Chat Noir
-nous dire de quoi il a envie ?
+00:24:20,920 --> 00:24:24,280
+-Que tal deixarmos o Chat Noir
+dizer o que ele quer?
 
 247
-00:10:24,520 --> 00:10:25,520
--Bonne idée,
+00:24:24,520 --> 00:24:25,520
+-Boa ideia,
 
 248
-00:10:25,720 --> 00:10:28,280
-parce qu'il change
-un peu rapidement d'avis.
+00:24:25,720 --> 00:24:28,280
+até porque ele muda
+de ideia bem rápido.
 
 249
-00:10:29,280 --> 00:10:30,680
--Eh bien, honnêtement,
+00:24:29,280 --> 00:24:30,680
+-Bem, para ser sincero,
 
 250
-00:10:30,920 --> 00:10:33,400
-M. et Mme Dupain-Cheng,
-Marinette...
+00:24:30,920 --> 00:24:33,400
+Sr. e Sra. Dupain-Cheng, Marinette...
 
 251
-00:10:33,600 --> 00:10:35,760
-Le truc,
-c'est que vous êtes adorables.
+00:24:33,600 --> 00:24:35,760
+A verdade é que
+vocês são um amor.
 
 252
-00:10:35,960 --> 00:10:39,040
-C'est le repas le plus chaleureux
-depuis longtemps.
+00:24:35,960 --> 00:24:39,040
+É o almoço mais acolhedor
+que eu tenho em muito tempo.
 
 253
-00:10:39,280 --> 00:10:40,880
-Marinette, tu es géniale.
+00:24:39,280 --> 00:24:40,880
+Marinette, você é incrível.
 
 254
-00:10:41,120 --> 00:10:43,120
-Je comprends
-tes sentiments pour moi.
+00:24:41,120 --> 00:24:43,120
+Eu entendo perfeitamente
+o que você sente por mim.
 
 255
-00:10:43,320 --> 00:10:45,000
-Je suis si fantastique
+00:24:43,320 --> 00:24:45,000
+Eu sou tão fantástico
 
 256
-00:10:45,200 --> 00:10:47,200
-que je m'épouserais
-si je le pouvais.
+00:24:45,200 --> 00:24:47,200
+que eu mesmo me casaria comigo
+se eu pudesse.
 
 257
-00:10:50,160 --> 00:10:52,960
-Bref, désolé,
-mais mon coeur est déjà pris.
+00:25:00,160 --> 00:25:02,960
+Mas, desculpa,
+o meu coração já tem dona.
 
 258
-00:10:53,200 --> 00:10:56,520
-Même si elle me rejette
-et qu'elle en aime un autre.
+00:25:03,200 --> 00:25:06,520
+Mesmo que ela viva me dando fora
+e goste de outro.
 
 259
-00:10:56,760 --> 00:10:58,360
-Je suis amoureux de Ladybug.
+00:25:06,760 --> 00:25:08,360
+Eu sou apaixonado pela Ladybug.
 
 260
-00:10:58,560 --> 00:11:00,120
-Je suis navré, Marinette.
+00:25:08,560 --> 00:25:10,120
+Sinto muito, Marinette.
 
 261
-00:11:00,360 --> 00:11:01,320
-Cris de surprise
+00:25:10,360 --> 00:25:11,320
+Grito de susto
 
 262
-00:11:01,560 --> 00:11:02,920
--Oh, je suis tellement...
+00:25:15,560 --> 00:25:16,920
+-Oh, eu estou tão...
 
 263
-00:11:04,720 --> 00:11:06,520
-euh... trop malheureuse !
+00:20:47,720 --> 00:20:49,520
+er... arrasada!
 
 264
-00:11:06,720 --> 00:11:09,680
-Quand je pense au temps passé
-à te suivre partout
+00:20:49,720 --> 00:20:52,680
+Quando eu penso no tempo que passei
+te seguindo por aí
 
 265
-00:11:09,880 --> 00:11:11,680
-pour pouvoir t'avouer mon amour !
+00:20:52,880 --> 00:20:54,680
+só para poder confessar o meu amor!
 
 266
-00:11:11,880 --> 00:11:14,520
-Pleurs
-Je suis trop malheureuse !
+00:20:54,880 --> 00:20:57,520
+Choro
+Eu estou sofrendo demais!
 
 267
-00:11:14,720 --> 00:11:16,440
-Elle pleure.
+00:20:57,720 --> 00:20:59,440
+Ela chora.
 
 268
-00:11:16,680 --> 00:11:18,880
-Personne ne m'aimera jamais !
+00:20:59,680 --> 00:21:01,880
+Ninguém nunca vai me amar!
 
 269
-00:11:19,120 --> 00:11:22,520
-Je finirai seule avec mon hamster,
-que j'appellerai
+00:21:02,120 --> 00:21:05,520
+Vou acabar sozinha com o meu hamster,
+que eu vou chamar de
 
 270
-00:11:22,760 --> 00:11:23,760
-Solitude !
+00:21:05,760 --> 00:21:06,760
+Solidão!
 
 271
-00:11:23,960 --> 00:11:25,120
--Marinette !
-Claquement
+00:21:06,960 --> 00:21:08,120
+-Marinette!
+Batida de porta
 
 272
-00:11:25,320 --> 00:11:27,000
-Pleurs
+00:21:08,320 --> 00:21:10,000
+Choro
 
 273
-00:11:27,240 --> 00:11:28,640
--La, la, la, la
+00:21:10,240 --> 00:21:11,640
+-Lá, lá, lá, lá
 
 274
-00:11:28,840 --> 00:11:30,760
-Ah, quel soulagement, Tikki !
+00:21:11,840 --> 00:21:13,760
+Ah, que alívio, Tikki!
 
 275
-00:11:31,000 --> 00:11:32,880
-Chat Noir n'est pas amoureux
+00:21:14,000 --> 00:21:15,880
+O Chat Noir não está apaixonado
 
 276
-00:11:33,120 --> 00:11:34,360
-de moi !
-Soupir
+00:21:16,120 --> 00:21:17,360
+por mim!
+Suspiro
 
 277
-00:11:37,720 --> 00:11:40,400
--Bon, je vais pas vous déranger
-plus longtemps.
+00:21:37,720 --> 00:21:40,400
+-Bom, eu não vou incomodar vocês
+por mais tempo.
 
 278
-00:11:41,360 --> 00:11:44,200
-Désolé, vraiment.
-Et merci pour l'invitation.
+00:21:41,360 --> 00:21:44,200
+Me desculpem, de verdade.
+E obrigado pelo convite.
 
 279
-00:11:46,120 --> 00:11:47,120
-Il grogne.
+00:21:46,120 --> 00:21:47,120
+Ele rosna.
 
 280
-00:11:49,800 --> 00:11:51,800
--Y a-t-il recette plus délicieuse
+00:21:49,800 --> 00:21:51,800
+-Será que existe receita mais deliciosa
 
 281
-00:11:52,040 --> 00:11:53,480
-que le coeur d'un père brisé
+00:21:52,040 --> 00:21:53,480
+do que o coração partido de um pai
 
 282
-00:11:53,680 --> 00:11:55,800
-par les tourments amoureux
-de sa fille ?
+00:21:53,680 --> 00:21:55,800
+pelo sofrimento amoroso
+da sua filha?
 
 283
-00:12:02,320 --> 00:12:04,000
-Vole, mon terrible akuma.
+00:22:02,320 --> 00:22:04,000
+Voe, meu terrível akuma.
 
 284
-00:12:04,240 --> 00:12:07,280
-Là où tu vas t'attend
-un festin de noirceur
+00:22:04,240 --> 00:22:07,280
+Lá onde você vai, te espera
+um banquete de escuridão
 
 285
-00:12:07,520 --> 00:12:08,520
-et de peine !
+00:22:07,520 --> 00:22:08,520
+e sofrimento!
 
 286
-00:12:13,040 --> 00:12:14,680
--Comment peut-il ne pas l'aimer ?
+00:22:13,040 --> 00:22:14,680
+-Como ele pode não amar ela?
 
 287
-00:12:14,920 --> 00:12:17,440
-Tout le monde aime Marinette !
+00:22:14,920 --> 00:22:17,440
+Todo mundo ama a Marinette!
 
 288
-00:12:17,680 --> 00:12:19,840
--Elle rencontrera un autre garçon
+00:22:17,680 --> 00:22:19,840
+-Ela vai conhecer outro garoto
 
 289
-00:12:20,080 --> 00:12:21,960
-qu'elle aimera de tout son coeur.
+00:22:20,080 --> 00:22:21,960
+a quem ela vai amar de todo o coração.
 
 290
-00:12:22,200 --> 00:12:24,200
--Qu'il brisera encore ?
-Plus jamais !
+00:22:22,200 --> 00:22:24,200
+-Para ele magoar ela de novo?
+Nunca mais!
 
 291
-00:12:24,400 --> 00:12:26,680
-Je ne laisserai plus personne
-faire du mal
+00:22:24,400 --> 00:22:26,680
+Eu não vou deixar mais ninguém
+fazer mal
 
 292
-00:12:26,920 --> 00:12:28,520
-à ma fille !
--Oh !
+00:22:26,920 --> 00:22:28,520
+à minha filha!
+-Oh!
 
 293
-00:12:29,720 --> 00:12:30,920
+00:22:29,720 --> 00:22:30,920
 -Papa Garou.
 
 294
-00:12:31,400 --> 00:12:33,000
-Je suis le Papillon.
+00:22:31,400 --> 00:22:33,000
+Eu sou o Hawk Moth.
 
 295
-00:12:33,200 --> 00:12:35,600
-Je te donne le pouvoir
-de protéger ta fille
+00:22:33,200 --> 00:22:35,600
+Eu te dou o poder
+de proteger a sua filha
 
 296
-00:12:35,800 --> 00:12:38,040
-de tout ce qui pourrait
-blesser son coeur.
+00:22:35,800 --> 00:22:38,040
+de tudo o que puder
+magoar o coração dela.
 
 297
-00:12:38,240 --> 00:12:39,400
-En échange...
+00:22:38,240 --> 00:22:39,400
+Em troca...
 
 298
-00:12:39,640 --> 00:12:42,800
--Je t'apporterai du pâté de Chat Noir
-sur un plateau.
+00:22:39,640 --> 00:22:42,800
+-Eu vou te trazer o Chat Noir picadinho
+numa bandeja.
 
 299
-00:12:43,040 --> 00:12:45,960
--Mais n'oublie pas
-qu'il me faut son Miraculous
+00:22:43,040 --> 00:22:45,960
+-Mas não se esqueça
+de que eu preciso do Miraculous dele
 
 300
-00:12:46,160 --> 00:12:47,600
-et celui de Ladybug.
+00:22:46,160 --> 00:22:47,600
+e do da Ladybug.
 
-301
-00:12:49,200 --> 00:12:51,000
-Elle crie.
+201
+00:22:49,200 --> 00:22:51,000
+Ela grita.
 
 302
-00:12:51,240 --> 00:12:52,320
+00:22:51,240 --> 00:22:32,320
 ...
 
 303
-00:12:53,320 --> 00:12:55,000
--Qu'est-ce qui se passe ?
-Tikki !
+00:22:53,320 --> 00:22:55,000
+-O que está acontecendo?
+Tikki!
 
 304
-00:12:55,240 --> 00:12:56,160
--Marinette !
+00:22:55,240 --> 00:22:56,160
+-Marinette!
 
 305
-00:12:56,400 --> 00:12:57,400
--J'ai tout gâché.
+00:22:56,400 --> 00:22:57,400
+-Eu estraguei tudo.
 
 306
-00:13:02,480 --> 00:13:03,880
-J'ai fait n'importe quoi !
+00:23:02,480 --> 00:23:03,880
+Eu fiz uma tremenda besteira!
 
 307
-00:13:04,400 --> 00:13:05,400
-Marinette !
+00:23:04,400 --> 00:23:05,400
+Marinette!
 
 308
-00:13:05,640 --> 00:13:06,840
-Tikki gémit.
+00:23:05,640 --> 00:23:06,840
+Tikki geme com esforço.
 
 309
-00:13:09,160 --> 00:13:10,360
--Marinette !
+00:23:09,160 --> 00:23:10,360
+-Marinette!
 
 310
-00:13:11,560 --> 00:13:13,720
--Oh, je suis désolé,
-tout est ma faute !
+00:23:11,560 --> 00:23:13,720
+-Oh, me desculpa,
+a culpa é toda minha!
 
 311
-00:13:13,960 --> 00:13:15,480
--Bien sûr que non, Chat Noir.
+00:23:13,960 --> 00:23:15,480
+-Claro que não, Chat Noir.
 
 312
-00:13:15,720 --> 00:13:17,480
-C'est Tom.
-J'ai beau lui dire,
+00:23:15,720 --> 00:23:17,480
+É o Tom.
+Por mais que eu fale,
 
 313
-00:13:17,680 --> 00:13:19,360
-il en fait toujours trop !
+00:23:17,680 --> 00:23:19,360
+ele sempre exagera!
 
 314
-00:13:19,600 --> 00:13:22,600
--Je ramènerai votre mari à la raison
-et sortirai
+00:23:19,600 --> 00:23:22,600
+-Eu vou trazer o seu marido à razão
+e vou tirar
 
 315
-00:13:22,840 --> 00:13:23,720
-Marinette de là !
+00:23:22,840 --> 00:23:23,720
+a Marinette de lá!
 
 316
-00:13:23,960 --> 00:13:25,480
--Vous n'attendez pas Ladybug ?
+00:23:23,960 --> 00:23:24,480
+-Você não vai esperar a Ladybug?
 
 317
-00:13:25,720 --> 00:13:28,080
--Elle est toujours là
-au bon moment.
+00:23:25,720 --> 00:23:28,080
+-Ela sempre aparece
+na hora certa.
 
 318
-00:13:28,320 --> 00:13:29,960
--Vous l'aimez vraiment, hein ?
+00:23:28,320 --> 00:23:29,960
+-Você ama ela de verdade, né?
 
 319
-00:13:30,760 --> 00:13:34,640
--Oui. Mais Marinette aussi
-semble être une fille géniale.
+00:23:30,760 --> 00:23:34,640
+-Sim. Mas a Marinette também
+parece ser uma garota incrível.
 
 320
-00:13:34,840 --> 00:13:37,360
-Je la sauverai.
--Je vous fais confiance.
+00:23:34,840 --> 00:23:37,360
+Eu vou salvar ela.
+-Eu confio em você.
 
 321
-00:13:37,600 --> 00:13:38,760
-Vous êtes un bon garçon.
+00:23:37,600 --> 00:23:38,760
+Você é um bom garoto.
 
 322
-00:13:38,960 --> 00:13:41,280
-Ne vous excusez pas
-d'éprouver quelque chose.
+00:23:38,960 --> 00:23:41,280
+Não se desculpe
+por ter sentimentos.
 
 323
-00:13:41,520 --> 00:13:43,080
--Merci, Mme Dupain-Cheng.
-
-324
-00:13:45,000 --> 00:13:46,560
--Bonne chance, Chat Noir.
+00:23:41,520 --> 00:23:43,080
+-Obrigado, Sra. Dupain-Cheng.
 
 325
-00:13:48,720 --> 00:13:50,720
-Musique haletante
+00:23:45,000 --> 00:23:46,560
+-Boa sorte, Chat Noir.
 
 326
-00:13:50,920 --> 00:14:15,760
-...
+00:23:48,720 --> 00:23:50,720
+Música tensa
 
 327
-00:14:16,520 --> 00:14:18,120
--Marinette !
+00:23:50,920 --> 00:24:15,760
+...
 
 328
-00:14:25,480 --> 00:14:27,200
--Tikki ?
-Echo
+00:24:16,520 --> 00:24:18,120
+-Marinette!
 
 329
-00:14:29,040 --> 00:14:30,520
-Tikki !
-Echo
+00:24:25,480 --> 00:24:27,200
+-Tikki?
+Eco
 
 330
-00:14:32,200 --> 00:14:33,160
--Marinette ?
+00:24:29,040 --> 00:24:30,520
+Tikki!
+Eco
 
 331
-00:14:36,480 --> 00:14:37,480
-Marinette !
+00:24:32,200 --> 00:24:33,160
+-Marinette?
 
 332
-00:14:38,160 --> 00:14:39,160
--Tikki !
+00:24:36,480 --> 00:24:37,480
+Marinette!
 
 333
-00:14:39,960 --> 00:14:40,960
-Je suis là !
+00:24:38,160 --> 00:24:39,160
+-Tikki!
 
 334
-00:14:41,800 --> 00:14:43,040
--J'arrive, Marinette.
+00:24:39,960 --> 00:24:40,960
+Estou aqui!
 
 335
-00:14:43,440 --> 00:14:45,840
-Marinette ! Mais... où es-tu ?
+00:24:41,800 --> 00:24:43,040
+-Estou indo, Marinette.
 
 336
-00:14:46,880 --> 00:14:48,720
-Oh...
+00:24:43,440 --> 00:24:45,840
+Marinette! Mas... onde você está?
 
 337
-00:14:48,960 --> 00:14:51,360
--Marinette ! M. Dupain !
-
-338
-00:14:52,040 --> 00:14:55,360
--Tu oses revenir
-après tout le mal que tu as fait ?
-
-339
-00:14:56,240 --> 00:14:57,400
-Cri
-
-340
-00:14:57,640 --> 00:14:58,520
-Il crie.
-
-341
-00:15:00,520 --> 00:15:03,120
--Je reviendrai toujours
-sauver Marinette.
-
-342
-00:15:03,360 --> 00:15:04,560
--Elle est à l'abri
-
-343
-00:15:04,760 --> 00:15:07,360
-de tous ceux qui veulent
-lui briser le coeur !
-
-344
-00:15:10,320 --> 00:15:12,920
--Je ne voulais pas
-lui briser le coeur !
-
-345
-00:15:13,160 --> 00:15:15,880
--Et moi, je vais te briser
-en mille morceaux !
-
-346
-00:15:16,360 --> 00:15:17,520
-Il crie.
-
-347
-00:15:19,200 --> 00:15:21,240
--Qu'est-ce que tu attends,
-ma lady ?
-
-348
-00:15:22,240 --> 00:15:23,240
-Je suis désolé,
-
-349
-00:15:23,480 --> 00:15:26,600
-mais je ne vous laisserai pas faire.
--Pourquoi pas ?
-
-350
-00:15:28,800 --> 00:15:29,840
--Parce que... Oh !
-
-351
-00:15:30,080 --> 00:15:31,680
-J'ai une demoiselle en détresse
-
-352
-00:15:31,920 --> 00:15:32,840
-à sauver !
-
-353
-00:15:35,360 --> 00:15:36,280
--Je t'interdis
-
-354
-00:15:36,520 --> 00:15:38,600
-d'aller la sauver,
-tu ne mérites pas
-
-355
-00:15:38,840 --> 00:15:39,840
-de le faire !
-
-356
-00:15:40,040 --> 00:15:43,440
-Dorénavant, c'est moi et moi seul
-qui la protègerai !
-
-357
-00:15:44,280 --> 00:15:45,280
-Il gémit.
-
-358
-00:15:46,720 --> 00:15:48,920
--Vous comptez la protéger
-toute sa vie ?
-
-359
-00:15:49,160 --> 00:15:50,160
--Exactement.
-
-360
-00:15:50,360 --> 00:15:52,440
-Je la tiendrai à l'abri
-de la tristesse
-
-361
-00:15:52,640 --> 00:15:54,400
-et de tout ce qui lui ferait mal.
-
-362
-00:15:54,640 --> 00:15:57,560
--Vous savez
-ce qui fait le plus mal ?
-
-363
-00:15:57,800 --> 00:15:59,080
--Mes coups de poing !
-
-364
-00:16:00,280 --> 00:16:01,600
-Tom crie.
-
-365
-00:16:02,120 --> 00:16:03,560
-Il crie.
-
-366
-00:16:05,640 --> 00:16:06,840
--Ce qui fait le plus mal,
-
-367
-00:16:07,040 --> 00:16:10,040
-c'est la solitude.
-Croyez-moi, rien ne fait plus mal.
-
-368
-00:16:10,240 --> 00:16:12,800
-Etre assis seul
-devant un repas froid...
-
-369
-00:16:13,040 --> 00:16:15,360
-c'est ce que vous voulez
-pour Marinette ?
-
-370
-00:16:15,600 --> 00:16:17,320
-Une vie de repas froids
-
-371
-00:16:17,560 --> 00:16:19,360
-dans sa prison de roses ?
--Euh...
-
-372
-00:16:19,560 --> 00:16:21,440
-Mais elle ne finira pas seule !
-
-373
-00:16:22,080 --> 00:16:23,080
-Un jour,
-
-374
-00:16:23,320 --> 00:16:25,920
-un prince viendra,
-qui sera digne d'elle !
-
-375
-00:16:26,160 --> 00:16:27,880
-Il aura le courage de m'affronter
-
-376
-00:16:28,080 --> 00:16:30,280
-et triomphera des épreuves
-sur son chemin
-
-377
-00:16:30,480 --> 00:16:32,280
-pour lui apporter la rose magique !
-
-378
-00:16:32,480 --> 00:16:35,000
-Lui seul sera digne
-de me l'arracher.
-
-379
-00:16:37,160 --> 00:16:38,160
--Tikki ?
-
-380
-00:16:38,400 --> 00:16:39,800
--Cette prison est magique,
-
-381
-00:16:40,000 --> 00:16:42,880
-c'est comme si elle m'empêchait
-de te retrouver !
-
-382
-00:16:43,920 --> 00:16:44,920
--Oh...
-
-383
-00:16:48,520 --> 00:16:51,680
-Il y a forcément un moyen
-de sortir d'ici. Oh !
-
-384
-00:16:53,760 --> 00:16:54,600
-Hm...
-
-385
-00:16:56,920 --> 00:16:57,920
-Cette rose...
-
-386
-00:16:58,120 --> 00:17:00,240
-c'est celle que Chat Noir
-m'a donnée !
-
-387
-00:17:01,320 --> 00:17:02,320
-Cliquetis
-
-388
-00:17:02,640 --> 00:17:03,640
-Elle crie.
-
-389
-00:17:05,520 --> 00:17:06,560
-Hm, d'accord !
-
-390
-00:17:09,960 --> 00:17:12,480
-Gémissements d'effort
-
-391
-00:17:12,680 --> 00:17:16,040
-...
-
-392
-00:17:19,800 --> 00:17:20,960
-Cri
-
-393
-00:17:23,320 --> 00:17:25,120
--Je ne suis peut-être pas
-son prince,
-
-394
-00:17:25,320 --> 00:17:26,800
-mais je la libérerai.
-
-395
-00:17:27,040 --> 00:17:28,200
--Je te l'interdis !
-
-396
-00:17:28,440 --> 00:17:30,040
-Tu m'entends ?
-Grondement
-
-397
-00:17:30,280 --> 00:17:32,320
--Oh, Marinette ! Marinette ?
-
-398
-00:17:32,960 --> 00:17:35,120
--Tout va bien !
-(Je vais y arriver.)
-
-399
-00:17:38,160 --> 00:17:41,600
--C'est pas parce que
-je ne suis pas amoureux d'elle
-
-400
-00:17:41,840 --> 00:17:43,840
-que je ne la sauverai pas.
-
-401
-00:17:44,080 --> 00:17:45,920
-Je n'abandonnerai jamais.
-
-402
-00:17:46,160 --> 00:17:47,320
--Peut-être,
-
-403
-00:17:47,560 --> 00:17:49,440
-mais tu ne seras jamais
-digne d'elle.
-
-404
-00:17:49,640 --> 00:17:51,640
--Le Miraculous,
-prends-lui sa bague !
-
-405
-00:17:59,800 --> 00:18:00,600
--Ah !
-
-406
-00:18:02,960 --> 00:18:03,960
-Je t'ai eue !
-
-407
-00:18:05,040 --> 00:18:06,800
-Euh...
-Craquements
-
-408
-00:18:08,640 --> 00:18:09,440
-Elle crie.
-
-409
-00:18:10,920 --> 00:18:11,680
--Oh !
-
-410
-00:18:12,160 --> 00:18:13,360
-Qu'est-ce qui se p...
-
-411
-00:18:13,560 --> 00:18:16,200
-Ils crient.
-
-412
-00:18:16,440 --> 00:18:17,720
--Marinette !
-
-413
-00:18:18,080 --> 00:18:19,480
--Tikki ! Transforme-moi !
-
-414
-00:18:19,720 --> 00:18:21,720
-Musique palpitante
-
-415
-00:18:21,920 --> 00:18:28,440
-...
-
-416
-00:18:29,040 --> 00:18:30,040
-Je t'ai eu !
-
-417
-00:18:30,960 --> 00:18:32,360
-Bye bye, petit papillon.
-
-418
-00:18:32,880 --> 00:18:34,280
--Oh ! Ma lady !
-
-419
-00:18:36,240 --> 00:18:37,280
--J'arrive, Chat Noir !
-
-420
-00:18:37,520 --> 00:18:39,600
--Non, occupe-toi de Marinette !
-
-421
-00:18:39,840 --> 00:18:42,480
--T'inquiète pas,
-je l'ai déjà mise en sécurité !
-
-422
-00:18:42,720 --> 00:18:46,360
--Toujours aussi merveilleuse.
-Comment peut-on ne pas l'aimer ?
-
-423
-00:18:46,560 --> 00:18:49,720
-Non, elle a...
-Elle a aussi ses défauts, vous savez.
-
-424
-00:18:50,840 --> 00:18:53,000
--On ne retombe pas tous
-sur nos pattes.
-
-425
-00:18:53,200 --> 00:18:54,720
-On va avoir besoin de chance.
-
-426
-00:18:55,720 --> 00:18:56,720
-Lucky Charm!
-
-427
-00:19:00,320 --> 00:19:02,760
-A toi de jouer, Chat Noir.
--Hm, hm.
-
-428
-00:19:03,880 --> 00:19:05,280
-Cataclysme !
-
-429
-00:19:05,480 --> 00:19:07,480
-Musique entraînante
-
-430
-00:19:07,680 --> 00:19:09,720
-...
-
-431
-00:19:11,360 --> 00:19:12,560
-Accrochez-vous !
-
-432
-00:19:17,400 --> 00:19:18,720
-Tom gémit.
-
-433
-00:19:20,480 --> 00:19:22,080
-...
-
-434
-00:19:24,800 --> 00:19:25,800
--Tom !
-
-435
-00:19:26,040 --> 00:19:27,120
--Chérie !
-
-436
-00:19:29,120 --> 00:19:31,160
--Bien joué, ma lady.
-Il gémit.
-
-437
-00:19:31,400 --> 00:19:32,400
-...
-
-438
-00:19:32,600 --> 00:19:34,480
--Bien joué, Chat Noir.
-
-439
-00:19:34,720 --> 00:19:35,880
-Miraculous Ladybug!
-
-440
-00:19:36,120 --> 00:19:39,080
-Musique douce
-
-441
-00:19:39,320 --> 00:19:44,840
-...
-
-442
-00:19:45,040 --> 00:19:46,040
--Marinette !
-
-443
-00:19:46,280 --> 00:19:47,280
--Marinette !
-
-444
-00:19:47,520 --> 00:19:48,520
--Marinette !
-
-445
-00:19:48,720 --> 00:19:51,400
--Le Miraculous a tout réparé,
-elle doit être
-
-446
-00:19:51,640 --> 00:19:52,560
-dans sa chambre !
-
-447
-00:19:52,800 --> 00:19:54,000
+00:24:46,880 --> 00:24:48,720
 Oh...
 
+338
+00:24:48,960 --> 00:24:51,360
+-Marinette! Sr. Dupain!
+
+339
+00:24:52,040 --> 00:24:55,360
+-Você tem coragem de voltar
+depois de todo o mal que fez?
+
+340
+00:24:56,240 --> 00:24:57,400
+Grito
+
+341
+00:24:57,640 --> 00:24:58,520
+Ele ruge.
+
+342
+00:02:00,520 --> 00:02:03,120
+-Eu sempre vou voltar
+para salvar a Marinette.
+
+343
+00:02:03,360 --> 00:02:04,560
+-Ela está protegida
+
+344
+00:02:04,760 --> 00:02:07,360
+de todos que quiserem
+partir o coração dela!
+
+345
+00:25:10,320 --> 00:25:12,920
+-Eu não queria
+partir o coração dela!
+
+346
+00:25:13,160 --> 00:25:15,880
+-E eu vou partir você
+em mil pedacinhos!
+
+347
+00:25:16,360 --> 00:25:17,520
+Ele grita.
+
+348
+00:25:19,200 --> 00:25:21,240
+-O que você está esperando,
+minha lady?
+
+349
+00:25:22,240 --> 00:25:23,240
+Eu sinto muito,
+
+350
+00:25:23,480 --> 00:25:26,600
+mas eu não vou deixar o senhor fazer isso.
+-E por que não?
+
+351
+00:25:28,800 --> 00:25:29,840
+-Porque... Oh!
+
+352
+00:25:30,080 --> 00:25:31,680
+Eu tenho uma donzela em perigo
+
+353
+00:25:31,920 --> 00:25:32,840
+para salvar!
+
+354
+00:25:35,360 --> 00:25:36,280
+-Eu te proíbo
+
+355
+00:25:36,520 --> 00:25:38,600
+de ir salvar ela,
+vocé não é digno
+
+356
+00:25:38,840 --> 00:25:39,840
+de fazer isso!
+
+357
+00:25:40,040 --> 00:25:43,440
+De agora em diante, sou eu e só eu
+que vou proteger ela!
+
+358
+00:25:44,280 --> 00:25:45,280
+Ele rosna.
+
+359
+00:25:46,720 --> 00:25:48,920
+-O senhor pretende proteger ela
+a vida inteira?
+
+360
+00:25:49,160 --> 00:25:50,160
+-Exatamente.
+
+361
+00:25:50,360 --> 00:25:52,440
+Eu vou manter ela longe da tristeza
+
+362
+00:25:52,640 --> 00:25:54,400
+e de tudo o que possa magoá-la.
+
+363
+00:25:54,640 --> 00:25:57,560
+-O senhor sabe
+o que magoa mais?
+
+364
+00:25:57,800 --> 00:25:59,080
+-Os meus socos!
+
+365
+00:26:00,280 --> 00:26:01,600
+Tom grita.
+
+366
+00:26:02,120 --> 00:26:03,560
+Ele ruge.
+
+367
+00:26:05,640 --> 00:26:06,840
+-O que magoa mais
+
+368
+00:26:07,040 --> 00:26:10,040
+é a solidão.
+Acredite em mim, nada dói mais.
+
+369
+00:26:10,240 --> 00:26:12,800
+Ficar sentado sozinho
+diante de uma comida fria...
+
+370
+00:26:13,040 --> 00:26:15,360
+é isso o que o senhor quer
+para a Marinette?
+
+371
+00:26:15,600 --> 00:26:17,320
+Uma vida de comida fria
+
+372
+00:26:17,560 --> 00:26:19,360
+na sua prisão de rosas?
+-Er...
+
+373
+00:26:19,560 --> 00:26:21,440
+Mas ela não vai acabar sozinha!
+
+374
+00:26:22,080 --> 00:26:23,080
+Um dia,
+
+375
+00:26:23,320 --> 00:26:25,920
+um príncipe virá,
+um que seja digno dela!
+
+376
+00:26:26,160 --> 00:26:27,880
+Ele vai ter a coragem de me enfrentar
+
+377
+00:26:28,080 --> 00:26:30,280
+e vai vencer todos os desafios
+no seu caminho
+
+378
+00:26:30,480 --> 00:26:32,280
+para trazer para ela a rosa mágica!
+
+379
+00:26:32,480 --> 00:26:35,000
+Só ele vai ser digno
+de tirá-la de mim.
+
+380
+00:26:37,160 --> 00:26:38,160
+-Tikki?
+
+381
+00:26:38,400 --> 00:26:39,800
+-Esta prisão é mágica,
+
+382
+00:26:40,000 --> 00:26:42,880
+é como se ela me impedisse
+de te encontrar!
+
+383
+00:26:43,920 --> 00:26:44,920
+-Oh...
+
+384
+00:26:48,520 --> 00:26:51,680
+Tem que ter um jeito
+de sair daqui. Oh!
+
+385
+00:26:53,760 --> 00:26:54,600
+Hm...
+
+386
+00:26:56,920 --> 00:26:57,920
+Esta rosa...
+
+387
+00:26:58,120 --> 00:27:00,240
+é a que o Chat Noir
+me deu!
+
+388
+00:27:01,320 --> 00:27:02,320
+Estalo
+
+389
+00:27:02,640 --> 00:27:03,640
+Ela grita.
+
+390
+00:27:05,520 --> 00:27:06,560
+Hm, entendi!
+
+391
+00:27:09,960 --> 00:27:12,480
+Gêmeos de esforço
+
+392
+00:27:12,680 --> 00:27:16,040
+...
+
+393
+00:27:19,800 --> 00:27:20,960
+Grito
+
+394
+00:27:23,320 --> 00:27:25,120
+-Talvez eu não seja
+o príncipe dela,
+
+395
+00:27:25,320 --> 00:27:26,800
+mas eu vou libertá-la.
+
+396
+00:27:27,040 --> 00:27:28,200
+-Eu te proíbo!
+
+397
+00:27:28,440 --> 00:27:30,040
+Está me ouvindo?
+Estrondo
+
+398
+00:27:30,280 --> 00:27:32,320
+-Oh, Marinette! Marinette?
+
+399
+00:27:32,960 --> 00:27:35,120
+-Está tudo bem!
+(Eu vou conseguir.)
+
+400
+00:27:38,160 --> 00:27:41,600
+-Não é porque
+eu não sou apaixonado por ela
+
+401
+00:27:41,840 --> 00:27:43,840
+que eu não vou salvá-la.
+
+402
+00:27:44,080 --> 00:27:45,920
+Eu nunca vou desistir.
+
+403
+00:27:46,160 --> 00:27:47,320
+-Pode ser,
+
+404
+00:27:47,560 --> 00:27:49,440
+mas você nunca vai ser
+digno dela.
+
+405
+00:27:49,640 --> 00:27:51,640
+-O Miraculous,
+tira o anel dele!
+
+406
+00:27:59,800 --> 00:28:00,600
+-Ah!
+
+407
+00:28:02,960 --> 00:28:03,960
+Te peguei!
+
+408
+00:28:05,040 --> 00:28:06,800
+Er...
+Rachaduras
+
+409
+00:28:08,640 --> 00:28:09,440
+Ela grita.
+
+410
+00:28:10,920 --> 00:28:11,680
+-Oh!
+
+411
+00:28:12,160 --> 00:28:13,360
+O que está acontec...
+
+412
+00:28:13,560 --> 00:28:16,200
+Eles gritam.
+
+413
+00:28:16,440 --> 00:28:17,720
+-Marinette!
+
+414
+00:28:18,080 --> 00:28:19,480
+-Tikki, transformar!
+
+415
+00:28:19,720 --> 00:28:21,720
+Música empolgante
+
+416
+00:28:21,920 --> 00:28:28,440
+...
+
+417
+00:28:29,040 --> 00:28:30,040
+Te peguei!
+
+418
+00:28:30,960 --> 00:28:32,360
+Tchau, tchau, borboletinha.
+
+419
+00:28:32,880 --> 00:28:34,280
+-Oh! Minha lady!
+
+420
+00:28:36,240 --> 00:28:37,280
+-Estou indo, Chat Noir!
+
+421
+00:28:37,520 --> 00:28:39,600
+-Não, cuida da Marinette!
+
+422
+00:28:39,840 --> 00:28:42,480
+-Não se preocupa,
+eu já deixei ela em segurança!
+
+423
+00:28:42,720 --> 00:28:46,360
+-Sempre tão maravilhosa.
+Como alguém pode não amar você?
+
+424
+00:28:46,560 --> 00:28:49,720
+Não, ela tem...
+Ela também tem os seus defeitos, sabia?
+
+425
+00:28:50,840 --> 00:28:53,000
+-A gente nem sempre cai
+em pé.
+
+426
+00:28:53,200 --> 00:28:54,720
+Vamos precisar de uma forcinha da sorte.
+
+427
+00:28:55,720 --> 00:28:56,720
+Talismã!
+
+428
+00:29:00,320 --> 00:29:02,760
+É com você, Chat Noir.
+-Hum, hum.
+
+429
+00:29:03,880 --> 00:29:05,280
+Cataclismo!
+
+430
+00:29:05,480 --> 00:29:07,480
+Música animada
+
+431
+00:29:07,680 --> 00:29:09,720
+...
+
+432
+00:29:11,360 --> 00:29:12,560
+Segurem-se firme!
+
+433
+00:29:17,400 --> 00:29:18,720
+Tom geme.
+
+434
+00:29:20,480 --> 00:29:22,080
+...
+
+435
+00:29:24,800 --> 00:29:25,800
+-Tom!
+
+436
+00:29:26,040 --> 00:29:27,120
+-Querida!
+
+437
+00:29:29,120 --> 00:29:31,160
+-Bem jogado, minha lady.
+Ele reclama.
+
+438
+00:29:31,400 --> 00:29:32,400
+...
+
+439
+00:29:32,600 --> 00:29:34,480
+-Zerou, Chat Noir.
+
+440
+00:29:34,720 --> 00:29:35,880
+Miraculous Ladybug!
+
+441
+00:29:36,120 --> 00:29:39,080
+Música suave
+
+442
+00:29:39,320 --> 00:29:44,840
+...
+
+443
+00:29:45,040 --> 00:29:46,040
+-Marinette!
+
+444
+00:29:46,280 --> 00:29:47,280
+-Marinette!
+
+445
+00:29:47,520 --> 00:29:48,520
+-Marinette!
+
+446
+00:29:47,720 --> 00:29:51,400
+-O Miraculous consertou tudo,
+ela deve estar
+
+447
+00:29:51,640 --> 00:29:52,560
+no quarto dela!
+
 448
-00:19:55,040 --> 00:19:56,600
--Marinette !
--Détransformation.
+00:29:52,800 --> 00:29:54,000
+Oh...
 
 449
-00:19:56,800 --> 00:19:58,080
--Marinette !
+00:29:55,040 --> 00:29:56,600
+-Marinette!
+-Destransformar.
 
 450
-00:19:58,840 --> 00:20:01,280
--Papa... tu... m'étouffes...
+00:29:56,800 --> 00:29:58,080
+-Marinette!
 
 451
-00:20:01,480 --> 00:20:02,480
--Oups, pardon.
+00:29:58,840 --> 00:20:01,280
+-Pai... você... está me sufocando...
 
 452
-00:20:02,720 --> 00:20:04,240
-J'ai eu la peur de ma vie.
+00:20:01,480 --> 00:20:02,480
+-Ops, desculpa.
 
 453
-00:20:04,440 --> 00:20:06,560
-Tu étais si triste
-à cause de ce...
+00:20:02,720 --> 00:20:04,240
+Eu levei o maior susto da minha vida.
 
 454
-00:20:06,760 --> 00:20:08,680
-Il grogne.
+00:20:04,440 --> 00:20:06,560
+Você estava tão triste
+por causa desse...
 
 455
-00:20:09,240 --> 00:20:11,040
--Papa, arrête un peu.
+00:20:06,760 --> 00:20:08,680
+Ele resmunga.
 
 456
-00:20:11,240 --> 00:20:15,120
-Chat Noir a parfaitement le droit
-d'être amoureux de Ladybug.
+00:20:09,240 --> 00:20:11,040
+-Pai, para com isso.
 
 457
-00:20:15,360 --> 00:20:16,760
-Elle a de la chance.
+00:20:11,240 --> 00:20:15,120
+O Chat Noir tem todo o direito
+de ser apaixonado pela Ladybug.
 
 458
-00:20:17,000 --> 00:20:19,320
-Et c'est pas
-parce qu'on n'est pas amoureux
+00:20:15,360 --> 00:20:16,760
+Ela tem muita sorte.
 
 459
-00:20:19,520 --> 00:20:20,960
-qu'on ne peut pas être amis.
+00:20:17,000 --> 00:20:19,320
+E não é
+porque a gente não namora
 
 460
-00:20:21,200 --> 00:20:22,600
--Vraiment ?
-Ah, ouf !
+00:20:19,520 --> 00:20:20,960
+que não podemos ser amigos.
 
 461
-00:20:22,800 --> 00:20:24,200
-Je voulais pas te blesser.
+00:20:21,200 --> 00:20:22,600
+-Sério?
+Ah, que bom!
 
 462
-00:20:24,400 --> 00:20:26,600
-Tu sembles vraiment être
-une fille géniale.
-
-463
-00:20:26,840 --> 00:20:28,120
-Même si tu n'es pas
+00:20:22,800 --> 00:20:24,200
+Eu não queria te magoar.
 
 464
-00:20:28,360 --> 00:20:29,760
-ma plus grande fan.
+00:20:24,400 --> 00:20:26,600
+Você parece mesmo ser
+uma garota incrível.
 
 465
-00:20:29,960 --> 00:20:31,720
-Quand je t'ai vue sur le toit...
+00:20:26,840 --> 00:20:28,120
+Mesmo não sendo
 
 466
-00:20:31,960 --> 00:20:35,120
--Quoi ? Tu croyais que j'étais
-une de tes fans ?
+00:20:28,360 --> 00:20:29,760
+a minha maior fã.
 
 467
-00:20:35,360 --> 00:20:36,160
--Bah... oui.
+00:20:29,960 --> 00:20:31,720
+Quando eu te vi no telhado...
 
 468
-00:20:36,360 --> 00:20:38,960
-J'allais le dire
-quand tu m'as sauté au cou.
+00:20:31,960 --> 00:20:35,120
+-O quê? Você achou que eu era
+uma das suas fãs?
 
 469
-00:20:39,160 --> 00:20:40,400
-"Tu es une fan ?"
+00:20:35,360 --> 00:20:36,160
+-É... sim.
 
 470
-00:20:40,640 --> 00:20:41,640
--Tu vois, Tom ?
+00:20:36,360 --> 00:20:38,960
+Eu ia perguntar aquilo
+quando você pulou no meu pescoço.
 
 471
-00:20:41,840 --> 00:20:44,520
-Ta fille peut gérer elle-même
-ses peines de coeur.
+00:20:39,160 --> 00:20:40,400
+"Você é uma fã?"
 
 472
-00:20:44,760 --> 00:20:46,680
-Même s'il n'aime pas Marinette,
+00:20:40,640 --> 00:20:41,640
+-Está vendo, Tom?
 
 473
-00:20:46,880 --> 00:20:49,280
-Chat Noir a tout fait
-pour la sauver.
+00:20:41,840 --> 00:20:44,520
+A sua filha sabe lidar muito bem
+com as suas dores de cotovelo.
 
 474
-00:20:49,480 --> 00:20:50,400
--C'est juste !
+00:20:44,760 --> 00:20:46,680
+Mesmo não amando a Marinette,
 
 475
-00:20:50,600 --> 00:20:53,520
-Vous avez la détermination
-des meilleurs pâtissiers.
+00:20:46,880 --> 00:20:49,280
+o Chat Noir fez de tudo
+para salvá-la.
 
 476
-00:20:53,720 --> 00:20:56,680
-Vous êtes sûr de ne pas vouloir
-apprendre le métier ?
+00:20:49,480 --> 00:20:50,400
+-É verdade!
 
 477
-00:20:56,920 --> 00:20:59,920
-Si vous apportez des croissants
-le matin à Ladybug,
+00:20:50,600 --> 00:20:53,520
+Você tem a determinação
+dos melhores confeiteiros.
 
 478
-00:21:00,120 --> 00:21:02,160
-elle finira forcément par craquer !
+00:20:53,720 --> 00:20:56,680
+Tem certeza de que não quer
+aprender a profissão?
 
 479
-00:21:02,400 --> 00:21:03,560
--Papa !
+00:20:56,920 --> 00:20:59,920
+Se você levar croissants
+de manhã para a Ladybug,
 
 480
-00:21:03,800 --> 00:21:05,160
--Euh...
-Rires
+00:21:00,120 --> 00:21:02,160
+ela vai acabar gamando em você!
 
 481
-00:21:05,400 --> 00:21:06,800
-Sous-titrage : Nice Fellow
+00:21:02,400 --> 00:21:03,560
+-Pai!
 
 482
+00:21:03,800 --> 00:21:05,160
+-Er...
+Risadas
+
+483
+00:21:05,400 --> 00:21:06,800
+Legendas por: eliascsc
+
+484
 00:21:10,239 --> 00:21:10,240
 ...
