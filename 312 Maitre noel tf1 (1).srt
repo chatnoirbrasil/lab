@@ -1,39 +1,39 @@
-﻿1
+1
 00:00:00,080 --> 00:00:01,680
 ...
 
 2
 00:00:01,920 --> 00:00:03,440
-Je m'appelle Marinette.
+Meu nome é Marinette.
 
 3
 00:00:03,640 --> 00:00:05,840
-Une fille comme les autres.
+Uma garota como qualquer outra.
 
 4
 00:00:06,080 --> 00:00:09,200
-Quand le destin me choisit
-pour lutter contre le mal,
+Quando o destino me escolhe
+para lutar contra o mal,
 
 5
 00:00:09,400 --> 00:00:12,120
-je deviens Miraculous Ladybug.
+eu me torno Miraculous Ladybug.
 
 6
 00:00:12,320 --> 00:00:14,720
--Miraculous porte-bonheur
+-Miraculous amuleto da sorte
 
 7
 00:00:14,960 --> 00:00:17,880
-Lady magique et lady chance
+Lady mágica e Lady sorte
 
 8
 00:00:18,080 --> 00:00:20,280
-Miraculous, lady du coeur
+Miraculous, lady do coração
 
 9
 00:00:20,520 --> 00:00:23,720
-Etre héroïque en cas d'urgence
+Sendo heroica em caso de emergência
 
 10
 00:00:23,920 --> 00:00:26,520
@@ -41,369 +41,369 @@ Miraculous
 
 11
 00:00:28,880 --> 00:00:31,360
--Tu ne veux pas jouer
-avec ces poupées ?
+-Você não quer brincar
+com essas bonecas?
 
 12
 00:00:31,600 --> 00:00:33,360
--J'aime pas les poupées,
+-Eu não gosto de bonecas,
 
 13
 00:00:33,560 --> 00:00:35,160
-j'aime pas les jouets !
+eu não gosto de brinquedos!
 
 14
 00:00:35,400 --> 00:00:37,280
-C'est pour les bébés !
--Oui.
+Isso é para bebês!
+-Sim.
 
 15
 00:00:37,520 --> 00:00:39,960
-Mais t'es trop jeune
-pour Monster 3.
+Mas você é muito jovem
+para Monster 3.
 
 16
 00:00:40,200 --> 00:00:43,560
--C'est pas vrai
-et j'ai plus peur des monstres.
+-Não é verdade
+e eu não tenho mais medo de monstros.
 
 17
 00:00:43,800 --> 00:00:46,920
-Car je suis...
--Un grand garçon, je sais.
+Porque eu sou...
+-Um garotão, eu sei.
 
 18
 00:00:48,600 --> 00:00:50,640
-Rugissement
+Rugido
 
 19
 00:00:50,880 --> 00:00:54,840
-Et si on regardait le DVD
-de "Patati et Patato" ?
+E se a gente assistisse ao DVD
+do "Patati e Patato"?
 
 20
 00:00:55,080 --> 00:00:56,520
--C'est pour les bébés.
+-Isso é para bebês.
 
 21
 00:00:56,760 --> 00:00:58,440
-Je suis un grand garçon.
+Eu sou um garotão.
 
 22
 00:00:59,880 --> 00:01:01,640
--On pourrait jouer avec...
+-A gente podia brincar com...
 
 23
 00:01:01,880 --> 00:01:03,640
-Cette boule à neige.
--Non !
+Esse globo de neve.
+-Não!
 
 24
 00:01:05,800 --> 00:01:06,960
-Elle soupire.
+Ela suspira.
 
 25
 00:01:07,160 --> 00:01:08,760
-Hey. C'est quoi, ça ?
+Ei. O que é isso?
 
 26
 00:01:09,000 --> 00:01:12,000
-Y a plein de cadeaux.
--C'est rien du tout.
+Tem um monte de presentes.
+-Não é nada não.
 
 27
 00:01:12,240 --> 00:01:14,280
--C'est pas juste. Montre-moi.
+-Não é justo. Mostra para mim.
 
 28
 00:01:14,480 --> 00:01:15,960
-C'est quoi, ces cadeaux ?
+O que são esses presentes?
 
 29
 00:01:16,200 --> 00:01:17,320
--Euh...
+-Er...
 
 30
 00:01:18,160 --> 00:01:22,040
-Je peux pas dire que ce sont
-les cadeaux pour Adrien.
+Eu não posso dizer que são
+os presentes para o Adrien.
 
 31
 00:01:22,240 --> 00:01:24,920
-Tu le dirais à Nino.
-Et Adrien penserait
+Você contaria para o Nino.
+E o Adrien pensaria
 
 32
 00:01:25,160 --> 00:01:26,400
-que je suis folle.
+que eu sou louca.
 
 33
 00:01:26,640 --> 00:01:28,160
-Il aurait pas tort.
+E ele não estaria errado.
 
 34
 00:01:31,200 --> 00:01:34,960
-En fait, je suis un lutin
-du Père Noël en mission.
+Na verdade, eu sou um duende
+do Papai Noel em missão.
 
 35
 00:01:35,160 --> 00:01:37,480
-Et je garde des cadeaux pour lui.
+E estou guardando presentes para ele.
 
 36
 00:01:37,680 --> 00:01:39,280
-Mais ça ne t'intéresse pas.
+Mas isso não te interessa.
 
 37
 00:01:39,480 --> 00:01:42,080
-Tu trouves que c'est
-pour les bébés.
+Você acha que isso é
+para bebês.
 
 38
 00:01:42,320 --> 00:01:43,760
-Toi, t'es un grand.
+Você é um garotão.
 
 39
 00:01:43,960 --> 00:01:45,520
--C'est même pas vrai !
+-Isso nem é verdade!
 
 40
 00:01:45,760 --> 00:01:47,240
--Que t'es un grand ?
+-Que você é um garotão?
 
 41
 00:01:47,480 --> 00:01:50,480
--Non, que t'es un lutin
-du Père Noël.
+-Não, que você é um duende
+do Papai Noel.
 
 42
 00:01:50,720 --> 00:01:52,840
--Je ne peux pas t'en dire plus.
+-Eu não posso te contar mais nada.
 
 43
 00:01:53,080 --> 00:01:56,760
--Ca veut dire que tu peux
-me donner mon cadeau !
+-Isso significa que você pode
+me dar o meu presente!
 
 44
 00:01:56,960 --> 00:01:58,880
-Grobotec Ultimate Destructor !
+Grobotec Ultimate Destructor!
 
 45
 00:01:59,120 --> 00:02:01,840
-Ca doit être le plus gros paquet.
+Deve ser o maior pacote de todos.
 
 46
 00:02:02,040 --> 00:02:04,760
--Les jouets,
-c'est pas pour les bébés ?
+-Brinquedos
+não são para bebês?
 
 47
 00:02:04,960 --> 00:02:05,720
--C'est vrai.
+-É verdade.
 
 48
 00:02:05,960 --> 00:02:08,840
-Mais Grobotec, c'est pas pareil.
+Mas o Grobotec não é igual aos outros.
 
 49
 00:02:09,080 --> 00:02:10,360
--Ah oui ? Vraiment ?
+-Ah é? Sério mesmo?
 
 50
 00:02:10,560 --> 00:02:14,960
-Les règles sont strictes :
-on n'ouvre pas les cadeaux avant.
+As regras são rígidas:
+não se abrem os presentes antes da hora.
 
 51
 00:02:15,160 --> 00:02:18,080
-Le Père Noël passe à Noël,
-pas à Pâques.
+O Papai Noel passa no Natal,
+não na Páscoa.
 
 52
 00:02:18,280 --> 00:02:21,240
-Sinon, un lapin
-donnerait les cadeaux.
+Senão, um coelhinho
+ia distribuir os presentes.
 
 53
 00:02:21,480 --> 00:02:23,960
--Mais comme tu le connais bien,
+-Mas como você conhece ele bem,
 
 54
 00:02:24,160 --> 00:02:27,280
-tu peux lui demander.
-Téléphone-lui.
+você pode pedir para ele.
+Liga para ele.
 
 55
 00:02:27,520 --> 00:02:28,440
--Oh euh...
+-Oh, er...
 
 56
 00:02:28,640 --> 00:02:31,720
-On ne doit pas le déranger,
-sauf pour Noël.
+Não devemos incomodá-lo,
+exceto no Natal.
 
 57
 00:02:31,920 --> 00:02:34,720
-Le reste du temps,
-il est au pôle Nord.
+No resto do tempo,
+ele fica no Polo Norte.
 
 58
 00:02:34,920 --> 00:02:38,000
-Il s'occupe
-de la production des jouets.
+Ele cuida da
+produção dos brinquedos.
 
 59
 00:02:39,400 --> 00:02:41,480
-Et ton cadeau n'est pas ici.
+E o seu presente não está aqui.
 
 60
 00:02:41,680 --> 00:02:44,240
-On n'a pas les cadeaux
-de nos proches.
+A gente não tem os presentes
+das pessoas queridas.
 
 61
 00:02:44,440 --> 00:02:47,640
-Seul le Père Noël sait où il est.
+Só o Papai Noel sabe onde estão.
 
 62
 00:02:47,880 --> 00:02:51,400
-Il sait pour qui sont
-tous les cadeaux de Noël.
+Ele sabe de quem é
+cada presente de Natal.
 
 63
 00:02:54,720 --> 00:02:57,320
-Il existe une exception à la règle.
+Existe uma exceção à regra.
 
 64
 00:02:57,520 --> 00:02:59,400
--Ah ? Qu'est-ce que c'est ?
+-Ah é? E o que é?
 
 65
 00:02:59,600 --> 00:03:01,680
--Il y a une seule exception,
+-Existe apenas uma exceção,
 
 66
 00:03:01,880 --> 00:03:04,440
-pour l'enfant le plus sage.
+para a criança mais comportada.
 
 67
 00:03:04,680 --> 00:03:06,880
--Qui c'est cet enfant ?
+-Quem é essa criança?
 
 68
 00:03:07,840 --> 00:03:10,200
--Peut-être... Ladybug.
+-Talvez... a Ladybug.
 
 69
 00:03:11,680 --> 00:03:15,040
--Vu qu'elle a sauvé Paris,
-c'est logique.
+-Já que ela salvou Paris,
+faz sentido.
 
 70
 00:03:15,280 --> 00:03:17,440
--Ou c'est peut-être un enfant
+-Ou talvez seja uma criança
 
 71
 00:03:17,640 --> 00:03:21,960
-qui rangerait tout et qui jouerait
-à des jeux de son âge.
+que arruma tudo e que brinca
+com jogos da idade dela.
 
 72
 00:03:24,120 --> 00:03:25,920
--Marinette. On est là !
+-Marinette. Chegamos!
 
 73
 00:03:26,160 --> 00:03:27,040
--Ca a été ?
+-Foi tudo bem?
 
 74
 00:03:27,280 --> 00:03:29,280
--Oui, et vous, c'était bien ?
+-Sim, e com vocês, foi bom?
 
 75
 00:03:29,480 --> 00:03:31,680
--Top ! Merci de l'avoir gardé.
+-Demais! Obrigado por cuidar dele.
 
 76
 00:03:31,880 --> 00:03:33,760
-Ben qu'est-ce qui se passe ?
+Ei, o que está acontecendo?
 
 77
 00:03:34,000 --> 00:03:35,360
-Musique cocasse
+Música cocasse
 
 78
 00:03:35,600 --> 00:03:37,840
--Je veux que ce soit Noël
+-Eu quero que seja Natal
 
 79
 00:03:38,080 --> 00:03:39,760
-tout de suite !
+agora mesmo!
 
 80
 00:03:39,960 --> 00:03:43,640
--Je me demande
-où il est allé chercher cette idée !
+-Eu me pergunto
+de onde ele tirou essa ideia!
 
 81
 00:03:43,840 --> 00:03:47,240
--Il est temps d'y aller.
-Salut, Marinette.
+-Está na hora de ir.
+Tchau, Marinette.
 
 82
 00:03:50,280 --> 00:03:51,760
--A demain au collège.
+-Até amanhã no colégio.
 
 83
 00:03:51,960 --> 00:03:53,640
--A demain, les amis.
+-Até amanhã, amigos.
 
 84
 00:03:53,880 --> 00:03:55,000
-A bientôt, Noël.
+Até logo, Natal.
 
 85
 00:03:56,240 --> 00:03:59,120
--Un lutin du Père Noël en mission ?
+-Um duende do Papai Noel em missão?
 
 86
 00:03:59,360 --> 00:04:01,720
-Tu serais pas allée trop loin ?
+Você não acha que exagerou?
 
 87
 00:04:01,960 --> 00:04:04,160
--Je n'aurais pas dû lui mentir.
+-Eu não deveria ter mentido para ele.
 
 88
 00:04:04,360 --> 00:04:06,520
-Mais j'allais pas dire la vérité.
+Mas eu não podia contar a verdade.
 
 89
 00:04:06,760 --> 00:04:09,760
-Je lui ai seulement dit
-une jolie histoire
+Eu só contei para ele
+uma história bonita
 
 90
 00:04:09,960 --> 00:04:12,000
-qui lui apprendra la patience.
+que vai ensinar paciência para ele.
 
 91
 00:04:12,960 --> 00:04:14,640
-En parlant de patience,
+Falando em paciência,
 
 92
 00:04:14,880 --> 00:04:17,880
-j'ai une idée
-pour les 50 ans d'Adrien.
+eu tenho uma ideia
+para os 50 anos do Adrien.
 
 93
 00:04:18,080 --> 00:04:19,160
-Tu m'aides ?
+Me ajuda?
 
 94
 00:04:20,920 --> 00:04:23,440
-Musique dynamique
+Música dinâmica
 
 95
 00:04:23,680 --> 00:04:33,320
@@ -411,77 +411,77 @@ Musique dynamique
 
 96
 00:04:35,040 --> 00:04:36,680
-Un traîneau vole dehors.
+Um trenó voa lá fora.
 
 97
 00:04:36,920 --> 00:04:38,080
-Oh ! De la neige ?
+Oh! Neve?
 
 98
 00:04:39,600 --> 00:04:41,920
-J'ai dormi combien de temps ?
+Eu dormi por quanto tempo?
 
 99
 00:04:43,160 --> 00:04:43,960
-Hein ?
+Ué?
 
 100
 00:04:49,120 --> 00:04:51,080
--Père Noël, vous êtes cerné.
+-Papai Noel, o senhor está cercado.
 
 101
 00:04:51,280 --> 00:04:52,480
-Rendez-vous.
+Renda-se.
 
 102
 00:04:52,680 --> 00:04:54,280
-On cherche le Père Noël
+A gente procura o Papai Noel
 
 103
 00:04:54,520 --> 00:04:56,200
-Même dans les poubelles
+Até no lixo
 
 104
 00:04:56,400 --> 00:04:59,000
-Ils répètent en choeur.
+Eles repetem em coro.
 
 105
 00:04:59,240 --> 00:05:01,320
--Retournez sur le trottoir.
+-Voltem para a calçada.
 
 106
 00:05:01,520 --> 00:05:03,320
-Ne courez pas sur la route !
+Não corram na rua!
 
 107
 00:05:03,520 --> 00:05:04,560
--Père Noël ?
+-Papai Noel?
 
 108
 00:05:04,800 --> 00:05:06,240
-Où il est ?
-Il crie.
+Onde ele está?
+Ele grita.
 
 109
 00:05:08,040 --> 00:05:10,720
--Ce n'est qu'un rêve.
-Je vais au lit.
+-Isso é só um sonho.
+Vou voltar para a cama.
 
 110
 00:05:12,080 --> 00:05:13,760
-Pourquoi t'as fait ça ?
+Por que você fez isso?
 
 111
 00:05:13,960 --> 00:05:15,880
--Tu as mal. Tu ne rêves pas.
+-Você está com dor. Não está sonhando.
 
 112
 00:05:16,080 --> 00:05:18,400
--Si je suis réveillée, alors...
+-Se eu estou acordada, então...
 
 113
 00:05:18,640 --> 00:05:20,440
-Musique angoissante
+Música angustiante
 
 114
 00:05:20,640 --> 00:05:22,320
@@ -489,15 +489,15 @@ Musique angoissante
 
 115
 00:05:22,560 --> 00:05:24,920
-Ca ressemble à un cauchemar.
+Isso parece um pesadelo.
 
 116
 00:05:25,160 --> 00:05:26,040
-Musique énergique
+Música energética
 
 117
 00:05:26,280 --> 00:05:28,040
-Tikki, transforme-moi !
+Tikki, transformar!
 
 118
 00:05:28,240 --> 00:05:42,560
@@ -505,52 +505,52 @@ Tikki, transforme-moi !
 
 119
 00:05:46,800 --> 00:05:48,960
--Où est le Père Noël ?
+-Onde está o Papai Noel?
 
 120
 00:05:49,160 --> 00:05:52,280
--Le Père Noël ?
-Mais c'est pas encore Noël.
+-O Papai Noel?
+Mas ainda não é Natal.
 
 121
 00:05:53,920 --> 00:05:57,120
--De l'info ?
-J'ai ce qu'il vous faut.
+-Quer notícia?
+Eu tenho o que você precisa.
 
 122
 00:05:57,360 --> 00:05:58,880
-Paris a été envahi
+Paris foi invadida
 
 123
 00:05:59,080 --> 00:06:01,920
-par des jouets
-cherchant le Père Noël.
+por brinquedos
+procurando o Papai Noel.
 
 124
 00:06:04,160 --> 00:06:05,680
--Ici major Nounourski.
+-Aqui é o major Nounourski.
 
 125
 00:06:05,880 --> 00:06:08,360
-Père Noël,
-tes jouets sont avec nous.
+Papai Noel,
+seus brinquedos estão com a gente.
 
 126
 00:06:08,560 --> 00:06:10,040
-Si tu ne te rends pas,
+Se você não se render,
 
 127
 00:06:10,240 --> 00:06:13,080
-les Parisiens diront adieu
-à leur ville.
+os parisienses darão adeus
+à cidade deles.
 
 128
 00:06:15,080 --> 00:06:16,480
--Que se passe-t-il ?
+-O que está acontecendo?
 
 129
 00:06:16,680 --> 00:06:18,960
-Musique tragique
+Música trágica
 
 130
 00:06:19,200 --> 00:06:21,960
@@ -559,41 +559,41 @@ Musique tragique
 131
 00:06:22,200 --> 00:06:24,520
 Chat Noir,
-devine ce que j'ai trouvé.
+adivinha o que eu achei.
 
 132
 00:06:24,760 --> 00:06:28,600
-Je sais. Je suis
-avec le Père Noël à la patinoire.
+Eu sei. Estou
+com o Papai Noel na pista de patinação.
 
 133
 00:06:28,840 --> 00:06:29,800
--Je vous rejoins.
+-Estou indo encontrar vocês.
 
 134
 00:06:30,600 --> 00:06:33,360
--Vous êtes vraiment le Père Noël ?
+-O senhor é o Papai Noel mesmo?
 
 135
 00:06:33,560 --> 00:06:35,720
--Non, je suis le lapin de Pâques.
+-Não, sou o coelhinho da Páscoa.
 
 136
 00:06:35,920 --> 00:06:38,240
-Mais on ne voit pas mes oreilles.
+Mas não dá para ver minhas orelhas.
 
 137
 00:06:38,440 --> 00:06:40,440
-Mais oui, je suis le Père Noël.
+Mas sim, eu sou o Papai Noel.
 
 138
 00:06:40,640 --> 00:06:44,280
--Vous le savez déjà,
-mais j'ai été très sage.
+-Você já sabe,
+mas eu fui muito comportado.
 
 139
 00:06:46,440 --> 00:06:48,120
-Musique inquiétante
+Música inquiétante
 
 140
 00:06:48,360 --> 00:06:54,000
@@ -601,195 +601,195 @@ Musique inquiétante
 
 141
 00:06:54,200 --> 00:06:57,120
--Ca sent le feu de bois
-et les biscuits.
+-Tem cheiro de lenha
+e de biscoitos.
 
 142
 00:06:57,320 --> 00:06:59,520
-C'est la piste du Père Noël.
+É a pista do Papai Noel.
 
 143
 00:07:00,120 --> 00:07:02,160
-Soldats, en formation !
+Soldados, em formação!
 
 144
 00:07:02,880 --> 00:07:04,880
--A VOS ORDRES, COLONEL !
+-ÀS SUAS ORDENS, CORONEL!
 
 145
 00:07:07,240 --> 00:07:10,600
-ON CHERCHE LE PERE NOEL
-MEME DANS LES POUBELLES
+A GENTE PROCURA O PAPAI NOEL
+ATÉ NO LIXO
 
 146
 00:07:13,320 --> 00:07:15,200
--Pour Luna, Maya et Thalia.
+-Para Luna, Maya e Thalia.
 
 147
 00:07:15,440 --> 00:07:18,360
-Mes filles vont halluciner !
+Minhas filhas vão pirar!
 
 148
 00:07:18,560 --> 00:07:19,480
--Père Noël ?
+-Papai Noel?
 
 149
 00:07:19,720 --> 00:07:22,760
-Je suis ravie,
-mais que faites-vous là ?
+Estou adorando,
+mas o que o senhor faz aqui?
 
 150
 00:07:22,960 --> 00:07:23,960
-C'est pas Noël.
+Não é Natal.
 
 151
 00:07:24,200 --> 00:07:25,920
--Je n'en ai aucune idée.
+-Eu não faço a menor ideia.
 
 152
 00:07:26,120 --> 00:07:29,120
-J'étais au pôle Nord
-à m'occuper des jouets
+Eu estava no Polo Norte
+cuidando dos brinquedos
 
 153
 00:07:29,320 --> 00:07:32,040
-avec mes lutins,
-quand soudain, paf !
+com meus duendes,
+quando, de repente, paf!
 
 154
 00:07:32,240 --> 00:07:34,960
-Je me réveille
-juste au-dessus de Paris.
+Eu acordo
+bem em cima de Paris.
 
 155
 00:07:35,160 --> 00:07:37,000
-Des poissons m'ont attaqué.
+Peixes me atacaram.
 
 156
 00:07:37,240 --> 00:07:39,560
-Mes rennes ont réussi à s'enfuir,
+Minhas renas conseguiram fugir,
 
 157
 00:07:39,760 --> 00:07:41,960
-mais j'allais être capturé.
+mas eu estava prestes a ser capturado.
 
 158
 00:07:42,160 --> 00:07:44,720
-(-Tu trouves pas ça très étrange ?)
+(-Você não acha isso estranho?)
 
 159
 00:07:44,920 --> 00:07:49,000
--Plus étrange qu'affronter
-le maître des pigeons
+-Mais estranho do que enfrentar
+o Sr. Pombo
 
 160
 00:07:49,200 --> 00:07:51,280
-à cause de papillons magiques ?
+por causa de borboletas mágicas?
 
 161
 00:07:54,800 --> 00:07:56,840
--Mouahaha ! Trouvé !
+-Mouahaha! Achei!
 
 162
 00:08:00,480 --> 00:08:03,760
-Personne n'échappe
-au flair du colonel !
+Ninguém escapa
+do faro do coronel!
 
 163
 00:08:04,000 --> 00:08:06,920
--Suivez-moi !
--Reculez, Père Noël !
+-Me sigam!
+-Recue, Papai Noel!
 
 164
 00:08:07,160 --> 00:08:09,560
--Maître Noël exige son cadeau.
+-Mestre Natal quer seu presente.
 
 165
 00:08:09,800 --> 00:08:10,880
--Maître Noël ?
+-Mestre Natal?
 
 166
 00:08:11,080 --> 00:08:14,240
--Les cadeaux de Noël,
-ça se mérite.
+-Os presentes de Natal,
+isso a gente merece.
 
 167
 00:08:14,440 --> 00:08:17,960
-Il y a des règles.
-Et c'est pas pour les chiens.
+Existem regras.
+E não é para cachorro.
 
 168
 00:08:18,200 --> 00:08:19,440
--Attendez un peu.
+-Esperem um pouco.
 
 169
 00:08:19,680 --> 00:08:23,080
-Faut pas se disputer.
-C'est pas l'esprit de Noël.
+Não precisam brigar.
+Não é o espírito de Natal.
 
 170
 00:08:24,200 --> 00:08:27,280
-Vous pouvez pas donner
-les cadeaux avant ?
+Vocês não podem dar
+os presentes antes da hora?
 
 171
 00:08:27,480 --> 00:08:28,560
-Juste cette fois !
+Só dessa vez!
 
 172
 00:08:28,760 --> 00:08:30,320
--Ecoutez ce singe.
+-Escutem o macaquinho.
 
 173
 00:08:30,560 --> 00:08:32,920
--J'ai demandé des super patins
+-Eu pedi patins super-rápidos
 
 174
 00:08:33,120 --> 00:08:35,040
-pour mon prochain concours.
+para a minha próxima competição.
 
 175
 00:08:35,280 --> 00:08:36,960
--C'est une bonne idée.
+-É uma boa ideia.
 
 176
 00:08:37,200 --> 00:08:39,960
--Stop ! Ca marche pas comme ça.
+-Pare! Não é assim que funciona.
 
 177
 00:08:40,160 --> 00:08:41,760
--ET POURQUOI PAS ?
+-E POR QUE NÃO?
 
 178
 00:08:41,960 --> 00:08:45,680
--Il y a des règles.
-On n'ouvre pas les cadeaux avant.
+-Existem regras.
+Não se abrem os presentes antes.
 
 179
 00:08:45,880 --> 00:08:48,280
-Et je passe à Noël, pas à Pâques.
+E eu passo no Natal, não na Páscoa.
 
 180
 00:08:48,520 --> 00:08:52,320
--SINON, CE SERAIT UN LAPIN
-QUI DONNERAIT LES CADEAUX.
+-SENÃO, SERIA UM COELHO
+QUE IA DISTRIBUIR OS PRESENTES.
 
 181
 00:08:52,520 --> 00:08:54,120
--Qu'est-ce que j'ai fait ?
+-O que eu fiz?
 
 182
 00:08:54,360 --> 00:08:56,080
--Faites...
--Une exception.
+-Façam...
+-Uma exceção.
 
 183
 00:08:56,320 --> 00:08:58,240
--C'est la tradition.
+-É a tradição.
 
 184
 00:08:58,440 --> 00:09:00,680
-Sans elle, c'est la fin de Noël.
+Sem ela, é o fim do Natal.
 
 185
 00:09:00,920 --> 00:09:01,960
@@ -797,106 +797,106 @@ Sans elle, c'est la fin de Noël.
 
 186
 00:09:02,760 --> 00:09:06,840
--J'ai quand même le droit
-de faire une exception.
+-Eu ainda tenho o direito
+de abrir uma exceção.
 
 187
 00:09:07,040 --> 00:09:11,040
--Pour l'enfant le plus sage,
-en haut de votre liste.
+-Para a criança mais comportada,
+no topo da lista.
 
 188
 00:09:11,280 --> 00:09:15,600
--Bravo, Ladybug. Enfin quelqu'un
-qui connaît les règles.
+-Muito bem, Ladybug. Finalmente alguém
+que conhece as regras.
 
 189
 00:09:15,800 --> 00:09:19,440
-Votre Maître Noël
-ne doit pas être le plus sage.
+O seu Mestre Natal
+não deve ser o mais comportado.
 
 190
 00:09:20,200 --> 00:09:22,320
--Dans ce cas, soldats !
+-Sendo assim, soldados!
 
 191
 00:09:22,560 --> 00:09:24,560
-A l'attaque !
--A L'ATTAQUE !
+Ao ataque!
+-AO ATAQUE!
 
 192
 00:09:24,800 --> 00:09:25,760
-Ils crient.
+Eles gritam.
 
 193
 00:09:26,000 --> 00:09:27,680
--Pourquoi tant de haine ?
+-Por que tanto ódio?
 
 194
 00:09:27,920 --> 00:09:31,440
--OOHHHH !
+-OOHHHH!
 
 195
 00:09:32,880 --> 00:09:36,480
--Protégez le Père Noël.
-Je m'occupe des jouets.
+-Protejam o Papai Noel.
+Eu cuido dos brinquedos.
 
 196
 00:09:40,160 --> 00:09:43,440
-Triple axel, pirouette,
-double boucle piquée.
+Eles gritam.
+Pirueta, salto triplo, salto duplo.
 
 197
 00:09:43,680 --> 00:09:45,760
-On fait moins les malins !
+Não estão tão espertos assim!
 
 198
 00:09:47,080 --> 00:09:50,120
-Grandes dents pour un jouet.
-Au secours !
+Dentes grandes para um brinquedo.
+Socorro!
 
 199
 00:09:50,360 --> 00:09:53,960
--Je sais qui est le maître.
-J'aurais dû y penser.
+-Eu sei quem é o mestre.
+Eu deveria ter pensado nisso.
 
 200
 00:09:54,200 --> 00:09:55,480
--Qui c'est, alors ?
+-Quem é, então?
 
 201
 00:09:55,720 --> 00:09:57,880
--J'aimerais vérifier avant.
+-Eu gostaria de verificar primeiro.
 
 202
 00:09:58,080 --> 00:09:59,200
-Vous permettez ?
+Podem me dar licença?
 
 203
 00:10:02,160 --> 00:10:04,080
-Elle sent le bonnet.
+Ela cheira o gorro.
 
 204
 00:10:04,280 --> 00:10:07,000
-Ca sent le feu de bois
-et les biscuits.
+Cheira a lenha
+e a biscoitos.
 
 205
 00:10:07,200 --> 00:10:09,440
-C'est vraiment l'odeur de Noël.
+Esse é o cheiro do Natal de verdade.
 
 206
 00:10:09,680 --> 00:10:11,480
-A toi de jouer.
--Suivez-moi.
+Agora é com você.
+-Me sigam.
 
 207
 00:10:11,720 --> 00:10:13,160
-Je sens son odeur.
+Eu sinto o cheiro dele.
 
 208
 00:10:13,400 --> 00:10:16,040
-Musique épique
+Música épica
 
 209
 00:10:16,240 --> 00:10:19,560
@@ -904,29 +904,29 @@ Musique épique
 
 210
 00:10:19,800 --> 00:10:22,440
--Oh oh !
-Je vous souhaite un bon Noël.
+-Oh oh!
+Desejo a vocês um feliz Natal.
 
 211
 00:10:23,360 --> 00:10:24,840
--Le voilà. Je le sens.
+-Achei. Eu sinto.
 
 212
 00:10:25,080 --> 00:10:26,080
-Il est là.
+Ele está ali.
 
 213
 00:10:27,160 --> 00:10:28,000
-Suivez-moi.
+Me sigam.
 
 214
 00:10:29,680 --> 00:10:32,320
--En route. Je sais
-où est Maître Noël.
+-Vamos lá. Eu sei
+onde está o Mestre Natal.
 
 215
 00:10:32,520 --> 00:10:34,400
-Musique douce
+Música suave
 
 216
 00:10:34,600 --> 00:10:36,160
@@ -934,68 +934,68 @@ Musique douce
 
 217
 00:10:36,360 --> 00:10:37,160
--Noël !
+-Natal!
 
 218
 00:10:37,400 --> 00:10:39,160
-Noël ! Noël !
+Natal! Natal!
 
 219
 00:10:39,360 --> 00:10:40,400
-Oh Ladybug !
+Oh Ladybug!
 
 220
 00:10:40,640 --> 00:10:43,920
-Mon petit frère Noël a disparu.
+O meu irmãozinho Natal sumiu.
 
 221
 00:10:44,680 --> 00:10:46,000
-C'est le Père Noël ?
+É o Papai Noel?
 
 222
 00:10:46,240 --> 00:10:48,320
--Ah ah ! Bonjour, Nino.
+-Ah ah! Bom dia, Nino.
 
 223
 00:10:48,560 --> 00:10:49,720
--Il a été akumatisé.
+-Ele foi akumatizado.
 
 224
 00:10:49,960 --> 00:10:53,400
-T'as vu quelque chose
-dans sa chambre ?
+Você viu alguma coisa
+no quarto dele?
 
 225
 00:10:53,640 --> 00:10:55,720
--Ses jouets ne sont plus là.
+-Os brinquedos dele não estão mais aqui.
 
 226
 00:10:55,960 --> 00:10:57,480
--Des soldats, un chien ?
+-Soldadinhos, um cachorro?
 
 227
 00:10:57,720 --> 00:10:59,480
--Oui, et son dinosaure.
+-Sim, e o dinossauro dele.
 
 228
 00:10:59,680 --> 00:11:01,840
--C'est le maître des jouets.
+-É o Mestre dos Brinquedos.
 
 229
 00:11:02,040 --> 00:11:04,440
-Comment je vais le retrouver ?
+Como eu vou encontrá-lo?
 
 230
 00:11:04,640 --> 00:11:06,400
--Sauve mon petit frère.
+-Salve meu irmãozinho.
 
 231
 00:11:09,480 --> 00:11:10,600
--Lucky Charm !
+-Talismã!
 
 232
 00:11:10,800 --> 00:11:11,920
-Musique rythmée
+Música rythmée
 
 233
 00:11:12,160 --> 00:11:16,480
@@ -1003,47 +1003,47 @@ Musique rythmée
 
 234
 00:11:16,720 --> 00:11:17,920
-Un carnet ?
+Um caderno?
 
 235
 00:11:18,160 --> 00:11:22,040
--Tu fais apparaître
-des cadeaux surprise, Ladybug ?
+-Você está fazendo
+presentes surpresa aparecerem, Ladybug?
 
 236
 00:11:25,000 --> 00:11:28,000
--Vous avez raison.
-Un cadeau surprise !
+-Você tem razão.
+Um presente surpresa!
 
 237
 00:11:32,000 --> 00:11:34,800
-Je peux avoir
-mon cadeau tout de suite ?
+Eu posso ganhar
+o meu presente agora?
 
 238
 00:11:35,560 --> 00:11:37,680
--Ce n'est pas la règle.
+-Essa não é a regra.
 
 239
 00:11:37,920 --> 00:11:39,080
--Sauf si...
+-A não ser que...
 
 240
 00:11:39,320 --> 00:11:42,520
--Sauf si c'est l'enfant
-le plus sage, mais...
+-A não ser que seja a criança
+mais comportada, mas...
 
 241
 00:11:42,760 --> 00:11:44,360
--Je peux essayer.
+-Eu posso tentar.
 
 242
 00:11:44,600 --> 00:11:46,280
-Musique cocasse
+Música cocasse
 
 243
 00:11:47,960 --> 00:11:49,880
-Musique féerique
+Música féerique
 
 244
 00:11:50,120 --> 00:11:53,920
@@ -1051,70 +1051,70 @@ Musique féerique
 
 245
 00:11:54,120 --> 00:11:56,240
--J'en crois pas mes yeux !
+-Não acredito no que estou vendo!
 
 246
 00:11:56,440 --> 00:11:58,360
-C'est toi qui es la plus sage
+Você é a criança mais comportada
 
 247
 00:11:58,600 --> 00:11:59,480
-du monde.
+do mundo.
 
 248
 00:11:59,680 --> 00:12:03,280
--Vu qu'elle a sauvé Paris,
-c'est assez logique.
+-Já que ela salvou Paris,
+faz sentido.
 
 249
 00:12:05,720 --> 00:12:08,760
--"Je veux le même cadeau
-que Noël Lahiffe,
+-"Eu quero o mesmo presente
+que o Natal Lahiffe,
 
 250
 00:12:08,960 --> 00:12:10,720
-"peu importe ce que c'est."
+"não importa o que seja."
 
 251
 00:12:10,920 --> 00:12:12,560
-Tu es sûre de toi ?
+Você tem certeza disso?
 
 252
 00:12:12,760 --> 00:12:16,080
-Tu n'auras pas
-d'autre cadeau cette année.
+Você não vai ganhar
+mais nenhum presente este ano.
 
 253
 00:12:16,320 --> 00:12:19,600
--C'est pour sauver
-Paris et son frère.
+-É para salvar
+Paris e o irmãozinho dele.
 
 254
 00:12:20,920 --> 00:12:23,960
--Tu as bien mérité
-ta place sur ma liste.
+-Você mereceu
+o seu lugar na minha lista.
 
 255
 00:12:24,200 --> 00:12:26,440
-Je te souhaite un Joyeux Noël.
+Desejo a você um Feliz Natal.
 
 256
 00:12:26,680 --> 00:12:30,040
--Merci. Allez à l'abri.
-Je m'occupe du reste.
+-Obrigada. Vá se esconder.
+Eu cuido do resto.
 
 257
 00:12:30,280 --> 00:12:33,880
--Dites, je suis
-à quelle place sur la liste ?
+-Ei, eu estou
+em qual posição na lista?
 
 258
 00:12:34,080 --> 00:12:36,280
-Musique cocasse
+Música cocasse
 
 259
 00:12:36,480 --> 00:12:37,280
--Alors...
+-Então...
 
 260
 00:12:37,480 --> 00:12:39,400
@@ -1122,7 +1122,7 @@ Musique cocasse
 
 261
 00:12:41,560 --> 00:12:43,520
-Musique d'aventure
+Música de aventura
 
 262
 00:12:43,720 --> 00:12:48,240
@@ -1130,20 +1130,20 @@ Musique d'aventure
 
 263
 00:12:49,320 --> 00:12:52,200
--Maître Noël,
-c'est moi qui ai ton cadeau.
+-Mestre Natal,
+sou eu que estou com o seu presente.
 
 264
 00:12:52,400 --> 00:12:53,840
-Viens le chercher.
+Venha buscar.
 
 265
 00:12:54,080 --> 00:12:54,920
-Hein ?
+Ué?
 
 266
 00:13:01,240 --> 00:13:02,800
-Musique énergique
+Música energética
 
 267
 00:13:03,040 --> 00:13:05,760
@@ -1151,7 +1151,7 @@ Musique énergique
 
 268
 00:13:06,000 --> 00:13:07,960
-Musique inquiétante
+Música inquiétante
 
 269
 00:13:08,160 --> 00:13:29,560
@@ -1159,88 +1159,88 @@ Musique inquiétante
 
 270
 00:13:29,760 --> 00:13:30,520
--Oh !
+-Oh!
 
 271
 00:13:32,680 --> 00:13:33,600
-Il rit.
+Ele ri.
 
 272
 00:13:33,800 --> 00:13:34,720
--Ouais !
+-Isso!
 
 273
 00:13:36,520 --> 00:13:37,760
-Waouh ! Génial !
+Uau! Genial!
 
 274
 00:13:38,000 --> 00:13:40,280
-Grobotec Ultimate Destructor !
+Grobotec Ultimate Destructor!
 
 275
 00:13:40,520 --> 00:13:41,400
--Et voilà,
+-E pronto,
 
 276
 00:13:41,640 --> 00:13:42,560
-Maître Noël.
+Mestre Natal.
 
 277
 00:13:42,800 --> 00:13:44,200
--On a le Père Noël.
+-Pegamos o Papai Noel.
 
 278
 00:13:44,400 --> 00:13:48,240
--Il s'est déguisé en Chat Noir,
-mais on l'a démasqué.
+-Ele se fantasiou de Chat Noir,
+mas a gente o desmascarou.
 
 279
 00:13:49,800 --> 00:13:51,200
--Vous êtes nuls.
+-Vocês são inúteis.
 
 280
 00:13:51,400 --> 00:13:54,640
-C'est Chat Noir
-avec le bonnet du Père Noël.
+É o Chat Noir
+com o gorro do Papai Noel.
 
 281
 00:13:54,880 --> 00:13:56,920
-Bande de bébés ! Trouvez-le !
+Bando de bebês! Achem ele!
 
 282
 00:13:59,160 --> 00:14:01,680
--Peu importe, Maître Noël.
+-Não importa, Mestre Natal.
 
 283
 00:14:01,920 --> 00:14:05,720
-Le Père Noël ne sert à rien
-vu que tu as ton cadeau.
+O Papai Noel não serve para nada
+já que você tem o seu presente.
 
 284
 00:14:05,920 --> 00:14:09,120
-Moi, par contre,
-je n'ai pas le mien.
+Eu, por outro lado,
+ainda não ganhei o meu.
 
 285
 00:14:09,320 --> 00:14:11,720
-Prends le miraculous de Chat Noir.
+Pegue o miraculous do Chat Noir.
 
 286
 00:14:11,920 --> 00:14:15,520
-Il ne manquera plus
-que le bijou de Ladybug.
+Só vai faltar
+o brinco da Ladybug.
 
 287
 00:14:15,720 --> 00:14:18,240
--Le papillon veut ta bague.
+-O Hawk Moth quer o seu anel.
 
 288
 00:14:18,480 --> 00:14:21,360
-C'est nul comme cadeau, mais bon.
+Um presente bem sem graça, mas tá valendo.
 
 289
 00:14:22,160 --> 00:14:23,400
-Musique énergique
+Música energética
 
 290
 00:14:23,640 --> 00:14:26,560
@@ -1248,75 +1248,75 @@ Musique énergique
 
 291
 00:14:27,720 --> 00:14:31,960
--Noël, c'est le 25 décembre
-pour les enfants sages.
+-Natal é dia 25 de dezembro
+para crianças comportadas.
 
 292
 00:14:32,160 --> 00:14:35,320
-Le papillon et toi
-n'êtes pas vraiment sages.
+Você e o Hawk Moth
+não são muito comportados.
 
 293
 00:14:35,560 --> 00:14:37,440
--Tu fais erreur, Ladybug.
+-Você está enganada, Ladybug.
 
 294
 00:14:37,640 --> 00:14:40,120
-Tu m'apportes mon 2e cadeau.
+Você está me dando o meu segundo presente.
 
 295
 00:14:40,320 --> 00:14:44,160
-Ca prouve que j'ai été sage
-toute cette année.
+Isso prova que eu fui comportado
+durante este ano todo.
 
 296
 00:14:44,360 --> 00:14:46,720
-Sers-toi de tes pouvoirs, Noël.
+Use seus poderes, Natal.
 
 297
 00:14:46,920 --> 00:14:48,600
-Prends leurs miraculous.
+Pegue os miraculous deles.
 
 298
 00:14:51,480 --> 00:14:55,000
--J'ai mes armes secrètes
-pour vous battre.
+-Eu tenho armas secretas
+para vencer vocês.
 
 299
 00:14:55,200 --> 00:14:56,360
-C'est vos doubles.
+São as suas cópias.
 
 300
 00:15:01,760 --> 00:15:03,320
-Musique inquiétante
+Música inquiétante
 
 301
 00:15:04,760 --> 00:15:05,720
-Maître Noël rit.
+Mestre Natal ri.
 
 302
 00:15:05,920 --> 00:15:07,120
-Amusez-vous bien.
+Divirtam-se.
 
 303
 00:15:07,360 --> 00:15:10,200
--L'akuma est dans sa boule à neige.
+-O akuma está no globo de neve dele.
 
 304
 00:15:10,400 --> 00:15:12,080
--Affrontons-nous.
+-Vamos enfrentá-los.
 
 305
 00:15:12,320 --> 00:15:13,520
-*-Lucky Charm !
+*-Talismã!
 
 306
 00:15:14,720 --> 00:15:15,800
-*-Cataclysme !
+*-Cataclismo!
 
 307
 00:15:17,160 --> 00:15:19,000
-Musique rythmée
+Música rythmée
 
 308
 00:15:19,240 --> 00:15:32,920
@@ -1324,35 +1324,35 @@ Musique rythmée
 
 309
 00:15:33,160 --> 00:15:34,360
-*-Lucky Charm !
+*-Talismã!
 
 310
 00:15:35,440 --> 00:15:36,640
-*-Cataclysme !
+*-Cataclismo!
 
 311
 00:15:37,720 --> 00:15:39,440
--Ce n'est jamais terminé.
+-Isso nunca acaba.
 
 312
 00:15:39,640 --> 00:15:41,880
--Mon temps est presque écoulé.
+-Meu tempo está acabando.
 
 313
 00:15:42,080 --> 00:15:44,160
-Je vais me détransformer.
+Vou me destransformar.
 
 314
 00:15:44,360 --> 00:15:45,480
--Attention !
+-Cuidado!
 
 315
 00:15:45,720 --> 00:15:48,040
-On va leur montrer qui on est.
+Vamos mostrar para eles quem somos.
 
 316
 00:15:48,280 --> 00:15:49,640
-Musique énergique
+Música energética
 
 317
 00:15:49,840 --> 00:15:55,000
@@ -1360,36 +1360,36 @@ Musique énergique
 
 318
 00:15:55,240 --> 00:15:57,080
-Maître Noël rit.
+Mestre Natal ri.
 
 319
 00:15:57,320 --> 00:15:59,680
--Mes jouets vont vous écraser !
+-Meus brinquedos vão esmagar vocês!
 
 320
 00:15:59,880 --> 00:16:02,120
-Vous êtes 2 gros bébés.
+Vocês são dois bebês enormes.
 
 321
 00:16:05,000 --> 00:16:06,480
-Il rit.
+Ele ri.
 
 322
 00:16:06,680 --> 00:16:10,200
--Dans peu de temps,
-les miraculous seront à moi.
+-Em pouco tempo,
+os miraculous serão meus.
 
 323
 00:16:10,400 --> 00:16:12,480
-C'est Noël avant l'heure.
+É Natal antes da hora.
 
 324
 00:16:12,720 --> 00:16:14,000
-*-Lucky Charm !
+*-Talismã!
 
 325
 00:16:14,200 --> 00:16:16,400
-Musique énergique
+Música energética
 
 326
 00:16:16,640 --> 00:16:21,080
@@ -1397,83 +1397,83 @@ Musique énergique
 
 327
 00:16:21,320 --> 00:16:22,320
-*-Cataclysme !
+*-Cataclismo!
 
 328
 00:16:22,560 --> 00:16:25,080
--Je pourrais utiliser mon pouvoir.
+-Eu poderia usar o meu poder.
 
 329
 00:16:25,320 --> 00:16:26,640
-*-Lucky Charm !
+*-Talismã!
 
 330
 00:16:26,880 --> 00:16:27,880
--Pas le choix.
+-Não tem jeito.
 
 331
 00:16:28,120 --> 00:16:30,680
-Mais il faut aussi casser la boule.
+Mas eu também preciso quebrar o globo.
 
 332
 00:16:31,760 --> 00:16:32,640
--Oh oh oh !
+-Oh oh oh!
 
 333
 00:16:32,880 --> 00:16:34,640
-Bas les pattes, les jouets !
+Fora daqui, brinquedos!
 
 334
 00:16:37,480 --> 00:16:38,440
--LE PERE NOEL !
+-O PAPAI NOEL!
 
 335
 00:16:41,000 --> 00:16:42,320
--A ton service !
+-À sua disposição!
 
 336
 00:16:42,520 --> 00:16:46,160
-Je vais rien laisser arriver
-à l'enfant le plus sage.
+Eu não vou deixar nada acontecer
+com a criança mais comportada.
 
 337
 00:16:46,360 --> 00:16:47,680
-A moi les figurines !
+Me deem os brinquedos!
 
 338
 00:16:47,920 --> 00:16:51,080
--Tu es l'enfant le plus sage ?
--En personne.
+-Você é a criança mais comportada?
+-Em pessoa.
 
 339
 00:16:51,280 --> 00:16:52,240
--Hey !
+-Ei!
 
 340
 00:16:52,480 --> 00:16:54,960
-C'est de la triche ! Mes jouets !
+Isso é trapaça! Meus brinquedos!
 
 341
 00:16:55,200 --> 00:16:57,280
--Donne-moi la boule à neige.
+-Me dá o globo de neve.
 
 342
 00:16:57,520 --> 00:16:58,800
-Tu as eu ton cadeau.
+Você já ganhou o seu presente.
 
 343
 00:16:59,040 --> 00:17:02,920
--Si tu ne veux pas
-que je reprenne ton cadeau,
+-Se você não quiser
+que eu pegue o seu presente de volta,
 
 344
 00:17:03,160 --> 00:17:06,840
-rapporte les miraculous
-de Ladybug et Chat Noir.
+traga os miraculous
+da Ladybug e do Chat Noir.
 
 345
 00:17:07,080 --> 00:17:08,600
-Musique inquiétante
+Música inquiétante
 
 346
 00:17:08,840 --> 00:17:12,440
@@ -1481,24 +1481,24 @@ Musique inquiétante
 
 347
 00:17:12,680 --> 00:17:13,560
--Non. Stop !
+-Não. Para!
 
 348
 00:17:21,400 --> 00:17:22,480
-Oh non !
+Ah, não!
 
 349
 00:17:22,720 --> 00:17:26,040
--Détruis-les,
+-Destrua-os,
 Grobotec Ultimate Destructor.
 
 350
 00:17:28,560 --> 00:17:29,320
-Ils crient.
+Eles gritam.
 
 351
 00:17:29,560 --> 00:17:30,920
-Musique rythmée
+Música rythmée
 
 352
 00:17:31,160 --> 00:17:33,600
@@ -1506,28 +1506,28 @@ Musique rythmée
 
 353
 00:17:33,840 --> 00:17:35,200
-Il rit.
+Ele ri.
 
 354
 00:17:35,400 --> 00:17:38,200
-Personne ne peut battre Grobotec.
+Ninguém pode vencer o Grobotec.
 
 355
 00:17:38,440 --> 00:17:42,200
--Je peux le tuer.
-Rien ne résiste à mon cataclysme.
+-Eu posso destruí-lo.
+Nada resiste ao meu cataclismo.
 
 356
 00:17:42,440 --> 00:17:44,760
--J'en aurai besoin. Economise-le.
+-Eu vou precisar dele. Economize-o.
 
 357
 00:17:45,000 --> 00:17:48,000
--Tu veux mon miraculous ? Viens !
+-Você quer o meu miraculous? Vem buscar!
 
 358
 00:17:48,240 --> 00:17:49,680
-Musique rythmée
+Música rythmée
 
 359
 00:17:49,920 --> 00:17:55,360
@@ -1535,7 +1535,7 @@ Musique rythmée
 
 360
 00:17:55,600 --> 00:17:56,600
-A toi de jouer !
+Agora é com você!
 
 361
 00:17:56,840 --> 00:17:59,280
@@ -1543,19 +1543,19 @@ A toi de jouer !
 
 362
 00:18:00,120 --> 00:18:00,960
--Stop !
+-Para!
 
 363
 00:18:01,200 --> 00:18:02,480
-Grobotec !
+Grobotec!
 
 364
 00:18:05,600 --> 00:18:06,680
--Cataclysme !
+-Cataclismo!
 
 365
 00:18:06,880 --> 00:18:08,800
-Musique épique
+Música épique
 
 366
 00:18:09,000 --> 00:18:11,080
@@ -1563,53 +1563,53 @@ Musique épique
 
 367
 00:18:11,600 --> 00:18:12,760
--Non !
+-Não!
 
 368
 00:18:13,000 --> 00:18:14,520
-Pas mon jouet !
+Não o meu brinquedo!
 
 369
 00:18:15,280 --> 00:18:18,240
--Tu choisis : ton jouet
-ou la boule à neige.
+-Você escolhe: o seu brinquedo
+ou o globo de neve.
 
 370
 00:18:18,480 --> 00:18:19,760
--Ne l'écoute pas.
+-Não escuta ela.
 
 371
 00:18:20,000 --> 00:18:21,160
--Oh oh oh !
+-Oh oh oh!
 
 372
 00:18:21,400 --> 00:18:24,640
-Obéis à Ladybug.
-Tu ne le regretteras pas.
+Obedeça a Ladybug.
+Você não vai se arrepender.
 
 373
 00:18:30,320 --> 00:18:32,000
--Non !
+-Não!
 
 374
 00:18:32,240 --> 00:18:34,040
--Merci, Maître Noël.
+-Obrigado, Mestre Natal.
 
 375
 00:18:34,280 --> 00:18:37,520
-Musique épique
+Música épique
 
 376
 00:18:39,360 --> 00:18:41,680
-Tu as assez fait de mal, akuma.
+Você já causou problemas demais, akuma.
 
 377
 00:18:41,880 --> 00:18:44,240
-Musique rythmée
+Música rythmée
 
 378
 00:18:45,200 --> 00:18:46,680
-Je te libère du mal.
+Eu te liberto do mal.
 
 379
 00:18:47,360 --> 00:18:50,840
@@ -1617,8 +1617,8 @@ Je te libère du mal.
 
 380
 00:18:51,080 --> 00:18:54,120
-Je t'ai eu.
-Bye bye, petit papillon.
+Te peguei.
+Tchau, tchau, borboletinha.
 
 381
 00:18:54,320 --> 00:18:59,360
@@ -1626,37 +1626,37 @@ Bye bye, petit papillon.
 
 382
 00:18:59,600 --> 00:19:00,640
--BIEN JOUE !
+-ZEROU!
 
 383
 00:19:02,840 --> 00:19:04,760
-Musique triste
+Música triste
 
 384
 00:19:05,000 --> 00:19:06,400
--Au revoir, mes amis.
+-Adeus, meus amigos.
 
 385
 00:19:07,400 --> 00:19:08,920
--Au revoir, Père Noël.
+-Adeus, Papai Noel.
 
 386
 00:19:09,160 --> 00:19:10,160
--"Au revoir" ?
+-"Adeus"?
 
 387
 00:19:10,360 --> 00:19:13,320
--Le Père Noël est ici
-à cause du maléfice.
+-O Papai Noel está aqui
+por causa do feitiço.
 
 388
 00:19:13,560 --> 00:19:15,400
-Quand tout sera réparé...
+Quando tudo estiver consertado...
 
 389
 00:19:15,640 --> 00:19:18,640
--Je disparaîtrai
-jusqu'à Noël prochain.
+-Eu desaparecerei
+até o próximo Natal.
 
 390
 00:19:20,680 --> 00:19:22,440
@@ -1664,7 +1664,7 @@ jusqu'à Noël prochain.
 
 391
 00:19:22,680 --> 00:19:23,920
-Musique joyeuse
+Música alegre
 
 392
 00:19:24,160 --> 00:19:32,240
@@ -1672,136 +1672,136 @@ Musique joyeuse
 
 393
 00:19:33,240 --> 00:19:34,800
--Tu te sens mieux ?
+-Você se sente melhor?
 
 394
 00:19:35,040 --> 00:19:38,280
--Oui, mais je sais pas
-ce qui s'est passé.
+-Sim, mas eu não sei
+o que aconteceu.
 
 395
 00:19:38,480 --> 00:19:40,640
--Tout est rentré dans l'ordre.
+-Já está tudo resolvido.
 
 396
 00:19:40,840 --> 00:19:42,160
--Allez, viens là.
+-Vamos, vem aqui.
 
 397
 00:19:42,400 --> 00:19:45,120
 -Chat Noir,
-tu peux raccompagner Noël ?
+você pode levar o Noel para casa?
 
 398
 00:19:45,320 --> 00:19:46,360
--Sans problème.
+-Com certeza.
 
 399
 00:19:47,000 --> 00:19:48,360
--Au revoir, Ladybug.
+-Adeus, Ladybug.
 
 400
 00:19:52,200 --> 00:19:55,080
--Tu m'as privé
-de mes cadeaux, Ladybug.
+-Você me privou
+dos meus presentes, Ladybug.
 
 401
 00:19:55,320 --> 00:19:58,320
-Mais ce sera bientôt
-mon anniversaire.
+Mas o meu aniversário
+está chegando.
 
 402
 00:19:58,560 --> 00:20:01,840
-Je vais m'assurer
-que ce jour soit ta fête.
+Vou garantir
+que esse dia seja sua ruína.
 
 403
 00:20:05,120 --> 00:20:07,120
--Merci de garder Noël.
+-Obrigada por cuidar do Natal.
 
 404
 00:20:07,360 --> 00:20:08,160
--Amusez-vous.
+-Divirtam-se.
 
 405
 00:20:08,400 --> 00:20:10,600
--Vous en faites pas.
-Ce sera super.
+-Não se preocupem.
+Vai ser incrível.
 
 406
 00:20:10,800 --> 00:20:12,440
-On est bons copains.
+Nós somos ótimos amigos.
 
 407
 00:20:14,640 --> 00:20:17,360
-J'aurais pas dû te mentir.
+Eu não deveria ter mentido para você.
 
 408
 00:20:17,600 --> 00:20:19,200
-Mais tu te comportais...
+Mas você estava agindo...
 
 409
 00:20:19,400 --> 00:20:20,840
--Comme un bébé.
+-Como um bebê.
 
 410
 00:20:21,080 --> 00:20:23,360
-Maman dit que mentir, c'est mal.
+A mamãe diz que mentir é errado.
 
 411
 00:20:23,560 --> 00:20:27,360
-Donc maintenant,
-on se dira toujours la vérité.
+Então, de agora em diante,
+sempre diremos a verdade.
 
 412
 00:20:27,560 --> 00:20:28,320
-D'accord ?
+Combinado?
 
 413
 00:20:28,560 --> 00:20:31,480
--OK, mais ne joue plus
-les grands garçons.
+-Ok, mas não faça mais
+o papel de garotão.
 
 414
 00:20:33,120 --> 00:20:34,840
--T'es pas un lutin,
+-Você não é um duende,
 
 415
 00:20:35,040 --> 00:20:37,560
-mais t'as quand même
-un autre secret.
+mas você ainda tem
+outro segredo.
 
 416
 00:20:37,800 --> 00:20:40,520
--Quoi ? Comme une identité secrète ?
+-O quê? Como uma identidade secreta?
 
 417
 00:20:40,760 --> 00:20:43,800
--Non, le secret
-qu'il y a dans le coffre.
+-Não, o segredo
+que está no cofre.
 
 418
 00:20:46,240 --> 00:20:47,200
--Très bien.
+-Muito bem.
 
 419
 00:20:47,400 --> 00:20:51,880
-La vérité, c'est qu'il y a
-un garçon dont je suis amoureuse.
+A verdade é que tem um garoto
+por quem eu sou apaixonada.
 
 420
 00:20:52,120 --> 00:20:54,280
--Non ! J'aime pas le romantisme.
+-Não! Eu não gosto de romantismo.
 
 421
 00:20:56,400 --> 00:20:59,040
--Oh ! Je suis folle de lui !
+-Oh! Eu sou louca por ele!
 
 422
 00:20:59,280 --> 00:21:02,760
-Je rêve qu'on regarde
-des couchers de soleil.
+Eu sonho em ver o pôr do sol
+com ele.
 
 423
 00:21:04,280 --> 00:21:07,080
-Sous-titrage : Nice Fellow
+Legendas por: eliascsc
