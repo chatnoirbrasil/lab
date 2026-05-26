@@ -1,36 +1,36 @@
-﻿1
+1
 00:00:00,967 --> 00:00:05,100
-- Je m'appelle Marinette,
-une fille comme les autres.
+- Meu nome é Marinette,
+uma garota como qualquer outra.
 
 2
 00:00:05,133 --> 00:00:09,300
-Mais quand le destin me choisit
-pour lutter contre les forces
-du mal,
+Mas quando o destino me escolhe
+para lutar contra as forças
+do mal,
 
 3
 00:00:10,583 --> 00:00:12,600
-je deviens
+eu me torno
 Miraculous Ladybug!
 
 4
 00:00:12,633 --> 00:00:15,600
-♪ Miraculous, porte-bonheur ♪
+♪ Miraculous, amuleto da sorte ♪
 
 5
 00:00:15,633 --> 00:00:18,633
-♪ Lady magique
-et lady chance ♪
+♪ Lady mágica
+e Lady sorte ♪
 
 6
 00:00:18,667 --> 00:00:20,117
-♪ Miraculous, lady du coeur ♪
+♪ Miraculous, lady do coração ♪
 
 7
 00:00:20,150 --> 00:00:24,317
-♪ Être héroïque
-en cas d'urgence ♪
+♪ Sendo heroica
+em caso de emergência ♪
 
 8
 00:00:24,500 --> 00:00:28,667
@@ -38,703 +38,698 @@ en cas d'urgence ♪
 
 9
 00:00:29,000 --> 00:00:30,000
-(voix entremêlées
-et rires d'enfants)
+(vozes sobrepostas
+e risadas de crianças)
 
 10
 00:00:30,000 --> 00:00:32,000
-(voix entremêlées
-et rires d'enfants)
+(vozes sobrepostas
+e risadas de crianças)
 
 11
 00:00:34,000 --> 00:00:36,550
--Maman, je peux faire
-un tour de manège?
+- Mamãe, eu posso dar
+uma volta no carrossel?
 
 12
 00:00:36,583 --> 00:00:37,967
-S'il te plaît! S'il te plaît!
+Por favor! Por favor!
 
 13
 00:00:38,000 --> 00:00:39,833
--Fais autant de tours
-que tu veux, ma chérie.
+- Dê quantas voltas
+quiser, querida.
 
 14
 00:00:39,867 --> 00:00:41,600
-C'est dimanche!
--Ouais!
+É domingo!
+- Oba!
 
 15
 00:00:41,633 --> 00:00:44,117
-(rires)
+(risadas)
 
 16
 00:00:49,417 --> 00:00:51,450
--En quelle année
-furent instaurés
+- Em que ano
+foram instituídas
 
 17
 00:00:51,483 --> 00:00:52,567
-les congés payés en France?
+as férias remuneradas na França?
 
 18
 00:00:52,600 --> 00:00:54,067
--Oh, Tikki, pitié,
-ne me parle pas de congé!
+- Oh, Tikki, por favor,
+não me fale de férias!
 
 19
 00:00:54,100 --> 00:00:56,783
--Mais c'est pour ton contrôle
-d'histoire de demain, Marinette!
+- Mas é para a sua prova
+de história de amanhã, Marinette!
 
 20
 00:00:56,817 --> 00:01:00,000
--Euh, hum, premier
-congé payé, été 1936.
+- Er, hum, primeiras
+férias remuneradas, verão de 1936.
 
 21
 00:01:00,000 --> 00:01:00,983
--Euh, hum, premier
-congé payé, été 1936.
+- Er, hum, primeiras
+férias remuneradas, verão de 1936.
 
 22
 00:01:01,250 --> 00:01:01,917
--Bonne réponse!
+- Resposta certa!
 
 23
 00:01:01,950 --> 00:01:04,633
-Euh, par contre, tu dessines
-sur ton t-shirt, là.
+Er, mas, você está desenhando
+na sua camiseta aí.
 
 24
 00:01:04,667 --> 00:01:05,850
--Oooh!
+- Oooh!
 
 25
 00:01:05,883 --> 00:01:07,833
--Tu devrais peut-être faire
-une petite pause, non?
+- Talvez você devesse fazer
+uma pequena pausa, não?
 
 26
 00:01:07,867 --> 00:01:11,417
--Impossible, Tikki! Je dois
-tout rendre pour demain.
+- Impossível, Tikki! Preciso
+entregar tudo amanhã.
 
 27
 00:01:11,450 --> 00:01:14,400
-Demain, tu te
-rends compte? Demain!
+Amanhã, você tem noção? Amanhã!
 
 28
 00:01:14,433 --> 00:01:15,767
--Marinette!
+- Marinette!
 
 29
 00:01:15,800 --> 00:01:18,600
-Un petit tournoi de
+Um torneiozinho de
 Ultimate Mecastrike?
 
 30
 00:01:18,633 --> 00:01:20,283
--Oh...
+- Oh...
 
 31
 00:01:22,467 --> 00:01:23,767
--Un tournoi de jeu vidéo?
+- Um torneio de videogame?
 
 32
 00:01:23,800 --> 00:01:27,617
-Ça fait tellement longtemps que
-j'ai pas joué à un jeu vidéo.
+Faz tanto tempo que
+eu não jogo videogame.
 
 33
 00:01:27,650 --> 00:01:29,900
-Hum, non! Je ne dois pas céder.
+Hum, não! Não posso ceder.
 
 34
 00:01:29,933 --> 00:01:30,000
-Papa, entre les t-shirts
-pour Kitty Section,
-l'interro d'histoire
+Pai, entre as camisetas
+para o Kitty Section, a prova de história,
 
 35
 00:01:30,000 --> 00:01:32,050
-Papa, entre les t-shirts
-pour Kitty Section,
-l'interro d'histoire
+Pai, entre as camisetas
+para o Kitty Section, a prova de história,
 
 36
 00:01:32,083 --> 00:01:34,683
-et le dessin pour la nouvelle
-affiche de Jagged Stone
+e o desenho para o novo
+cartaz do Jagged Stone,
 
 37
 00:01:34,717 --> 00:01:37,817
-il me reste encore 72 heures
-de travail à caser d'ici demain!
+ainda tenho 72 horas
+de trabalho para encaixar até amanhã!
 
 38
 00:01:37,850 --> 00:01:39,700
-Et le reste de la semaine
-est encore pire!
+E o resto da semana
+é ainda pior!
 
 39
 00:01:39,733 --> 00:01:41,550
-J'ai pas le choix,
-il va falloir que...
+Não tenho escolha,
+vou ter que...
 
 40
 00:01:41,583 --> 00:01:43,400
-que j'arrête de jouer!
+parar de jogar!
 
 41
 00:01:43,433 --> 00:01:44,767
--Arrêter les jeux vidéo?
+- Parar com os videogames?
 
 42
 00:01:44,800 --> 00:01:47,000
-Mais Marinette, le jeu vidéo,
+Mas Marinette, videogame
 
 43
 00:01:47,033 --> 00:01:48,800
-c'est comme la pincée
-de sel de la baguette!
+é como a pitada
+de sal na baguete!
 
 44
 00:01:48,833 --> 00:01:51,000
-C'est ce qui donne
-tout son gout à la vie!
+É o que dá
+todo o sabor à vida!
 
 45
 00:01:51,033 --> 00:01:53,617
--Papa, j'ai tellement de gâteaux
-en retard dans mon four
+- Pai, tenho tantos bolos
+atrasados no meu forno
 
 46
 00:01:53,650 --> 00:01:54,850
-qu'ils ont tous
-un gout de brulé.
+que todos eles
+estão com gosto de queimado.
 
 47
 00:01:54,883 --> 00:01:57,317
-Et c'est pas une pincée de sel
-qui va tout changer.
+E não é uma pitada de sal
+que vai mudar tudo.
 
 48
 00:01:57,350 --> 00:01:59,350
--D'accord. Quel dommage!
+- Tudo bem. Que pena!
 
 49
 00:01:59,850 --> 00:02:00,000
-Mais prends garde à ne pas cuire
-trop de gâteaux en même temps.
+Mas tome cuidado para não assar
+muitos bolos ao mesmo tempo.
 
 50
 00:02:00,000 --> 00:02:02,800
-Mais prends garde à ne pas cuire
-trop de gâteaux en même temps.
+Mas tome cuidado para não assar
+muitos bolos ao mesmo tempo.
 
 51
 00:02:02,833 --> 00:02:06,400
-Ça pourrait te dégouter
-de la pâtisserie, ma chérie.
+Isso poderia te fazer enjoar
+da confeitaria, querida.
 
 52
 00:02:06,983 --> 00:02:10,583
-Ah, pourquoi faut-il que notre
-petite fille grandisse si vite?
+Ah, por que a nossa
+filhinha tem que crescer tão rápido?
 
 53
 00:02:10,617 --> 00:02:12,617
--C'est comme ça, c'est la vie.
+- É assim mesmo, é a vida.
 
 54
 00:02:12,650 --> 00:02:15,333
-Bon, le perdant fait
-la lessive, d'accord?
+Bom, quem perder lava
+a louça, combinado?
 
 55
 00:02:15,367 --> 00:02:16,683
--Hein? Ha! Ha! Ha!
+- Hein? Ha! Ha! Ha!
 
 56
 00:02:16,717 --> 00:02:19,000
-D'accord! Hum!
+Combinado! Hum!
 
 57
 00:02:21,900 --> 00:02:25,083
-Oh! Tu m'as eu! C'est pas
-possible! Tu t'es entrainée
-en cachette?
+Oh! Você me venceu! Não é
+possível! Você treinou
+escondida?
 
 58
 00:02:25,117 --> 00:02:29,283
--Triple kick cosmique, boum!
-Ouais! Je t'ai eu!
--Oh non!
+- Triplo chute cósmico, bum!
+Oba! Eu venci!
+- Oh, não!
 
 59
 00:02:29,817 --> 00:02:30,000
--Et donc, les congés payés
-furent instaurés
+- E então, as férias remuneradas
+foram instituídas
 
 60
 00:02:30,000 --> 00:02:32,600
--Et donc, les congés payés
-furent instaurés
+- E então, as férias remuneradas
+foram instituídas
 
 61
 00:02:32,633 --> 00:02:34,700
-pour permettre
-aux ouvriers de...?
+para permitir
+aos operários...?
 
 62
 00:02:34,733 --> 00:02:38,433
--Se reposer et jouer
-à des jeux vidéo.
+- Descansar e jogar
+videogame.
 
 63
 00:02:38,467 --> 00:02:39,467
-Oh non!
+Oh, não!
 
 64
 00:02:39,500 --> 00:02:42,100
-(petits cris)
+(pequenos gritos)
 
 65
 00:02:43,000 --> 00:02:45,450
-Ouf, ça va! C'était
-que dans mon rêve!
+Ufa, está tudo bem! Era
+só no meu sonho!
 
 66
 00:02:45,483 --> 00:02:46,983
-Je l'ai rempli pour de vrai!
+Preenchi de verdade!
 
 67
 00:02:47,017 --> 00:02:49,917
-Maintenant, il ne me reste
-plus que les t-shirts
-de Kitty Section,
+Agora só me resta
+fazer as camisetas
+do Kitty Section,
 
 68
 00:02:49,950 --> 00:02:51,933
-réviser mes cours
-d'anglais et coloriser...
+revisar minhas aulas
+de inglês e colorir...
 
 69
 00:02:51,967 --> 00:02:53,600
--(Garçon): C'est pour
-mon nouveau jeu vidéo!
+- (Garoto): É para
+o meu novo jogo de videogame!
 
 70
 00:02:53,633 --> 00:02:56,817
--Oh! Ah, les jeux vidéo!
+- Oh! Ah, videogame!
 
 71
 00:02:56,850 --> 00:02:59,083
-Brrr! Euh, coloriser l'affiche!
+Brrr! Er, colorir o cartaz!
 
 72
 00:02:59,117 --> 00:03:00,000
--J'adorerais tester ton jeu
-vidéo, Max, mais le prince
-Ali m'a fait promettre
+- Eu adoraria testar seu jogo
+de videogame, Max, mas o príncipe
+Ali me fez prometer
 
 73
 00:03:00,000 --> 00:03:02,967
--J'adorerais tester ton jeu
-vidéo, Max, mais le prince
-Ali m'a fait promettre
+- Eu adoraria testar seu jogo
+de videogame, Max, mas o príncipe
+Ali me fez prometer
 
 74
 00:03:03,000 --> 00:03:05,767
-de participer à sa croisière
-caritative sur la Seine
+de participar de um cruzeiro
+beneficente no Sena
 
 75
 00:03:05,800 --> 00:03:07,117
-à bord de son yacht, désolée.
+a bordo do seu iate, desculpe.
 
 76
 00:03:07,150 --> 00:03:11,317
--Kim, ça te tente, de tester
-le meilleur des jeux de combat?
+- Kim, quer testar
+o melhor jogo de luta?
 
 77
 00:03:11,700 --> 00:03:13,700
-100% conçu par ton meilleur ami!
+100% desenvolvido pelo seu melhor amigo!
 
 78
 00:03:13,733 --> 00:03:17,400
--Un jeu de combat qu'il a
-développé lui-même.
+- Um jogo de luta que ele
+desenvolveu sozinho.
 
 79
 00:03:17,433 --> 00:03:19,650
-Ah! Mais qu'est-ce qui m'arrive?
+Ah! Mas o que está acontecendo comigo?
 
 80
 00:03:19,683 --> 00:03:21,733
--Je suis sûr que je te
-battrais à plates coutures,
+- Tenho certeza de que eu
+ganharia de você facilmente,
 
 81
 00:03:21,767 --> 00:03:23,517
-mais je dois aller à la piscine.
+mas preciso ir para a piscina.
 
 82
 00:03:23,550 --> 00:03:24,617
-Ondine m'attend là-bas.
+A Ondine está me esperando lá.
 
 83
 00:03:24,650 --> 00:03:27,717
--Alix, tu veux tester
-mon jeu, dis?
+- Alix, quer testar
+o meu jogo, vai?
 
 84
 00:03:27,750 --> 00:03:28,950
-Il y a plus de 50 personnages!
+Tem mais de 50 personagens!
 
 85
 00:03:28,983 --> 00:03:30,000
-Et tu peux récupérer
-leurs équipements!
+E você pode recuperar
+os equipamentos deles!
 
 86
 00:03:30,000 --> 00:03:31,383
-Et tu peux récupérer
-leurs équipements!
+E você pode recuperar
+os equipamentos deles!
 
 87
 00:03:31,417 --> 00:03:32,633
--50... équipements...
+- 50... equipamentos...
 
 88
 00:03:32,667 --> 00:03:33,967
-Ah! Non, non, non, non!
+Ah! Não, não, não, não!
 
 89
 00:03:34,000 --> 00:03:36,800
--Je peux carrément pas, j'ai une
-compétition de roller dimanche.
+- Eu não posso de jeito nenhum, tenho uma
+competição de patins domingo.
 
 90
 00:03:36,833 --> 00:03:38,617
-Si je m'entraine pas,
-je vais pas assurer.
+Se eu não treinar,
+não vou mandar bem.
 
 91
 00:03:38,650 --> 00:03:39,683
--Désolé, ton jeu
-m'a l'air génial,
+- Desculpe, seu jogo
+parece legal,
 
 92
 00:03:39,717 --> 00:03:40,900
-mais j'ai entrainement d'escrime
+mas tenho treino de esgrima
 
 93
 00:03:40,933 --> 00:03:43,717
-puis mon cours de chinois
-et enfin, une séance photo.
+depois minha aula de chinês
+e, por fim, uma sessão de fotos.
 
 94
 00:03:43,750 --> 00:03:47,433
--Un jeu de combat avec d'anciens
-akumatisés? Ça te tente?
+- Um jogo de luta com antigos
+akumatisados? Quer tentar?
 
 95
 00:03:47,467 --> 00:03:48,817
--Mais on a rendez-vous
-avec l'éditeur
+- Mas temos encontro
+com o editor
 
 96
 00:03:48,850 --> 00:03:50,667
-la semaine prochaine et
-il nous manque plein de pages.
+na semana que vem e
+faltam um monte de páginas.
 
 97
 00:03:50,700 --> 00:03:52,833
--On adorerait dépister les bugs
-de ton jeu,
+- Adoraríamos achar os bugs
+do seu jogo,
 
 98
 00:03:52,867 --> 00:03:55,067
-mais Marinette va
-nous faire essayer nos costumes!
+mas a Marinette vai
+nos fazer provar nossas fantasias!
 
 99
 00:03:55,100 --> 00:03:58,717
--Hé, Marinette, la joueuse la
-plus douée de toute la classe!
+- Ei, Marinette, a jogadora
+mais habilidosa da turma!
 
 100
 00:03:58,750 --> 00:04:00,000
-On a remporté le tournoi
-d'Ultimate, Mecastrike ensemble!
+Nós ganhamos o torneio
+de Ultimate Mecastrike juntos!
 
 101
 00:04:00,000 --> 00:04:01,483
-On a remporté le tournoi
-d'Ultimate, Mecastrike ensemble!
+Nós ganhamos o torneio
+de Ultimate Mecastrike juntos!
 
 102
 00:04:01,517 --> 00:04:03,700
-Impossible qu'elle me dise...
--NON!
+Impossível ela me dizer...
+- NÃO!
 
 103
 00:04:03,733 --> 00:04:05,133
--Mais je t'ai
-encore rien demandé!
+- Mas eu ainda nem
+pedi nada!
 
 104
 00:04:05,167 --> 00:04:08,867
--Et je ne veux surtout
-rien entendre parce que
-je ne pourrai pas refuser!
+- E eu não quero ouvir nada porque
+não vou conseguir recusar!
 
 105
-00:04:08,900 --> 00:04:10,733
-Et il faut que je résiste
-à la tentation!
+00:04:08,900 --> 00:10:10,733
+E preciso resistir
+à tentação!
 
 106
 00:04:10,767 --> 00:04:12,533
-J'ai trop à faire aujourd'hui!
+Tenho muito o que fazer hoje!
 
 107
 00:04:12,567 --> 00:04:13,733
-Une affiche de t-shirt
-pour Jagged Stone,
+Um cartaz de camiseta
+para o Jagged Stone,
 
 108
 00:04:13,767 --> 00:04:15,750
-euh, je veux dire un Kitty shirt
-à mettre aux couleurs...
+er, quero dizer, uma Kitty shirt
+para colocar as cores...
 
 109
 00:04:15,783 --> 00:04:17,333
-Oh, je veux dire... Oh!
+Oh, quero dizer... Oh!
 
 110
 00:04:17,367 --> 00:04:17,883
--Hum...
+- Hum...
 
 111
 00:04:17,917 --> 00:04:19,833
-Ce que Dupain-Cheng
-essaie de te dire
+O que a Dupain-Cheng
+está tentando te dizer
 
 112
 00:04:19,867 --> 00:04:21,133
-avec sa ridicule excuse bidon,
+com essa desculpa ridícula,
 
 113
 00:04:21,167 --> 00:04:23,933
-c'est qu'elle n'a pas envie de
-jouer à ton stupide jeu vidéo.
+é que ela não está a fim de
+jogar seu jogo de videogame estúpido.
 
 114
 00:04:23,967 --> 00:04:25,867
-D'ailleurs, personne
-n'en a envie
+Aliás, ninguém
+está a fim
 
 115
 00:04:25,900 --> 00:04:27,800
-parce que tout le
-monde a une vie
+porque todo mundo tem uma vida
 
 116
 00:04:27,833 --> 00:04:29,483
-bien plus
-intéressante que toi,
+muito mais
+interessante que a sua,
 
 117
 00:04:29,517 --> 00:04:30,000
-même Marinette, c'est dire.
+até a Marinette, o que é muito dizer.
 
 118
 00:04:30,000 --> 00:04:30,650
-même Marinette, c'est dire.
+até a Marinette, o que é muito dizer.
 
 119
 00:04:30,683 --> 00:04:32,033
--Non, c'est pas
-une fausse excuse!
+- Não, isso não é
+uma desculpa falsa!
 
 120
 00:04:32,067 --> 00:04:34,817
-J'ai vraiment un Jagged Stone
-à colorier pour les Kitty.
+Eu realmente tenho um Jagged Stone
+para colorir para os Kitty.
 
 121
 00:04:34,850 --> 00:04:36,533
-Euh, non, à afficher section 1.
+Er, não, exibir seção 1.
 
 122
 00:04:36,567 --> 00:04:39,483
-Oh, dessiner un...
-Oh, je suis en retard!
+Oh, desenhar um...
+Oh, estou atrasada!
 
 123
 00:04:42,700 --> 00:04:45,517
--Ah! Markov! Enfin quelqu'un
-sur qui compter!
+- Ah! Markov! Finalmente alguém
+com quem posso contar!
 
 124
 00:04:45,550 --> 00:04:47,567
--Désolé, mais je suis
-connecté en réseau
+- Desculpe, mas estou
+conectado em rede
 
 125
 00:04:47,600 --> 00:04:49,767
-avec les intelligences
-artificielles du monde entier.
+com as inteligências
+artificiais do mundo inteiro.
 
 126
 00:04:49,800 --> 00:04:51,950
-Nous cherchons à
-résoudre le problème
-du changement climatique.
+Estamos tentando
+resolver o problema
+da mudança climática.
 
 127
 00:04:51,983 --> 00:04:54,783
--Mais j'ai besoin de toi
-pour tester mon nouveau jeu!
+- Mas eu preciso de você
+para testar meu novo jogo!
 
 128
 00:04:54,817 --> 00:04:57,100
--Impossible; afin
-d'optimiser mes résultats,
+- Impossível; para
+otimizar meus resultados,
 
 129
 00:04:57,133 --> 00:05:00,000
-j'ai éliminé de mon programme
-toute activité à but récréatif.
+eliminei do meu programa
+toda atividade com fins recreativos.
 
 130
 00:05:00,000 --> 00:05:01,300
-j'ai éliminé de mon programme
-toute activité à but récréatif.
+eliminei do meu programa
+toda atividade com fins recreativos.
 
 131
 00:05:05,700 --> 00:05:07,883
--Oh, mais que c'est triste!
+- Oh, mas isso é tão triste!
 
 132
 00:05:07,917 --> 00:05:10,450
-Tous les amis de ce garçon
-ont des choses si sérieuses,
+Todos os amigos desse garoto
+têm coisas tão sérias,
 
 133
 00:05:10,483 --> 00:05:12,683
-si intéressantes à faire.
+tão interessantes para fazer.
 
 134
 00:05:12,717 --> 00:05:14,017
-Alors que moi, j'adore jouer.
+Enquanto eu, adoro jogar.
 
 135
 00:05:14,050 --> 00:05:18,217
-Et contrairement à eux,
-j'ai tout mon temps.
+E ao contrário deles,
+tenho todo o tempo do mundo.
 
 136
 00:05:19,983 --> 00:05:24,150
-Va, mon maléfique akuma,
-et noircis son coeur!
+Vá, meu akuma maligno,
+e escureça o coração dele!
 
 137
 00:05:32,733 --> 00:05:35,833
-Heureux de te revoir, Gamer 2.0.
+Feliz em te ver de novo, Gamer 2.0.
 
 138
 00:05:35,867 --> 00:05:39,850
-Notre dernière partie m'a laissé
-un petit gout d'inachevé.
+Nossa última partida me deixou
+com um gostinho de quero mais.
 
 139
 00:05:39,883 --> 00:05:41,833
-Que dirais-tu de faire
-une seconde manche?
+O que diria de fazer
+uma segunda rodada?
 
 140
 00:05:41,867 --> 00:05:44,917
-Je peux donner à ton jeu
-une toute nouvelle dimension.
+Posso dar ao seu jogo
+uma dimensão totalmente nova.
 
 141
 00:05:44,950 --> 00:05:46,833
-Une chose reste
-inchangée, cependant:
+Uma coisa continua
+inalterada, no entanto:
 
 142
 00:05:46,867 --> 00:05:49,800
-je ne demande qu'un tout
-petit trophée en échange.
+só peço um troféuzinho
+em troca.
 
 143
 00:05:49,833 --> 00:05:52,717
--Les miraculous de Ladybug
-et Chat Noir!
+- Os miraculous da Ladybug
+e do Chat Noir!
 
 144
 00:05:52,750 --> 00:05:55,167
-J'entre en jeu!
+Entro no jogo!
 
 145
 00:05:59,767 --> 00:06:00,000
--Vous êtes...
+- Vocês são...
 
 146
 00:06:00,000 --> 00:06:01,650
--Vous êtes...
+- Vocês são...
 
 147
 00:06:01,683 --> 00:06:03,633
--Et une amende pour...
+- E uma multa por...
 
 148
 00:06:03,667 --> 00:06:06,017
-(rires)
+(risadas)
 
 149
 00:06:07,617 --> 00:06:09,367
-(efforts)
--Oh!
+(esforços)
+- Oh!
 
 150
 00:06:09,400 --> 00:06:11,367
-(exclamations)
+(exclamações)
 
 151
 00:06:13,600 --> 00:06:15,567
--Plagg, ça sent pas bon,
-tu trouves pas?
+- Plagg, isso não está cheirando bem,
+você não acha?
 
 152
 00:06:15,600 --> 00:06:17,767
--Hein? L'odeur du brie?
-Du reblochon?
+- Hein? O cheiro de brie?
+De reblochon?
 
 153
 00:06:17,800 --> 00:06:19,683
-Pitié, dis-moi que
-tu sens le camembert?
+Por favor, diga que
+você sente cheiro de camembert?
 
 154
 00:06:19,717 --> 00:06:21,550
--Non, ça sent le roussi!
+- Não, está cheirando a queimado!
 
 155
 00:06:21,583 --> 00:06:23,367
-Plagg, transforme-moi!
+Plagg, transformar!
 
 156
 00:06:25,500 --> 00:06:28,400
--Et voilà le dernier
-t-shirt! Hein?
+- E aqui está a última
+camiseta! Hein?
 
 157
 00:06:28,433 --> 00:06:29,717
@@ -742,60 +737,60 @@ Oh? Ah...
 
 158
 00:06:29,750 --> 00:06:30,000
--Que faire quand personne
-ne veux jouer avec vous?
+- O que fazer quando ninguém
+quer brincar com vocês?
 
 159
 00:06:30,000 --> 00:06:32,800
--Que faire quand personne
-ne veux jouer avec vous?
+- O que fazer quando ninguém
+quer brincar com vocês?
 
 160
 00:06:32,833 --> 00:06:35,417
-Il suffit de ne pas
-leur laisser le choix.
+Basta não
+deixar escolha para eles.
 
 161
 00:06:35,450 --> 00:06:36,467
--Oh!
--Max?
+- Oh!
+- Max?
 
 162
 00:06:36,500 --> 00:06:37,833
--Ladybug, Chat Noir,
+- Ladybug, Chat Noir,
 
 163
 00:06:37,867 --> 00:06:39,667
-toutes ces personnes
-ont déjà été akumatisées
+todas essas pessoas
+já foram akumatizadas
 
 164
 00:06:39,700 --> 00:06:40,917
-et sauvées par vous.
+e salvas por vocês.
 
 165
 00:06:40,950 --> 00:06:42,900
-Si vous voulez les libérer
-une nouvelle fois,
+Se vocês quiserem libertá-las
+mais uma vez,
 
 166
 00:06:42,933 --> 00:06:45,750
-vous allez devoir
-venir jouer avec moi!
+vão ter que
+vir jogar comigo!
 
 167
 00:06:45,783 --> 00:06:48,083
--Je crois que cette fois, tu
-n'échapperas pas à une pause.
+- Acho que desta vez, você
+não escapará de uma pausa.
 
 168
 00:06:48,117 --> 00:06:50,633
--Alors, dépêchons-nous! Il me
-reste plein de choses à faire.
+- Então, nos apressamos! Eu tenho
+muitas coisas para fazer.
 
 169
 00:06:50,667 --> 00:06:53,483
-Tikki, transforme-moi!
+Tikki, transformar!
 
 170
 00:06:53,517 --> 00:06:55,317
@@ -804,51 +799,51 @@ Ah!
 171
 00:07:12,383 --> 00:07:13,650
 Hum!
--Hum!
+- Hum!
 
 172
 00:07:13,683 --> 00:07:15,667
-Le premier qui trouve
-l'entrée a gagné!
+O primeiro que encontrar
+a entrada venceu!
 
 173
 00:07:15,700 --> 00:07:17,750
--On n'a pas le temps
-de jouer, Chat Noir!
+- Não temos tempo
+de brincar, Chat Noir!
 
 174
 00:07:17,783 --> 00:07:20,150
-J'ai un millier
-de choses à faire!
+Eu tenho mil
+coisas para fazer!
 
 175
 00:07:27,650 --> 00:07:30,000
--Alors, Ladybug et Chat Noir,
-une petite partie?
+- Então, Ladybug e Chat Noir,
+uma partidinha?
 
 176
 00:07:30,000 --> 00:07:30,550
--Alors, Ladybug et Chat Noir,
-une petite partie?
+- Então, Ladybug e Chat Noir,
+uma partidinha?
 
 177
 00:07:30,583 --> 00:07:32,050
-Allez-y, entrez
-dans les pyrapodes!
+Vão lá, entrem
+nos pirapads!
 
 178
 00:07:32,083 --> 00:07:34,633
--Ça pourrait être
-un piège, ma lady.
+- Isso pode ser
+uma armadilha, minha lady.
 
 179
 00:07:34,667 --> 00:07:36,617
--Mais non! Je suis sure
-qu'il veut seulement jouer.
+- Imagina! Tenho certeza
+que ele só quer brincar.
 
 180
 00:07:36,650 --> 00:07:38,367
-On reste en contact.
+Continuamos em contato.
 
 181
 00:07:38,400 --> 00:07:40,183
@@ -856,149 +851,149 @@ Hum...
 
 182
 00:07:40,217 --> 00:07:42,133
--Hum!
+- Hum!
 
 183
 00:08:02,733 --> 00:08:06,483
--Et voici vos pyrapads!
+- E aqui estão seus pirapads!
 
 184
 00:08:06,517 --> 00:08:07,667
-(efforts)
+(esforços)
 
 185
 00:08:07,700 --> 00:08:09,617
-Bienvenue dans miraculous,
+Bem-vindos ao Miraculous,
 
 186
 00:08:09,650 --> 00:08:11,067
-combat d'exception!
+combate de exceção!
 
 187
 00:08:11,100 --> 00:08:15,267
-Si vous gagnez, je vous
-libérerai, vous et
-tous les autres.
+Se vocês ganharem, eu libertarei
+vocês e
+todos os outros.
 
 188
 00:08:15,500 --> 00:08:17,667
-Mais si vous perdez...
+Mas se vocês perderem...
 
 189
 00:08:17,700 --> 00:08:18,833
--Je n'ai pas le temps
-de perdre, Gamer.
+- Eu não tenho tempo
+de perder, Gamer.
 
 190
 00:08:18,867 --> 00:08:22,067
-On peut commencer,
-qu'on en finisse?
+Podemos começar,
+para terminar logo?
 
 191
 00:08:23,833 --> 00:08:26,850
--La précipitation
-te perdra, Ladybug.
+- A pressa
+vai te derrubar, Ladybug.
 
 192
 00:08:26,883 --> 00:08:30,000
-Mes chances de gagner
-viennent d'augmenter de 86%.
+Minhas chances de ganhar
+acabaram de aumentar em 86%.
 
 193
 00:08:30,000 --> 00:08:31,050
-Mes chances de gagner
-viennent d'augmenter de 86%.
+Minhas chances de ganhar
+acabaram de aumentar em 86%.
 
 194
 00:08:32,500 --> 00:08:34,383
--Le Mime! Riposte!
+- O Mime! Contra-ataque!
 
 195
 00:08:34,417 --> 00:08:36,333
-Prêt? Combat!
+Pronto? Luta!
 
 196
 00:08:36,367 --> 00:08:38,333
--Hum! Yaaaa!
+- Hum! Yaaaa!
 
 197
 00:08:38,367 --> 00:08:41,317
-(petits cris)
+(pequenos gritos)
 
 198
 00:08:43,167 --> 00:08:47,333
--Tu veux pas plutôt mimer
-un Chat Noir qui viendrait
-te donner un coup de patte?
+- Você não quer mimar
+um Chat Noir que viria
+te dar uma mãozinha?
 
 199
 00:08:47,500 --> 00:08:49,717
--Je sais ce que je fais! Oh!
+- Eu sei o que estou fazendo! Oh!
 
 200
 00:08:49,750 --> 00:08:52,650
--Attention! Quand tu parles,
-ce que tu mimes disparait.
+- Atenção! Quando você fala,
+o que você mima desaparece.
 
 201
 00:08:52,683 --> 00:08:55,067
-(petits cris)
+(pequenos gritos)
 
 202
 00:08:58,983 --> 00:09:00,000
--Merci, Chat Noir!
-Tu parles d'un scoop!
+- Obrigado, Chat Noir!
+Que furo de reportagem!
 
 203
 00:09:00,000 --> 00:09:01,667
--Merci, Chat Noir!
-Tu parles d'un scoop!
+- Obrigado, Chat Noir!
+Que furo de reportagem!
 
 204
 00:09:01,700 --> 00:09:04,383
-(petits cris)
+(pequenos gritos)
 
 205
 00:09:09,600 --> 00:09:11,267
--Aaaaaah!
+- Aaaaaah!
 
 206
 00:09:13,383 --> 00:09:15,250
-(petits cris)
+(pequenos gritos)
 
 207
 00:09:15,283 --> 00:09:17,600
--Ha! Ha! Ah...
+- Ha! Ha! Ah...
 
 208
 00:09:17,633 --> 00:09:21,367
-(gémissements)
-Au revoir!
+(gemidos)
+Adeus!
 
 209
 00:09:21,400 --> 00:09:23,400
--Ooooh!
+- Ooooh!
 
 210
 00:09:23,433 --> 00:09:25,417
--Éliminé!
+- Eliminada!
 
 211
 00:09:25,450 --> 00:09:26,917
-Victoire de le Mime!
+Vitória do Mime!
 
 212
 00:09:26,950 --> 00:09:29,483
--Faire exprès de parler,
-mimer ton propre yo-yo,
+- Fingir falar,
+mimar seu próprio ioiô,
 
 213
 00:09:29,517 --> 00:09:30,000
-toujours aussi futée, ma lady!
+sempre tão esperta, minha lady!
 
 214
 00:09:30,000 --> 00:09:31,467
-toujours aussi futée, ma lady!
+sempre tão esperta, minha lady!
 
 215
 00:09:34,400 --> 00:09:35,000
@@ -1006,137 +1001,137 @@ toujours aussi futée, ma lady!
 
 216
 00:09:35,033 --> 00:09:38,917
--Ah, j'ai gagnée, Gamer 2.0!
-Libère-nous!
+- Ah, eu venci, Gamer 2.0!
+Nos liberte!
 
 217
 00:09:38,950 --> 00:09:41,933
--Un jeu en une seule manche?
-Mais où serait le
-plaisir, Ladybug?
+- Um jogo de apenas uma rodada?
+Mas onde estaria o
+prazer, Ladybug?
 
 218
 00:09:41,967 --> 00:09:45,650
-Ça ne se terminera que quand
-vous aurez affronté tous
-les personnages du jeu.
+Só terminará quando
+vocês enfrentarem todos
+os personagens do jogo.
 
 219
 00:09:45,683 --> 00:09:47,567
--Mais ça va prendre
-une éternité!
+- Mas isso vai levar
+uma eternidade!
 
 220
 00:09:47,600 --> 00:09:49,417
--C'est ça qui est
-le plus génial, non?
+- É isso que é
+o mais genial, não?
 
 221
 00:09:49,450 --> 00:09:50,517
-Plus c'est long, plus c'est bon.
+Quanto mais longo, melhor.
 
 222
 00:09:50,550 --> 00:09:51,867
--Oh...
--À moi! À moi!
+- Oh...
+- Minha vez! Minha vez!
 
 223
 00:09:51,900 --> 00:09:54,633
 Rossignoble, Climatika,
-elles sont spectaculaires,
+elas são espetaculares,
 
 224
 00:09:54,667 --> 00:09:56,000
-mais surement trop
-pour une première manche.
+mas certamente demais
+para uma primeira rodada.
 
 225
 00:09:56,033 --> 00:09:59,783
-Hou, mon imposteur! Non, non,
-je serais trop fort en moi-même.
+Uh, meu impostor! Não, não,
+eu seria forte demais comigo mesmo.
 
 226
 00:09:59,817 --> 00:10:00,000
-Ce serait trop facile.
--Accélère!
+Seria fácil demais.
+- Acelera!
 
 227
 00:10:00,000 --> 00:10:01,633
-Ce serait trop facile.
--Accélère!
+Seria fácil demais.
+- Acelera!
 
 228
 00:10:01,667 --> 00:10:03,600
-Prends l'Imposteur et
-cataclysme-moi ce jeu,
+Pega o Impostor e
+dá um cataclismo nesse jogo,
 
 229
 00:10:03,633 --> 00:10:04,933
-qu'on puisse rentrer chez nous!
+para a gente poder ir para casa!
 
 230
 00:10:04,967 --> 00:10:07,400
--Bon, très bien! Puisqu'il
-faut se dépêcher...
+- Bom, tudo bem! Já que
+precisamos nos apressar...
 
 231
 00:10:10,400 --> 00:10:11,683
-(roucoulements)
+(arrulhos)
 
 232
 00:10:11,717 --> 00:10:13,833
--Non, mais je rêve?
-Tu te moques de moi?
+- Não, mas eu estou sonhando?
+Você está tirando sarro de mim?
 
 233
 00:10:13,867 --> 00:10:15,983
--Ben, quoi? J'ai toujours voulu
-contrôler les pigeons!
+- Bom, o quê? Eu sempre quis
+controlar os pombos!
 
 234
 00:10:16,017 --> 00:10:19,767
--Ha! Ha! Ha! Sauf qu'il n'y a
-pas un seul pigeon
-dans ce stade!
+- Ha! Ha! Ha! Só que não
+tem um único pombo
+neste estádio!
 
 235
-00:10:19,800 --> 00:10:22,467
-(roucoulement et sifflement)
+00:19:19,800 --> 00:10:22,467
+(arrulhos e assovios)
 
 236
 00:10:24,750 --> 00:10:26,367
--Si, en voilà un!
+- Sim, lá vai um!
 
 237
 00:10:26,400 --> 00:10:27,617
-Et je lui ai trouvé un nom!
+E eu achei um nome para ele!
 
 238
 00:10:27,650 --> 00:10:30,000
-Phoenix le flamboyant! Hum!
+Phoenix o flamejante! Hum!
 
 239
 00:10:30,000 --> 00:10:30,367
-Phoenix le flamboyant! Hum!
+Phoenix o flamejante! Hum!
 
 240
 00:10:30,400 --> 00:10:31,500
-(soupir)
+(suspiro)
 
 241
 00:10:31,533 --> 00:10:33,667
-(efforts)
+(esforços)
 
 242
 00:10:33,700 --> 00:10:35,067
--Appelle-le plutôt
-Phoenix le foudroyé!
+- Chame ele de
+Phoenix o eletrocutado!
 
 243
 00:10:35,100 --> 00:10:39,200
-Ha! Ha! Ha! Ça sera la victoire
-la plus rapide de tous
-les temps!
+Ha! Ha! Ha! Será a vitória
+mais rápida de todos
+os tempos!
 
 244
 00:10:39,233 --> 00:10:40,350
@@ -1148,99 +1143,97 @@ Aaaaaaah!
 
 246
 00:10:44,400 --> 00:10:46,367
-Ah! Fiche le camp, rat volant!
+Ah! Cai fora, rato voador!
 
 247
 00:10:46,400 --> 00:10:47,550
-(petits cris et efforts)
+(pequenos gritos e esforços)
 
 248
 00:10:47,583 --> 00:10:48,850
--Attrapé et bam!
+- Capturado e bam!
 
 249
 00:10:48,883 --> 00:10:53,050
--Hé! Oh!
--Saut périlleux avec plaquage!
+- Ei! Oh!
+- Salto mortal com placagem!
 
 250
 00:10:53,617 --> 00:10:55,367
-Nettoyage bien plumé!
+Limpeza bem depenada!
 
 251
 00:10:55,400 --> 00:10:57,317
-(gémissements)
+(gemidos)
 
 252
 00:10:57,350 --> 00:10:59,483
--Arrête!
--Hum! Ah!
+- Para!
+- Hum! Ah!
 
 253
 00:11:00,733 --> 00:11:03,233
-Descente du coude volatil!
+Descida do cotovelo volátil!
 
 254
 00:11:03,833 --> 00:11:06,917
 Ha! Ha! Ha!
--Victoire de M. Pigeon!
+- Vitória do M. Pigeon!
 
 255
 00:11:06,950 --> 00:11:09,433
--Bien joué,
-Phoenix le flamboyant!
+- Bem jogado,
+Phoenix o flamejante!
 
 256
 00:11:09,467 --> 00:11:11,367
--Ah!
+- Ah!
 
 257
 00:11:13,683 --> 00:11:15,517
--Non, non, c'est impossible!
+- Não, não, é impossível!
 
 258
 00:11:15,550 --> 00:11:17,350
--On peut pas jouer
-la partie en un coup?
+- Não podemos jogar
+a partida de uma vez?
 
 259
 00:11:17,383 --> 00:11:18,267
--Le jeu perdrait son charme.
+- O jogo perderia o charme.
 
 260
 00:11:18,300 --> 00:11:21,717
-Il nous reste encore tellement
-de manches à faire,
-plus la finale!
+Ainda nos faltam tantas
+rodadas para fazer,
+mais a final!
 
 261
 00:11:21,750 --> 00:11:24,433
--On doit pas avoir la même
-définition de charmant.
+- Devemos ter definições
+diferentes para charmoso.
 
 262
 00:11:28,983 --> 00:11:30,000
--Béfana, Hibou Noir!
-Prêts? Combat!
+- Reflekta! Rogercup!
 
 263
 00:11:30,000 --> 00:11:33,150
--Béfana, Hibou Noir!
-Prêts? Combat!
+- Reflekta! Rogercup!
 
 264
 00:11:35,017 --> 00:11:38,683
--Distribution de charbon
-pour les mauvais garçons!
+- Distribuição de carvão
+para os meninos maus!
 
 265
 00:11:38,717 --> 00:11:41,167
--Brume de hibou!
+- Névoa de coruja!
 (hululement)
 
 266
 00:11:42,650 --> 00:11:44,350
-(efforts)
+(esforços)
 
 267
 00:11:44,383 --> 00:11:46,233
@@ -1248,92 +1241,92 @@ Hiboumangs!
 
 268
 00:11:46,267 --> 00:11:48,217
-(petits cris)
+(pequenos gritos)
 
 269
 00:11:48,250 --> 00:11:50,700
--AAAAAH!
+- AAAAAH!
 
 270
 00:11:50,733 --> 00:11:53,333
-(petits cris)
+(pequenos gritos)
 
 271
 00:11:55,533 --> 00:11:57,767
--Éliminée! Victoire
+- Eliminada! Vitória
 de Hibou Noir!
 
 272
 00:11:57,800 --> 00:12:00,000
--Houhou! Personne ne rivalise
-de précision avec le Hibou Noir!
+- Houhou! Ninguém rivaliza
+em precisão com o Hibou Noir!
 
 273
 00:12:00,000 --> 00:12:02,017
--Houhou! Personne ne rivalise
-de précision avec le Hibou Noir!
+- Houhou! Ninguém rivaliza
+em precisão com o Hibou Noir!
 
 274
 00:12:02,050 --> 00:12:06,017
--Oui, ben, t'as eu de
-la chance, c'est tout!
--À mon tour!
+- Sim, bem, você teve
+sorte, é só isso!
+- Minha vez!
 
 275
 00:12:06,733 --> 00:12:10,333
-(soupir)
-Ça rappelle des souvenirs.
+(suspiro)
+Isso traz lembranças.
 
 276
 00:12:11,533 --> 00:12:14,333
--Reflekta! Rogercup!
+- Reflekta! Rogercup!
 
 277
 00:12:14,367 --> 00:12:16,333
-Prêts? Combat!
+Prontos? Luta!
 
 278
 00:12:31,717 --> 00:12:34,000
--Mais dépêchez-vous!
+- Mas se apressem!
 
 279
 00:12:35,683 --> 00:12:37,683
--Tut... Oh!
-(gémissements)
+- Tut... Oh!
+(gemidos)
 
 280
 00:12:37,717 --> 00:12:40,317
--Tu vois ta vie défiler?
+- Você vê sua vida passando?
 
 281
 00:12:40,350 --> 00:12:42,117
-(gémissements)
+(gemidos)
 
 282
 00:12:43,683 --> 00:12:45,300
--Dis au revoir!
+- Diga adeus!
 
 283
 00:12:45,333 --> 00:12:47,417
--Aaaaah!
+- Aaaaah!
 
 284
 00:12:47,450 --> 00:12:48,800
--Victoire de Réflekta!
+- Vitória de Réflekta!
 
 285
 00:12:48,833 --> 00:12:50,150
--Arrête de faire
-le malin, Chat Noir!
+- Pare de fazer
+o malandro, Chat Noir!
 
 286
 00:12:50,183 --> 00:12:54,100
-On n'est pas là pour s'amuser.
-Il faut en finir, et vite!
+Não estamos aqui para nos divertir.
+É preciso terminar, e rápido!
 
 287
 00:12:55,283 --> 00:12:56,483
--Imposteur!
+- Impostor!
 
 288
 00:12:56,517 --> 00:12:57,567
@@ -1341,23 +1334,23 @@ Marionnettiste!
 
 289
 00:12:57,600 --> 00:12:59,517
--Prêts? Combat!
+- Prontos? Luta!
 
 290
 00:12:59,550 --> 00:13:00,000
--Cataclysme!
+- Cataclismo!
 
 291
 00:13:00,000 --> 00:13:01,467
--Cataclysme!
+- Cataclismo!
 
 292
 00:13:01,500 --> 00:13:05,200
--Imposteur, prends vie!
+- Impostor, ganhe vida!
 
 293
 00:13:08,283 --> 00:13:09,633
--Hein?
+- Hein?
 
 294
 00:13:09,667 --> 00:13:11,367
@@ -1365,57 +1358,57 @@ Oh! Ah...
 
 295
 00:13:11,400 --> 00:13:13,633
--Victoire de Marionnettiste!
+- Vitória da Marionnettiste!
 
 296
 00:13:13,667 --> 00:13:15,850
--Aïe! Ça n'a pas trainé.
--Ha! Ha! Ha!
+- Ai! Isso não demorou nada.
+- Ha! Ha! Ha!
 
 297
 00:13:15,883 --> 00:13:17,800
--À toujours vouloir
-accélérer les choses,
+- Por sempre querer
+acelerar as coisas,
 
 298
 00:13:17,833 --> 00:13:21,717
-tu vas perdre encore plus vite
-que tu ne peux l'imaginer,
+você vai perder ainda mais rápido
+do que pode imaginar,
 Ladybug!
 
 299
 00:13:21,750 --> 00:13:24,300
--Perdre, nous? Jamais!
+- Perder, nós? Jamais!
 
 300
 00:13:25,650 --> 00:13:26,750
--Euh, ce serait pas mon tour?
+- Er, não seria a minha vez?
 
 301
 00:13:26,783 --> 00:13:28,717
--Je refuse de perdre!
+- Eu me recuso a perder!
 
 302
 00:13:28,750 --> 00:13:30,000
--Pas de problème, ma lady.
-Prends ma place.
+- Sem problemas, minha lady.
+Tome o meu lugar.
 
 303
 00:13:30,000 --> 00:13:31,167
--Pas de problème, ma lady.
-Prends ma place.
+- Sem problemas, minha lady.
+Tome o meu lugar.
 
 304
 00:13:34,383 --> 00:13:36,667
--Gorizilla! Coeur de Pierre!
+- Gorizilla! Coração de Pedra!
 
 305
 00:13:36,700 --> 00:13:39,333
-Prêts? Combat!
+Prontos? Luta!
 
 306
 00:13:39,367 --> 00:13:41,217
--Ah!
+- Ah!
 
 307
 00:13:42,467 --> 00:13:43,600
@@ -1423,38 +1416,38 @@ Hein? Oh...
 
 308
 00:13:43,633 --> 00:13:45,967
-(gémissements et cri)
+(gemidos e grito)
 
 309
 00:13:46,000 --> 00:13:48,050
--Éliminé! Victoire
-de Coeur de Pierre!
+- Eliminado! Vitória
+de Coração de Pedra!
 
 310
 00:13:48,083 --> 00:13:52,250
--(Chat Noir): Ha! Ha! Ha!
-J'ai encore gagné, Looser Bug!
+- (Chat Noir): Ha! Ha! Ha!
+Venci de novo, Looser Bug!
 
 311
 00:13:55,750 --> 00:13:58,467
-Euh, ma lady, tu veux pas qu'on
-essaie
+Er, minha lady, você não quer que
+a gente tente
 
 312
 00:13:58,500 --> 00:14:00,000
-de revoir un peu ta stratégie?
+rever um pouco sua estratégia?
 
 313
 00:14:00,000 --> 00:14:00,317
-de revoir un peu ta stratégie?
+rever um pouco sua estratégia?
 
 314
 00:14:01,317 --> 00:14:03,250
-Je te montre!
+Vou te mostrar!
 
 315
 00:14:04,433 --> 00:14:05,567
--Anansi!
+- Anansi!
 
 316
 00:14:05,600 --> 00:14:07,300
@@ -1462,28 +1455,28 @@ Climatika!
 
 317
 00:14:07,333 --> 00:14:09,250
-Prêts? Combat!
+Prontos? Luta!
 
 318
 00:14:09,283 --> 00:14:10,283
--Cyclone!
+- Ciclone!
 
 319
 00:14:10,317 --> 00:14:12,283
-(cris)
+(gritos)
 
 320
 00:14:12,317 --> 00:14:13,700
--Ha! Ha! Ha!
+- Ha! Ha! Ha!
 
 321
 00:14:13,733 --> 00:14:17,900
 Hein? Hein?
--Surprise!
+- Surpresa!
 
 322
 00:14:18,283 --> 00:14:20,183
--Oh!
+- Oh!
 
 323
 00:14:20,217 --> 00:14:21,417
@@ -1491,94 +1484,94 @@ Aaaaaah!
 
 324
 00:14:22,567 --> 00:14:24,900
--Victoire de Anansi!
+- Vitória de Anansi!
 
 325
 00:14:24,933 --> 00:14:27,033
--Ha! Ha! Tu vois, ma lady, hum?
-Ma lady, ça va?
+- Ha! Ha! Viu, minha lady, hum?
+Minha lady, está tudo bem?
 
 326
 00:14:27,067 --> 00:14:30,000
--Chat Noir, j'ai... j'ai peur
-de ne plus savoir jouer!
+- Chat Noir, estou... estou com medo
+de não saber mais jogar!
 
 327
 00:14:30,000 --> 00:14:30,700
--Chat Noir, j'ai... j'ai peur
-de ne plus savoir jouer!
+- Chat Noir, estou... estou com medo
+de não saber mais jogar!
 
 328
 00:14:30,733 --> 00:14:32,317
--OK, je prends la suite!
+- OK, eu assumo!
 
 329
 00:14:34,633 --> 00:14:37,850
--Lady Wifi! Chronogirl!
+- Lady Wifi! Chronogirl!
 
 330
 00:14:37,883 --> 00:14:40,467
--Hum...
-(petits cris)
+- Hum...
+(pequenos gritos)
 
 331
 00:14:40,500 --> 00:14:44,383
--Ma lady, ce qui
-compte pour gagner,
+- Minha lady, o que
+conta para ganhar,
 
 332
 00:14:44,417 --> 00:14:46,633
-ce n'est pas de savoir jouer!
+não é saber jogar!
 
 333
 00:14:46,667 --> 00:14:47,950
--Oh!
+- Oh!
 
 334
 00:14:47,983 --> 00:14:52,000
--C'est surtout de prendre du
-plaisir à le faire!
+- É principalmente sentir
+prazer ao fazê-lo!
 
 335
 00:14:52,033 --> 00:14:56,083
-Jouer, c'est le meilleur moyen
-de faire tout ce qui t'est
-interdit dans la vie réelle!
+Brincar é o melhor jeito
+de fazer tudo que lhe é
+proibido na vida real!
 
 336
 00:14:56,867 --> 00:14:59,733
-Alors, amuse-toi un peu,
-ma Buguinette!
+Então, divirta-se um pouco,
+minha Buguinette!
 
 337
 00:14:59,767 --> 00:15:00,000
-Et Gamer n'aura
-aucune chance contre toi!
+E o Gamer não terá
+nenhuma chance contra você!
 
 338
 00:15:00,000 --> 00:15:03,033
-Et Gamer n'aura
-aucune chance contre toi!
+E o Gamer não terá
+nenhuma chance contra você!
 
 339
 00:15:03,067 --> 00:15:06,900
--Le meilleur moyen de faire
-tout ce tu t'interdis
-dans la vie réelle?
+- O melhor jeito de fazer
+tudo que você se proíbe
+na vida real?
 
 340
 00:15:06,933 --> 00:15:10,683
-Oh, tu as raison! Oui,
-il y a bien quelque chose
-que je rêve de faire.
+Oh, você tem razão! Sim,
+existe uma coisa
+que sonho fazer.
 
 341
 00:15:10,717 --> 00:15:12,317
--Alors, fais-toi plaisir!
+- Então, divirta-se!
 
 342
 00:15:17,400 --> 00:15:18,367
--Dessinateur!
+- Dessinateur!
 
 343
 00:15:18,400 --> 00:15:20,000
@@ -1590,191 +1583,190 @@ Mia! Ah!
 
 345
 00:15:25,550 --> 00:15:27,683
--Oh! Aaaaah!
+- Oh! Aaaaah!
 
 346
 00:15:27,717 --> 00:15:29,767
--Éliminé!
+- Eliminado!
 
 347
 00:15:29,800 --> 00:15:30,000
--Oh, depuis le temps
-que je rêvais de faire ça!
+- Oh, desde que eu
+sonhava em fazer isso!
 
 348
 00:15:30,000 --> 00:15:31,917
--Oh, depuis le temps
-que je rêvais de faire ça!
+- Oh, desde que eu
+sonhava em fazer isso!
 
 349
 00:15:31,950 --> 00:15:34,750
--Ha! Ha! Oh!
--Je ne veux pas de
-cafard dans ma cuisine!
+- Ha! Ha! Oh!
+- Não quero barata na minha cozinha!
 
 350
 00:15:34,783 --> 00:15:37,350
--Glace à volonté! Miam! Miam!
+- Sorvete à vontade! Miam! Miam!
 
 351
 00:15:38,350 --> 00:15:39,633
 Hum!
--Ah!
+- Ah!
 
 352
 00:15:39,667 --> 00:15:42,400
--Je t'ai trouvé! Et tu es viré!
+- Te encontrei! E você está demitido!
 
 353
 00:15:42,433 --> 00:15:44,067
--Par le fer! Oh! Aaah!
+- Pelo ferro! Oh! Aaah!
 
 354
 00:15:44,100 --> 00:15:46,850
--Ça, ça s'appelle un
-coup d'épée dans l'eau!
+- Isso se chama
+espadada na água!
 
 355
 00:15:46,883 --> 00:15:49,583
--Oh, quelle classe!
-Je suis "cha-rmé".
+- Oh, que classe!
+Estou "char-mado".
 
 356
 00:15:49,617 --> 00:15:52,583
-Hé!
--J'a-dore...
+Ei!
+- A-dorei...
 
 357
 00:15:52,617 --> 00:15:54,433
--Ah!
--...ce...
+- Ah!
+-...esse...
 
 358
 00:15:54,467 --> 00:15:56,033
--Oh!
--...jeu!
+- Oh!
+-...jogo!
 
 359
 00:15:56,067 --> 00:15:58,700
--Je vous rappelle que
-ce n'est pas qu'un jeu!
+- Lembro vocês que
+isso não é apenas um jogo!
 
 360
 00:15:58,733 --> 00:16:00,000
--Hé, c'est toi qui
-voulais qu'on s'amuse!
+- Ei, foi você que
+quis que a gente se divertisse!
 
 361
 00:16:00,000 --> 00:16:00,767
--Hé, c'est toi qui
-voulais qu'on s'amuse!
+- Ei, foi você que
+quis que a gente se divertisse!
 
 362
 00:16:00,800 --> 00:16:04,017
--Sors le boss de fin!
-On est prêts à l'affronter!
+- Traga o chefão final!
+Estamos prontos para enfrentá-lo!
 
 363
 00:16:04,917 --> 00:16:07,350
-Arrête de te cacher
-derrière tes jouets
+Pare de se esconder
+atrás dos seus brinquedos
 
 364
 00:16:07,383 --> 00:16:09,567
-et monte sur le ring, Gamer 2.0!
+e suba no ringue, Gamer 2.0!
 
 365
 00:16:09,600 --> 00:16:11,017
--Oui, je suis le boss de fin.
+- Sim, eu sou o chefão final.
 
 366
 00:16:11,050 --> 00:16:13,817
-Mais ça ne dit pas qui aura
-l'honneur de m'affronter.
+Mas isso não diz quem terá
+a honra de me enfrentar.
 
 367
 00:16:13,850 --> 00:16:14,983
--Hein?
--Qu'est-ce que tu veux dire?
+- Hein?
+- O que você quer dizer?
 
 368
 00:16:15,017 --> 00:16:17,483
--Eh bien, je suis sûr
-que vous comprendrez;
+- Bem, tenho certeza
+de que vocês entenderão;
 
 369
 00:16:17,517 --> 00:16:18,933
-deux contre un,
-ça n'est pas du jeu.
+dois contra um,
+não vale.
 
 370
 00:16:18,967 --> 00:16:21,633
--Alors, le seul moyen de vous
-départager pour le final est
+- Então, o único jeito de
+desempatar para o final é
 
 371
 00:16:21,667 --> 00:16:24,383
-que vous combattiez
-l'un contre l'autre!
+que vocês lutem
+um contra o outro!
 
 372
 00:16:24,417 --> 00:16:25,417
-(exclamations)
+(exclamações)
 
 373
 00:16:26,550 --> 00:16:28,517
--Lady Bug! Chat Noir!
+- Ladybug! Chat Noir!
 
 374
 00:16:28,550 --> 00:16:30,000
-Prêts? Combat!
+Prontos? Luta!
 
 375
 00:16:30,000 --> 00:16:30,733
-Prêts? Combat!
+Prontos? Luta!
 
 376
 00:16:30,767 --> 00:16:32,267
--Qu'est-ce que vous attendez?
+- O que vocês estão esperando?
 
 377
 00:16:32,300 --> 00:16:36,467
-Battez-vous! Si vous ne le
-faites pas, tous resterons
-prisonniers pour toujours!
+Lutem! Se vocês não
+fizerem, todos continuarão
+prisioneiros para sempre!
 
 378
 00:16:36,733 --> 00:16:39,217
--On peut pas
-le laisser faire ça!
+- A gente não pode
+deixar ele fazer isso!
 
 379
 00:16:39,250 --> 00:16:40,033
--Oh... Hum!
+- Oh... Hum!
 
 380
 00:16:40,067 --> 00:16:42,933
-Tu sais, j'adore te battre
-à tes côtés, ma lady.
+Sabe, eu adoro lutar
+ao seu lado, minha lady.
 
 381
 00:16:42,967 --> 00:16:45,533
-Mais me battre contre toi,
-ça, non, jamais!
+Mas lutar contra você,
+isso, não, jamais!
 
 382
 00:16:45,567 --> 00:16:48,067
--Chat Noir, mais
-qu'est-ce que tu fais?
+- Chat Noir, mas
+o que você está fazendo?
 
 383
 00:16:48,900 --> 00:16:51,383
--Je te fais gagner
-du temps! Hum!
+- Estou te fazendo ganhar
+tempo! Hum!
 
 384
 00:16:54,233 --> 00:16:55,233
--Non!
+- Não!
 
 385
 00:16:56,267 --> 00:16:57,483
@@ -1782,229 +1774,229 @@ Chat Noir!
 
 386
 00:16:57,517 --> 00:16:59,483
--Je compte sur toi
-pour me ramener!
+- Estou contando com você
+para me trazer de volta!
 
 387
 00:17:00,600 --> 00:17:02,883
--Éliminé! Victoire de Ladybug!
+- Eliminado! Vitória da Ladybug!
 
 388
 00:17:02,917 --> 00:17:05,683
--C'est toi qui voulais
-en finir vite!
+- Foi você quem quis
+terminar logo!
 
 389
 00:17:05,717 --> 00:17:07,733
-Bien, puisque
-c'est le combat final,
+Bem, já que
+é a luta final,
 
 390
 00:17:07,767 --> 00:17:09,100
-en plus de ton superpouvoir,
+além do seu superpoder,
 
 391
 00:17:09,133 --> 00:17:12,600
-tu as le droit de prendre
-4 objets dans ton inventaire.
+você tem o direito de pegar
+4 objetos no seu inventário.
 
 392
 00:17:12,633 --> 00:17:14,567
-Enfin, ça ne te servira
-pas à grand-chose
+Enfim, isso não vai te servir
+de muita coisa
 
 393
 00:17:14,600 --> 00:17:17,667
-parce que je vais gagner quoi
-qu'il arrive.
+porque eu vou ganhar aconteça
+o que acontecer.
 
 394
 00:17:17,700 --> 00:17:19,550
--Tu sais quoi?
-Chat Noir a raison.
+- Sabe de uma coisa?
+Chat Noir tem razão.
 
 395
 00:17:19,583 --> 00:17:21,717
-Je vais prendre tout mon temps.
+Vou levar todo o meu tempo.
 
 396
 00:17:21,750 --> 00:17:23,717
--Ravi que tu prennes
-du plaisir à jouer.
+- Fico feliz que você tire
+prazer ao jogar.
 
 397
 00:17:23,750 --> 00:17:25,600
--Malheureusement pour toi,
-je vais surtout prendre
+- Infelizmente para você,
+vou principalmente tirar
 
 398
 00:17:25,633 --> 00:17:28,250
-du plaisir à gagner
-en suivant mes règles.
+prazer ao ganhar
+seguindo as minhas regras.
 
 399
 00:17:28,283 --> 00:17:30,000
-Lucky charm!
+Talismã!
 
 400
 00:17:30,000 --> 00:17:30,250
-Lucky charm!
+Talismã!
 
 401
 00:17:34,750 --> 00:17:36,900
--Ha! Ha! Ha! Trop forte!
+- Ha! Ha! Ha! Boa!
 
 402
 00:17:36,933 --> 00:17:39,567
-Tu comptes combattre
-le créateur du jeu en personne
+Você pretende combater
+o criador do jogo em pessoa
 
 403
 00:17:39,600 --> 00:17:40,767
-avec un sac de farine?
+com um saco de farinha?
 
 404
 00:17:40,800 --> 00:17:43,450
--Et quelques accessoires.
+- E alguns acessórios.
 
 405
 00:17:48,917 --> 00:17:53,083
--Très bon choix grâce auquel,
-dans 1 min 36 secondes
+- Muito bom, escolha graças à qual,
+em 1 min 36 segundos
 
 406
 00:17:53,417 --> 00:17:55,200
-tu vas perdre!
+você vai perder!
 
 407
 00:17:56,467 --> 00:17:58,717
--Ladybug!
+- Ladybug!
 Gamer 2.0!
 
 408
 00:17:58,750 --> 00:18:00,000
-Combat final!
+Combate final!
 
 409
 00:18:00,000 --> 00:18:00,700
-Combat final!
+Combate final!
 
 410
 00:18:00,733 --> 00:18:02,583
--J'aurais aimé que ça
-dure plus longtemps,
+- Eu teria gostado que
+durasse mais tempo,
 
 411
 00:18:02,617 --> 00:18:05,083
-mais mes statistiques
-sont formelles.
+mas minhas estatísticas
+são formais.
 
 412
 00:18:05,117 --> 00:18:09,283
--Est-ce que tes statistiques ont
-prévu ça? Cataclysme! Ah!
+- Será que suas estatísticas
+previram isso? Cataclismo! Ah!
 
 413
 00:18:09,467 --> 00:18:12,167
--Ah, qu'est-ce que...?
+- Ah, o que é...?
 
 414
 00:18:12,883 --> 00:18:15,900
-Ha! Ha! Ha! Je suis
-le maitre du jeu!
+Ha! Ha! Ha! Eu sou
+o mestre do jogo!
 
 415
 00:18:15,933 --> 00:18:18,833
-Je peux jouer tous
-les personnages!
+Eu posso jogar todos
+os personagens!
 
 416
 00:18:18,867 --> 00:18:22,633
-Tu as cru me déstabiliser
-avec ce petit tour de
-passe-passe ridicule?
+Você achou que podia me desestabilizar
+com esse pequeno truque
+ridículo?
 
 417
 00:18:22,667 --> 00:18:26,217
-Sois une gentille, petite,
-et donne-moi ton miraculous.
+Seja uma boazinha,
+e me dê seu miraculous.
 
 418
 00:18:27,533 --> 00:18:30,000
--Quoi? Ah!
+- Quê? Ah!
 
 419
 00:18:30,000 --> 00:18:30,083
--Quoi? Ah!
+- Quê? Ah!
 
 420
 00:18:30,717 --> 00:18:33,550
-Hum? C'est pas du jeu
-et c'est pas drôle!
+Hum? Isso não vale
+e não tem graça!
 
 421
 00:18:33,583 --> 00:18:35,667
-Tu gâches tout le plaisir!
+Você estraga todo o prazer!
 
 422
 00:18:35,700 --> 00:18:36,983
--Oups, désolée!
+- Ops, desculpe!
 
 423
 00:18:37,017 --> 00:18:39,483
-J'ai l'impression que
-tu tires dans le vide.
+Tenho a impressão de que
+você atira no vazio.
 
 424
 00:18:39,517 --> 00:18:40,867
-Aux échecs, ça s'appelle un pat,
+No xadrez, isso se chama afogamento,
 
 425
 00:18:40,900 --> 00:18:42,917
-une situation où on ne peut
-ni perdre ni gagner.
+uma situação onde não se pode
+nem perder nem ganhar.
 
 426
 00:18:42,950 --> 00:18:44,717
-Qu'est-ce que tu disais
-tout à l'heure?
+O que você estava dizendo
+há pouco?
 
 427
 00:18:44,750 --> 00:18:47,417
-Oh oui, je sais! Plus c'est
-long, plus c'est bon! Oh!
+Oh sim, eu sei! Quanto mais longo,
+melhor! Oh!
 (bips)
 
 428
 00:18:47,450 --> 00:18:51,617
--Ha! Ha! Ça aurait pu marcher,
-mais il me suffit d'attendre
-que tu te détransformes.
+- Ha! Ha! Isso poderia ter funcionado,
+mas basta eu esperar
+que você se destransforme.
 
 429
 00:18:53,417 --> 00:18:54,783
--Échec et mat, Ladybug!
+- Xeque-mate, Ladybug!
 
 430
 00:18:54,817 --> 00:18:57,417
-Te voilà prise
-à ton propre piège!
+Aqui está você
+presa na sua própria armadilha!
 
 431
 00:18:58,417 --> 00:19:00,000
--Hum!
+- Hum!
 
 432
 00:19:00,000 --> 00:19:00,100
--Hum!
+- Hum!
 
 433
 00:19:00,600 --> 00:19:03,383
-(♪ flute ♪)
+(♪ flauta ♪)
 
 434
 00:19:03,417 --> 00:19:06,150
--Hum! Cyclone!
+- Hum! Ciclone!
 
 435
 00:19:07,583 --> 00:19:08,550
@@ -2012,11 +2004,11 @@ Hein?
 
 436
 00:19:08,583 --> 00:19:10,533
-Tu crois que tu peux m'avoir?
+Você acha que pode me pegar?
 
 437
 00:19:10,567 --> 00:19:13,267
-(petits cris)
+(pequenos gritos)
 
 438
 00:19:28,550 --> 00:19:30,000
@@ -2028,69 +2020,69 @@ AAAAH!
 
 440
 00:19:32,900 --> 00:19:36,467
--J'ai gagné! T'es sortie
-du terrain, Ladybug!
+- Ganhei! Você saiu
+do campo, Ladybug!
 
 441
 00:19:36,500 --> 00:19:39,100
--Hum... Hein?
+- Hum... Hein?
 
 442
 00:19:40,483 --> 00:19:42,717
--Oh, non! Mais c'est impossible!
+- Oh, não! Mas é impossível!
 
 443
 00:19:42,750 --> 00:19:45,383
--J'en crois pas mes yeux!
+- Não acredito!
 Ha! Ha! Ha!
 
 444
 00:19:45,950 --> 00:19:48,667
-Il y a un gros bug
-dans ton jeu, Gamer!
+Tem um grande bug
+no seu jogo, Gamer!
 
 445
 00:19:48,700 --> 00:19:50,133
--Non! Je l'aurais vu,
-quand même!
+- Não! Eu teria visto,
+mesmo assim!
 
 446
 00:19:50,167 --> 00:19:54,333
--Même le meilleur jeu du
-meilleur des créateurs
-a des bugs.
+- Mesmo o melhor jogo do
+melhor dos criadores
+tem bugs.
 
 447
 00:19:54,500 --> 00:19:56,667
--Éliminé!
--Quoi?
+- Eliminado!
+- Quê?
 
 448
 00:19:56,700 --> 00:19:59,833
--Victoire de Ladybug!
--Hein?
+- Vitória da Ladybug!
+- Hein?
 
 449
 00:19:59,867 --> 00:20:00,000
--Et parfois, c'est
-juste une illusion.
+- E às vezes, é
+apenas uma ilusão.
 
 450
 00:20:00,000 --> 00:20:03,367
--Et parfois, c'est
-juste une illusion.
+- E às vezes, é
+apenas uma ilusão.
 
 451
 00:20:03,400 --> 00:20:04,450
-(soupir)
+(suspiro)
 
 452
 00:20:04,483 --> 00:20:07,400
--Tu as gagné. Bien joué.
+- Você venceu. Bem jogado.
 
 453
 00:20:07,433 --> 00:20:11,367
--Hum!
+- Hum!
 
 454
 00:20:11,400 --> 00:20:15,200
@@ -2098,112 +2090,112 @@ Miraculous Ladybug!
 
 455
 00:20:16,450 --> 00:20:18,383
-(petit rire)
+(pequena risada)
 
 456
 00:20:18,417 --> 00:20:20,650
-(exclamations)
+(exclamações)
 
 457
 00:20:20,683 --> 00:20:21,883
-(rires)
+(risadas)
 
 458
 00:20:21,917 --> 00:20:25,250
--Tu as assez fait de mal
-comme ça, petit akuma.
+- Você já causou problemas demais
+como isso, pequeno akuma.
 
 459
 00:20:28,600 --> 00:20:30,000
-Je te libère du mal!
+Eu te liberto do mal!
 
 460
 00:20:30,000 --> 00:20:31,483
-Je te libère du mal!
+Eu te liberto do mal!
 
 461
 00:20:34,533 --> 00:20:36,750
-Je t'ai eu!
+Te peguei!
 
 462
 00:20:36,783 --> 00:20:38,733
-Bye-bye, petit papillon!
+Bye-bye, borboletinha!
 
 463
 00:20:38,767 --> 00:20:41,700
--C'est la dernière fois que
-tu te joues de moi, Ladybug.
+- É a última vez que
+você zomba de mim, Ladybug.
 
 464
 00:20:41,733 --> 00:20:42,917
-Je prendrai ma revanche.
+Eu me vingarei.
 
 465
 00:20:42,950 --> 00:20:44,767
-Et ce jour-là, crois-moi, je te
-ferai passer l'envie
+E nesse dia, acredite em mim, eu vou
+te tirar a vontade
 
 466
 00:20:44,800 --> 00:20:48,250
-de t'amuser une
-bonne fois pour toutes.
+de se divertir de uma
+vez por todas.
 
 467
 00:20:54,450 --> 00:20:56,617
-(efforts)
+(esforços)
 
 468
 00:20:57,333 --> 00:21:00,000
--Dis, Chat Noir, entre la vie
-de superhéros et toutes les
-autres obligations,
+- Diga, Chat Noir, entre a vida
+de super-herói e todas as
+outras obrigações,
 
 469
 00:21:00,000 --> 00:21:00,683
--Dis, Chat Noir, entre la vie
-de superhéros et toutes les
-autres obligations,
+- Diga, Chat Noir, entre a vida
+de super-herói e todas as
+outras obrigações,
 
 470
 00:21:00,717 --> 00:21:03,483
-comment tu
-fais pour t'amuser?
+como você
+faz para se divertir?
 
 471
 00:21:03,517 --> 00:21:04,733
-T'as pas peur, à force, de
+Você não tem medo, de tanto, de
 
 472
 00:21:04,767 --> 00:21:06,483
-devoir sacrifier tout ce que
+ter que sacrificar tudo que
 
 473
 00:21:06,517 --> 00:21:07,733
-tu aimes pour tout ça?
+você ama por causa disso?
 
 474
 00:21:07,767 --> 00:21:09,367
--Les moments où je m'amuse
+- Os momentos em que me divirto
 
 475
 00:21:09,400 --> 00:21:10,483
-le plus, ceux que je préfère,
+mais, os que eu prefiro,
 
 476
 00:21:10,517 --> 00:21:11,533
-c'est quand je suis
+são quando estou
 
 477
 00:21:11,567 --> 00:21:12,600
-avec toi, ma lady.
+com você, minha lady.
 
 478
 00:21:12,633 --> 00:21:14,400
-Et je serais prêt à tout
+E eu estaria pronto para tudo
 
 479
 00:21:14,433 --> 00:21:16,183
-sacrifier rien que pour ça.
+sacrificar só por isso.
 
 480
 00:21:16,217 --> 00:21:18,183
@@ -2211,98 +2203,98 @@ Hum!
 
 481
 00:21:18,217 --> 00:21:19,500
-(effort)
+(esforço)
 
 482
 00:21:19,533 --> 00:21:22,350
-(soupir)
+(suspiro)
 
 483
 00:21:22,383 --> 00:21:23,567
--Oh?
+- Oh?
 
 484
 00:21:23,600 --> 00:21:24,767
--Maman? Papa?
+- Mamãe? Papai?
 
 485
 00:21:24,800 --> 00:21:26,550
-C'est vrai que j'ai pas trop
+É verdade que não tenho muito
 
 486
 00:21:26,583 --> 00:21:28,633
-le temps de jouer avec vous
+tempo para brincar com vocês
 
 487
 00:21:28,667 --> 00:21:30,000
-en ce moment, mais Max, oui.
+no momento, mas o Max, sim.
 
 488
 00:21:30,000 --> 00:21:30,700
-en ce moment, mais Max, oui.
+no momento, mas o Max, sim.
 
 489
 00:21:30,733 --> 00:21:31,800
-Et il a un jeu vidéo à tester
+E ele tem um jogo de videogame para testar
 
 490
 00:21:31,833 --> 00:21:33,400
-qu'il a créé lui-même, avec
+que ele criou sozinho, com
 
 491
 00:21:33,433 --> 00:21:34,500
-tout plein de bugs!
+um monte de bugs!
 
 492
 00:21:34,533 --> 00:21:35,700
--Un jeu vidéo? Qu'il a
+- Um jogo de videogame? Que ele
 
 493
 00:21:35,733 --> 00:21:37,417
-développé lui-même?
+desenvolveu sozinho?
 
 494
 00:21:37,450 --> 00:21:38,483
--Avec des bugs à trouver?
+- Com bugs para encontrar?
 
 495
 00:21:38,517 --> 00:21:40,567
--Tous au salon!
+- Todos para a sala!
 
 496
 00:21:40,600 --> 00:21:41,750
-Tous au salon!
--Ha! Ha! Ha!
+Todos para a sala!
+- Ha! Ha! Ha!
 
 497
 00:21:41,783 --> 00:21:44,283
-(cris d'enthousiasme)
+(gritos de entusiasmo)
 
 498
 00:21:44,317 --> 00:21:44,933
--Merci, Marinette
+- Obrigado, Marinette
 
 499
 00:21:44,967 --> 00:21:48,067
--Tikki, j'ai presque
-terminé les t-shirts
+- Tikki, eu quase
+terminei as camisetas
 
 500
 00:21:48,100 --> 00:21:51,617
-et l'affiche de Jagged
-peut peut-être attendre
-un petit peu, non?
+e o cartaz do Jagged
+pode talvez esperar
+um pouquinho, não?
 
 501
 00:21:51,650 --> 00:21:53,500
--Je suis sure
-que oui, Marinette!
+- Tenho certeza
+que sim, Marinette!
 
 502
 00:21:53,533 --> 00:21:56,433
--Gardez-moi quelques
-bugs, j'arrive!
+- Guardem alguns
+bugs para mim, estou chegando!
 
 503
 00:22:00,683 --> 00:22:04,850
-Sous-titrage: Télé-Québec
+Legendas por: eliascsc
