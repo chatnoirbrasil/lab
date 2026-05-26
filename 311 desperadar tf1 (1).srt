@@ -1,23 +1,23 @@
-﻿1
+1
 00:00:00,080 --> 00:00:01,680
 ...
 
 2
 00:00:01,920 --> 00:00:03,920
-Je m'appelle Marinette.
+Meu nome é Marinette.
 
 3
 00:00:04,120 --> 00:00:05,840
-Une fille comme les autres.
+Uma garota como qualquer outra.
 
 4
 00:00:06,080 --> 00:00:09,680
-Quand le destin me choisit
-pour lutter contre le mal,
+Quando o destino me escolhe
+para lutar contra o mal,
 
 5
 00:00:09,880 --> 00:00:12,360
-je deviens Miraculous Ladybug.
+eu me torno Miraculous Ladybug.
 
 6
 00:00:12,560 --> 00:00:13,520
@@ -25,20 +25,20 @@ je deviens Miraculous Ladybug.
 
 7
 00:00:13,760 --> 00:00:15,440
-Porte-bonheur
+Amuleto da sorte
 
 8
 00:00:15,680 --> 00:00:18,080
-Lady magique et Lady chance
+Lady mágica e Lady sorte
 
 9
 00:00:18,280 --> 00:00:20,280
 Miraculous
-Lady du coeur
+Lady do coração
 
 10
-00:00:21,320 --> 00:00:23,920
-Etre héroïque en cas d'urgence
+00:01:21,320 --> 00:01:23,920
+Sendo heroica em caso de emergência
 
 11
 00:00:24,120 --> 00:00:25,800
@@ -46,7 +46,7 @@ Miraculous
 
 12
 00:00:32,480 --> 00:00:34,840
-Musique rock
+Música rock
 
 13
 00:00:35,080 --> 00:00:39,680
@@ -54,15 +54,15 @@ Musique rock
 
 14
 00:00:39,880 --> 00:00:41,240
--Tu es doué, Luka.
+-Você manda bem, Luka.
 
 15
 00:00:41,480 --> 00:00:42,680
-Tu joues depuis quand ?
+Toca desde quando?
 
 16
 00:00:42,920 --> 00:00:45,240
--J'ai commencé en couche-culotte.
+-Eu comecei quando usava fraldas.
 
 17
 00:00:45,440 --> 00:00:47,280
@@ -70,1551 +70,1548 @@ Tu joues depuis quand ?
 
 18
 00:00:47,520 --> 00:00:50,640
--J'ai l'impression
-que Luka plaît à Marinette.
+-Eu tenho a impressão
+que a Marinette está caidinha pelo Luka.
 
 19
 00:00:50,840 --> 00:00:53,480
--Elle arrive à lui parler
-sans faire...
+-Ela consegue falar com ele
+sem dar nenhum...
 
 20
 00:00:53,680 --> 00:00:55,000
-Charabia
+Nó na língua
 
 21
 00:00:55,200 --> 00:00:57,400
--Elle est pas comme ça
-avec Adrien.
+-Ela não é assim
+com o Adrien.
 
 22
 00:00:57,600 --> 00:00:58,560
--Et puis,
+-E além do mais,
 
 23
 00:00:58,800 --> 00:01:01,480
-Luka a le droit de sortir
-quand il veut.
+o Luka tem permissão para sair
+quando quiser.
 
 24
 00:01:04,960 --> 00:01:05,800
--Merci.
+-Obrigado.
 
 25
 00:01:08,200 --> 00:01:10,160
-Musique rock
+Música rock
 
 26
 00:01:10,400 --> 00:01:12,280
--Ils sont trop mignons.
+-Eles são fofos demais.
 
 27
 00:01:12,480 --> 00:01:14,600
--Ouais, carrément.
--C'est vrai.
+-É, com certeza.
+-É verdade.
 
 28
 00:01:14,800 --> 00:01:16,320
--Vous trouvez ?
--Oui.
+-Vocês acham?
+-Sim.
 
 29
 00:01:16,560 --> 00:01:17,880
-Il lui correspond.
+Ele faz o tipo dela.
 
 30
 00:01:18,120 --> 00:01:20,880
--Adrien ? Kagami ?
--Ton père t'a autorisé
+-Adrien? Kagami?
+-O seu pai deixou
 
 31
 00:01:21,120 --> 00:01:24,120
-à sortir ?
--On est censés faire de l'escrime.
+você sair?
+-A gente devia estar na esgrima.
 
 32
 00:01:24,320 --> 00:01:26,320
-On a dû se tromper d'adresse.
+Devemos ter errado o endereço.
 
 33
 00:01:26,520 --> 00:01:29,440
--On dirait bien que oui.
-Ils rient.
+-Pelo visto sim.
+Eles riem.
 
 34
 00:01:31,160 --> 00:01:35,200
--C'est bien qu'Adrien ait trouvé
-quelqu'un avec qui sortir.
+-É bom que o Adrien tenha achado
+alguém para sair.
 
 35
 00:01:37,680 --> 00:01:40,520
-Elle gémit.
+Ela geme.
 
 36
 00:01:41,760 --> 00:01:45,000
--Salut, Adrien,
-c'est cool que tu sois venu seul.
+-Oi, Adrien,
+que bom que você veio sozinho.
 
 37
 00:01:45,200 --> 00:01:46,600
-Euh, pas venu seul.
+Quer dizer, não veio sozinho.
 
 38
 00:01:46,800 --> 00:01:48,800
-Salut, Kalkami, Kalami...
+Oi, Kalkami, Kalami...
 
 39
 00:01:49,040 --> 00:01:50,520
--Contente de te voir.
+-Bom te ver.
 
 40
 00:01:50,720 --> 00:01:53,720
-Tu es venue voir
-ton petit ami répéter ?
+Você veio ver
+o seu namorado ensaiar?
 
 41
 00:01:58,480 --> 00:01:59,680
--Euh... euh...
+-Er... er...
 
 42
 00:01:59,920 --> 00:02:00,880
-Cris
--Non !
+Gritos
+-Não!
 
 43
 00:02:01,120 --> 00:02:04,400
-Je serai pas ton 2d choix !
--Anarka, je t'en prie.
+Eu não vou ser a sua segunda opção!
+-Anarka, eu te peço.
 
 44
 00:02:04,640 --> 00:02:07,120
--Kagami n'a peut-être pas tort.
+-A Kagami talvez não esteja errada.
 
 45
 00:02:07,320 --> 00:02:09,920
--Luka ?
-Non, c'est juste un copain.
+-O Luka?
+Não, ele é só um amigo.
 
 46
 00:02:10,120 --> 00:02:12,080
-Elle soupire.
+Ela suspira.
 
 47
 00:02:13,400 --> 00:02:14,680
--Tu sais bien
+-Você sabe muito bem
 
 48
 00:02:14,920 --> 00:02:17,040
-que tu es ma préférée,
-ma Nanark.
+que você é a minha favorita,
+minha Nanark.
 
 49
 00:02:17,280 --> 00:02:19,320
--MA NANARK ?
+-MINHA NANARK?
 
 50
 00:02:19,560 --> 00:02:22,360
--A d'autres.
-Tu as jeté ta guitariste ?
+-Conta outra.
+Você dispensou a sua guitarrista?
 
 51
 00:02:22,600 --> 00:02:26,800
--C'est pas ma faute.
-Elle a décidé de prendre le large.
+-A culpa não foi minha.
+Ela que decidiu bater asas.
 
 52
 00:02:27,920 --> 00:02:30,040
-Regarde comme on était beaux.
+Olha como a gente era lindo junto.
 
 53
 00:02:30,240 --> 00:02:31,880
-Reviens jouer avec moi.
+Volta a tocar comigo.
 
 54
 00:02:32,120 --> 00:02:33,280
--Jagged et maman ?
+-O Jagged e a mamãe?
 
 55
 00:02:34,480 --> 00:02:38,880
--Nous ne sommes plus un équipage.
-Je navigue en solitaire.
+-Nós não somos mais uma tripulação.
+Eu navego sozinha agora.
 
 56
 00:02:39,120 --> 00:02:41,520
-Musique triste
+Música triste
 
 57
 00:02:41,720 --> 00:02:43,120
--Marinette, tu es là !
+-Marinette, você está aí!
 
 58
 00:02:43,840 --> 00:02:47,520
-Toi qui as su me créer
-ces magnifiques lunettes,
+Você que soube criar
+esses óculos magníficos,
 
 59
 00:02:47,760 --> 00:02:49,120
-aide-moi à trouver
+me ajuda a encontrar
 
 60
 00:02:49,360 --> 00:02:50,680
-un guitariste.
+um guitarrista.
 
 61
 00:02:50,920 --> 00:02:53,200
-Tu joues ?
--Moi, de la guitare ?
+Você toca?
+-Eu, guitarra?
 
 62
 00:02:53,400 --> 00:02:55,160
-De la flûte, oui...
+Flauta doce, sim...
 
 63
 00:02:55,400 --> 00:02:57,400
-Mais je crois pas que...
+Mas acho que não...
 
 64
 00:03:00,840 --> 00:03:04,040
-Attendez !
-Je connais le musicien idéal.
+Esperem!
+Eu conheço o músico ideal.
 
 65
 00:03:04,280 --> 00:03:06,760
--Ah oui ?
-Rock and roll, Marinette !
+-Ah é?
+Rock and roll, Marinette!
 
 66
 00:03:08,320 --> 00:03:10,600
-Vous connaissez Adrien Agreste.
+Vocês conhecem o Adrien Agreste.
 
 67
 00:03:10,800 --> 00:03:14,040
-Le plus adorable mannequin...
-musicien au monde !
+O modelo... e músico
+mais adorável do mundo!
 
 68
 00:03:15,240 --> 00:03:16,280
--Euh...
+-Er...
 
 69
 00:03:16,520 --> 00:03:20,040
--Je suis plus pianiste
-que guitariste.
+-Eu sou mais do piano
+do que da guitarra.
 
 70
 00:03:22,080 --> 00:03:24,240
--Euh... OK, si tu le dis.
+-Er... tá, se você está dizendo.
 
 71
 00:03:24,440 --> 00:03:27,840
-Et le gars au T-shirt cool,
-il est pas plus adapté ?
+E o garoto com a camiseta descolada,
+ele não seria mais indicado?
 
 72
 00:03:29,960 --> 00:03:31,840
--Oui, vous avez raison !
+-É, o senhor tem razão!
 
 73
 00:03:33,600 --> 00:03:36,080
-Luka peut prêter sa guitare
-à Adrien.
+O Luka pode emprestar a guitarra dele
+para o Adrien.
 
 74
 00:03:36,280 --> 00:03:38,880
-Ca t'ennuie pas ?
--Si ça te fait plaisir.
+Tudo bem por você?
+-Se te faz feliz.
 
 75
 00:03:39,120 --> 00:03:39,960
-Soupirs
+Suspiros
 
 76
 00:03:40,200 --> 00:03:42,160
-Fais-en bon usage,
+Faça um bom uso dela,
 Adrien.
 
 77
 00:03:42,360 --> 00:03:44,960
--Je ferai de mon mieux, merci.
+-Vou dar o meu melhor, obrigado.
 
 78
 00:03:45,200 --> 00:03:46,280
--Jagged !
+-Jagged!
 
 79
 00:03:46,520 --> 00:03:49,680
-Tu me vires
-et tu me remplaces par quoi ?
+Você me demite
+e me substitui por o quê?
 
 80
 00:03:49,920 --> 00:03:51,040
-Un collégien !
+Um garoto de escola!
 
 81
 00:03:51,280 --> 00:03:53,400
--Vivica, c'est bien toi ?
+-Vivica, é você mesma?
 
 82
 00:03:53,640 --> 00:03:55,720
--Il n'y a plus de Vivica.
+-Não existe mais Vivica.
 
 83
 00:03:55,920 --> 00:03:57,600
-Je suis Desperada.
+Eu sou a Desperada.
 
-84
+40
 00:04:00,560 --> 00:04:02,360
-Si tu ne veux plus de moi
+Se você não me quer mais
 
-85
+41
 00:04:02,600 --> 00:04:03,440
-comme guitariste,
+como guitarrista,
 
-86
+42
 00:04:03,680 --> 00:04:05,080
-personne me remplacera.
+ninguém vai me substituir.
 
-87
+43
 00:04:05,320 --> 00:04:08,480
--Espèce de flibustier !
-Je savais que tu mentais.
+-Sua pirata de água doce!
+Eu sabia que você estava mentindo.
 
-88
+44
 00:04:08,680 --> 00:04:11,440
-Vivica n'est pas partie,
-tu l'as jetée à l'eau.
+A Vivica não foi embora,
+você jogou ela prancha fora.
 
-89
+45
 00:04:11,680 --> 00:04:14,680
-Tout comme moi !
--Tu comptais la choisir, elle ?
+Igualzinho a mim!
+-Você ia escolher ela?
 
-90
+46
 00:04:14,920 --> 00:04:18,520
--Je suis une meilleure
-guitariste que toi.
+-Eu sou uma guitarrista
+muito melhor do que você.
 
-91
+47
 00:04:18,760 --> 00:04:21,760
-Je suis son 1er choix.
--Je commence par toi !
+Eu sou a primeira opção dele.
+-Eu começo por você!
 
-92
+48
 00:04:25,360 --> 00:04:27,080
-Desperada vise juste !
+A Desperada nunca erra o alvo!
 
-93
+49
 00:04:27,320 --> 00:04:29,040
-Elle crie.
+Ela grita.
 
-94
+50
 00:04:35,920 --> 00:04:39,240
--J'aurais jamais dû
-donner cette guitare à Adrien.
+-Eu nunca devia ter
+dado aquela guitarra para o Adrien.
 
-95
+51
 00:04:39,440 --> 00:04:42,640
-Pourquoi j'ai fait ça ?
--Ton coeur est troublé.
+Por que eu fiz isso?
+-O seu coração está confuso.
 
-96
+52
 00:04:42,840 --> 00:04:43,800
--Mince alors !
+-Caramba!
 
-97
+53
 00:04:44,040 --> 00:04:46,320
-Tikki, transforme-moi !
+Tikki, transformar!
 
-98
+54
 00:04:49,640 --> 00:04:50,720
--Pas par là.
+-Por ali não.
 
-99
+55
 00:04:52,720 --> 00:04:54,200
--Où tu crois aller ?
+-Onde você pensa que vai?
 
-100
+56
 00:04:54,440 --> 00:04:57,040
--C'est pas rock and roll,
-comme attitude.
+-Essa atitude
+não é nada rock and roll.
 
-101
+57
 00:05:04,200 --> 00:05:05,520
-Gémissement
+Gemido
 
-102
+58
 00:05:06,600 --> 00:05:10,240
--Mon instrument à moi,
-c'est le yoyo.
+-O meu instrumento
+é o ioiô.
 
-103
+59
 00:05:10,480 --> 00:05:12,320
-Un duo, ça te dirait ?
+Topa fazer um dueto?
 
-104
+60
 00:05:12,560 --> 00:05:14,160
--Un solo !
+-Prefiro carreira solo!
 
-105
+61
 00:05:15,160 --> 00:05:17,480
--On risque rien, ici.
--Merci, Luka.
+-Estamos seguros aqui.
+-Obrigada, Luka.
 
-106
+62
 00:05:18,360 --> 00:05:19,560
-Gémissement
+Gemido
 
-107
+63
 00:05:20,440 --> 00:05:22,160
--Parfait, Desperada.
+-Perfeito, Desperada.
 
-108
+64
 00:05:22,400 --> 00:05:24,200
-Son Miraculous est là.
+O Miraculous dele está logo ali.
 
-109
+65
 00:05:24,440 --> 00:05:27,680
--Je tiens toujours mes promesses,
-Papillon.
+-Eu sempre cumpro as minhas promessas,
+Hawk Moth.
 
-110
+66
 00:05:32,360 --> 00:05:33,760
--Où est Chat Noir ?
+-Onde está o Chat Noir?
 
-111
+67
 00:05:34,000 --> 00:05:35,880
--Il a dû être retardé.
+-Ele deve ter se atrasado.
 
-112
+68
 00:05:36,080 --> 00:05:37,600
--Faut aider Ladybug.
+-Temos que ajudar a Ladybug.
 
-113
+69
 00:05:37,800 --> 00:05:38,800
-Je peux ?
+Eu posso?
 
-114
+70
 00:05:40,240 --> 00:05:42,640
-Musique rock
+Música rock
 
-115
+71
 00:05:42,880 --> 00:05:44,880
--Encore un guitariste !
+-Mais um guitarrista!
 
-116
+72
 00:05:45,120 --> 00:05:46,760
-Trompette
+Trompete
 
-117
+73
 00:05:47,000 --> 00:05:50,400
 ...
 
-118
+74
 00:05:52,600 --> 00:05:53,640
-Elle gémit.
+Ela geme.
 
-119
+75
 00:05:57,760 --> 00:05:59,080
-Elle crie.
+Ela grita.
 
-120
+76
 00:06:03,240 --> 00:06:04,800
--Suivez-moi, vite !
+-Me sigam, rápido!
 
-121
+77
 00:06:05,840 --> 00:06:07,960
--Vous ne m'échapperez pas !
+-Vocês não vão escapar de mim!
 
-122
+78
 00:06:12,040 --> 00:06:15,000
--Vous n'auriez pas dû
-vous mettre en danger.
+-Vocês não deviam
+ter se colocado em perigo.
 
-123
+79
 00:06:15,240 --> 00:06:17,320
-Mais merci pour votre aide.
+Mas obrigado pela ajuda.
 
-124
+80
 00:06:17,560 --> 00:06:19,800
--Tu peux compter sur nous.
+-Pode contar com a gente.
 
-125
+81
 00:06:20,040 --> 00:06:22,920
-Douce mélodie à la guitare
+Melodia suave na guitara
 
-126
+82
 00:06:23,120 --> 00:06:24,320
--C'est gentil.
+-Que gentil.
 
-127
-00:06:24,520 --> 00:06:28,600
-Pour affronter un super vilain,
-il faut des super pouvoirs.
+83
+00:06:25,520 --> 00:06:28,600
+Para enfrentar um supervilão,
+precisamos de superpoderes.
 
-128
+84
 00:06:28,840 --> 00:06:29,800
-D'ailleurs...
+Aliás...
 
-129
+85
 00:06:30,040 --> 00:06:32,680
-*-Donnez votre langue au chat
-après le miaou.
+*-Deixem seu recado
+após o miado.
 
-130
+86
 00:06:32,920 --> 00:06:35,400
--OK.
-Lucky Charm !
+-Tá bom.
+Talismã!
 
-131
+87
 00:06:40,440 --> 00:06:42,680
--Un gong ?
-Tu vas en faire quoi ?
+-Un gongo?
+O que vai fazer com isso?
 
-132
+88
 00:06:42,880 --> 00:06:44,760
--Je dois vous laisser.
+-Eu preciso ir.
 
-133
+89
 00:06:45,000 --> 00:06:48,600
--Même si tu le caches,
-je trouverai le guitariste !
+-Mesmo que você o esconda,
+eu vou achar aquele guitarrista!
 
-134
+90
 00:06:49,520 --> 00:06:50,680
--Je m'en occupe.
+-Eu cuido disso.
 
-135
+91
 00:06:50,880 --> 00:06:53,760
-Tu veux bien me la prêter ?
--Tu sais en jouer ?
+Pode me emprestar ela?
+-Você sabe tocar?
 
-136
+92
 00:06:54,000 --> 00:06:55,200
--Pas vraiment.
+-Não muito.
 
-137
+93
 00:06:55,400 --> 00:06:58,200
-J'ai un style très personnel.
-J'y vais.
+Eu tenho um estilo bem próprio.
+Eu já vou indo.
 
-138
+94
 00:06:58,440 --> 00:06:59,440
-Cachez-vous.
+Se escondam.
 
-139
+95
 00:07:09,840 --> 00:07:11,040
--Là-bas !
+-Ali!
 
-140
+96
 00:07:14,040 --> 00:07:15,760
-Cachons-nous là-dedans.
+Vamos nos esconder aqui dentro.
 
-141
+97
 00:07:16,000 --> 00:07:17,200
-C'est étroit.
+É apertado.
 
-142
+98
 00:07:17,400 --> 00:07:19,920
-Je vais en trouver un autre.
--D'accord.
+Vou procurar outro lugar.
+-Tá bom.
 
-143
+99
 00:07:23,840 --> 00:07:26,240
--Je te propose une sieste.
+-Eu te sugiro um cochilo.
 
-144
+100
 00:07:26,440 --> 00:07:28,360
--Non, Chat Noir entre en scène.
+-Não, o Chat Noir vai entrar em cena.
 
-145
+101
 00:07:28,600 --> 00:07:30,680
-Plagg, transforme-moi !
+Plagg, transformar!
 
-146
+102
 00:07:32,520 --> 00:07:33,720
--Oh oh oh !
+-Oh oh oh!
 
-147
+103
 00:07:44,800 --> 00:07:46,280
-Guitare électrique
+Guitarra elétrica
 
-148
+104
 00:07:46,480 --> 00:07:48,480
--Qui ose torturer cette guitare ?
+-Quem ousa torturar essa guitarra?
 
-149
+105
 00:07:48,720 --> 00:07:50,200
-Elle grogne.
+Ela rosna.
 
-150
+106
 00:07:54,160 --> 00:07:56,160
-Trompette
+Trompete
 
-151
+107
 00:07:56,400 --> 00:07:58,240
-Voilà, c'est mieux.
+Pronto, assim está melhor.
 
-152
+108
 00:08:09,200 --> 00:08:12,400
 -Marinette Dupain-Cheng,
-choisis un allié
+escolha um aliado
+
+109
+00:08:12,640 --> 00:08:15,680
+de confiança
+para te ajudar nessa missão.
+
+110
+00:08:15,880 --> 00:08:18,640
+Assim que a missão terminar,
+
+111
+00:08:18,880 --> 00:08:20,840
+você deve pegar de volta
+o Miraculous
+
+112
+00:08:21,080 --> 00:08:24,200
+e trazê-lo para mim.
+-A Desperada é implacável.
+
+113
+00:08:24,440 --> 00:08:26,400
+Não vai haver uma segunda chance.
+
+114
+00:08:27,480 --> 00:08:28,320
+A menos que...
+
+115
+00:08:28,560 --> 00:08:30,800
+-O poder da cobra
+é poderoso.
+
+116
+00:08:31,040 --> 00:08:33,720
+Quem for usá-lo
+deve ser sábio o suficiente
+
+117
+00:08:33,920 --> 00:08:36,760
+para não cair na tentação
+de manipular o tempo
+
+118
+00:08:36,960 --> 00:08:39,000
+para fins pessoais.
+-Sim.
+
+119
+00:08:39,200 --> 00:08:43,000
+Eu conheço a pessoa ideal.
+Eu devia ter pensado nele antes.
+
+120
+00:08:43,240 --> 00:08:44,200
+Ele vai ser perfeito.
+
+121
+00:08:46,960 --> 00:08:49,760
+-Toda vez que a gente se vê, é um choque.
+
+122
+00:08:50,000 --> 00:08:52,560
+Está na hora de parar
+aquela guitarrista
+
+123
+00:08:52,760 --> 00:08:56,040
+e a barulheira que ela traz junto.
+O que você está procurando?
+
+124
+00:08:56,280 --> 00:08:57,200
+-Ah!
+
+125
+00:08:57,440 --> 00:09:00,200
+Ufa!
+Eu preciso achar o Adrien Agreste.
+
+126
+00:09:00,440 --> 00:09:03,120
+-Você quer confiar
+um dos Miraculous a ele?
+
+127
+00:09:03,360 --> 00:09:05,040
+-Você não devia saber disso,
+
+128
+00:09:05,280 --> 00:09:06,040
+mas sim.
+
+129
+00:09:06,240 --> 00:09:09,320
+Ele vai ser perfeito.
+-Pode contar comigo
+
+130
+00:09:09,520 --> 00:12:49,240
+e com o meu faro.
+Eu vou achar o Adrien.
+
+131
+00:09:13,160 --> 00:09:15,880
+Ele está naquele armário!
+
+132
+00:09:16,000 --> 00:09:19,280
+-O seu faro lendário
+falhou um pouquinho.
+
+133
+00:09:19,520 --> 00:09:22,960
+-Vocês derrotaram a Desperada?
+Onde está o Adrien?
+
+134
+00:09:23,200 --> 00:09:25,720
+-Ele deve ter ido se esconder em outro lugar.
+
+135
+00:09:25,920 --> 00:09:27,240
+Vamos nos separar.
+
+136
+00:09:28,840 --> 00:09:31,120
+Fique escondido enquanto isso.
+
+137
+00:09:32,680 --> 00:09:33,840
+Destransformar!
+
+138
+00:09:34,040 --> 00:09:36,080
+Plagg, a Ladybug precisa de mim.
+
+139
+00:09:36,320 --> 00:09:39,280
+-Essa história toda
+está cheirando a queijo estragado.
+
+140
+00:09:39,520 --> 00:09:42,520
+-Ela acha que eu sou perfeito
+para a missão.
+
+141
+00:09:42,720 --> 00:09:45,920
+-Você não pode ser o Chat Noir
+e outro super-herói ao mesmo tempo.
+
+142
+00:09:46,120 --> 00:09:49,800
+Então você não é perfeito.
+-O Talismã dela indicou que sim.
+
+143
+00:09:50,040 --> 00:09:52,800
+-Não é assim que a banda toca!
+Suspiro
+
+144
+00:09:53,040 --> 00:09:54,440
+Você não escuta.
+
+145
+00:09:54,640 --> 00:09:56,680
+-Ela está interessada em mim.
+
+146
+00:09:56,880 --> 00:10:00,040
+Não importa o uniforme que venha junto,
+eu preciso tentar.
+
+147
+00:10:00,240 --> 00:10:01,880
+Ela me escolheu.
+
+148
+00:10:02,120 --> 00:10:04,480
+-Adrien?
+-Er, Ladybug?
+
+149
+00:10:04,720 --> 00:10:06,360
+-Onde você estava?
+
+150
+00:10:06,600 --> 00:10:09,200
+Está tudo bem?
+-Sim, eu estava escondido.
+
+151
+00:10:09,400 --> 00:10:12,200
+Achei melhor
+a gente se espalhar.
+
+152
+00:10:12,440 --> 00:10:13,960
+-Eu preciso de você.
 
 153
-00:08:12,640 --> 00:08:15,680
-de confiance
-pour t'aider dans cette mission.
+00:10:14,200 --> 00:10:15,560
+-De mim?
 
 154
-00:08:15,880 --> 00:08:18,640
-Une fois la mission achevée,
-
-155
-00:08:18,880 --> 00:08:20,840
-tu devras reprendre
-le Miraculous
-
-156
-00:08:21,080 --> 00:08:24,200
-et me le ramener.
--Desperada est implacable.
-
-157
-00:08:24,440 --> 00:08:26,400
-Il n'y aura pas de 2e chance.
-
-158
-00:08:27,480 --> 00:08:28,320
-Sauf si...
-
-159
-00:08:28,560 --> 00:08:30,800
--Le pouvoir du serpent
-est puissant.
-
-160
-00:08:31,040 --> 00:08:33,720
-Celui qui l'utilisera
-doit être assez sage
-
-161
-00:08:33,920 --> 00:08:36,760
-pour ne pas être tenté
-de manipuler le temps
-
-162
-00:08:36,960 --> 00:08:39,000
-à des fins personnelles.
--Oui.
-
-163
-00:08:39,200 --> 00:08:43,000
-Je connais la personne idéale.
-J'aurais dû penser à lui.
-
-164
-00:08:43,240 --> 00:08:44,200
-Il sera parfait.
-
-165
-00:08:46,960 --> 00:08:49,760
--Chaque fois qu'on se voit,
-c'est un choc.
-
-166
-00:08:50,000 --> 00:08:52,560
-Il est temps d'arrêter
-cette guitariste
-
-167
-00:08:52,760 --> 00:08:56,040
-et la cacophonie qui l'accompagne.
-Tu cherches quoi ?
-
-168
-00:08:56,280 --> 00:08:57,200
--Ah !
-
-169
-00:08:57,440 --> 00:09:00,200
-Ouf !
-Je dois trouver Adrien Agreste.
-
-170
-00:09:00,440 --> 00:09:03,120
--Tu veux lui confier
-un des Miraculous ?
-
-171
-00:09:03,360 --> 00:09:05,040
--Tu n'es pas censé le savoir,
-
-172
-00:09:05,280 --> 00:09:06,040
-mais oui.
-
-173
-00:09:06,240 --> 00:09:09,320
-Il sera parfait.
--Tu peux compter sur moi
-
-174
-00:09:09,520 --> 00:09:12,920
-ainsi que sur mon flair.
-Je trouverai Adrien.
-
-175
-00:09:13,160 --> 00:09:15,800
-Il est dans ce placard !
-
-176
-00:09:16,000 --> 00:09:19,280
--Ton flair légendaire
-s'est un peu trompé.
-
-177
-00:09:19,520 --> 00:09:22,960
--Vous avez vaincu Desperada ?
-Où est Adrien ?
-
-178
-00:09:23,200 --> 00:09:25,720
--Il a dû partir se cacher ailleurs.
-
-179
-00:09:25,920 --> 00:09:27,240
-Séparons-nous.
-
-180
-00:09:28,840 --> 00:09:31,120
-Cache-toi, en attendant.
-
-181
-00:09:32,680 --> 00:09:33,840
-Détransformation !
-
-182
-00:09:34,040 --> 00:09:36,080
-Plagg, Ladybug a besoin de moi.
-
-183
-00:09:36,320 --> 00:09:39,280
--Cette histoire
-sent le fromage pasteurisé.
-
-184
-00:09:39,520 --> 00:09:42,520
--Elle pense que je suis parfait
-pour la mission.
-
-185
-00:09:42,720 --> 00:09:45,920
--Tu ne peux pas être Chat Noir
-et un super-héros.
-
-186
-00:09:46,120 --> 00:09:49,800
-Donc tu n'es pas parfait.
--Le Lucky Charm lui a dit que si.
-
-187
-00:09:50,040 --> 00:09:52,800
--Ca ne marche pas comme ça !
-Soupir
-
-188
-00:09:53,040 --> 00:09:54,440
-Tu n'écoutes pas.
-
-189
-00:09:54,640 --> 00:09:56,680
--Elle s'intéresse à moi.
-
-190
-00:09:56,880 --> 00:10:00,040
-Qu'importe le costume qui va avec,
-je dois essayer.
-
-191
-00:10:00,240 --> 00:10:01,880
-Elle m'a choisi.
-
-192
-00:10:02,120 --> 00:10:04,480
--Adrien ?
--Euh, Ladybug ?
-
-193
-00:10:04,720 --> 00:10:06,360
--Où étais-tu ?
-
-194
-00:10:06,600 --> 00:10:09,200
-Tout va bien ?
--Oui, je me cachais.
-
-195
-00:10:09,400 --> 00:10:12,200
-J'ai préféré
-qu'on se disperse.
-
-196
-00:10:12,440 --> 00:10:13,960
--J'ai besoin de toi.
-
-197
-00:10:14,200 --> 00:10:15,560
--De moi ?
-
-198
 00:10:15,800 --> 00:10:17,200
 -Adrien Agreste,
 
-199
+155
 00:10:17,400 --> 00:10:20,880
-voici le Miraculous du serpent,
-celui qui accorde
+este é o Miraculous da cobra, que concede
+
+156
+00:10:21,120 --> 00:10:23,800
+o poder da Segunda Chance.
+Use-o bem.
+
+157
+00:10:25,200 --> 00:10:27,080
+Assim que a missão acabar,
+
+158
+00:10:27,280 --> 00:10:30,680
+você deve devolvê-lo para mim.
+Posso confiar em você?
+
+159
+00:10:30,920 --> 00:10:31,840
+-Sim, Ladybug.
+
+160
+00:10:33,800 --> 00:10:34,960
+Oh!
+
+161
+00:10:37,120 --> 00:10:38,400
+Incrível!
+
+162
+00:10:38,640 --> 00:10:42,000
+-Saudações.
+O meu nome é Sass.
+
+163
+00:10:42,240 --> 00:10:43,840
+-O que eu tenho que fazer?
+
+164
+00:10:44,080 --> 00:10:45,240
+-É simples.
+
+165
+00:10:45,440 --> 00:10:48,240
+Basta você dizer:
+"Sass, transformar!"
+
+166
+00:10:55,560 --> 00:10:58,080
+-Sass, transformar!
+
+167
+00:11:10,200 --> 00:11:13,400
+*-Deixem seu recado
+após o miado.
+
+168
+00:11:13,600 --> 00:11:15,320
+-Eu encontrei o Adrien.
+
+169
+00:11:15,560 --> 00:11:17,280
+Vamos atrás da Desperada.
+
+170
+00:11:17,520 --> 00:11:21,120
+-Espero não te decepcionar.
+-Tenho certeza de que não vai.
+
+171
+00:11:21,320 --> 00:11:22,320
+Você é perfeito.
+
+172
+00:11:22,520 --> 00:11:25,240
+Perfeitamente capaz
+de enfrentar a Desperada.
+
+173
+00:11:25,440 --> 00:11:27,560
+A Desperada
+é uma grande adversária.
+
+174
+00:11:28,680 --> 00:11:29,800
+Talismã!
+
+175
+00:11:35,240 --> 00:11:38,280
+-Eu teria preferido
+uma herradura da sorte.
+
+176
+00:11:38,480 --> 00:11:41,400
+-Eu adoro o seu senso de humor.
+-Sério?
+
+177
+00:11:41,600 --> 00:11:42,400
+Obrigado.
+
+178
+00:11:42,600 --> 00:11:46,040
+-Se houver algum problema,
+volte no tempo para cá,
+
+179
+00:11:46,240 --> 00:11:48,080
+no exato momento em que ativou o poder.
+
+180
+00:11:48,320 --> 00:11:49,880
+-Entendido.
+Segunda chance!
+
+181
+00:11:50,640 --> 00:11:52,600
+-Temos 5 minutos.
+
+182
+00:11:52,800 --> 00:11:56,320
+Você pode voltar no tempo
+quantas vezes quiser.
+
+183
+00:11:56,520 --> 00:11:58,800
+Mas depois disso,
+você vai se destransformar.
+
+184
+00:12:00,640 --> 00:12:01,960
+Nada do Chat Noir?
+
+185
+00:12:03,360 --> 00:12:05,520
+A gente deve conseguir sem ele.
+
+186
+00:12:05,760 --> 00:12:06,560
+-Er...
+
+187
+00:12:06,800 --> 00:12:09,760
+-Com o seu poder e o meu,
+vamos formar
+
+188
+00:12:10,000 --> 00:12:11,200
+uma superdupla.
+
+183
+00:12:13,440 --> 00:12:14,920
+Suspiro
+
+184
+00:12:19,600 --> 00:12:21,320
+Onde ela está se escondendo?
+
+185
+00:12:25,280 --> 00:12:28,240
+-Daqui de cima,
+ninguém escapa de mim.
+
+186
+00:12:29,200 --> 00:12:30,400
+-Oh!
+
+187
+00:12:34,680 --> 00:12:35,480
+-Muito bem.
+
+188
+00:12:35,680 --> 00:12:37,640
+Quando você capturar o Chat Noir,
+
+189
+00:12:37,840 --> 00:12:40,680
+esses adesivos vão libertar
+os super-heróis
+
+190
+00:12:40,880 --> 00:12:42,160
+e os Miraculous deles
+
+191
+00:12:42,400 --> 00:12:43,360
+serão meus!
+
+192
+00:12:43,560 --> 00:12:45,160
+-Uma superdupla!
+-Espera.
+
+193
+00:12:47,920 --> 00:12:50,760
+-Temos 5 minutos...
+-Antes de eu me destransformar.
+
+194
+00:12:50,960 --> 00:12:54,200
+-A gente falhou?
+-Sim, eu usei a minha Segunda Chance.
+
+195
+00:12:54,400 --> 00:12:55,640
+Temos que ser rápidos.
+
+196
+00:12:55,880 --> 00:12:59,280
+Vamos formar uma superdupla.
+Aspik e Ladybug.
+
+197
+00:12:59,520 --> 00:13:00,600
+-Aspik?
+
+198
+00:13:00,800 --> 00:13:04,000
+Você parece bem à vontade
+no papel de super-herói!
+
+199
+00:13:04,240 --> 00:13:06,000
+-Você fez a escolha certa.
 
 200
-00:10:21,120 --> 00:10:23,800
-le pouvoir de 2de chance.
-Sers-t'en.
+00:13:08,240 --> 00:13:09,760
+Suspiro
 
 201
-00:10:25,200 --> 00:10:27,080
-Une fois la mission finie,
+00:13:10,000 --> 00:13:11,760
+-Onde ela está se escondendo?
 
 202
-00:10:27,280 --> 00:10:30,680
-tu devras me le rendre.
-Je peux te faire confiance ?
+00:13:12,000 --> 00:13:15,400
+-Espera, o disparo da Desperada
+veio dali.
 
 203
-00:10:30,920 --> 00:10:31,840
--Oui, Ladybug.
+00:13:18,920 --> 00:13:20,880
+Toma, para te agradecer
 
 204
-00:10:33,800 --> 00:10:34,960
-Oh !
+00:13:21,120 --> 00:13:23,480
+por ter me escolhido.
+-Oh, obrigada!
 
 205
-00:10:37,120 --> 00:10:38,400
-Incroyable !
+00:13:25,120 --> 00:13:26,280
+-Não!
 
 206
-00:10:38,640 --> 00:10:42,000
--Salutations.
-Je me nomme Sass.
+00:13:30,040 --> 00:13:32,080
+-Uma superdupla mesmo, hein!
 
 207
-00:10:42,240 --> 00:10:43,840
--Je dois faire quoi ?
+00:13:32,280 --> 00:13:35,120
+-Me dá um tempo.
+-Para impressionar a Ladybug?
 
 208
-00:10:44,080 --> 00:10:45,240
--C'est simple.
+00:13:37,480 --> 00:13:38,440
+-Vamos tentar...
 
 209
-00:10:45,440 --> 00:10:48,240
-Il te suffit de dire :
-"Sass, transforme-moi."
+00:13:38,680 --> 00:13:40,080
+-A gente já passou por isso.
 
 210
-00:10:55,560 --> 00:10:58,080
--Sass, transforme-moi.
+00:13:40,320 --> 00:13:42,400
+-Não vamos esperar o Chat Noir?
 
 211
-00:11:10,200 --> 00:11:13,400
-*-Donnez votre langue au chat
-après le miaou.
+00:13:42,640 --> 00:13:44,880
+-Não.
+Vamos tentar outra saída.
 
 212
-00:11:13,600 --> 00:11:15,320
--J'ai trouvé Adrien.
+00:13:45,080 --> 00:13:47,120
+-Você já salvou a minha vida?
 
 213
-00:11:15,560 --> 00:11:17,280
-On va chercher Desperada.
+00:13:47,320 --> 00:13:50,120
+Eu já sabia...
+-Que seríamos uma superdupla?
 
 214
-00:11:17,520 --> 00:11:21,120
--J'espère ne pas te décevoir.
--Je suis sûre que non.
+00:13:50,360 --> 00:13:52,240
+-Ele lê os meus pensamentos.
 
 215
-00:11:21,320 --> 00:11:22,320
-Tu es parfait.
+00:13:55,000 --> 00:13:56,760
+-Estamos a salvo aqui.
 
 216
-00:11:22,520 --> 00:11:25,240
-Parfaitement capable
-d'affronter Desperada.
+00:13:56,960 --> 00:13:59,360
+-Adrien, quer dizer, cobra.
+-Pode me chamar de Aspik.
 
 217
-00:11:25,440 --> 00:11:27,560
-Desperada
-est une grande adversaire.
+00:13:59,600 --> 00:14:02,120
+-Aspik, você é mesmo um super...
 
 218
-00:11:28,680 --> 00:11:29,800
-Lucky Charm !
+00:14:02,360 --> 00:14:03,440
+-Oh!
 
 219
-00:11:35,240 --> 00:11:38,280
--J'aurais préféré
-un fer à cheval porte-bonheur.
+00:14:04,360 --> 00:14:06,280
+-Superdupla!
+-Dá para parar!
 
 220
-00:11:38,480 --> 00:11:41,400
--J'adore ton sens de l'humour.
--Vraiment ?
+00:14:08,800 --> 00:14:10,040
+Trompete
 
 221
-00:11:41,600 --> 00:11:42,400
-Merci.
+00:14:10,280 --> 00:14:11,560
+Mais uma vez!
 
 222
-00:11:42,600 --> 00:11:46,040
--En cas de problème,
-remonte le temps pour revenir ici
+00:14:14,600 --> 00:14:16,280
+Ah não, não, não.
 
 223
-00:11:46,240 --> 00:11:48,080
-au moment où tu l'as activé.
+00:14:22,320 --> 00:14:24,880
+Sabe, Ladybug, na verdade,
 
 224
-00:11:48,320 --> 00:11:49,880
--Compris.
-Seconde chance !
+00:14:25,120 --> 00:14:28,640
+eu também sou o Chat Noir e te amo desde...
 
 225
-00:11:50,640 --> 00:11:52,600
--On a 5 mn devant nous.
+00:14:39,360 --> 00:14:42,240
+-Temos 5 minutos. Você pode voltar
+no tempo no começo
 
 226
-00:11:52,800 --> 00:11:56,320
-Tu peux revenir en arrière
-autant de fois que tu veux.
+00:14:42,480 --> 00:14:45,760
+quantas vezes...
+-Sass, destransformar.
 
 227
-00:11:56,520 --> 00:11:58,800
-Mais après ça,
-tu te détransformeras.
+00:14:47,280 --> 00:14:48,720
+-Mas...
 
 228
-00:12:00,640 --> 00:12:01,960
-Pas de Chat Noir ?
+00:14:48,960 --> 00:14:51,760
+-Foi um fracasso total.
+Me desculpa.
 
 229
-00:12:03,360 --> 00:12:05,520
-On devrait s'en sortir sans lui.
+00:14:53,360 --> 00:14:55,080
+Você escolheu a cobra errada.
 
 230
-00:12:05,760 --> 00:12:06,560
--Euh...
+00:14:56,480 --> 00:14:59,040
+-Não, você com certeza
+é a cobra certa.
 
 231
-00:12:06,800 --> 00:12:09,760
--Avec ton pouvoir et le mien,
-on va former
+00:14:59,240 --> 00:15:00,680
+A culpa deve ser minha.
 
 232
-00:12:10,000 --> 00:12:11,200
-une super équipe.
+00:15:00,920 --> 00:15:04,280
+-Não, não é culpa sua.
+É que eu não consigo te proteger.
 
 233
-00:12:13,440 --> 00:12:14,920
-Soupir
+00:15:04,520 --> 00:15:06,200
+-Podemos tentar de novo.
 
 234
-00:12:19,600 --> 00:12:21,320
-Où se cache-t-elle ?
+00:15:06,400 --> 00:15:10,560
+-Não, eu não aguento mais
+ver a Desperada te capturar.
 
 235
-00:12:25,280 --> 00:12:28,240
--D'ici,
-personne ne peut m'échapper.
+00:15:10,800 --> 00:15:13,000
+-Quantas vezes a gente tentou de novo?
 
 236
-00:12:29,200 --> 00:12:30,400
--Oh !
+00:15:13,240 --> 00:15:14,800
+-Já faz meses.
 
 237
-00:12:34,680 --> 00:12:35,480
--Bravo.
+00:15:15,000 --> 00:15:18,440
+Essa foi a vez número 25.913
+que eu tentei te salvar.
 
 238
-00:12:35,680 --> 00:12:37,640
-Quand tu auras capturé Chat Noir,
+00:15:18,640 --> 00:15:19,760
+Eu não consigo.
 
 239
-00:12:37,840 --> 00:12:40,680
-ces autocollants libéreront
-les super-héros
+00:15:20,000 --> 00:15:24,360
+-Mas quem mais poderia usar
+o Miraculous da cobra?
 
 240
-00:12:40,880 --> 00:12:42,160
-et leurs Miraculous
+00:15:24,560 --> 00:15:28,040
+-Ladybug, você achou o Adrien.
+Que bom.
 
 241
-00:12:42,400 --> 00:12:43,360
-seront à moi !
+00:15:28,280 --> 00:15:29,600
+Eu estava preocupado.
 
 242
-00:12:43,560 --> 00:12:45,160
--Super équipe !
--Attends.
+00:15:29,800 --> 00:15:30,560
+-Hum?
 
 243
-00:12:47,920 --> 00:12:50,760
--On a 5 mn...
--Avant que je me détransforme.
+00:15:30,760 --> 00:15:34,800
+-Coragem, determinação, empatia.
+E se fosse ele,
 
 244
-00:12:50,960 --> 00:12:54,200
--On a échoué ?
--Oui, j'ai utilisé ma 2de chance.
+00:15:35,040 --> 00:15:36,280
+o portador ideal?
 
 245
-00:12:54,400 --> 00:12:55,640
-Faut faire vite.
+00:15:36,480 --> 00:15:39,440
+-Obrigado por salvar a minha vida
+tantas vezes.
 
 246
-00:12:55,880 --> 00:12:59,280
-On va former une super équipe.
-Aspik et Ladybug.
+00:15:41,520 --> 00:15:44,920
+-Eu vou me esconder.
+Vocês vão conseguir.
 
 247
-00:12:59,520 --> 00:13:00,600
--Aspik ?
+00:15:45,160 --> 00:15:48,440
+-Eu perdi alguma coisa?
+-Er...
 
 248
-00:13:00,800 --> 00:13:04,000
-Tu sembles à l'aise
-dans le rôle de super-héros !
-
-249
-00:13:04,240 --> 00:13:06,000
--Tu as fait le bon choix.
-
-250
-00:13:08,240 --> 00:13:09,760
-Soupir
-
-251
-00:13:10,000 --> 00:13:11,760
--Où se cache-t-elle ?
-
-252
-00:13:12,000 --> 00:13:15,400
--Attends, le tir de Desperada
-venait de là.
-
-253
-00:13:18,920 --> 00:13:20,880
-Tiens, pour te remercier
-
-254
-00:13:21,120 --> 00:13:23,480
-de m'avoir choisi.
--Oh, merci !
-
-255
-00:13:25,120 --> 00:13:26,280
--Non !
-
-256
-00:13:30,040 --> 00:13:32,080
--Super équipe, effectivement !
-
-257
-00:13:32,280 --> 00:13:35,120
--Laisse-moi du temps.
--Pour séduire Ladybug ?
-
-258
-00:13:37,480 --> 00:13:38,440
--On essaie...
-
-259
-00:13:38,680 --> 00:13:40,080
--On a déjà vécu ça.
-
-260
-00:13:40,320 --> 00:13:42,400
--On n'attend pas Chat Noir ?
-
-261
-00:13:42,640 --> 00:13:44,880
--Non.
-Essayons une autre sortie.
-
-262
-00:13:45,080 --> 00:13:47,120
--Tu m'as déjà sauvé la vie ?
-
-263
-00:13:47,320 --> 00:13:50,120
-Je savais...
--Qu'on serait une super équipe ?
-
-264
-00:13:50,360 --> 00:13:52,240
--Il lit dans mes pensées.
-
-265
-00:13:55,000 --> 00:13:56,760
--On ne risque rien ici.
-
-266
-00:13:56,960 --> 00:13:59,360
--Adrien, euh serpent.
--Appelle-moi Aspik.
-
-267
-00:13:59,600 --> 00:14:02,120
--Aspik, t'es vraiment un super...
-
-268
-00:14:02,360 --> 00:14:03,440
--Oh !
-
-269
-00:14:04,360 --> 00:14:06,280
--Super équipe !
--Arrête un peu !
-
-270
-00:14:08,800 --> 00:14:10,040
-Trompette
-
-271
-00:14:10,280 --> 00:14:11,560
-Encore !
-
-272
-00:14:14,600 --> 00:14:16,280
-Oh non, non, non.
-
-273
-00:14:22,320 --> 00:14:24,880
-Tu sais, Ladybug, en réalité,
-
-274
-00:14:25,120 --> 00:14:28,640
-je suis aussi Chat Noir
-et je t'aime depuis...
-
-275
-00:14:39,360 --> 00:14:42,240
--On a 5 mn devant nous.
-Tu peux revenir en arrière
-
-276
-00:14:42,480 --> 00:14:45,760
-autant de fois...
--Sass, détransformation.
-
-277
-00:14:47,280 --> 00:14:48,720
--Mais...
-
-278
-00:14:48,960 --> 00:14:51,760
--C'est un échec.
-Je suis désolé.
-
-279
-00:14:53,360 --> 00:14:55,080
-Tu m'as mal choisi.
-
-280
-00:14:56,480 --> 00:14:59,040
--Non, tu es forcément
-le bon serpent.
-
-281
-00:14:59,240 --> 00:15:00,680
-Ca doit être ma faute.
-
-282
-00:15:00,920 --> 00:15:04,280
--Non, c'est pas ta faute.
-J'arrive pas à te protéger.
-
-283
-00:15:04,520 --> 00:15:06,200
--On peut recommencer.
-
-284
-00:15:06,400 --> 00:15:10,560
--Non, je ne supporte plus
-de voir Desperada te capturer.
-
-285
-00:15:10,800 --> 00:15:13,000
--Combien de fois on a recommencé ?
-
-286
-00:15:13,240 --> 00:15:14,800
--Ca fait des mois.
-
-287
-00:15:15,000 --> 00:15:18,440
-C'était la 25 913e fois
-que j'essayais de te sauver.
-
-288
-00:15:18,640 --> 00:15:19,760
-Je n'y arrive pas.
-
-289
-00:15:20,000 --> 00:15:24,360
--Mais qui d'autre peut porter
-le Miraculous du serpent ?
-
-290
-00:15:24,560 --> 00:15:28,040
--Ladybug, tu as retrouvé Adrien.
-Tant mieux.
-
-291
-00:15:28,280 --> 00:15:29,600
-Je m'inquiétais.
-
-292
-00:15:29,800 --> 00:15:30,560
--Hum ?
-
-293
-00:15:30,760 --> 00:15:34,800
--Courage, détermination, empathie.
-Et si c'était lui,
-
-294
-00:15:35,040 --> 00:15:36,280
-le porteur idéal ?
-
-295
-00:15:36,480 --> 00:15:39,440
--Merci de m'avoir sauvé la vie
-autant de fois.
-
-296
-00:15:41,520 --> 00:15:44,920
--Je vais me cacher.
-Vous allez y arriver.
-
-297
-00:15:45,160 --> 00:15:48,440
--J'ai raté quelque chose ?
--Euh...
-
-298
 00:15:48,680 --> 00:15:52,200
 -Luka Couffaine,
-voici le Miraculous du serpent.
+este é o Miraculous da cobra.
 
-299
+249
 00:15:52,400 --> 00:15:54,040
-Il accorde le pouvoir
+Ele concede o poder
 
-300
+250
 00:15:54,280 --> 00:15:55,280
-de 2de chance.
+da Segunda Chance.
 
-301
+251
 00:15:55,480 --> 00:15:59,040
-Utilise-le pour le bien d'autrui,
-si tu acceptes.
+Use-o para o bem dos outros,
+se você aceitar.
 
-302
+252
 00:16:00,360 --> 00:16:02,400
-Une fois la mission terminée,
+Assim que a missão terminar,
 
-303
+253
 00:16:02,600 --> 00:16:04,400
-tu me rendras le Miraculous.
+você me devolverá o Miraculous.
 
-304
+254
 00:16:04,640 --> 00:16:07,800
-C'est d'accord ?
--Desperada a visé ma famille.
+Estamos combinados?
+-A Desperada atacou a minha família.
 
-305
+255
 00:16:08,000 --> 00:16:09,520
-Je suis prêt à tout.
+Eu topo qualquer negócio.
 
-306
+256
 00:16:16,160 --> 00:16:18,840
--Salutations.
-Je me nomme Sass.
+-Saudações.
+O meu nome é Sass.
 
-307
+257
 00:16:21,200 --> 00:16:23,160
--Tu as retrouvé la raison !
+-Você recuperou o juízo!
 
-308
+258
 00:16:23,400 --> 00:16:26,040
--Ladybug ne gardera pas
-un bon souvenir
+-A Ladybug não vai guardar
+uma boa lembrança
 
-309
+259
 00:16:26,240 --> 00:16:30,000
-de son expérience avec Adrien.
--Rattrape-toi en Chat Noir.
+da experiência dela com o Adrien.
+-Compense isso como Chat Noir.
 
-310
+260
 00:16:30,240 --> 00:16:32,320
--Tu as raison.
-Plagg, transforme-moi.
+-Você tem razão.
+Plagg, transformar!
 
-311
+261
 00:16:32,560 --> 00:16:48,120
 ...
 
-312
+262
 00:16:48,360 --> 00:16:52,480
--Il te suffit de dire :
-"Sass, transforme-moi."
+-Basta você dizer:
+"Sass, transformar!"
 
-313
+263
 00:16:52,720 --> 00:16:55,040
--Sass, transforme-moi.
+-Sass, transformar!
 
-314
+264
 00:16:55,240 --> 00:17:15,960
 ...
 
-315
+265
 00:17:17,520 --> 00:17:20,240
--Juste à temps.
-Chat Noir, voici...
+-Bem na hora.
+Chat Noir, este é...
 
-316
+266
 00:17:20,480 --> 00:17:21,960
--Viperion, enchanté.
+-Viperion, muito prazer.
 
-317
+267
 00:17:26,080 --> 00:17:30,200
--Tu n'aurais pas préféré
-un fer à cheval porte-bonheur ?
+-Você não teria preferido
+uma herradura da sorte?
 
-318
+268
 00:17:30,440 --> 00:17:33,680
--Oh, Chat Noir !
--C'est Ladybug, le porte-bonheur.
+-Oh, Chat Noir!
+-A Ladybug é que traz sorte.
 
-319
+269
 00:17:34,520 --> 00:17:35,280
--Merci.
+-Obrigada.
 
-320
+270
 00:17:35,480 --> 00:17:38,640
-Desperada est sur la tour Eiffel.
-On va la déloger.
+A Desperada está na Torre Eiffel.
+Vamos tirar ela de lá.
 
-321
+271
 00:17:38,880 --> 00:17:43,120
-J'aurai besoin de ton cataclysme.
-Il est indispensable.
+Eu vou precisar do seu Cataclismo.
+Ele é indispensável.
 
-322
+272
 00:17:43,360 --> 00:17:44,480
--A ton service.
+-Às suas ordens.
 
-323
+273
 00:17:46,360 --> 00:17:47,840
-Cataclysme !
+Cataclismo!
 
-324
+274
 00:17:56,040 --> 00:17:57,320
-Grondement
+Estrondo
 
-325
+275
 00:17:57,560 --> 00:17:59,480
 ...
 
-326
+276
 00:17:59,720 --> 00:18:01,240
-Elle soupire.
+Ela suspira.
 
-327
+277
 00:18:06,120 --> 00:18:09,560
--Oh, toutes ses armes
-viennent de l'étui à guitares.
+-Oh, todas as armas dela
+saem do estojo de guitarra.
 
-328
+278
 00:18:09,760 --> 00:18:12,040
-Il va falloir détruire
-son étui.
+Vai ser preciso destruir
+o estojo dela.
 
-329
+279
 00:18:12,280 --> 00:18:13,240
-Prêts ?
+Prontos?
 
-330
+280
 00:18:13,440 --> 00:18:14,560
--Seconde chance.
+-Segunda chance.
 
-331
+281
 00:18:19,200 --> 00:18:20,680
-Trompette
+Trompete
 
-332
+282
 00:18:25,200 --> 00:18:26,920
-Gémissements
+Gemidos
 
-333
+283
 00:18:30,720 --> 00:18:31,640
--Attendez.
+-Esperem.
 
-334
+284
 00:18:40,000 --> 00:18:41,760
-Elle soupire.
+Ela suspira.
 
-335
+285
 00:18:43,560 --> 00:18:44,960
-Trompette
+Trompete
 
-336
+286
 00:18:53,840 --> 00:18:56,040
-Douce mélodie
+Melodia suave
 
-337
+287
 00:18:59,800 --> 00:19:01,640
--Je sais quoi faire.
+-Eu sei o que fazer.
 
-338
+288
 00:19:01,880 --> 00:19:04,480
-Musique douce
+Música suave
 
-339
+289
 00:19:04,720 --> 00:19:18,960
 ...
 
-340
+290
 00:19:19,200 --> 00:19:21,520
--Tu as assez fait de mal,
-petit Akuma.
+-Você já causou problemas demais,
+pequeno akuma.
 
-341
+291
 00:19:25,560 --> 00:19:27,080
-Je te libère du mal !
+Eu te liberto do mal!
 
-342
+292
 00:19:30,560 --> 00:19:31,560
-Je t'ai eu.
+Te peguei.
 
-343
+293
 00:19:32,960 --> 00:19:35,000
-Bye bye, petit papillon.
+Tchau, tchau, borboletinha.
 
-344
+294
 00:19:35,240 --> 00:19:37,840
-Miraculous Ladybug !
+Miraculous Ladybug!
 
-345
+295
 00:19:45,880 --> 00:19:46,840
--Hein ?
+-Ué?
 
-346
+296
 00:19:50,120 --> 00:19:51,560
--Je fais quoi ici ?
+-O que eu estou fazendo aqui?
 
-347
+297
 00:19:51,760 --> 00:19:52,960
--BIEN JOUE !
+-ZEROU!
 
-348
+298
 00:19:53,200 --> 00:19:55,680
--On dit que l'histoire se répète.
+-Dizem que a história se repete.
 
-349
+299
 00:19:55,920 --> 00:20:00,040
-Mais un jour, c'est moi
-qui la réécrirai en ma faveur.
+Mas um dia, sou eu
+que vou reescrevê-la a meu favor.
 
-350
+300
 00:20:04,760 --> 00:20:07,960
--Merci pour ta confiance.
--Tu as été parfait.
+-Obrigado pela sua confiança.
+-Você foi perfeito.
 
-351
+301
 00:20:08,160 --> 00:20:09,680
-Nous nous reverrons.
+Nos vemos por aí.
 
-352
+302
 00:20:10,600 --> 00:20:11,680
--Point final !
+-Fim de papo!
 
-353
+303
 00:20:12,480 --> 00:20:14,600
-Musique rock
+Música rock
 
-354
+304
 00:20:14,800 --> 00:20:20,040
 ...
 
-355
+305
 00:20:20,280 --> 00:20:23,000
--J'ai pas été rock and roll, Vivica.
+-Eu não fui nada rock and roll, Vivica.
 
-356
+306
 00:20:23,200 --> 00:20:27,120
-Même si tu as mangé mes céréales,
-j'aurais pas dû te virer.
+Mesmo que você tenha comido o meu cereal,
+eu não devia ter te demitido.
 
-357
+307
 00:20:27,320 --> 00:20:30,040
-Reviens,
-mais chacun ses céréales !
+Pode voltar,
+mas cada um com o seu cereal!
 
-358
+308
 00:20:30,280 --> 00:20:31,320
--C'est promis.
+-Está prometido.
 
-359
+309
 00:20:31,560 --> 00:20:35,520
--Je comprends pourquoi Anarka
-ne veut plus jouer avec moi.
+-Eu entendo por que a Anarka
+não quer mais tocar comigo.
 
-360
+310
 00:20:35,720 --> 00:20:38,440
-Je respecte sa décision.
-Qu'en dis-tu ?
+Eu respeito a decisão dela.
+O que acha?
 
-361
+311
 00:20:38,680 --> 00:20:40,600
 -Hum...
 
-362
+312
 00:20:40,840 --> 00:20:44,440
 ...
 
-363
+313
 00:20:46,400 --> 00:20:49,320
--J'admets m'être trompée
-pour Luka et toi.
+-Eu admito que estava errada
+sobre o Luka e você.
 
-364
+314
 00:20:49,560 --> 00:20:51,640
-Mais dépêche-toi de choisir.
+Mas trate de escolher logo.
 
-365
+315
 00:20:51,840 --> 00:20:54,720
-En amour, on n'a pas toujours
-de 2de chance.
+No amor, a gente nem sempre tem
+uma Segunda Chance.
 
-366
+316
 00:20:54,960 --> 00:20:57,760
--Adrien et Luka
-ont leur mot à dire.
+-O Adrien e o Luka
+também têm direito de falar.
 
-367
+317
 00:20:57,960 --> 00:21:00,480
-Ils n'ont pas encore fait
-leur choix.
+Eles ainda não fizeram
+a escolha deles.
 
-368
+318
 00:21:03,080 --> 00:21:05,600
-Sous-titrage : Nice Fellow
+Legendas por: eliascsc
