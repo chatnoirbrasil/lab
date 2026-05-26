@@ -1,0 +1,3165 @@
+﻿1
+00:00:01,969 --> 00:00:06,340
+- Je m'appelle Marinette,
+une fille comme les autres.
+
+2
+00:00:06,406 --> 00:00:08,242
+Mais quand
+le destin me choisit
+
+3
+00:00:08,308 --> 00:00:10,244
+pour lutter
+contre les forces du mal,
+
+4
+00:00:10,310 --> 00:00:13,213
+je deviens
+Miraculous Ladybug!
+
+5
+00:00:13,280 --> 00:00:16,250
+♪ Miraculous, porte-bonheur ♪
+
+6
+00:00:16,316 --> 00:00:19,286
+♪ Lady magique
+et lady chance ♪
+
+7
+00:00:19,353 --> 00:00:22,122
+♪ Miraculous, lady du coeur ♪
+
+8
+00:00:22,189 --> 00:00:24,958
+♪ Être héroïque
+en cas d'urgence ♪
+
+9
+00:00:25,025 --> 00:00:27,828
+♪ Miraculous ♪
+
+10
+00:00:30,898 --> 00:00:32,332
+- Ce soir, en exclusivité pour
+
+11
+00:00:32,399 --> 00:00:33,800
+le premier numéro de votre
+
+12
+00:00:33,867 --> 00:00:35,302
+émission Face à Face, vous
+
+13
+00:00:35,369 --> 00:00:36,803
+pourrez poser vos questions en
+
+14
+00:00:36,870 --> 00:00:38,272
+direct à Ladybug et Chat Noir!
+
+15
+00:00:38,338 --> 00:00:39,773
+En prime, moi, Nadia Chamack,
+
+16
+00:00:39,840 --> 00:00:41,241
+je vous promets des révélations
+
+17
+00:00:41,308 --> 00:00:42,743
+incroyables! Tous les secrets de
+
+18
+00:00:42,809 --> 00:00:44,244
+vos superhéros enfin dévoilés!
+
+19
+00:00:44,311 --> 00:00:45,712
+Vous voulez de l'info, j'ai ce
+
+20
+00:00:45,779 --> 00:00:47,281
+qu'il vous faut!
+
+21
+00:00:48,282 --> 00:00:49,483
+- Oh! Tous vos secrets
+
+22
+00:00:49,550 --> 00:00:50,717
+enfin dévoilés?
+
+23
+00:00:50,784 --> 00:00:51,985
+- Tu te rends compte, Tikki?
+
+24
+00:00:52,052 --> 00:00:53,253
+Une heure d'interview exclusive
+
+25
+00:00:53,320 --> 00:00:54,488
+juste pour Chat Noir et moi!
+
+26
+00:00:54,555 --> 00:00:55,756
+J'arrive pas à y croire!
+
+27
+00:00:55,822 --> 00:00:57,024
+- Mais Marinette, t'es une
+
+28
+00:00:57,090 --> 00:00:58,258
+superhéroïne, pas une star de
+
+29
+00:00:58,325 --> 00:00:59,526
+la télévision! Tu dois préserver
+
+30
+00:00:59,593 --> 00:01:00,000
+le mystère qui t'entoure. C'est
+
+31
+00:01:00,000 --> 00:01:00,794
+le mystère qui t'entoure. C'est
+
+32
+00:01:00,861 --> 00:01:02,029
+ce qui te protège du papillon
+
+33
+00:01:02,095 --> 00:01:03,297
+et de ses super vilains!
+
+34
+00:01:03,363 --> 00:01:04,531
+- Ne t'inquiète pas, Tikki!
+
+35
+00:01:04,598 --> 00:01:05,732
+J'ai accepté de participer
+
+36
+00:01:05,799 --> 00:01:06,967
+à l'émission pour que les
+
+37
+00:01:07,034 --> 00:01:08,202
+Parisiens et les Parisiennes
+
+38
+00:01:08,268 --> 00:01:09,403
+sachent que Chat Noir et moi,
+
+39
+00:01:09,469 --> 00:01:10,637
+on est prêts à tout pour
+
+40
+00:01:10,704 --> 00:01:11,872
+les protéger!
+
+41
+00:01:11,939 --> 00:01:13,073
+- Oh, d'accord. Mais fais
+
+42
+00:01:13,140 --> 00:01:14,308
+attention, ce soir.
+
+43
+00:01:14,374 --> 00:01:15,509
+- Hum? Ce soir? Comment ça,
+
+44
+00:01:15,576 --> 00:01:16,710
+ce soir? Ce soir, j'ai un
+
+45
+00:01:16,777 --> 00:01:17,911
+babysitting. C'est
+
+46
+00:01:17,978 --> 00:01:19,146
+demain, l'émission!
+
+47
+00:01:19,213 --> 00:01:20,347
+- N'oubliez pas: ce soir
+
+48
+00:01:20,414 --> 00:01:21,548
+Face à Face, en direct avec
+
+49
+00:01:21,615 --> 00:01:22,749
+Ladybug et Chat Noir!
+
+50
+00:01:22,816 --> 00:01:23,951
+- Oh!
+
+51
+00:01:24,017 --> 00:01:25,452
+- Et voilà pourquoi tu fais
+
+52
+00:01:25,519 --> 00:01:26,954
+du babysitting ce soir!
+
+53
+00:01:27,020 --> 00:01:28,488
+- Ouais!
+
+54
+00:01:28,555 --> 00:01:29,990
+- Woh!
+
+55
+00:01:30,057 --> 00:01:31,491
+- Marinette!
+
+56
+00:01:31,558 --> 00:01:33,026
+- Manon! Euh, Mme Chamack! Je...
+
+57
+00:01:33,093 --> 00:01:34,528
+euh, je viens de voir votre
+
+58
+00:01:34,595 --> 00:01:36,029
+bande-annonce pour ce soir!
+
+59
+00:01:36,096 --> 00:01:37,130
+- Je suis en retard, désolée!
+
+60
+00:01:37,197 --> 00:01:38,232
+Merci encore de garder Manon!
+
+61
+00:01:38,298 --> 00:01:39,333
+Alors, je lui ai mis quelques
+
+62
+00:01:39,399 --> 00:01:40,434
+affaires dans le sac.
+
+63
+00:01:40,501 --> 00:01:41,535
+- Oh!
+
+64
+00:01:41,602 --> 00:01:42,603
+- Elle a déjà dîné. Ça m'arrange
+
+65
+00:01:42,669 --> 00:01:43,704
+tellement que tu sois libre
+
+66
+00:01:43,770 --> 00:01:44,805
+ce soir!
+
+67
+00:01:44,872 --> 00:01:45,906
+- Ah oui, quelle chance! J'avais
+
+68
+00:01:45,973 --> 00:01:47,007
+rien d'autre de prévu! Rien du
+
+69
+00:01:47,074 --> 00:01:48,108
+tout, du tout!
+
+70
+00:01:48,175 --> 00:01:49,510
+- Il faut vraiment que je file.
+
+71
+00:01:49,576 --> 00:01:50,878
+Ma carrière dépend de cette
+
+72
+00:01:50,944 --> 00:01:52,279
+interview. Il va falloir que
+
+73
+00:01:52,346 --> 00:01:53,647
+tout Paris soit devant mon
+
+74
+00:01:53,714 --> 00:01:55,048
+émission! Ma puce,
+
+75
+00:01:55,115 --> 00:01:56,450
+exceptionnellement, ce soir,
+
+76
+00:01:56,517 --> 00:01:57,818
+tu as le droit de regarder
+
+77
+00:01:57,885 --> 00:01:59,219
+la télé avec Marinette.
+
+78
+00:01:59,286 --> 00:02:00,000
+- Ouais! Maman va être à la télé
+
+79
+00:02:00,000 --> 00:02:00,587
+- Ouais! Maman va être à la télé
+
+80
+00:02:00,654 --> 00:02:01,989
+avec Ladybug et Chat Noir!
+
+81
+00:02:02,055 --> 00:02:03,190
+- Tout va bien se passer, j'en
+
+82
+00:02:03,257 --> 00:02:04,358
+suis sûre! En tout cas, vous
+
+83
+00:02:04,424 --> 00:02:05,559
+avez déjà 2 spectatrices! Ha!
+
+84
+00:02:05,626 --> 00:02:06,727
+- Merci, Marinette! Et préviens
+
+85
+00:02:06,793 --> 00:02:07,928
+tous tes amis pour
+
+86
+00:02:07,995 --> 00:02:09,096
+qu'ils regardent!
+
+87
+00:02:09,162 --> 00:02:10,364
+- Bonne chance!
+
+88
+00:02:12,099 --> 00:02:14,101
+(rires)
+
+89
+00:02:16,069 --> 00:02:17,504
+Euh, Alya?
+
+90
+00:02:17,571 --> 00:02:19,072
+(klaxons)
+
+91
+00:02:27,181 --> 00:02:28,215
+- (Femme): On est à l'antenne
+
+92
+00:02:28,282 --> 00:02:29,283
+dans 10 minutes et pas de héros
+
+93
+00:02:29,349 --> 00:02:30,000
+en vue. Tu es sûre d'avoir
+
+94
+00:02:30,000 --> 00:02:30,384
+en vue. Tu es sûre d'avoir
+
+95
+00:02:30,450 --> 00:02:31,485
+la situation en main?
+
+96
+00:02:31,552 --> 00:02:32,586
+- Oui, Arlette! Tout est sous
+
+97
+00:02:32,653 --> 00:02:33,687
+contrôle, comme promis! On va
+
+98
+00:02:33,754 --> 00:02:34,755
+battre tous les records!
+
+99
+00:02:34,821 --> 00:02:35,856
+- Tu as intérêt si tu veux
+
+100
+00:02:35,923 --> 00:02:36,957
+continuer à présenter ton
+
+101
+00:02:37,024 --> 00:02:38,025
+émission en première partie
+
+102
+00:02:38,091 --> 00:02:39,126
+de soirée.
+
+103
+00:02:39,193 --> 00:02:40,294
+- Hum...
+
+104
+00:02:43,197 --> 00:02:44,631
+(soupir)
+
+105
+00:02:44,698 --> 00:02:46,200
+(bips)
+
+106
+00:02:47,968 --> 00:02:49,203
+Ah... Ah! Mais comment...?
+
+107
+00:02:49,269 --> 00:02:50,537
+Par où êtes-vous entré?
+
+108
+00:02:50,604 --> 00:02:51,839
+- Secret de star, Nadia!
+
+109
+00:02:51,905 --> 00:02:53,140
+Je vois que milady n'est
+
+110
+00:02:53,207 --> 00:02:54,474
+pas encore arrivée.
+
+111
+00:02:54,541 --> 00:02:55,776
+- Je pensais que vous
+
+112
+00:02:55,843 --> 00:02:57,077
+seriez ensemble.
+
+113
+00:02:57,144 --> 00:02:58,412
+- Vous voulez connaître
+
+114
+00:02:58,478 --> 00:02:59,713
+un secret?
+
+115
+00:02:59,780 --> 00:03:00,000
+- Hum, hum.
+
+116
+00:03:00,000 --> 00:03:01,014
+- Hum, hum.
+
+117
+00:03:01,081 --> 00:03:02,349
+- J'adore les chouquettes!
+
+118
+00:03:02,416 --> 00:03:03,717
+(petit rire)
+
+119
+00:03:04,852 --> 00:03:06,119
+- C'est ça, l'info croustillante
+
+120
+00:03:06,186 --> 00:03:07,421
+que tu m'avais promise?
+
+121
+00:03:07,487 --> 00:03:08,722
+- Non, bien sûr que non!
+
+122
+00:03:08,789 --> 00:03:10,057
+Rien à voir!
+
+123
+00:03:10,123 --> 00:03:11,391
+- Tu connais les règles: infos
+
+124
+00:03:11,458 --> 00:03:12,693
+de première qualité pour la
+
+125
+00:03:12,759 --> 00:03:13,994
+première partie de soirée;
+
+126
+00:03:14,061 --> 00:03:15,329
+infos bidons, plus d'émission.
+
+127
+00:03:15,395 --> 00:03:16,396
+- À l'antenne dans 5 minutes!
+
+128
+00:03:16,463 --> 00:03:17,497
+- Je suis désolé, elle ne
+
+129
+00:03:17,564 --> 00:03:18,565
+répond pas.
+
+130
+00:03:18,632 --> 00:03:19,633
+(rires de Manon)
+
+131
+00:03:19,700 --> 00:03:20,701
+- Super nounou à la
+
+132
+00:03:20,767 --> 00:03:21,802
+rescousse! Hou!
+
+133
+00:03:21,869 --> 00:03:22,870
+(rires)
+
+134
+00:03:22,936 --> 00:03:24,071
+- Vers la tour Eiffel
+
+135
+00:03:24,137 --> 00:03:25,272
+et au-delà!
+
+136
+00:03:25,339 --> 00:03:26,473
+- C'est vraiment sympa d'être
+
+137
+00:03:26,540 --> 00:03:27,674
+venue, Alya!
+
+138
+00:03:27,741 --> 00:03:28,876
+- Tu rigoles ou quoi? C'est
+
+139
+00:03:28,942 --> 00:03:30,000
+quand même mieux de regarder
+
+140
+00:03:30,000 --> 00:03:30,043
+quand même mieux de regarder
+
+141
+00:03:30,110 --> 00:03:31,245
+l'interview de son héroïne
+
+142
+00:03:31,311 --> 00:03:32,446
+préférée avec ses
+
+143
+00:03:32,513 --> 00:03:33,647
+copines préférées!
+
+144
+00:03:33,714 --> 00:03:34,848
+- Hum...
+
+145
+00:03:34,915 --> 00:03:36,116
+(rires)
+
+146
+00:03:39,453 --> 00:03:40,554
+- (Homme): Dans un instant,
+
+147
+00:03:40,621 --> 00:03:41,722
+retrouvez Nadia Chamack
+
+148
+00:03:41,788 --> 00:03:42,890
+en compagnie de Ladybug et
+
+149
+00:03:42,956 --> 00:03:44,057
+Chat Noir pour une super
+
+150
+00:03:44,124 --> 00:03:45,225
+interview exclusive!
+
+151
+00:03:45,292 --> 00:03:46,393
+(déglutition)
+
+152
+00:03:46,460 --> 00:03:47,561
+- Maman! C'est maman!
+
+153
+00:03:47,628 --> 00:03:48,729
+- Pourquoi je peux pas avoir
+
+154
+00:03:48,795 --> 00:03:49,897
+une interview exclusive
+
+155
+00:03:49,963 --> 00:03:51,064
+pour le Ladyblog, moi?
+
+156
+00:03:51,131 --> 00:03:52,232
+(soupir)
+
+157
+00:03:52,299 --> 00:03:53,400
+- Oh, il faut que, euh...
+
+158
+00:03:53,467 --> 00:03:54,568
+je dise un truc à mes parents.
+
+159
+00:03:54,635 --> 00:03:55,736
+Ils sont à la boulangerie en
+
+160
+00:03:55,802 --> 00:03:56,937
+bas. Tu veux bien surveiller
+
+161
+00:03:57,004 --> 00:03:58,105
+Manon pendant mon absence?
+
+162
+00:03:58,172 --> 00:03:59,273
+- Ton absence? Tu vas pas juste
+
+163
+00:03:59,339 --> 00:04:00,000
+dire un truc à tes parents?
+
+164
+00:04:00,000 --> 00:04:00,440
+dire un truc à tes parents?
+
+165
+00:04:00,507 --> 00:04:01,542
+- Euh, oui, bien sûr, sauf que
+
+166
+00:04:01,608 --> 00:04:02,609
+parfois, ça peut prendre un peu
+
+167
+00:04:02,676 --> 00:04:03,710
+de temps parce qu'ils ne
+
+168
+00:04:03,777 --> 00:04:04,778
+comprennent pas tout...
+
+169
+00:04:04,845 --> 00:04:05,879
+- Hum?
+
+170
+00:04:05,946 --> 00:04:06,947
+- Même quand j'explique. C'est
+
+171
+00:04:07,014 --> 00:04:08,048
+pas leur faute, hein, c'est
+
+172
+00:04:08,115 --> 00:04:09,149
+juste que...
+
+173
+00:04:09,216 --> 00:04:10,217
+- Marinette?
+
+174
+00:04:10,284 --> 00:04:11,318
+- Oui?
+
+175
+00:04:11,385 --> 00:04:12,386
+- Grouille!
+
+176
+00:04:12,452 --> 00:04:13,554
+- Euh, d'accord!
+
+177
+00:04:17,858 --> 00:04:19,126
+Alya est tellement géniale comme
+
+178
+00:04:19,193 --> 00:04:20,460
+copine! Je m'en veux de l'avoir
+
+179
+00:04:20,527 --> 00:04:21,795
+invitée pour la laisser seule
+
+180
+00:04:21,862 --> 00:04:23,130
+avec Manon. D'un autre côté,
+
+181
+00:04:23,197 --> 00:04:24,464
+Alya est quand même la plus
+
+182
+00:04:24,531 --> 00:04:25,832
+grande fan de Ladybug. Elle
+
+183
+00:04:25,899 --> 00:04:27,167
+serait trop triste si sa
+
+184
+00:04:27,234 --> 00:04:28,502
+superhéroïne préférée ne
+
+185
+00:04:28,569 --> 00:04:29,837
+participait pas à l'émission.
+
+186
+00:04:29,903 --> 00:04:30,000
+- C'est comme tu
+
+187
+00:04:30,000 --> 00:04:31,171
+- C'est comme tu
+
+188
+00:04:31,238 --> 00:04:32,573
+veux, Marinette.
+
+189
+00:04:34,007 --> 00:04:36,743
+- Hum... alors... Tikki,
+
+190
+00:04:36,810 --> 00:04:39,613
+transforme-moi! Ah!
+
+191
+00:04:54,194 --> 00:04:56,196
+(petits cris)
+
+192
+00:05:00,667 --> 00:05:01,835
+- Hein?
+
+193
+00:05:01,902 --> 00:05:03,036
+- (Homme): En direct
+
+194
+00:05:03,103 --> 00:05:04,271
+dans 10, 9...
+
+195
+00:05:04,338 --> 00:05:05,506
+- Huit secondes avant l'échec
+
+196
+00:05:05,572 --> 00:05:06,707
+le plus cuisant de l'histoire
+
+197
+00:05:06,773 --> 00:05:07,941
+de la télé.
+
+198
+00:05:08,008 --> 00:05:09,176
+(soupir)
+
+199
+00:05:09,243 --> 00:05:10,377
+Sept... six...
+
+200
+00:05:10,444 --> 00:05:11,612
+- Ah!
+
+201
+00:05:11,678 --> 00:05:13,480
+(respiration haletante
+
+202
+00:05:13,547 --> 00:05:15,415
+et petits cris)
+
+203
+00:05:16,416 --> 00:05:17,551
+Ah!
+
+204
+00:05:17,618 --> 00:05:18,785
+- Hein?
+
+205
+00:05:18,852 --> 00:05:19,987
+- Oh! Oh! Euh...
+
+206
+00:05:20,053 --> 00:05:21,188
+- J'ai cru que tu m'avais posé
+
+207
+00:05:21,255 --> 00:05:22,389
+un lapin, milady.
+
+208
+00:05:22,456 --> 00:05:23,590
+- Mes fans auraient été déçus de
+
+209
+00:05:23,657 --> 00:05:24,825
+ne voir qu'un chat. Désolée pour
+
+210
+00:05:24,892 --> 00:05:26,026
+le retard, Nadia.
+
+211
+00:05:26,093 --> 00:05:27,261
+- Ah!
+
+212
+00:05:27,327 --> 00:05:28,495
+- Eh bien, c'était moins une!
+
+213
+00:05:28,562 --> 00:05:29,730
+Maintenant, je compte sur toi
+
+214
+00:05:29,796 --> 00:05:30,000
+pour faire exploser l'audimat.
+
+215
+00:05:30,000 --> 00:05:30,998
+pour faire exploser l'audimat.
+
+216
+00:05:31,064 --> 00:05:32,232
+Arrange-toi pour que ce rouge
+
+217
+00:05:32,299 --> 00:05:33,467
+passe au vert.
+
+218
+00:05:33,534 --> 00:05:34,701
+- Hum!
+
+219
+00:05:34,768 --> 00:05:35,936
+(♪ indicatif ♪)
+
+220
+00:05:36,003 --> 00:05:38,005
+- Hum!
+
+221
+00:05:40,774 --> 00:05:41,842
+(♪ indicatif ♪)
+
+222
+00:05:41,909 --> 00:05:42,943
+- Bonsoir à tous! Je suis Nadia
+
+223
+00:05:43,010 --> 00:05:44,077
+Chamack, vous regardez Face à
+
+224
+00:05:44,144 --> 00:05:45,212
+Face! Pour cette première
+
+225
+00:05:45,279 --> 00:05:46,346
+émission, je reçois les
+
+226
+00:05:46,413 --> 00:05:47,481
+protecteurs favoris de la ville
+
+227
+00:05:47,548 --> 00:05:48,582
+de Paris: Ladybug et Chat Noir!
+
+228
+00:05:48,649 --> 00:05:49,783
+- (ensemble): Hum, hum!
+
+229
+00:05:50,784 --> 00:05:51,952
+- Bonsoir! Merci d'avoir accepté
+
+230
+00:05:52,019 --> 00:05:53,153
+de m'accorder une interview
+
+231
+00:05:53,220 --> 00:05:54,388
+exclusive en direct!
+
+232
+00:05:54,454 --> 00:05:55,589
+- Merci à vous, Nadia! Nous
+
+233
+00:05:55,656 --> 00:05:56,823
+sommes très heureux d'être là!
+
+234
+00:05:56,890 --> 00:05:57,991
+- Et bonsoir à tous mes fans!
+
+235
+00:05:58,058 --> 00:05:59,159
+(baiser)
+
+236
+00:05:59,226 --> 00:06:00,000
+- Je suis sûre qu'ils sont
+
+237
+00:06:00,000 --> 00:06:00,294
+- Je suis sûre qu'ils sont
+
+238
+00:06:00,360 --> 00:06:01,461
+nombreux derrière leur écran
+
+239
+00:06:01,528 --> 00:06:02,629
+pour vous ce soir!
+
+240
+00:06:02,696 --> 00:06:03,764
+- Surtout, ne l'encouragez pas,
+
+241
+00:06:03,830 --> 00:06:04,932
+sinon le chaton va ronronner
+
+242
+00:06:04,998 --> 00:06:06,099
+toute la soirée!
+
+243
+00:06:06,166 --> 00:06:07,267
+- Ne faites pas attention!
+
+244
+00:06:07,334 --> 00:06:08,435
+Buguinette est un poil jalouse!
+
+245
+00:06:08,502 --> 00:06:09,603
+- Hé! Je croyais qu'on avait dit
+
+246
+00:06:09,670 --> 00:06:10,771
+que tu ne m'appelais plus
+
+247
+00:06:10,838 --> 00:06:11,905
+Buguinette, Chatounet.
+
+248
+00:06:11,972 --> 00:06:13,073
+- Oh, mais c'est
+
+249
+00:06:13,140 --> 00:06:14,241
+tellement mignon!
+
+250
+00:06:14,308 --> 00:06:15,409
+(soupir)
+
+251
+00:06:15,475 --> 00:06:16,977
+- Ha! Ha! Ha! Quelle complicité!
+
+252
+00:06:17,044 --> 00:06:18,579
+On voit que vous êtes
+
+253
+00:06:18,645 --> 00:06:20,147
+très proches!
+
+254
+00:06:20,214 --> 00:06:21,748
+- Marinette, elle va tout rater!
+
+255
+00:06:21,815 --> 00:06:23,317
+- Hum! Je me demande bien
+
+256
+00:06:23,383 --> 00:06:24,885
+ce qu'elle fabrique.
+
+257
+00:06:24,952 --> 00:06:26,486
+- Hum! On vous connaît sans vous
+
+258
+00:06:26,553 --> 00:06:28,055
+connaître véritablement. On vous
+
+259
+00:06:28,121 --> 00:06:29,656
+voit sauver Paris, mais on ne
+
+260
+00:06:29,723 --> 00:06:30,000
+sait presque rien sur vous!
+
+261
+00:06:30,000 --> 00:06:31,225
+sait presque rien sur vous!
+
+262
+00:06:31,291 --> 00:06:32,392
+- Alors, c'est votre jour
+
+263
+00:06:32,459 --> 00:06:33,560
+de chance! Vous pouvez nous
+
+264
+00:06:33,627 --> 00:06:34,695
+demander n'importe quoi!
+
+265
+00:06:34,761 --> 00:06:35,863
+- Dans la limite du possible,
+
+266
+00:06:35,929 --> 00:06:37,030
+bien sûr! Nos identités doivent
+
+267
+00:06:37,097 --> 00:06:38,265
+rester secrètes.
+
+268
+00:06:40,367 --> 00:06:41,668
+- Bien évidemment! Je vous
+
+269
+00:06:41,735 --> 00:06:43,070
+propose de commencer par
+
+270
+00:06:43,136 --> 00:06:44,471
+quelques questions de vos fans!
+
+271
+00:06:44,538 --> 00:06:45,839
+- Oui, avec plaisir!
+
+272
+00:06:45,906 --> 00:06:47,174
+- Oh!
+
+273
+00:06:47,241 --> 00:06:48,509
+- Bonsoir, chère
+
+274
+00:06:48,575 --> 00:06:49,843
+téléspectatrice! Présentez-vous
+
+275
+00:06:49,910 --> 00:06:51,178
+et quelle est votre question.
+
+276
+00:06:51,245 --> 00:06:52,479
+- Vous êtes sérieuse, Nadia?
+
+277
+00:06:52,546 --> 00:06:53,814
+Je ne vois pas qui d'autre que
+
+278
+00:06:53,881 --> 00:06:55,148
+moi pourrait appeler en premier.
+
+279
+00:06:55,215 --> 00:06:56,483
+Je suis la plus prestigieuse fan
+
+280
+00:06:56,550 --> 00:06:57,818
+de Ladybug!
+
+281
+00:06:57,885 --> 00:06:59,219
+- Ah oui, évidemment! Bonsoir,
+
+282
+00:06:59,286 --> 00:07:00,000
+Chloé Bourgeois, fille de
+
+283
+00:07:00,000 --> 00:07:00,587
+Chloé Bourgeois, fille de
+
+284
+00:07:00,654 --> 00:07:01,989
+monsieur le Maire.
+
+285
+00:07:02,055 --> 00:07:03,357
+- Et n'oubliez pas que mon
+
+286
+00:07:03,423 --> 00:07:04,758
+papounet est aussi directeur
+
+287
+00:07:04,825 --> 00:07:06,126
+du Grand Paris, le plus luxueux
+
+288
+00:07:06,193 --> 00:07:07,528
+palace de la capitale!
+
+289
+00:07:07,594 --> 00:07:08,629
+- Merci pour toutes ces
+
+290
+00:07:08,695 --> 00:07:09,730
+précisions. Quelle est votre
+
+291
+00:07:09,796 --> 00:07:10,831
+question, Chloé?
+
+292
+00:07:10,898 --> 00:07:11,932
+- Oh, pas besoin de poser
+
+293
+00:07:11,999 --> 00:07:13,033
+de question! Je voulais
+
+294
+00:07:13,100 --> 00:07:14,134
+dire bonjour!
+
+295
+00:07:14,201 --> 00:07:15,235
+- Ha! Ha...
+
+296
+00:07:15,302 --> 00:07:16,336
+- Comme vous le savez, je fais
+
+297
+00:07:16,403 --> 00:07:17,437
+partie des amis intimes de
+
+298
+00:07:17,504 --> 00:07:18,605
+Ladybug et Chat Noir.
+
+299
+00:07:20,040 --> 00:07:21,241
+(soupir)
+
+300
+00:07:21,308 --> 00:07:22,476
+- Merci pour tout, Chloé
+
+301
+00:07:22,543 --> 00:07:23,744
+Bourgeois! Nouvel appel!
+
+302
+00:07:23,810 --> 00:07:25,012
+- Hein? Hé, j'ai pas fini, là!
+
+303
+00:07:25,078 --> 00:07:26,246
+De quel droit vous me cou...
+
+304
+00:07:26,313 --> 00:07:27,514
+- Salut, Ladybug et Chat Noir!
+
+305
+00:07:27,581 --> 00:07:28,749
+Je suis Alya! Vous m'accorderiez
+
+306
+00:07:28,815 --> 00:07:30,000
+une interview le Ladyblog? Ce
+
+307
+00:07:30,000 --> 00:07:30,017
+une interview le Ladyblog? Ce
+
+308
+00:07:30,083 --> 00:07:31,285
+serait cool, vu que j'ai plus
+
+309
+00:07:31,351 --> 00:07:32,519
+d'audience que Nadia!
+
+310
+00:07:32,586 --> 00:07:33,787
+- Ah?
+
+311
+00:07:33,854 --> 00:07:35,222
+- Euh, oui, avec plaisir! C'est
+
+312
+00:07:35,289 --> 00:07:36,657
+une super idée, je trouve!
+
+313
+00:07:36,723 --> 00:07:38,125
+- C'est trop bien! Je suis
+
+314
+00:07:38,192 --> 00:07:39,560
+contente! Merci beaucoup!
+
+315
+00:07:39,626 --> 00:07:40,994
+- C'est toi, maman? Maman!
+
+316
+00:07:41,061 --> 00:07:42,429
+- Oh! Manon? Mais où est
+
+317
+00:07:42,496 --> 00:07:43,864
+passée Marinette?
+
+318
+00:07:43,931 --> 00:07:45,299
+- Elle est allée dire un truc
+
+319
+00:07:45,365 --> 00:07:46,767
+à ses parents!
+
+320
+00:07:46,834 --> 00:07:48,202
+- Voilà, et ça peut prendre
+
+321
+00:07:48,268 --> 00:07:49,636
+du temps parfois!
+
+322
+00:07:49,703 --> 00:07:51,138
+- Qu'est-ce qui se passe, Nadia?
+
+323
+00:07:51,205 --> 00:07:52,606
+C'est une plaisanterie? On passe
+
+324
+00:07:52,673 --> 00:07:54,174
+aux scoops tout de suite!
+
+325
+00:07:56,143 --> 00:07:57,544
+- Euh, Ladybug, Chat Noir?
+
+326
+00:07:57,611 --> 00:07:58,979
+- (ensemble): Hum?
+
+327
+00:07:59,046 --> 00:08:00,000
+- De nombreux fans pensent
+
+328
+00:08:00,000 --> 00:08:00,447
+- De nombreux fans pensent
+
+329
+00:08:00,514 --> 00:08:01,882
+que vous êtes un couple de
+
+330
+00:08:01,949 --> 00:08:03,350
+superhéros, mais aussi et je
+
+331
+00:08:03,417 --> 00:08:04,785
+cite: "un couple tout court".
+
+332
+00:08:04,852 --> 00:08:06,253
+- Hein? Quoi?
+
+333
+00:08:06,320 --> 00:08:07,554
+- Pouvez-vous nous confirmer
+
+334
+00:08:07,621 --> 00:08:08,889
+que c'est exact?
+
+335
+00:08:08,956 --> 00:08:10,190
+- Je suis vraiment navrée,
+
+336
+00:08:10,257 --> 00:08:11,491
+Nadia, mais on est des
+
+337
+00:08:11,558 --> 00:08:12,826
+superhéros. On n'est pas là
+
+338
+00:08:12,893 --> 00:08:14,127
+pour répondre à des questions
+
+339
+00:08:14,194 --> 00:08:15,429
+si personnelles!
+
+340
+00:08:15,495 --> 00:08:16,763
+- Ah, miaou! Milady sort
+
+341
+00:08:16,830 --> 00:08:18,065
+ses griffes!
+
+342
+00:08:18,131 --> 00:08:19,299
+- Nous sommes ici pour dire aux
+
+343
+00:08:19,366 --> 00:08:20,501
+Parisiens qu'ils ne risquent
+
+344
+00:08:20,567 --> 00:08:21,735
+rien et que ce n'est qu'une
+
+345
+00:08:21,802 --> 00:08:22,936
+question de temps avant qu'on
+
+346
+00:08:23,003 --> 00:08:24,171
+batte le papillon, c'est tout!
+
+347
+00:08:24,238 --> 00:08:25,372
+- Tu m'avais dit un scoop,
+
+348
+00:08:25,439 --> 00:08:26,607
+preuve à l'appui!
+
+349
+00:08:26,673 --> 00:08:28,642
+- Très bien! Alors, comment
+
+350
+00:08:28,709 --> 00:08:30,000
+expliquez-vous ces images?
+
+351
+00:08:30,000 --> 00:08:30,644
+expliquez-vous ces images?
+
+352
+00:08:30,711 --> 00:08:32,646
+- Quoi? C'est arrivé quand, ça?
+
+353
+00:08:32,713 --> 00:08:34,681
+- Ah! J'essayais de te sauver,
+
+354
+00:08:34,748 --> 00:08:36,717
+pas de t'embrasser!
+
+355
+00:08:36,783 --> 00:08:38,785
+- Bien joué! Continue comme ça!
+
+356
+00:08:46,860 --> 00:08:48,061
+(petites exclamations)
+
+357
+00:08:48,128 --> 00:08:49,329
+- On voit bien que vous
+
+358
+00:08:49,396 --> 00:08:50,564
+êtes amoureux!
+
+359
+00:08:50,631 --> 00:08:51,832
+- Ça ne veut rien dire! Ces
+
+360
+00:08:51,899 --> 00:08:53,100
+images sont sorties de leur
+
+361
+00:08:53,166 --> 00:08:54,368
+contexte! Tout ce qu'on faisait,
+
+362
+00:08:54,434 --> 00:08:55,602
+c'était notre travail! On sauve
+
+363
+00:08:55,669 --> 00:08:56,870
+la ville ensemble tous les
+
+364
+00:08:56,937 --> 00:08:58,138
+jours. On n'est pas en couple!
+
+365
+00:08:58,205 --> 00:08:59,273
+- Enfin, pour le moment,
+
+366
+00:08:59,339 --> 00:09:00,000
+en tout cas!
+
+367
+00:09:00,000 --> 00:09:00,440
+en tout cas!
+
+368
+00:09:00,507 --> 00:09:01,575
+- Chat Noir, pas maintenant!
+
+369
+00:09:01,642 --> 00:09:02,709
+- Pourquoi refusez-vous
+
+370
+00:09:02,776 --> 00:09:03,877
+de l'avouer?
+
+371
+00:09:03,944 --> 00:09:05,012
+- Mais il y a rien
+
+372
+00:09:05,078 --> 00:09:06,146
+à avouer, Nadia!
+
+373
+00:09:06,213 --> 00:09:07,281
+- Vos fans vont être très déçus
+
+374
+00:09:07,347 --> 00:09:08,448
+de ne pas avoir de réponse.
+
+375
+00:09:08,515 --> 00:09:09,583
+- Cette interview s'arrête
+
+376
+00:09:09,650 --> 00:09:10,717
+tout de suite! Hum...
+
+377
+00:09:10,784 --> 00:09:11,885
+- Woh! Mais qu'est-ce que
+
+378
+00:09:11,952 --> 00:09:13,020
+tu fais?
+
+379
+00:09:13,086 --> 00:09:14,288
+- Euh... on a une alerte.
+
+380
+00:09:14,354 --> 00:09:15,522
+Paris a besoin de nous
+
+381
+00:09:15,589 --> 00:09:16,757
+et tout de suite!
+
+382
+00:09:16,823 --> 00:09:18,025
+- Désolé, le devoir nous
+
+383
+00:09:18,091 --> 00:09:19,293
+appelle! Quand faut y aller...
+
+384
+00:09:19,359 --> 00:09:20,527
+- Ne les laisse pas partir!
+
+385
+00:09:20,594 --> 00:09:21,762
+- Hé, attendez, l'émission n'est
+
+386
+00:09:21,828 --> 00:09:23,030
+pas terminée! Vos fans seront
+
+387
+00:09:23,096 --> 00:09:24,298
+très déçus si vous ne leur
+
+388
+00:09:24,364 --> 00:09:25,532
+répondez pas!
+
+389
+00:09:25,599 --> 00:09:27,434
+- Je sais que nos vrais fans
+
+390
+00:09:27,501 --> 00:09:29,336
+comprendront notre décision.
+
+391
+00:09:29,403 --> 00:09:30,000
+- Je m'incline!
+
+392
+00:09:30,000 --> 00:09:31,238
+- Je m'incline!
+
+393
+00:09:31,305 --> 00:09:33,173
+- (Homme): Confort, élégance...
+
+394
+00:09:33,240 --> 00:09:35,075
+- (ensemble): Oh?
+
+395
+00:09:35,142 --> 00:09:36,977
+(respiration haletante)
+
+396
+00:09:37,044 --> 00:09:38,312
+- Tu peux faire une croix sur
+
+397
+00:09:38,378 --> 00:09:39,646
+la première partie de soirée,
+
+398
+00:09:39,713 --> 00:09:41,014
+Nadia! Ton émission était
+
+399
+00:09:41,081 --> 00:09:42,416
+une vraie cata!
+
+400
+00:09:45,052 --> 00:09:48,021
+(soupir et sanglots)
+
+401
+00:09:52,159 --> 00:09:53,627
+- Une journaliste ridiculisée
+
+402
+00:09:53,694 --> 00:09:55,128
+par Ladybug et Chat Noir,
+
+403
+00:09:55,195 --> 00:09:56,663
+c'est ce que j'appelle
+
+404
+00:09:56,730 --> 00:09:58,265
+la proie parfaite!
+
+405
+00:10:04,605 --> 00:10:06,640
+Envolez-toi, petit akuma,
+
+406
+00:10:06,707 --> 00:10:08,809
+et noircis son coeur!
+
+407
+00:10:14,581 --> 00:10:16,583
+(sanglots)
+
+408
+00:10:20,854 --> 00:10:22,489
+Audimatrix, je suis le Papillon.
+
+409
+00:10:22,556 --> 00:10:24,224
+Je sais que Ladybug et Chat Noir
+
+410
+00:10:24,291 --> 00:10:25,926
+refusent de répondre à tes
+
+411
+00:10:25,993 --> 00:10:27,628
+questions, mais si tu réussis
+
+412
+00:10:27,694 --> 00:10:29,363
+à prendre leurs miraculous,
+
+413
+00:10:29,429 --> 00:10:30,000
+tu auras ton scoop.
+
+414
+00:10:30,000 --> 00:10:31,064
+tu auras ton scoop.
+
+415
+00:10:31,131 --> 00:10:32,799
+- Hum! Et à moi la
+
+416
+00:10:32,866 --> 00:10:34,568
+meilleure audience!
+
+417
+00:10:41,408 --> 00:10:42,709
+(efforts)
+
+418
+00:10:42,776 --> 00:10:44,044
+- Bon, on sauve qui, cette fois?
+
+419
+00:10:44,111 --> 00:10:45,412
+- Nous deux! Nadia était prête à
+
+420
+00:10:45,479 --> 00:10:46,780
+tout pour s'assurer que les gens
+
+421
+00:10:46,847 --> 00:10:48,148
+regardent son émission. J'en
+
+422
+00:10:48,215 --> 00:10:49,483
+avais plus qu'assez de toutes
+
+423
+00:10:49,550 --> 00:10:50,851
+ces questions déplacées!
+
+424
+00:10:50,918 --> 00:10:52,186
+- Mais c'est la rançon du
+
+425
+00:10:52,252 --> 00:10:53,554
+succès, milady! C'est ça,
+
+426
+00:10:53,620 --> 00:10:54,922
+être une star!
+
+427
+00:10:54,988 --> 00:10:56,256
+- On est des superhéros, pas des
+
+428
+00:10:56,323 --> 00:10:57,591
+stars! Au lieu de faire notre
+
+429
+00:10:57,658 --> 00:10:58,959
+travail, on passe pour des
+
+430
+00:10:59,026 --> 00:11:00,000
+idiots à la télévision. Hum!
+
+431
+00:11:00,000 --> 00:11:00,327
+idiots à la télévision. Hum!
+
+432
+00:11:00,394 --> 00:11:01,662
+- Mais attends! J'avais pas
+
+433
+00:11:01,728 --> 00:11:02,996
+prévu de rentrer aussi tôt, moi!
+
+434
+00:11:03,063 --> 00:11:04,364
+Pourquoi on n'en profite pas un
+
+435
+00:11:04,431 --> 00:11:05,732
+peu? On pourrait aller manger
+
+436
+00:11:05,799 --> 00:11:07,134
+une glace!
+
+437
+00:11:09,269 --> 00:11:11,071
+(♪ rock ♪)
+
+438
+00:11:11,138 --> 00:11:12,973
+(sanglots)
+
+439
+00:11:13,974 --> 00:11:15,609
+- Non, c'est impossible!
+
+440
+00:11:15,676 --> 00:11:17,277
+- Les filles, grande nouvelle!
+
+441
+00:11:17,344 --> 00:11:19,046
+On n'a plus besoin de shamp...
+
+442
+00:11:20,047 --> 00:11:21,582
+(soupir)
+
+443
+00:11:21,648 --> 00:11:23,183
+- Mon interview aurait été
+
+444
+00:11:23,250 --> 00:11:24,785
+tellement mieux!
+
+445
+00:11:24,852 --> 00:11:26,386
+- Pourquoi on ne voit plus
+
+446
+00:11:26,453 --> 00:11:27,988
+maman à la télé? Elle est
+
+447
+00:11:28,055 --> 00:11:29,590
+où, Marinette?
+
+448
+00:11:29,656 --> 00:11:30,000
+(bâillement)
+
+449
+00:11:30,000 --> 00:11:31,191
+(bâillement)
+
+450
+00:11:31,258 --> 00:11:32,626
+- Elle va revenir bientôt.
+
+451
+00:11:32,693 --> 00:11:34,094
+Si tu veux, on peut jouer à...
+
+452
+00:11:34,161 --> 00:11:35,596
+(ronflements)
+
+453
+00:11:36,597 --> 00:11:38,599
+(petit rire)
+
+454
+00:11:42,769 --> 00:11:44,605
+- Bienvenue dans votre nouvelle
+
+455
+00:11:44,671 --> 00:11:46,507
+émission présentée par moi,
+
+456
+00:11:46,573 --> 00:11:48,375
+Audimatrix! Vous voulez de
+
+457
+00:11:48,442 --> 00:11:50,277
+l'info? J'ai ce qu'il vous faut!
+
+458
+00:11:50,344 --> 00:11:52,179
+- (Les deux): Nadia?
+
+459
+00:11:52,246 --> 00:11:54,081
+(ricanement)
+
+460
+00:11:54,147 --> 00:11:55,682
+- Oh!
+
+461
+00:11:55,749 --> 00:11:57,284
+- Ce soir, Ladybug et Chat Noir
+
+462
+00:11:57,351 --> 00:11:58,919
+ont déçu tous leurs plus grands
+
+463
+00:11:58,986 --> 00:12:00,000
+fans en refusant d'avouer qu'ils
+
+464
+00:12:00,000 --> 00:12:00,521
+fans en refusant d'avouer qu'ils
+
+465
+00:12:00,587 --> 00:12:02,189
+sont un couple d'amoureux.
+
+466
+00:12:03,190 --> 00:12:04,725
+Nous allons voir jusqu'où ils
+
+467
+00:12:04,791 --> 00:12:06,293
+sont prêts à aller pour nous
+
+468
+00:12:06,360 --> 00:12:07,861
+cacher la vérité.
+
+469
+00:12:07,928 --> 00:12:09,530
+- Oh! Oh!
+
+470
+00:12:16,603 --> 00:12:18,038
+(gémissements)
+
+471
+00:12:18,105 --> 00:12:19,606
+- Hum...
+
+472
+00:12:21,508 --> 00:12:22,676
+- Comment osez-vous? Vous n'avez
+
+473
+00:12:22,743 --> 00:12:23,944
+rien à faire ici!
+
+474
+00:12:24,011 --> 00:12:25,212
+- Hum!
+
+475
+00:12:25,279 --> 00:12:26,446
+- Hum? Sécurité!
+
+476
+00:12:26,513 --> 00:12:27,814
+- Hum! Accueillons notre
+
+477
+00:12:27,881 --> 00:12:29,216
+toute première invitée: Chloé
+
+478
+00:12:29,283 --> 00:12:30,000
+Bourgeois, qui prétend être
+
+479
+00:12:30,000 --> 00:12:30,584
+Bourgeois, qui prétend être
+
+480
+00:12:30,651 --> 00:12:31,952
+une amie personnelle
+
+481
+00:12:32,019 --> 00:12:33,353
+de nos superhéros.
+
+482
+00:12:33,420 --> 00:12:34,721
+- Oui, absolument!
+
+483
+00:12:34,788 --> 00:12:36,190
+- Comme quoi il faut pas croire
+
+484
+00:12:36,256 --> 00:12:37,691
+tout ce qu'on voit à la télé!
+
+485
+00:12:37,758 --> 00:12:39,159
+- Eh bien, vérifions tout de
+
+486
+00:12:39,226 --> 00:12:40,627
+suite si vous pouvez vraiment
+
+487
+00:12:40,694 --> 00:12:42,129
+compter sur vos 2 prétendus
+
+488
+00:12:42,196 --> 00:12:43,664
+amis, ma chère Chloé!
+
+489
+00:12:45,132 --> 00:12:46,967
+(petites exclamations)
+
+490
+00:12:47,034 --> 00:12:48,936
+- Aïe!
+
+491
+00:12:52,339 --> 00:12:54,341
+(cris entremêlés)
+
+492
+00:12:55,409 --> 00:12:57,277
+Ah! Hé, attention! Vous avez
+
+493
+00:12:57,344 --> 00:12:59,246
+froissé ma veste! Vous savez
+
+494
+00:12:59,313 --> 00:13:00,000
+combien elle coûte? Hum?
+
+495
+00:13:00,000 --> 00:13:01,248
+combien elle coûte? Hum?
+
+496
+00:13:02,249 --> 00:13:03,750
+(efforts)
+
+497
+00:13:03,817 --> 00:13:05,319
+- Aaaah!
+
+498
+00:13:05,385 --> 00:13:06,854
+- Oh! Hein?
+
+499
+00:13:06,920 --> 00:13:08,422
+- Au secours!
+
+500
+00:13:08,488 --> 00:13:10,057
+- Mais... Ah!
+
+501
+00:13:12,926 --> 00:13:14,828
+Oh, pourquoi ça m'arrive, à moi?
+
+502
+00:13:14,895 --> 00:13:16,797
+J'ai jamais pris le métro de
+
+503
+00:13:16,864 --> 00:13:18,799
+ma vie, jamais! Ça, ça ne me
+
+504
+00:13:18,866 --> 00:13:20,767
+ressemble pas du tout! Beurk!
+
+505
+00:13:20,834 --> 00:13:22,736
+- Chers téléspectateurs, le
+
+506
+00:13:22,803 --> 00:13:24,738
+métro fou. S'il atteint le
+
+507
+00:13:24,805 --> 00:13:26,707
+100 km/h, vous pourrez dire
+
+508
+00:13:26,773 --> 00:13:28,742
+adieu à votre prestigieuse amie!
+
+509
+00:13:32,746 --> 00:13:34,414
+- Oh?
+
+510
+00:13:34,481 --> 00:13:36,183
+- Intéressant! Regardez ça: on
+
+511
+00:13:36,250 --> 00:13:37,918
+va battre le record d'audiences.
+
+512
+00:13:37,985 --> 00:13:39,686
+Vous êtes de plus en plus
+
+513
+00:13:39,753 --> 00:13:41,421
+nombreux à vous demander si nos
+
+514
+00:13:41,488 --> 00:13:43,156
+superhéros arriveront à temps!
+
+515
+00:13:43,223 --> 00:13:44,925
+Ce suspense est insoutenable!
+
+516
+00:13:44,992 --> 00:13:46,727
+Ha! Ha! Ha!
+
+517
+00:13:48,262 --> 00:13:49,863
+Ladybug, Chat Noir, oserez-vous
+
+518
+00:13:49,930 --> 00:13:51,498
+traverser l'écran pour sauver
+
+519
+00:13:51,565 --> 00:13:53,166
+votre chère petite Chloé?
+
+520
+00:13:53,233 --> 00:13:54,835
+- Ah! Ladybug, Chat Noir,
+
+521
+00:13:54,902 --> 00:13:56,503
+je vous en supplie, sauvez
+
+522
+00:13:56,570 --> 00:13:58,172
+ma veste!
+
+523
+00:13:58,238 --> 00:13:59,806
+- Hein? Oh!
+
+524
+00:13:59,873 --> 00:14:00,000
+(petites exclamations)
+
+525
+00:14:00,000 --> 00:14:01,542
+(petites exclamations)
+
+526
+00:14:06,146 --> 00:14:07,548
+- Prête à crever
+
+527
+00:14:07,614 --> 00:14:08,982
+l'écran, milady?
+
+528
+00:14:09,049 --> 00:14:10,450
+- Je préfère y aller par mes
+
+529
+00:14:10,517 --> 00:14:11,919
+propres moyens. C'est peut-être
+
+530
+00:14:11,985 --> 00:14:13,353
+un piège. Il y a plus de
+
+531
+00:14:13,420 --> 00:14:14,821
+10 lignes de métro à Paris,
+
+532
+00:14:14,888 --> 00:14:16,290
+soit 220 km de rails. Si on
+
+533
+00:14:16,356 --> 00:14:17,724
+veut arriver à temps pour sauver
+
+534
+00:14:17,791 --> 00:14:19,193
+Chloé, on n'a pas d'autre choix.
+
+535
+00:14:19,259 --> 00:14:20,561
+- Hum... Ouais! Dis plutôt que
+
+536
+00:14:20,627 --> 00:14:21,895
+tu adores passer à la télé!
+
+537
+00:14:21,962 --> 00:14:23,263
+- J'ai compris, tu as
+
+538
+00:14:23,330 --> 00:14:24,598
+le trac, Buguinette!
+
+539
+00:14:24,665 --> 00:14:26,033
+(petit grognement)
+
+540
+00:14:29,403 --> 00:14:30,000
+(respiration haletante et cris)
+
+541
+00:14:30,000 --> 00:14:33,240
+(respiration haletante et cris)
+
+542
+00:14:34,908 --> 00:14:36,510
+(soupirs)
+
+543
+00:14:36,577 --> 00:14:38,145
+- Quand même! Vous en avez mis,
+
+544
+00:14:38,212 --> 00:14:39,813
+du temps! Dépêchez-vous de me
+
+545
+00:14:39,880 --> 00:14:41,448
+sortir de cet enfer souterrain!
+
+546
+00:14:41,515 --> 00:14:43,116
+(ricanement)
+
+547
+00:14:43,183 --> 00:14:44,451
+- Vous allez devenir les stars
+
+548
+00:14:44,518 --> 00:14:45,786
+du plus gros succès d'audience
+
+549
+00:14:45,853 --> 00:14:47,120
+de l'histoire de la télé!
+
+550
+00:14:47,187 --> 00:14:48,455
+- Sa montre doit contenir
+
+551
+00:14:48,522 --> 00:14:49,790
+l'akuma. Je m'occupe
+
+552
+00:14:49,857 --> 00:14:51,124
+d'Audimatrix.
+
+553
+00:14:51,191 --> 00:14:52,526
+- Et moi, de la porte!
+
+554
+00:14:54,061 --> 00:14:56,063
+(efforts)
+
+555
+00:14:58,098 --> 00:14:59,299
+- Hum... Hein?
+
+556
+00:14:59,366 --> 00:15:00,000
+(efforts)
+
+557
+00:15:00,000 --> 00:15:00,601
+(efforts)
+
+558
+00:15:00,667 --> 00:15:01,869
+- On est coincés!
+
+559
+00:15:01,935 --> 00:15:03,170
+- Voici les règles de mon
+
+560
+00:15:03,237 --> 00:15:04,438
+émission! Vous avouez en direct
+
+561
+00:15:04,505 --> 00:15:05,706
+la vérité, que vous êtes
+
+562
+00:15:05,772 --> 00:15:07,007
+un couple d'amoureux, et
+
+563
+00:15:07,074 --> 00:15:08,275
+j'arrêterai le métro.
+
+564
+00:15:08,342 --> 00:15:09,510
+- Les superhéros disent la
+
+565
+00:15:09,576 --> 00:15:10,711
+vérité! Pourquoi avouer quelque
+
+566
+00:15:10,777 --> 00:15:11,945
+chose qui n'est pas vrai?
+
+567
+00:15:12,012 --> 00:15:13,180
+- Je veux mon scoop!
+
+568
+00:15:13,247 --> 00:15:14,381
+- Je vais utiliser
+
+569
+00:15:14,448 --> 00:15:15,616
+mon cataclysme.
+
+570
+00:15:15,682 --> 00:15:16,850
+- Non, attends! Mieux vaut
+
+571
+00:15:16,917 --> 00:15:18,085
+le garder pour une urgence.
+
+572
+00:15:18,151 --> 00:15:19,286
+- Euh, c'en est pas une,
+
+573
+00:15:19,353 --> 00:15:20,521
+pour toi?
+
+574
+00:15:20,587 --> 00:15:21,788
+- Il faut d'abord l'attirer ici,
+
+575
+00:15:21,855 --> 00:15:23,056
+sinon on ne capturera jamais son
+
+576
+00:15:23,123 --> 00:15:24,324
+akuma. On n'a qu'à jouer le jeu!
+
+577
+00:15:24,391 --> 00:15:25,626
+Ça va nous faire gagner un petit
+
+578
+00:15:25,692 --> 00:15:26,894
+peu de temps!
+
+579
+00:15:26,960 --> 00:15:28,161
+- Hein?
+
+580
+00:15:28,228 --> 00:15:29,963
+- OK, Audimatrix, t'as gagné,
+
+581
+00:15:30,030 --> 00:15:31,765
+on avoue tout! Chat Noir et moi,
+
+582
+00:15:31,832 --> 00:15:33,600
+on est amoureux! Tu avais
+
+583
+00:15:33,667 --> 00:15:35,402
+raison. Tous les deux,
+
+584
+00:15:35,469 --> 00:15:37,271
+on est... un... couple.
+
+585
+00:15:40,507 --> 00:15:42,176
+- Ah! Oh!
+
+586
+00:15:42,242 --> 00:15:43,911
+- Oh!
+
+587
+00:15:43,977 --> 00:15:45,646
+(ronronnement)
+
+588
+00:15:45,712 --> 00:15:47,381
+- Hein? Je rêve ou tu ronronnes?
+
+589
+00:15:47,447 --> 00:15:49,149
+- Euh, non, pas du tout!
+
+590
+00:15:49,216 --> 00:15:50,884
+- En avouant leurs sentiments,
+
+591
+00:15:50,951 --> 00:15:52,619
+nos 2 héros sauvent la vie de
+
+592
+00:15:52,686 --> 00:15:54,354
+leur fan et amie Chloé! Voilà
+
+593
+00:15:54,421 --> 00:15:56,089
+qui plaît à nos téléspectateurs!
+
+594
+00:15:56,156 --> 00:15:57,424
+Mais l'audience ne bat pas
+
+595
+00:15:57,491 --> 00:15:58,725
+encore de records! Il va
+
+596
+00:15:58,792 --> 00:16:00,000
+falloir faire mieux!
+
+597
+00:16:00,000 --> 00:16:00,060
+falloir faire mieux!
+
+598
+00:16:00,127 --> 00:16:01,361
+- Alors, viens nous rejoindre,
+
+599
+00:16:01,428 --> 00:16:02,696
+Audimatrix! Tu es la
+
+600
+00:16:02,763 --> 00:16:04,031
+présentatrice de l'émission,
+
+601
+00:16:04,097 --> 00:16:05,332
+après tout. Le public veut
+
+602
+00:16:05,399 --> 00:16:06,667
+te voir aussi.
+
+603
+00:16:06,733 --> 00:16:07,935
+- (voix du Papillon): Ordonne-
+
+604
+00:16:08,001 --> 00:16:09,169
+leur de te donner
+
+605
+00:16:09,236 --> 00:16:10,437
+leurs miraculous.
+
+606
+00:16:10,504 --> 00:16:11,705
+- Mon émission, MES règles
+
+607
+00:16:11,772 --> 00:16:12,973
+du jeu, Ladybug. Pour prouver
+
+608
+00:16:13,040 --> 00:16:14,208
+que vos sentiments sont
+
+609
+00:16:14,274 --> 00:16:15,475
+authentiques, il va falloir
+
+610
+00:16:15,542 --> 00:16:16,743
+enlever vos masques! Pour cela,
+
+611
+00:16:16,810 --> 00:16:17,978
+vous allez me donner
+
+612
+00:16:18,045 --> 00:16:19,246
+vos miraculous.
+
+613
+00:16:19,313 --> 00:16:20,781
+- Dans tes rêves, Audimatrix!
+
+614
+00:16:20,848 --> 00:16:22,316
+- Attends! Je sais comment
+
+615
+00:16:22,382 --> 00:16:23,851
+prouver nos sentiments!
+
+616
+00:16:23,917 --> 00:16:25,419
+- Hein?
+
+617
+00:16:25,485 --> 00:16:26,954
+- Aaah!
+
+618
+00:16:27,020 --> 00:16:28,555
+- Un bisou?
+
+619
+00:16:30,257 --> 00:16:31,558
+- C'est pas le moment,
+
+620
+00:16:31,625 --> 00:16:32,960
+mon chaton.
+
+621
+00:16:33,026 --> 00:16:34,394
+(soupir)
+
+622
+00:16:35,495 --> 00:16:36,964
+- L'émission est finie?
+
+623
+00:16:37,030 --> 00:16:38,498
+- Si on ne peut pas l'atteindre,
+
+624
+00:16:38,565 --> 00:16:40,033
+on ne pourra jamais capturer
+
+625
+00:16:40,100 --> 00:16:41,568
+son akuma!
+
+626
+00:16:41,635 --> 00:16:43,103
+- Mes chers téléspectateurs,
+
+627
+00:16:43,170 --> 00:16:44,638
+préparez-vous à en prendre
+
+628
+00:16:44,705 --> 00:16:46,240
+plein les yeux! Ha! Ha! Ha!
+
+629
+00:16:47,574 --> 00:16:49,176
+- Ladybug, aide-moi!
+
+630
+00:16:49,243 --> 00:16:50,811
+Je t'en supplie!
+
+631
+00:16:50,878 --> 00:16:52,479
+- Oh, attendez, ne serait-ce pas
+
+632
+00:16:52,546 --> 00:16:54,114
+la fille qui a lancé le fameux
+
+633
+00:16:54,181 --> 00:16:55,782
+Ladyblog? La toute première
+
+634
+00:16:55,849 --> 00:16:57,417
+à avoir filmé Ladybug?
+
+635
+00:16:57,484 --> 00:16:59,086
+- Oh, non, Alya!
+
+636
+00:16:59,152 --> 00:17:00,000
+- Maintenant, donnez-moi vos
+
+637
+00:17:00,000 --> 00:17:00,754
+- Maintenant, donnez-moi vos
+
+638
+00:17:00,821 --> 00:17:02,422
+miraculous ou votre plus grande
+
+639
+00:17:02,489 --> 00:17:04,057
+fan finira momifiée! Ha! Ha! Ha!
+
+640
+00:17:04,124 --> 00:17:05,792
+(petits cris)
+
+641
+00:17:06,894 --> 00:17:08,128
+- On fonce avant qu'elle
+
+642
+00:17:08,195 --> 00:17:09,429
+ne s'enfuie!
+
+643
+00:17:09,496 --> 00:17:10,731
+- Hum, hum!
+
+644
+00:17:10,797 --> 00:17:12,032
+- Ah!
+
+645
+00:17:12,099 --> 00:17:13,333
+- Hé, oh! Attendez! Et moi
+
+646
+00:17:13,400 --> 00:17:14,635
+alors? Je vous interdis
+
+647
+00:17:14,701 --> 00:17:16,003
+de me laisser seule ici!
+
+648
+00:17:20,174 --> 00:17:21,475
+- Oh... On n'est pas au Louvre!
+
+649
+00:17:21,542 --> 00:17:22,809
+- Elle nous a piégés!
+
+650
+00:17:22,876 --> 00:17:24,178
+(efforts)
+
+651
+00:17:24,244 --> 00:17:25,479
+- Hein? Hein?
+
+652
+00:17:25,546 --> 00:17:26,780
+(ricanement)
+
+653
+00:17:26,847 --> 00:17:28,081
+OK, Cataclysme, là.
+
+654
+00:17:28,148 --> 00:17:29,383
+- Inutile! Elle nous a sûrement
+
+655
+00:17:29,449 --> 00:17:30,000
+enfermés loin du Louvre. Le
+
+656
+00:17:30,000 --> 00:17:30,684
+enfermés loin du Louvre. Le
+
+657
+00:17:30,751 --> 00:17:31,985
+temps d'y arriver, il sera
+
+658
+00:17:32,052 --> 00:17:33,320
+trop tard pour sauver Alya!
+
+659
+00:17:33,387 --> 00:17:34,621
+- Alors, quoi, on
+
+660
+00:17:34,688 --> 00:17:35,923
+s'embrasse? Hum...
+
+661
+00:17:35,989 --> 00:17:37,224
+- C'est toujours pas le moment,
+
+662
+00:17:37,291 --> 00:17:38,525
+mon chaton.
+
+663
+00:17:38,592 --> 00:17:39,826
+(soupir)
+
+664
+00:17:39,893 --> 00:17:41,495
+- Il est temps de faire exploser
+
+665
+00:17:41,562 --> 00:17:43,130
+l'audimat! Je vous laisse
+
+666
+00:17:43,197 --> 00:17:44,798
+une 2e chance. Retirez vos
+
+667
+00:17:44,865 --> 00:17:46,466
+miraculous et révélez votre
+
+668
+00:17:46,533 --> 00:17:48,101
+vraie identité. Le monde entier
+
+669
+00:17:48,168 --> 00:17:49,770
+a les yeux rivés sur vous!
+
+670
+00:17:49,837 --> 00:17:51,104
+- Quel plan parfait, Audimatrix!
+
+671
+00:17:51,171 --> 00:17:52,439
+Ils sont coincés. Les miraculous
+
+672
+00:17:52,506 --> 00:17:53,774
+sont à moi!
+
+673
+00:17:53,841 --> 00:17:55,108
+- Hum! Inutile de chercher une
+
+674
+00:17:55,175 --> 00:17:56,476
+échappatoire, vous savez.
+
+675
+00:17:56,543 --> 00:17:57,811
+- Aïe!
+
+676
+00:17:57,878 --> 00:17:59,146
+- Sauf si vous êtes prêts à
+
+677
+00:17:59,213 --> 00:18:00,000
+laisser tomber à l'eau votre
+
+678
+00:18:00,000 --> 00:18:00,480
+laisser tomber à l'eau votre
+
+679
+00:18:00,547 --> 00:18:01,882
+plus grande fan.
+
+680
+00:18:03,550 --> 00:18:05,586
+(cris)
+
+681
+00:18:11,725 --> 00:18:13,193
+Dépêchez-vous, les amoureux! Ne
+
+682
+00:18:13,260 --> 00:18:14,795
+faites pas attendre le public!
+
+683
+00:18:17,764 --> 00:18:21,235
+- Tu as raison! Lucky charm!
+
+684
+00:18:26,106 --> 00:18:27,441
+- Hum?
+
+685
+00:18:27,508 --> 00:18:28,809
+- Du ruban adhésif? Qu'est-ce
+
+686
+00:18:28,876 --> 00:18:30,000
+que je vais en faire? Hum?
+
+687
+00:18:30,000 --> 00:18:30,277
+que je vais en faire? Hum?
+
+688
+00:18:38,118 --> 00:18:40,120
+J'ai compris! Hum!
+
+689
+00:18:42,155 --> 00:18:43,290
+- Dépêche-toi! Alya va tomber
+
+690
+00:18:43,357 --> 00:18:44,491
+à l'eau!
+
+691
+00:18:44,558 --> 00:18:45,692
+- Une minute!
+
+692
+00:18:45,759 --> 00:18:46,894
+- C'est trop long!
+
+693
+00:18:46,960 --> 00:18:48,161
+- Le chat a raison!
+
+694
+00:18:49,696 --> 00:18:52,399
+- Hum... hum... hum...
+
+695
+00:18:52,466 --> 00:18:55,235
+Hum... Voilà!
+
+696
+00:18:57,271 --> 00:18:58,572
+- Hein? Ah?
+
+697
+00:18:58,639 --> 00:18:59,907
+- Hein?
+
+698
+00:18:59,973 --> 00:19:00,000
+(déroulement de ruban à coller)
+
+699
+00:19:00,000 --> 00:19:01,341
+(déroulement de ruban à coller)
+
+700
+00:19:03,510 --> 00:19:04,845
+Qu'est-ce qui se passe?
+
+701
+00:19:04,912 --> 00:19:06,213
+- OK, tu as gagné, Audimatrix!
+
+702
+00:19:06,280 --> 00:19:07,614
+On enlève nos miraculous.
+
+703
+00:19:07,681 --> 00:19:09,016
+Le monde entier va nous voir
+
+704
+00:19:09,082 --> 00:19:10,417
+sans nos masques!
+
+705
+00:19:10,484 --> 00:19:11,785
+- Et on est prêts à s'embrasser.
+
+706
+00:19:11,852 --> 00:19:13,187
+Dommage que tu rates ça!
+
+707
+00:19:13,253 --> 00:19:14,588
+- C'est vraiment pas ton jour
+
+708
+00:19:14,655 --> 00:19:15,956
+de chance!
+
+709
+00:19:16,023 --> 00:19:17,424
+- Hum?
+
+710
+00:19:19,259 --> 00:19:21,461
+Si vous me mentez, je vais vous
+
+711
+00:19:21,528 --> 00:19:23,730
+le faire regretter!
+
+712
+00:19:23,797 --> 00:19:26,066
+(efforts et cri)
+
+713
+00:19:27,067 --> 00:19:28,702
+- Et te voilà coincée avec nous!
+
+714
+00:19:28,769 --> 00:19:30,000
+(coups et cris)
+
+715
+00:19:30,000 --> 00:19:30,437
+(coups et cris)
+
+716
+00:19:36,844 --> 00:19:39,313
+(efforts)
+
+717
+00:19:39,379 --> 00:19:41,882
+- Lâche-moi! Lâche-moi!
+
+718
+00:19:42,916 --> 00:19:44,918
+- Cataclysme!
+
+719
+00:19:51,325 --> 00:19:52,593
+Honneur aux dames!
+
+720
+00:19:52,659 --> 00:19:53,927
+- Merci, chaton! Tu as assez
+
+721
+00:19:53,994 --> 00:19:55,295
+fait de mal comme ça,
+
+722
+00:19:55,362 --> 00:19:56,697
+petit akuma.
+
+723
+00:20:00,200 --> 00:20:02,336
+Je te libère du mal!
+
+724
+00:20:06,440 --> 00:20:08,275
+Je t'ai eu! Bye-bye,
+
+725
+00:20:08,342 --> 00:20:10,244
+petit papillon!
+
+726
+00:20:11,245 --> 00:20:13,413
+Miraculous, Ladybug!
+
+727
+00:20:15,382 --> 00:20:17,484
+- Oh!
+
+728
+00:20:17,551 --> 00:20:19,720
+- Oh! Hein? Ouf!
+
+729
+00:20:22,556 --> 00:20:24,224
+- Mais... qu'est-ce qui
+
+730
+00:20:24,291 --> 00:20:25,926
+m'est arrivé?
+
+731
+00:20:25,993 --> 00:20:27,661
+- (ensemble): Bien joué!
+
+732
+00:20:27,728 --> 00:20:29,363
+- Audimatrix s'est révélée être
+
+733
+00:20:29,429 --> 00:20:30,000
+un maillon faible. Mais bientôt,
+
+734
+00:20:30,000 --> 00:20:31,098
+un maillon faible. Mais bientôt,
+
+735
+00:20:31,164 --> 00:20:32,799
+je programmerai la fin de
+
+736
+00:20:32,866 --> 00:20:34,601
+Ladybug et Chat Noir en direct!
+
+737
+00:20:37,471 --> 00:20:39,473
+(ronflements)
+
+738
+00:20:41,775 --> 00:20:42,910
+(pas dans l'escalier)
+
+739
+00:20:42,976 --> 00:20:44,111
+- Oh, je suis tellement désolée!
+
+740
+00:20:44,178 --> 00:20:45,312
+J'aurais jamais cru que ça
+
+741
+00:20:45,379 --> 00:20:46,513
+prendrait aussi longtemps
+
+742
+00:20:46,580 --> 00:20:47,681
+avec mes parents!
+
+743
+00:20:47,748 --> 00:20:48,882
+- Tu as tout raté, Marinette!
+
+744
+00:20:48,949 --> 00:20:50,083
+J'ai été prise en otage
+
+745
+00:20:50,150 --> 00:20:51,285
+par une supervilaine!
+
+746
+00:20:51,351 --> 00:20:52,486
+- Quoi? Tu plaisantes!
+
+747
+00:20:52,553 --> 00:20:53,954
+- Je suis sérieuse! J'ai
+
+748
+00:20:54,021 --> 00:20:55,422
+de la chance, Ladybug est
+
+749
+00:20:55,489 --> 00:20:56,924
+venue me sauver!
+
+750
+00:20:56,990 --> 00:20:58,392
+- Hum! Je suis désolée de pas
+
+751
+00:20:58,458 --> 00:20:59,860
+avoir été là pour toi.
+
+752
+00:20:59,927 --> 00:21:00,000
+- T'en fais pas pour ça, mais
+
+753
+00:21:00,000 --> 00:21:00,994
+- T'en fais pas pour ça, mais
+
+754
+00:21:01,061 --> 00:21:02,162
+la prochaine fois qu'on doit
+
+755
+00:21:02,229 --> 00:21:03,297
+passer une soirée ensemble,
+
+756
+00:21:03,363 --> 00:21:04,464
+interdiction formelle d'aller
+
+757
+00:21:04,531 --> 00:21:05,599
+voir tes parents.
+
+758
+00:21:05,666 --> 00:21:06,767
+- D'accord!
+
+759
+00:21:06,834 --> 00:21:07,968
+(♪ indicatif ♪)
+
+760
+00:21:11,238 --> 00:21:12,472
+- Si vous vous voulez de l'info,
+
+761
+00:21:12,539 --> 00:21:13,774
+j'ai ce qu'il vous faut!
+
+762
+00:21:13,841 --> 00:21:15,075
+Bonsoir, ici Nadia Chamack
+
+763
+00:21:15,142 --> 00:21:16,376
+pour mon émission Côte à Côte!
+
+764
+00:21:16,443 --> 00:21:17,678
+Aujourd'hui, je suis en
+
+765
+00:21:17,744 --> 00:21:18,979
+compagnie d'Alya Césaire, la
+
+766
+00:21:19,046 --> 00:21:20,280
+créatrice du Ladyblog! Ensemble,
+
+767
+00:21:20,347 --> 00:21:21,615
+nous allons revivre les plus
+
+768
+00:21:21,682 --> 00:21:22,916
+grands exploits de Ladybug
+
+769
+00:21:22,983 --> 00:21:24,218
+et Chat Noir! Oh?
+
+770
+00:21:24,284 --> 00:21:25,519
+- Tes scores d'audience sont
+
+771
+00:21:25,586 --> 00:21:26,820
+très bons, Nadia, beau travail!
+
+772
+00:21:26,887 --> 00:21:28,121
+Tu as mérité ta première partie
+
+773
+00:21:28,188 --> 00:21:29,489
+de soirée!
+
+774
+00:21:30,490 --> 00:21:32,059
+- Hum...
+
+775
+00:21:32,125 --> 00:21:33,660
+- Bonsoir, Nadia! Et les fans!
+
+776
+00:21:33,727 --> 00:21:35,295
+Pour commencer, je tiens à
+
+777
+00:21:35,362 --> 00:21:36,930
+rétablir la vérité: Chat Noir et
+
+778
+00:21:36,997 --> 00:21:38,565
+Ladybug ne sont pas en couple,
+
+779
+00:21:38,632 --> 00:21:40,167
+enfin pas encore en tout cas!
+
+780
+00:21:40,234 --> 00:21:41,802
+Ha! Ha! Ha! Désolée, les fans!
+
+781
+00:21:41,869 --> 00:21:43,337
+- Hé, regarde, c'est toi
+
+782
+00:21:43,403 --> 00:21:44,872
+et ma maman!
+
+783
+00:21:44,938 --> 00:21:46,373
+- Bien vu, petit asticot!
+
+784
+00:21:46,440 --> 00:21:47,908
+- Super! Maintenant, tout le
+
+785
+00:21:47,975 --> 00:21:49,443
+monde va connaître le Ladyblog!
+
+786
+00:21:49,510 --> 00:21:50,978
+- Tu veux un autographe?
+
+787
+00:21:51,044 --> 00:21:52,479
+- Avec plaisir!
+
+788
+00:21:52,546 --> 00:21:54,014
+- Oh, moi d'abord! Moi d'abord!
+
+789
+00:21:54,081 --> 00:21:55,616
+(rires)
+
+790
+00:22:01,388 --> 00:22:04,391
+Sous-titrage: Télé-Québec

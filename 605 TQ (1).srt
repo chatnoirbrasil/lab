@@ -1,0 +1,3208 @@
+﻿1
+00:00:02,903 --> 00:00:04,605
+- Ça veut dire que toi aussi,
+
+2
+00:00:04,671 --> 00:00:06,340
+t'as un papa et une maman?
+
+3
+00:00:06,406 --> 00:00:07,975
+- Bien sûr! Et ce sont
+
+4
+00:00:08,041 --> 00:00:09,610
+ton grand-père et ta grand-mère.
+
+5
+00:00:09,676 --> 00:00:10,811
+- Et où est-ce qu'ils sont?
+
+6
+00:00:10,878 --> 00:00:11,979
+- Ils habitent loin.
+
+7
+00:00:12,045 --> 00:00:13,146
+- C'est où, loin? Est-ce qu'on
+
+8
+00:00:13,213 --> 00:00:14,281
+peut aller les voir?
+
+9
+00:00:14,348 --> 00:00:15,816
+- Tu sais, Adrien,
+
+10
+00:00:15,883 --> 00:00:17,384
+le jour où on devient un papa ou
+
+11
+00:00:17,451 --> 00:00:18,919
+une maman, on aime ses enfants
+
+12
+00:00:18,986 --> 00:00:20,454
+plus que tout au monde.
+
+13
+00:00:20,521 --> 00:00:22,055
+Mais tu vois, il y a
+
+14
+00:00:22,122 --> 00:00:23,657
+des choses que mon papa
+
+15
+00:00:23,724 --> 00:00:25,259
+et ma maman aiment plus que moi.
+
+16
+00:00:25,325 --> 00:00:26,460
+Des choses qui peuvent
+
+17
+00:00:26,527 --> 00:00:27,628
+les rendre parfois méchants.
+
+18
+00:00:27,694 --> 00:00:28,829
+C'est pour ça
+
+19
+00:00:28,896 --> 00:00:29,997
+qu'on ne les voit pas.
+
+20
+00:00:30,063 --> 00:00:30,998
+- Ça veut dire que papa
+
+21
+00:00:31,064 --> 00:00:31,999
+m'aime pas?
+
+22
+00:00:32,065 --> 00:00:33,600
+- Qu'est-ce qui te fait dire ça?
+
+23
+00:00:33,667 --> 00:00:35,002
+- Parce qu'on voit jamais papa.
+
+24
+00:00:35,068 --> 00:00:36,370
+Il est jamais là.
+
+25
+00:00:36,436 --> 00:00:38,172
+- Non, non! C'est seulement
+
+26
+00:00:38,238 --> 00:00:39,973
+que papa voyage beaucoup.
+
+27
+00:00:40,040 --> 00:00:41,275
+Il parcourt le monde avec
+
+28
+00:00:41,341 --> 00:00:42,576
+Nathalie à la recherche d'objets
+
+29
+00:00:42,643 --> 00:00:43,877
+importants. Un jour viendra où
+
+30
+00:00:43,944 --> 00:00:45,179
+ils les trouveront, et alors
+
+31
+00:00:45,245 --> 00:00:46,480
+je guérirai. Et on restera
+
+32
+00:00:46,547 --> 00:00:48,849
+ensemble à la maison.
+
+33
+00:00:53,353 --> 00:00:55,122
+- Je m'appelle Marinette.
+
+34
+00:00:55,189 --> 00:00:56,990
+Une fille comme les autres.
+
+35
+00:00:57,057 --> 00:00:58,392
+Mais quand le destin me choisit
+
+36
+00:00:58,458 --> 00:00:59,726
+pour lutter contre les forces
+
+37
+00:00:59,793 --> 00:01:00,000
+du mal, je deviens...
+
+38
+00:01:00,000 --> 00:01:01,528
+du mal, je deviens...
+
+39
+00:01:01,595 --> 00:01:03,030
+Miraculous Ladybug!
+
+40
+00:01:03,096 --> 00:01:04,264
+♪ - Miraculous ♪
+
+41
+00:01:04,331 --> 00:01:06,300
+♪ Porte-bonheur ♪
+
+42
+00:01:06,366 --> 00:01:09,303
+♪ Lady Magique et Lady Chance ♪
+
+43
+00:01:09,369 --> 00:01:10,304
+♪ Miraculous ♪
+
+44
+00:01:10,370 --> 00:01:12,072
+♪ Lady du coeur ♪
+
+45
+00:01:12,139 --> 00:01:13,073
+♪ Être héroïque
+
+46
+00:01:13,140 --> 00:01:14,908
+en cas d'urgence ♪
+
+47
+00:01:14,975 --> 00:01:17,911
+♪ Miraculous ♪
+
+48
+00:01:17,978 --> 00:01:20,781
+♪ Miraculous ♪
+
+49
+00:01:25,085 --> 00:01:28,388
+- Tout va bien, Adrien?
+
+50
+00:01:30,324 --> 00:01:33,126
+- Snif, snif!
+
+51
+00:01:40,200 --> 00:01:41,535
+Pardon, Nathalie.
+
+52
+00:01:41,602 --> 00:01:44,004
+- Le déjeuner est servi.
+
+53
+00:01:45,839 --> 00:01:48,742
+(Dring, dring, dring!)
+
+54
+00:01:56,049 --> 00:01:57,985
+Bonjour, Monsieur.
+
+55
+00:01:58,051 --> 00:01:58,986
+Oui.
+
+56
+00:01:59,052 --> 00:02:00,000
+Bien sûr.
+
+57
+00:02:00,000 --> 00:02:00,921
+Bien sûr.
+
+58
+00:02:00,988 --> 00:02:03,423
+Au revoir, Monsieur.
+
+59
+00:02:03,490 --> 00:02:06,059
+- Tout va bien, Nathalie?
+
+60
+00:02:06,126 --> 00:02:07,127
+- Tes grands-parents
+
+61
+00:02:07,194 --> 00:02:08,195
+veulent te voir.
+
+62
+00:02:08,262 --> 00:02:10,564
+- Oh!
+
+63
+00:02:10,631 --> 00:02:11,565
+- (accent italien) : Buon
+
+64
+00:02:11,632 --> 00:02:12,566
+appetito!
+
+65
+00:02:12,633 --> 00:02:13,700
+- Aroum! Miam!
+
+66
+00:02:13,767 --> 00:02:14,835
+Ça, c'est une braciola
+
+67
+00:02:14,902 --> 00:02:15,969
+dans les règles de l'art. Miam!
+
+68
+00:02:16,036 --> 00:02:17,471
+- Moi, j'ai l'impression
+
+69
+00:02:17,538 --> 00:02:18,939
+que quelqu'un manque à l'appel.
+
+70
+00:02:19,006 --> 00:02:20,440
+Tu nous le présentes quand?
+
+71
+00:02:20,507 --> 00:02:21,542
+- Papa! C'est pas comme si
+
+72
+00:02:21,608 --> 00:02:22,676
+tu le connaissais pas,
+
+73
+00:02:22,743 --> 00:02:23,777
+il est déjà venu ici.
+
+74
+00:02:23,844 --> 00:02:25,612
+- Ah! Le jeune mannequin
+
+75
+00:02:25,679 --> 00:02:27,414
+beau comme une princesse!
+
+76
+00:02:27,481 --> 00:02:28,815
+- Oui, bien sûr il est vraiment
+
+77
+00:02:28,882 --> 00:02:30,000
+très, très, très mignon.
+
+78
+00:02:30,000 --> 00:02:30,184
+très, très, très mignon.
+
+79
+00:02:30,250 --> 00:02:31,585
+Mais il est bien plus que ça.
+
+80
+00:02:31,652 --> 00:02:32,953
+Et il n'est plus mannequin.
+
+81
+00:02:33,020 --> 00:02:34,221
+- Mais nous, on ignorait
+
+82
+00:02:34,288 --> 00:02:35,455
+tout ça puisque tu ne nous as
+
+83
+00:02:35,522 --> 00:02:36,723
+pas officiellement présenté
+
+84
+00:02:36,790 --> 00:02:38,425
+ton amoureux. J'ai une idée.
+
+85
+00:02:38,492 --> 00:02:40,160
+Pourquoi tu ne l'invites pas à
+
+86
+00:02:40,227 --> 00:02:41,862
+déjeuner avec nous ce dimanche?
+
+87
+00:02:41,929 --> 00:02:43,163
+- (ensemble) : Invite-le!
+
+88
+00:02:43,230 --> 00:02:44,431
+Invite-le! Invite-le!
+
+89
+00:02:44,498 --> 00:02:45,866
+- Voyons, calmez-vous!
+
+90
+00:02:45,933 --> 00:02:47,267
+C'est la première fois
+
+91
+00:02:47,334 --> 00:02:48,702
+que Marinette a un amoureux.
+
+92
+00:02:48,769 --> 00:02:49,736
+Laissez-la faire
+
+93
+00:02:49,803 --> 00:02:50,771
+les choses à son rythme.
+
+94
+00:02:50,838 --> 00:02:51,772
+Invite-le seulement si
+
+95
+00:02:51,839 --> 00:02:52,806
+ça te fait plaisir, ma chérie.
+
+96
+00:02:52,873 --> 00:02:54,174
+- Ah non! C'est beaucoup
+
+97
+00:02:54,241 --> 00:02:55,509
+trop tôt. C'est pas comme
+
+98
+00:02:55,576 --> 00:02:56,877
+si je pensais mariage, trois
+
+99
+00:02:56,944 --> 00:02:58,212
+enfants et deux hamsters, mais--
+
+100
+00:02:58,278 --> 00:02:59,813
+- Invite-le! Invite-le!
+
+101
+00:02:59,880 --> 00:03:00,000
+- Allez, d'accord!
+
+102
+00:03:00,000 --> 00:03:02,482
+- Allez, d'accord!
+
+103
+00:03:06,153 --> 00:03:07,087
+- Ah! Marinette.
+
+104
+00:03:07,154 --> 00:03:08,589
+- Salut, Adrien. Tu veux
+
+105
+00:03:08,655 --> 00:03:10,057
+venir déjeuner ce dimanche?
+
+106
+00:03:10,123 --> 00:03:12,025
+- J'ai... Non.
+
+107
+00:03:12,092 --> 00:03:13,961
+J'ai quelque chose de prévu.
+
+108
+00:03:14,027 --> 00:03:15,562
+- Ah. C'est quelque chose
+
+109
+00:03:15,629 --> 00:03:17,130
+d'important?
+
+110
+00:03:17,197 --> 00:03:18,131
+- Je déjeune avec
+
+111
+00:03:18,198 --> 00:03:19,132
+mes grands-parents.
+
+112
+00:03:19,199 --> 00:03:21,768
+- Ah! C'est une super nouvelle!
+
+113
+00:03:21,835 --> 00:03:23,237
+Non?
+
+114
+00:03:23,303 --> 00:03:24,238
+- Je ne suis pas vraiment sûr.
+
+115
+00:03:24,304 --> 00:03:25,239
+Je ne les connais pas.
+
+116
+00:03:25,305 --> 00:03:26,540
+Je ne les ai jamais rencontrés.
+
+117
+00:03:26,607 --> 00:03:27,808
+- Sérieusement?
+
+118
+00:03:27,875 --> 00:03:28,809
+- Ce sont les parents
+
+119
+00:03:28,876 --> 00:03:29,810
+de ma mère.
+
+120
+00:03:29,877 --> 00:03:30,000
+Elle ne voulait pas les voir.
+
+121
+00:03:30,000 --> 00:03:30,811
+Elle ne voulait pas les voir.
+
+122
+00:03:30,878 --> 00:03:33,380
+- Hein? Mais tu sais pourquoi?
+
+123
+00:03:33,447 --> 00:03:34,381
+- Ah, elle les trouvait
+
+124
+00:03:34,448 --> 00:03:35,382
+méchants. Quant à mon père,
+
+125
+00:03:35,449 --> 00:03:36,383
+il ne m'a jamais parlé
+
+126
+00:03:36,450 --> 00:03:37,384
+de ses parents.
+
+127
+00:03:37,451 --> 00:03:39,086
+- Oh.
+
+128
+00:03:39,152 --> 00:03:40,220
+- Et là, soudainement,
+
+129
+00:03:40,287 --> 00:03:41,321
+ils tiennent tous à me voir.
+
+130
+00:03:41,388 --> 00:03:43,323
+Je sais pas quoi faire.
+
+131
+00:03:43,390 --> 00:03:44,358
+Je préférerais passer
+
+132
+00:03:44,424 --> 00:03:45,893
+mon dimanche avec toi.
+
+133
+00:03:45,959 --> 00:03:48,896
+- Moi aussi. Mais tu sais quoi?
+
+134
+00:03:48,962 --> 00:03:50,097
+Comme tu peux pas venir,
+
+135
+00:03:50,163 --> 00:03:51,265
+c'est moi qui viendrai. Je suis
+
+136
+00:03:51,331 --> 00:03:52,466
+spécialiste des grands-parents.
+
+137
+00:03:52,533 --> 00:03:53,467
+Ils ne peuvent pas être
+
+138
+00:03:53,534 --> 00:03:54,468
+si terribles! Et s'ils sont
+
+139
+00:03:54,535 --> 00:03:55,469
+vraiment méchants,
+
+140
+00:03:55,536 --> 00:03:56,470
+je te protégerai.
+
+141
+00:03:56,537 --> 00:03:57,471
+Tu es de la famille! Enfin,
+
+142
+00:03:57,538 --> 00:03:58,472
+pas encore. Je veux dire,
+
+143
+00:03:58,539 --> 00:04:00,000
+presque. Argh!
+
+144
+00:04:00,000 --> 00:04:00,474
+presque. Argh!
+
+145
+00:04:00,541 --> 00:04:01,475
+Qu'est-ce que t'en dis?
+
+146
+00:04:01,542 --> 00:04:02,709
+- Si c'est possible pour toi,
+
+147
+00:04:02,776 --> 00:04:03,944
+oui, j'aimerais bien
+
+148
+00:04:04,011 --> 00:04:05,179
+que tu sois là avec moi.
+
+149
+00:04:05,245 --> 00:04:06,346
+- Bien sûr que c'est
+
+150
+00:04:06,413 --> 00:04:07,514
+possible! Tu vas voir.
+
+151
+00:04:07,581 --> 00:04:08,682
+Passe-moi Nathalie.
+
+152
+00:04:08,749 --> 00:04:09,883
+- Je ne suis pas certaine
+
+153
+00:04:09,950 --> 00:04:11,051
+que ce soit une bonne idée.
+
+154
+00:04:11,118 --> 00:04:12,219
+- Lord Graham a donné des
+
+155
+00:04:12,286 --> 00:04:13,353
+consignes précises. Le déjeuner
+
+156
+00:04:13,420 --> 00:04:14,521
+est réservé à la famille.
+
+157
+00:04:14,588 --> 00:04:15,789
+Seul le personnel sera autorisé
+
+158
+00:04:15,856 --> 00:04:17,057
+pendant le repas.
+
+159
+00:04:17,124 --> 00:04:19,059
+- D'où mon uniforme!
+
+160
+00:04:19,126 --> 00:04:20,360
+- La pince à crustacés à droite
+
+161
+00:04:20,427 --> 00:04:21,628
+de la fourchette à poisson.
+
+162
+00:04:21,695 --> 00:04:22,963
+- Oups! Hi, hi, hi!
+
+163
+00:04:23,030 --> 00:04:24,198
+- Lord Graham est à cheval
+
+164
+00:04:24,264 --> 00:04:25,399
+sur les principes, Marinette.
+
+165
+00:04:25,465 --> 00:04:26,633
+Il faudra te montrer discrète.
+
+166
+00:04:26,700 --> 00:04:27,768
+- Ne vous inquiétez pas.
+
+167
+00:04:27,835 --> 00:04:28,902
+Je l'ai fait plein de fois pour
+
+168
+00:04:28,969 --> 00:04:30,000
+aider mes parents quand ils font
+
+169
+00:04:30,000 --> 00:04:30,003
+aider mes parents quand ils font
+
+170
+00:04:30,070 --> 00:04:31,138
+traiteurs. Je serai invisible.
+
+171
+00:04:31,205 --> 00:04:32,372
+- Je compte sur vous deux
+
+172
+00:04:32,439 --> 00:04:33,607
+pour me raconter ce déjeuner.
+
+173
+00:04:33,674 --> 00:04:35,142
+- Comment ça? Tu veux dire que
+
+174
+00:04:35,209 --> 00:04:36,643
+tu ne mangeras pas avec nous?
+
+175
+00:04:36,710 --> 00:04:37,644
+- Je ne fais pas partie
+
+176
+00:04:37,711 --> 00:04:38,645
+de la famille.
+
+177
+00:04:38,712 --> 00:04:39,646
+- Quoi? Mais est-ce que
+
+178
+00:04:39,713 --> 00:04:40,647
+Lord Graham sait
+
+179
+00:04:40,714 --> 00:04:41,648
+que vous êtes presque la mère
+
+180
+00:04:41,715 --> 00:04:42,649
+d'Adrien, maintenant?
+
+181
+00:04:42,716 --> 00:04:44,084
+- Jamais je ne pourrai
+
+182
+00:04:44,151 --> 00:04:46,587
+remplacer la mère d'Adrien.
+
+183
+00:04:51,658 --> 00:04:52,659
+Voici tes grands-parents
+
+184
+00:04:52,726 --> 00:04:53,727
+maternels, Adrien.
+
+185
+00:04:53,794 --> 00:04:55,963
+Emil et Milly Graham de Vanily.
+
+186
+00:04:56,029 --> 00:04:57,698
+Vous recevoir est un honneur.
+
+187
+00:04:57,764 --> 00:04:58,699
+- (accent anglais) : Vous
+
+188
+00:04:58,765 --> 00:04:59,700
+ne nous recevez pas.
+
+189
+00:04:59,766 --> 00:05:00,000
+C'était notre demeure
+
+190
+00:05:00,000 --> 00:05:00,701
+C'était notre demeure
+
+191
+00:05:00,767 --> 00:05:01,702
+avant que nous ne laissions
+
+192
+00:05:01,768 --> 00:05:03,003
+notre fille et son couturier
+
+193
+00:05:03,070 --> 00:05:04,338
+s'y installer.
+
+194
+00:05:04,404 --> 00:05:06,073
+Bon. Leur union a donné
+
+195
+00:05:06,139 --> 00:05:07,774
+un enfant agréable à regarder.
+
+196
+00:05:07,841 --> 00:05:08,775
+- Grrr!
+
+197
+00:05:08,842 --> 00:05:09,776
+- Bonjour, grand-père.
+
+198
+00:05:09,843 --> 00:05:10,777
+Et grand-mère.
+
+199
+00:05:10,844 --> 00:05:13,814
+- Lord Graham, je te prie. Oh?
+
+200
+00:05:13,881 --> 00:05:15,716
+(Vroum!)
+
+201
+00:05:15,782 --> 00:05:16,717
+- Ce sont maintenant
+
+202
+00:05:16,783 --> 00:05:17,718
+tes grands-parents
+
+203
+00:05:17,784 --> 00:05:18,719
+paternels qui arrivent.
+
+204
+00:05:18,785 --> 00:05:20,587
+Johnny et Gabrielle Grassette.
+
+205
+00:05:20,654 --> 00:05:23,090
+- (ensemble) : Mouah!
+
+206
+00:05:23,156 --> 00:05:24,625
+- Merci pour l'invitation,
+
+207
+00:05:24,691 --> 00:05:26,193
+Vos Altesses internationales.
+
+208
+00:05:26,260 --> 00:05:27,728
+- (accent anglais) : Bonjour.
+
+209
+00:05:27,794 --> 00:05:28,729
+- Hum?
+
+210
+00:05:28,795 --> 00:05:29,830
+- Je suis Lord Emil
+
+211
+00:05:29,897 --> 00:05:30,000
+Graham de Vanily,
+
+212
+00:05:30,000 --> 00:05:30,898
+Graham de Vanily,
+
+213
+00:05:30,964 --> 00:05:31,999
+duc de Westchester-Munster.
+
+214
+00:05:32,065 --> 00:05:33,066
+Et voici Lady Milly,
+
+215
+00:05:33,133 --> 00:05:34,134
+mon épouse.
+
+216
+00:05:34,201 --> 00:05:35,135
+- (accent du nord) :
+
+217
+00:05:35,202 --> 00:05:36,170
+Ah, moi, c'est Johnny,
+
+218
+00:05:36,236 --> 00:05:37,237
+et elle, c'est Gabrielle.
+
+219
+00:05:37,304 --> 00:05:38,238
+On n'est pas mariés, mais telle
+
+220
+00:05:38,305 --> 00:05:39,273
+la force de l'amour, je suis
+
+221
+00:05:39,339 --> 00:05:41,675
+enchaîné à elle pour toujours.
+
+222
+00:05:41,742 --> 00:05:43,143
+- Oh! Oh là là! Jagged soit
+
+223
+00:05:43,210 --> 00:05:44,611
+loué! Adrien, j'attends ce
+
+224
+00:05:44,678 --> 00:05:46,079
+moment depuis tellement,
+
+225
+00:05:46,146 --> 00:05:47,514
+tellement longtemps!
+
+226
+00:05:47,581 --> 00:05:48,982
+Oh! T'es encore plus
+
+227
+00:05:49,049 --> 00:05:51,451
+mignon en personne.
+
+228
+00:05:51,518 --> 00:05:53,453
+- Hum? Snif, snif, snif!
+
+229
+00:05:53,520 --> 00:05:54,655
+Oh! Quelle est donc
+
+230
+00:05:54,721 --> 00:05:55,822
+cette odeur intrigante?
+
+231
+00:05:55,889 --> 00:05:58,659
+- Snif, snif! C'est infâme!
+
+232
+00:05:58,725 --> 00:06:00,000
+- Bien, c'est mes ballotins!
+
+233
+00:06:00,000 --> 00:06:00,127
+- Bien, c'est mes ballotins!
+
+234
+00:06:00,194 --> 00:06:01,595
+Ils sont beaux, hein?
+
+235
+00:06:01,662 --> 00:06:02,996
+C'est moi qui les ai faits.
+
+236
+00:06:03,063 --> 00:06:04,331
+Ha, ha! Bon, je vais
+
+237
+00:06:04,398 --> 00:06:05,632
+les mettre à chauffer.
+
+238
+00:06:05,699 --> 00:06:07,134
+Où qu'elle est, votre gargote?
+
+239
+00:06:07,201 --> 00:06:08,135
+- Je vais les
+
+240
+00:06:08,202 --> 00:06:09,136
+réchauffer, Monsieur.
+
+241
+00:06:09,203 --> 00:06:10,537
+- Wô! T'embête pas, la
+
+242
+00:06:10,604 --> 00:06:11,872
+ch'tiotte! Montre-moi le chemin.
+
+243
+00:06:11,939 --> 00:06:13,240
+Je vais le faire moi-même.
+
+244
+00:06:13,307 --> 00:06:14,508
+- Assez de temps perdu
+
+245
+00:06:14,575 --> 00:06:15,776
+en cérémonies.
+
+246
+00:06:15,843 --> 00:06:18,245
+Le déjeuner doit être servi.
+
+247
+00:06:18,312 --> 00:06:19,246
+- Oooh!
+
+248
+00:06:19,313 --> 00:06:21,381
+- Ah? Ouf!
+
+249
+00:06:27,988 --> 00:06:29,156
+- Bien, dis donc! Il y en a,
+
+250
+00:06:29,223 --> 00:06:30,000
+du beau monde! On se croirait
+
+251
+00:06:30,000 --> 00:06:30,357
+du beau monde! On se croirait
+
+252
+00:06:30,424 --> 00:06:31,592
+à la broderie de Lille.
+
+253
+00:06:31,658 --> 00:06:32,893
+- Eh bien, v'là!
+
+254
+00:06:32,960 --> 00:06:34,161
+C'est dans le four!
+
+255
+00:06:34,228 --> 00:06:36,129
+Ha, ha, ha!
+
+256
+00:06:36,196 --> 00:06:37,130
+- Hum!
+
+257
+00:06:37,197 --> 00:06:38,999
+- Hi, hi! Euh!
+
+258
+00:06:39,066 --> 00:06:41,368
+- Ahem! Je crois que
+
+259
+00:06:41,435 --> 00:06:42,636
+cela ne me réjouit pas.
+
+260
+00:06:42,703 --> 00:06:43,937
+Mais merci d'avoir accepté
+
+261
+00:06:44,004 --> 00:06:45,205
+ce déjeuner, qui sera décisif
+
+262
+00:06:45,272 --> 00:06:48,242
+pour l'avenir de nos familles.
+
+263
+00:06:48,308 --> 00:06:49,243
+La question qui nous réunit
+
+264
+00:06:49,309 --> 00:06:50,244
+autour de cette table est--
+
+265
+00:06:50,310 --> 00:06:51,578
+- Pardon! J'ai oublié
+
+266
+00:06:51,645 --> 00:06:52,913
+quelque chose.
+
+267
+00:06:52,980 --> 00:06:54,615
+- Hum! Tu peux disposer.
+
+268
+00:06:54,681 --> 00:06:55,916
+- Merci. Ouf, ouf!
+
+269
+00:06:55,983 --> 00:06:58,485
+- Oh!
+
+270
+00:06:58,552 --> 00:06:59,953
+- Plagg! Plagg!
+
+271
+00:07:00,020 --> 00:07:00,954
+- Adrien!
+
+272
+00:07:01,021 --> 00:07:02,356
+- Aïe! Marinette?
+
+273
+00:07:02,422 --> 00:07:03,357
+- Ça doit être
+
+274
+00:07:03,423 --> 00:07:04,358
+difficile pour toi.
+
+275
+00:07:04,424 --> 00:07:06,093
+Mais tout va bien se passer.
+
+276
+00:07:06,159 --> 00:07:07,094
+- Oui, t'as raison.
+
+277
+00:07:07,160 --> 00:07:08,095
+Ça va bien se passer.
+
+278
+00:07:11,164 --> 00:07:12,299
+- Je disais donc.
+
+279
+00:07:12,366 --> 00:07:13,534
+La question qui nous réunit
+
+280
+00:07:13,600 --> 00:07:14,735
+aujourd'hui est la suivante :
+
+281
+00:07:14,801 --> 00:07:15,969
+qui aura la garde d'Adrien
+
+282
+00:07:16,036 --> 00:07:17,171
+maintenant qu'il est seul?
+
+283
+00:07:17,237 --> 00:07:18,772
+- Mais Adrien n'est pas seul!
+
+284
+00:07:18,839 --> 00:07:19,773
+- (ensemble) : Hum?
+
+285
+00:07:19,840 --> 00:07:20,774
+- Euh!
+
+286
+00:07:20,841 --> 00:07:22,476
+- Euh! Monsieur Adrien n'est
+
+287
+00:07:22,543 --> 00:07:24,211
+sans doute pas le seul à prendre
+
+288
+00:07:24,278 --> 00:07:25,913
+la mise en bouche, je suppose.
+
+289
+00:07:25,979 --> 00:07:27,281
+- Sauf votre respect, Lord
+
+290
+00:07:27,347 --> 00:07:28,515
+Graham, je vis avec Nathalie.
+
+291
+00:07:28,582 --> 00:07:29,716
+- C'est une employée,
+
+292
+00:07:29,783 --> 00:07:30,000
+pas une parente.
+
+293
+00:07:30,000 --> 00:07:30,884
+pas une parente.
+
+294
+00:07:30,951 --> 00:07:32,052
+Légalement, elle n'a
+
+295
+00:07:32,119 --> 00:07:33,253
+aucun droit de s'occuper
+
+296
+00:07:33,320 --> 00:07:34,421
+de toi, contrairement à nous,
+
+297
+00:07:34,488 --> 00:07:35,722
+les parents de ta mère.
+
+298
+00:07:35,789 --> 00:07:36,957
+- Mais très cher, Nathalie
+
+299
+00:07:37,024 --> 00:07:38,192
+côtoie Adrien depuis
+
+300
+00:07:38,258 --> 00:07:39,459
+si longtemps qu'elle fait
+
+301
+00:07:39,526 --> 00:07:40,694
+presque partie de la famille.
+
+302
+00:07:40,761 --> 00:07:41,929
+- Ne m'interrompez pas.
+
+303
+00:07:41,995 --> 00:07:43,096
+Gardez vos remarques
+
+304
+00:07:43,163 --> 00:07:44,231
+inutiles pour vous.
+
+305
+00:07:44,298 --> 00:07:46,900
+Comme en atteste notre blason,
+
+306
+00:07:46,967 --> 00:07:48,168
+les Graham de Vanily se sont
+
+307
+00:07:48,235 --> 00:07:49,469
+toujours trouvés à cheval
+
+308
+00:07:49,536 --> 00:07:50,737
+entre le royaume d'Angleterre
+
+309
+00:07:50,804 --> 00:07:51,905
+et le regretté
+
+310
+00:07:51,972 --> 00:07:53,106
+royaume de France.
+
+311
+00:07:53,173 --> 00:07:54,274
+- Oh! C'est rigolo, ça!
+
+312
+00:07:54,341 --> 00:07:55,442
+Le chien-chien, il passe
+
+313
+00:07:55,509 --> 00:07:57,044
+le balai, là. Et le petit poème
+
+314
+00:07:57,110 --> 00:07:58,645
+autour, qu'est-ce qu'il raconte?
+
+315
+00:07:58,712 --> 00:07:59,713
+- C'est un loup!
+
+316
+00:07:59,780 --> 00:08:00,000
+Et ce poème est
+
+317
+00:08:00,000 --> 00:08:00,747
+Et ce poème est
+
+318
+00:08:00,814 --> 00:08:01,748
+notre devise familiale.
+
+319
+00:08:01,815 --> 00:08:02,783
+Mais peu importe.
+
+320
+00:08:02,850 --> 00:08:04,251
+Cette double nationalité est
+
+321
+00:08:04,318 --> 00:08:05,686
+symbolisée par la double
+
+322
+00:08:05,752 --> 00:08:07,154
+alliance transmise de génération
+
+323
+00:08:07,221 --> 00:08:08,589
+en génération au premier né.
+
+324
+00:08:08,655 --> 00:08:10,057
+Snif, snif, snif! N'est-il pas
+
+325
+00:08:10,123 --> 00:08:11,525
+quelque chose qui brûle?
+
+326
+00:08:11,592 --> 00:08:13,160
+- Oh! Pas mes ballotins!
+
+327
+00:08:13,227 --> 00:08:14,595
+- Ça, c'est mon Johnny, hein!
+
+328
+00:08:14,661 --> 00:08:16,597
+Toujours à allumer le feu.
+
+329
+00:08:16,663 --> 00:08:17,965
+- Hi, hi, hi! Monsieur Adrien,
+
+330
+00:08:18,031 --> 00:08:19,333
+vous voulez bien venir vérifier
+
+331
+00:08:19,399 --> 00:08:20,667
+ce qu'il se passe en cuisine?
+
+332
+00:08:20,734 --> 00:08:22,035
+Euh! Cordialement.
+
+333
+00:08:22,102 --> 00:08:23,604
+Nathalie! Adrien ne va
+
+334
+00:08:23,670 --> 00:08:25,172
+quand même pas partir
+
+335
+00:08:25,239 --> 00:08:26,740
+vivre là-bas avec ce lord!
+
+336
+00:08:26,807 --> 00:08:27,875
+- Marinette, ce lord, comme
+
+337
+00:08:27,941 --> 00:08:29,042
+tu dis, est son grand-père,
+
+338
+00:08:29,109 --> 00:08:30,000
+et je n'ai pas le droit--
+
+339
+00:08:30,000 --> 00:08:30,177
+et je n'ai pas le droit--
+
+340
+00:08:30,244 --> 00:08:31,178
+- Il y a forcément
+
+341
+00:08:31,245 --> 00:08:33,981
+quelque chose à faire!
+
+342
+00:08:34,982 --> 00:08:36,416
+Qu'est-ce que tu en penses, toi?
+
+343
+00:08:36,483 --> 00:08:37,651
+- Je ne veux pas quitter Paris,
+
+344
+00:08:37,718 --> 00:08:38,919
+Marinette. Ni vous quitter,
+
+345
+00:08:38,986 --> 00:08:40,153
+toi et Nathalie. Mais...
+
+346
+00:08:40,220 --> 00:08:42,556
+Mais c'est ma famille.
+
+347
+00:08:44,024 --> 00:08:45,125
+- Du charbon.
+
+348
+00:08:45,192 --> 00:08:46,159
+Une spécialité du nord,
+
+349
+00:08:46,226 --> 00:08:47,227
+n'est-ce pas? Et donc,
+
+350
+00:08:47,294 --> 00:08:48,262
+vous en mangez?
+
+351
+00:08:48,328 --> 00:08:49,263
+- Ah, c'est pas du charbon,
+
+352
+00:08:49,329 --> 00:08:50,330
+c'est mes ballotins!
+
+353
+00:08:50,397 --> 00:08:51,732
+- Oh!
+
+354
+00:08:51,798 --> 00:08:53,500
+- (ensemble) : Ah!
+
+355
+00:08:53,567 --> 00:08:55,569
+- Oups! Oh!
+
+356
+00:08:56,803 --> 00:08:57,938
+- T'inquiète pas.
+
+357
+00:08:58,005 --> 00:08:59,139
+Je m'en occupe.
+
+358
+00:08:59,206 --> 00:09:00,000
+- Marinette, non!
+
+359
+00:09:00,000 --> 00:09:00,340
+- Marinette, non!
+
+360
+00:09:00,407 --> 00:09:01,642
+- Ouf, ouf!
+
+361
+00:09:01,708 --> 00:09:02,843
+- Oh, Milly! Ne me dites pas
+
+362
+00:09:02,910 --> 00:09:04,077
+que vous allez goûter
+
+363
+00:09:04,144 --> 00:09:05,279
+ces horreurs!
+
+364
+00:09:05,345 --> 00:09:07,080
+- Il me semble qu'il reste une
+
+365
+00:09:07,147 --> 00:09:08,849
+partie comestible à l'intérieur.
+
+366
+00:09:08,916 --> 00:09:09,850
+- Empoisonnez-vous,
+
+367
+00:09:09,917 --> 00:09:10,851
+si cela vous chante.
+
+368
+00:09:10,918 --> 00:09:11,852
+Du moment que
+
+369
+00:09:11,919 --> 00:09:12,853
+je ne vous entends plus.
+
+370
+00:09:12,920 --> 00:09:14,054
+Revenons à ce qui nous occupe.
+
+371
+00:09:14,121 --> 00:09:15,055
+Adrien.
+
+372
+00:09:15,122 --> 00:09:16,056
+- Gloup!
+
+373
+00:09:16,123 --> 00:09:17,157
+- Donne-moi la double
+
+374
+00:09:17,224 --> 00:09:18,258
+alliance des Graham.
+
+375
+00:09:18,325 --> 00:09:20,561
+- Hein? Oh!
+
+376
+00:09:25,899 --> 00:09:26,834
+- Oh my!
+
+377
+00:09:26,900 --> 00:09:28,101
+C'est incroyable!
+
+378
+00:09:28,168 --> 00:09:29,102
+- Je n'en reviens pas!
+
+379
+00:09:29,169 --> 00:09:30,000
+Silence, à la fin!
+
+380
+00:09:30,000 --> 00:09:30,103
+Silence, à la fin!
+
+381
+00:09:30,170 --> 00:09:31,471
+- Quelle est cette garniture?
+
+382
+00:09:31,538 --> 00:09:32,472
+- Du Maroilles.
+
+383
+00:09:32,539 --> 00:09:33,473
+- C'est du fromage.
+
+384
+00:09:33,540 --> 00:09:34,541
+- Oh!
+
+385
+00:09:34,608 --> 00:09:35,843
+- Bien, quoi? Vous êtes
+
+386
+00:09:35,909 --> 00:09:37,177
+allergique? Gabrielle, démarre
+
+387
+00:09:37,244 --> 00:09:38,445
+la bécane, on l'amène à l'hosto!
+
+388
+00:09:38,512 --> 00:09:39,847
+- Non, non! N'ayez crainte.
+
+389
+00:09:39,913 --> 00:09:41,248
+Je les trouve
+
+390
+00:09:41,315 --> 00:09:42,649
+absolument délicieux.
+
+391
+00:09:42,716 --> 00:09:44,017
+- Milly, ayez la gentillesse
+
+392
+00:09:44,084 --> 00:09:45,385
+de souffrir en silence,
+
+393
+00:09:45,452 --> 00:09:46,720
+comme vous le faites si bien.
+
+394
+00:09:46,787 --> 00:09:48,088
+Comme je le disais donc,
+
+395
+00:09:48,155 --> 00:09:49,089
+il est temps pour Adrien
+
+396
+00:09:49,156 --> 00:09:50,090
+et la double alliance
+
+397
+00:09:50,157 --> 00:09:51,325
+de revenir... Oh!
+
+398
+00:09:51,391 --> 00:09:52,559
+(Bip!)
+
+399
+00:09:52,626 --> 00:09:53,560
+- Oh!
+
+400
+00:09:53,627 --> 00:09:54,795
+- Chez nous! Adrien,
+
+401
+00:09:54,862 --> 00:09:55,963
+où est la double alliance?
+
+402
+00:09:56,029 --> 00:09:57,030
+- Je... Je vous l'ai donnée,
+
+403
+00:09:57,097 --> 00:09:58,031
+Lord Graham.
+
+404
+00:09:58,098 --> 00:10:00,000
+- Hum? Hum?
+
+405
+00:10:00,000 --> 00:10:00,100
+- Hum? Hum?
+
+406
+00:10:01,201 --> 00:10:02,402
+Vous!
+
+407
+00:10:02,469 --> 00:10:03,737
+- Quoi, "vous"?
+
+408
+00:10:03,804 --> 00:10:04,738
+- Vous ne mangez pas
+
+409
+00:10:04,805 --> 00:10:05,739
+vos ballotins?
+
+410
+00:10:05,806 --> 00:10:06,740
+- Rendez-moi l'alliance!
+
+411
+00:10:06,807 --> 00:10:07,741
+- Bien, voyons! Il me traite
+
+412
+00:10:07,808 --> 00:10:08,742
+de voleur, maintenant?
+
+413
+00:10:08,809 --> 00:10:10,811
+- Euh! Attendez! Ce n'est pas
+
+414
+00:10:10,878 --> 00:10:11,912
+la peine de s'emballer.
+
+415
+00:10:11,979 --> 00:10:13,013
+Elle doit être quelque part.
+
+416
+00:10:13,080 --> 00:10:14,014
+- Oh!
+
+417
+00:10:14,081 --> 00:10:15,015
+- Aroum!
+
+418
+00:10:15,082 --> 00:10:16,016
+- Hum?
+
+419
+00:10:16,083 --> 00:10:17,251
+- Je... Je vais la chercher
+
+420
+00:10:17,317 --> 00:10:18,485
+moi aussi, cette alliance.
+
+421
+00:10:18,552 --> 00:10:19,887
+Elle est pas là.
+
+422
+00:10:19,953 --> 00:10:21,221
+Elle est pas là non plus.
+
+423
+00:10:21,288 --> 00:10:22,556
+- Personne ne sortira d'ici tant
+
+424
+00:10:22,623 --> 00:10:23,857
+qu'on ne l'aura pas retrouvée.
+
+425
+00:10:23,924 --> 00:10:25,292
+Mais en attendant,
+
+426
+00:10:25,359 --> 00:10:26,727
+vous allez signer ce contrat
+
+427
+00:10:26,793 --> 00:10:28,128
+qui me donnera la garde
+
+428
+00:10:28,195 --> 00:10:29,563
+exclusive d'Adrien et m'assurera
+
+429
+00:10:29,630 --> 00:10:30,000
+que vous ne le reverrez jamais.
+
+430
+00:10:30,000 --> 00:10:30,998
+que vous ne le reverrez jamais.
+
+431
+00:10:31,064 --> 00:10:31,999
+- (Gabrielle) : Mais c'est
+
+432
+00:10:32,065 --> 00:10:33,667
+monstrueux! Pourquoi vous voulez
+
+433
+00:10:33,734 --> 00:10:35,335
+nous empêcher de voir...
+
+434
+00:10:35,402 --> 00:10:37,004
+qu'on vient juste de rencontrer?
+
+435
+00:10:37,070 --> 00:10:38,138
+- Écoute-moi bien, Milord.
+
+436
+00:10:38,205 --> 00:10:39,306
+Si Adrien doit aller avec
+
+437
+00:10:39,373 --> 00:10:40,440
+quelqu'un, eh bien,
+
+438
+00:10:40,507 --> 00:10:41,575
+ce quelqu'un sera nous.
+
+439
+00:10:41,642 --> 00:10:42,743
+Et pas avec un méchant
+
+440
+00:10:42,809 --> 00:10:43,877
+monsieur comme ta pomme.
+
+441
+00:10:43,944 --> 00:10:45,212
+- Emil, mon cher.
+
+442
+00:10:45,279 --> 00:10:46,580
+Pourquoi devrions-nous
+
+443
+00:10:46,647 --> 00:10:47,915
+nous soucier de cette bague
+
+444
+00:10:47,981 --> 00:10:49,249
+et toutes ces coutumes?
+
+445
+00:10:49,316 --> 00:10:50,984
+- Milly, je vous en conjure,
+
+446
+00:10:51,051 --> 00:10:52,719
+restez à votre place!
+
+447
+00:10:52,786 --> 00:10:54,021
+- Slurp! Pourquoi faut-il
+
+448
+00:10:54,087 --> 00:10:56,089
+que vous criiez tout le temps?
+
+449
+00:10:57,191 --> 00:10:59,393
+- Oups!
+
+450
+00:10:59,459 --> 00:11:00,000
+Désolée! Que je suis maladroite!
+
+451
+00:11:00,000 --> 00:11:01,228
+Désolée! Que je suis maladroite!
+
+452
+00:11:01,295 --> 00:11:02,362
+- J'ai compris.
+
+453
+00:11:02,429 --> 00:11:03,497
+Combien voulez-vous?
+
+454
+00:11:03,564 --> 00:11:04,932
+- Tu peux garder ton argent.
+
+455
+00:11:04,998 --> 00:11:06,300
+On n'en a pas voulu il y a
+
+456
+00:11:06,366 --> 00:11:07,634
+16 ans, on n'en veut pas non
+
+457
+00:11:07,701 --> 00:11:09,002
+plus aujourd'hui. C'est clair?
+
+458
+00:11:09,069 --> 00:11:10,804
+- Arrêtez cette comédie.
+
+459
+00:11:10,871 --> 00:11:11,872
+Tout ça pour faire monter
+
+460
+00:11:11,939 --> 00:11:12,940
+les enchères! Donnez-moi
+
+461
+00:11:13,006 --> 00:11:14,942
+votre prix et qu'on en finisse.
+
+462
+00:11:15,008 --> 00:11:16,076
+- Joue pas la comédie,
+
+463
+00:11:16,143 --> 00:11:17,211
+c'est toi qui joues! Tu crois
+
+464
+00:11:17,277 --> 00:11:18,212
+que je te vois pas venir
+
+465
+00:11:18,278 --> 00:11:19,213
+depuis tout à l'heure?
+
+466
+00:11:19,279 --> 00:11:20,214
+Allez, dis vraiment pourquoi
+
+467
+00:11:20,280 --> 00:11:21,215
+tu tiens tant à nous la faire
+
+468
+00:11:21,281 --> 00:11:22,216
+signer, ta feuille.
+
+469
+00:11:22,282 --> 00:11:24,351
+- Argh! Slurp! Wouf, wouf!
+
+470
+00:11:24,418 --> 00:11:25,385
+C'est toujours à qui aboiera
+
+471
+00:11:25,452 --> 00:11:26,420
+le plus fort!
+
+472
+00:11:26,486 --> 00:11:27,521
+- Rendez-vous compte de la honte
+
+473
+00:11:27,588 --> 00:11:28,622
+que ce serait si les gens
+
+474
+00:11:28,689 --> 00:11:29,690
+savaient que les autres
+
+475
+00:11:29,756 --> 00:11:30,000
+grands-parents d'Adrien
+
+476
+00:11:30,000 --> 00:11:30,791
+grands-parents d'Adrien
+
+477
+00:11:30,858 --> 00:11:31,892
+étaient... étaient...
+
+478
+00:11:31,959 --> 00:11:32,893
+- Étaient quoi?
+
+479
+00:11:32,960 --> 00:11:33,894
+Crache tes pastilles!
+
+480
+00:11:33,961 --> 00:11:34,928
+- Les tenanciers
+
+481
+00:11:34,995 --> 00:11:35,929
+d'un établissement de friture!
+
+482
+00:11:35,996 --> 00:11:37,130
+- Et alors, c'est quoi
+
+483
+00:11:37,197 --> 00:11:38,332
+le problème? Chez les Grassette,
+
+484
+00:11:38,398 --> 00:11:39,566
+on est dans la frite depuis plus
+
+485
+00:11:39,633 --> 00:11:40,767
+de générations que les Graham
+
+486
+00:11:40,834 --> 00:11:41,969
+ont un balai dans le blason!
+
+487
+00:11:42,035 --> 00:11:43,070
+Mes ancêtres ont servi
+
+488
+00:11:43,136 --> 00:11:44,171
+des cornets et sauce piggy
+
+489
+00:11:44,238 --> 00:11:45,272
+à Parmentier lui-même!
+
+490
+00:11:45,339 --> 00:11:46,607
+- Wouf, wouf! Qui se soucie
+
+491
+00:11:46,673 --> 00:11:47,941
+de ces vieilles histoires?
+
+492
+00:11:48,008 --> 00:11:48,976
+- Argh! Et vous, cessez
+
+493
+00:11:49,042 --> 00:11:49,977
+de briser les ballotins de
+
+494
+00:11:50,043 --> 00:11:51,612
+tout le monde! C'est agressant!
+
+495
+00:11:51,678 --> 00:11:52,813
+- Emil, cessez
+
+496
+00:11:52,880 --> 00:11:53,981
+de m'aboyer dessus!
+
+497
+00:11:54,047 --> 00:11:55,916
+- Ah!
+
+498
+00:11:55,983 --> 00:11:56,917
+- Ah! J'ai gagné la fève!
+
+499
+00:11:56,984 --> 00:11:57,918
+- Donnez-la-moi!
+
+500
+00:11:57,985 --> 00:11:58,919
+- Elle est au ch'tiot,
+
+501
+00:11:58,986 --> 00:11:59,920
+pas à toi!
+
+502
+00:11:59,987 --> 00:12:00,000
+- Bas les pattes!
+
+503
+00:12:00,000 --> 00:12:01,088
+- Bas les pattes!
+
+504
+00:12:01,154 --> 00:12:02,322
+- Ah! Hum!
+
+505
+00:12:02,389 --> 00:12:03,323
+- Argh!
+
+506
+00:12:03,390 --> 00:12:04,324
+- (ensemble) : Grrr!
+
+507
+00:12:04,391 --> 00:12:07,461
+- Ho, ho, ho! Ha, ha, ha!
+
+508
+00:12:07,528 --> 00:12:08,462
+- Ah! Ah! Oh!
+
+509
+00:12:08,529 --> 00:12:10,531
+- Ha, ha! Hi, hi! À moi!
+
+510
+00:12:10,864 --> 00:12:11,865
+Oh! Ha, ha, ha!
+
+511
+00:12:11,932 --> 00:12:12,933
+- Milly, revenez ici
+
+512
+00:12:13,000 --> 00:12:14,001
+tout de suite!
+
+513
+00:12:14,067 --> 00:12:15,802
+Milly! Milly!
+
+514
+00:12:15,869 --> 00:12:17,304
+- Plagg, essaie de te contrôler.
+
+515
+00:12:17,371 --> 00:12:18,772
+- Pas possible! Le Maroilles,
+
+516
+00:12:18,839 --> 00:12:20,274
+c'est trop délicieux.
+
+517
+00:12:20,340 --> 00:12:21,542
+- Milly, cessez de faire
+
+518
+00:12:21,608 --> 00:12:22,809
+votre intéressante et sortez!
+
+519
+00:12:22,876 --> 00:12:24,178
+- Non! Stop! J'en ai assez
+
+520
+00:12:24,244 --> 00:12:25,546
+de vos injonctions
+
+521
+00:12:25,612 --> 00:12:26,914
+aristo-patriarcales
+
+522
+00:12:26,980 --> 00:12:28,282
+à deux pence.
+
+523
+00:12:28,348 --> 00:12:29,550
+L'alliance est mienne
+
+524
+00:12:29,616 --> 00:12:30,000
+et je suis la reine.
+
+525
+00:12:30,000 --> 00:12:30,851
+et je suis la reine.
+
+526
+00:12:30,918 --> 00:12:32,686
+Personne ne me donne d'ordres.
+
+527
+00:12:32,753 --> 00:12:33,687
+- La clé! Vous avez la clé?
+
+528
+00:12:33,754 --> 00:12:35,689
+- Allez-y.
+
+529
+00:12:35,756 --> 00:12:37,457
+- Bonjour, Madame.
+
+530
+00:12:37,524 --> 00:12:39,193
+Pardonnez mon intrusion.
+
+531
+00:12:39,259 --> 00:12:40,194
+Vous en avez assez des gens
+
+532
+00:12:40,260 --> 00:12:41,195
+qui crient, se battent
+
+533
+00:12:41,261 --> 00:12:42,196
+et décident à la place
+
+534
+00:12:42,262 --> 00:12:43,730
+des autres, n'est-ce pas?
+
+535
+00:12:43,797 --> 00:12:44,765
+J'ai une idée qui devrait vous
+
+536
+00:12:44,831 --> 00:12:45,766
+plaire : que ce soit vous
+
+537
+00:12:45,832 --> 00:12:46,800
+qui décidiez enfin.
+
+538
+00:12:46,867 --> 00:12:47,801
+- Grrr!
+
+539
+00:12:47,868 --> 00:12:49,203
+- Je peux vous donner
+
+540
+00:12:49,269 --> 00:12:50,571
+ce pouvoir. Si vous y
+
+541
+00:12:50,637 --> 00:12:52,739
+consentez, bien sûr.
+
+542
+00:12:55,642 --> 00:12:57,411
+- Ah!
+
+543
+00:12:57,477 --> 00:12:59,379
+- Oh! Oh! Milly?
+
+544
+00:12:59,446 --> 00:13:00,000
+- Non! Je suis Ringmaster,
+
+545
+00:13:00,000 --> 00:13:01,348
+- Non! Je suis Ringmaster,
+
+546
+00:13:01,415 --> 00:13:03,317
+la seigneuresse des anneaux!
+
+547
+00:13:03,383 --> 00:13:06,053
+Alors, vous vouliez vous battre?
+
+548
+00:13:06,119 --> 00:13:07,421
+Eh bien, battez-vous
+
+549
+00:13:07,487 --> 00:13:08,755
+comme des loups!
+
+550
+00:13:08,822 --> 00:13:11,158
+Ah! Ya!
+
+551
+00:13:11,225 --> 00:13:14,394
+- Argh! Ouf, ouf! Oh!
+
+552
+00:13:14,461 --> 00:13:15,562
+- Mais que se passe-t-il?
+
+553
+00:13:15,629 --> 00:13:17,064
+- Adrien, ne reste pas là!
+
+554
+00:13:17,130 --> 00:13:18,332
+- Non, au contraire. Reste.
+
+555
+00:13:18,398 --> 00:13:19,633
+Après tout, c'est pour toi
+
+556
+00:13:19,700 --> 00:13:20,901
+qu'ils se battent.
+
+557
+00:13:20,968 --> 00:13:22,970
+- Ah!
+
+558
+00:13:24,338 --> 00:13:25,272
+- Oh!
+
+559
+00:13:25,339 --> 00:13:27,708
+- Marinette! Mets-toi à l'abri!
+
+560
+00:13:27,774 --> 00:13:29,776
+- (ensemble) : Oh!
+
+561
+00:13:31,645 --> 00:13:33,747
+- Ouf, ouf, argh! Ah!
+
+562
+00:13:38,285 --> 00:13:39,286
+- Nathalie, occupez-vous
+
+563
+00:13:39,353 --> 00:13:40,354
+de Gabrielle. Je vais
+
+564
+00:13:40,420 --> 00:13:42,489
+chercher de l'aide.
+
+565
+00:13:43,991 --> 00:13:44,925
+- C'est toujours
+
+566
+00:13:44,992 --> 00:13:45,926
+aussi compliqué,
+
+567
+00:13:45,993 --> 00:13:46,927
+les grands-parents, Marinette?
+
+568
+00:13:46,994 --> 00:13:47,928
+- Ça peut arriver, mais on va
+
+569
+00:13:47,995 --> 00:13:49,363
+arranger ça.
+
+570
+00:13:49,429 --> 00:13:51,498
+Tikki, transforme-moi!
+
+571
+00:13:51,565 --> 00:13:53,867
+Ha!
+
+572
+00:14:17,357 --> 00:14:18,825
+- Bienvenue au combat du siècle!
+
+573
+00:14:18,892 --> 00:14:20,360
+Dans ce coin du ring,
+
+574
+00:14:20,427 --> 00:14:22,062
+Johnny la Frite Grassette,
+
+575
+00:14:22,129 --> 00:14:23,730
+la merveille des garous!
+
+576
+00:14:23,797 --> 00:14:25,065
+Dans l'autre coin du ring,
+
+577
+00:14:25,132 --> 00:14:26,366
+Emil le duc Graham,
+
+578
+00:14:26,433 --> 00:14:27,701
+la terreur d'Albion!
+
+579
+00:14:27,768 --> 00:14:29,169
+Que le meilleur papy garou
+
+580
+00:14:29,236 --> 00:14:30,000
+emporte Adrien avec lui!
+
+581
+00:14:30,000 --> 00:14:30,637
+emporte Adrien avec lui!
+
+582
+00:14:30,704 --> 00:14:31,638
+(Ding!)
+
+583
+00:14:31,705 --> 00:14:32,639
+Battez-vous!
+
+584
+00:14:32,706 --> 00:14:33,640
+- Oooh!
+
+585
+00:14:33,707 --> 00:14:34,641
+- Aaah!
+
+586
+00:14:34,708 --> 00:14:35,642
+- Je ne souhaite pas me battre!
+
+587
+00:14:35,709 --> 00:14:36,910
+- Moi non plus. Mais t'as une
+
+588
+00:14:36,977 --> 00:14:38,178
+drôle de façon de le montrer.
+
+589
+00:14:38,245 --> 00:14:39,279
+- C'est contre ma volonté!
+
+590
+00:14:39,346 --> 00:14:40,347
+Je n'ai pas le contrôle
+
+591
+00:14:40,414 --> 00:14:41,448
+de mon corps!
+
+592
+00:14:41,515 --> 00:14:42,516
+- Pareil pour moi!
+
+593
+00:14:42,583 --> 00:14:43,550
+- Adrien va savoir
+
+594
+00:14:43,617 --> 00:14:44,618
+qui est le plus fort de
+
+595
+00:14:44,685 --> 00:14:45,652
+ses papys, puisque c'est tout
+
+596
+00:14:45,719 --> 00:14:46,687
+ce qui compte, apparemment!
+
+597
+00:14:46,753 --> 00:14:47,788
+À moins que vous ne vous
+
+598
+00:14:47,855 --> 00:14:48,889
+détruisiez l'un, l'autre.
+
+599
+00:14:48,956 --> 00:14:50,190
+Ça lui permettrait de vivre
+
+600
+00:14:50,257 --> 00:14:51,458
+sa propre vie.
+
+601
+00:14:51,525 --> 00:14:52,492
+- Transforme-toi
+
+602
+00:14:52,559 --> 00:14:53,493
+et utilise ton pouvoir
+
+603
+00:14:53,560 --> 00:14:54,528
+pour cataclysmer tout ça.
+
+604
+00:14:54,595 --> 00:14:55,529
+- Tout le monde saurait
+
+605
+00:14:55,596 --> 00:14:56,563
+que je suis Chat Noir.
+
+606
+00:14:56,630 --> 00:14:57,564
+- Alors, détends-toi
+
+607
+00:14:57,631 --> 00:14:58,565
+et profites-en pour
+
+608
+00:14:58,632 --> 00:14:59,566
+déguster un ballotin
+
+609
+00:14:59,633 --> 00:15:00,000
+en ma compagnie. Aroum!
+
+610
+00:15:00,000 --> 00:15:02,102
+en ma compagnie. Aroum!
+
+611
+00:15:02,169 --> 00:15:04,004
+- Vous aviez l'air
+
+612
+00:15:04,071 --> 00:15:06,073
+plus combatifs tout à l'heure.
+
+613
+00:15:08,408 --> 00:15:09,476
+- Ah! Euh, désolé!
+
+614
+00:15:09,543 --> 00:15:10,577
+J'ai pas fait exprès!
+
+615
+00:15:10,644 --> 00:15:12,646
+- Oooh!
+
+616
+00:15:15,516 --> 00:15:17,484
+Mes excuses!
+
+617
+00:15:18,785 --> 00:15:20,020
+- Ne vous inquiétez pas.
+
+618
+00:15:20,087 --> 00:15:21,255
+Tout va rentrer dans l'ordre.
+
+619
+00:15:21,321 --> 00:15:22,289
+- Ah! Ladybug!
+
+620
+00:15:22,356 --> 00:15:23,323
+- (ensemble) : Pitié,
+
+621
+00:15:23,390 --> 00:15:24,358
+sauvez-nous!
+
+622
+00:15:24,424 --> 00:15:25,759
+- Oh! Je ne crois pas, non.
+
+623
+00:15:25,826 --> 00:15:27,995
+Pas d'intrus sur le ring.
+
+624
+00:15:34,168 --> 00:15:35,169
+Ha, ha!
+
+625
+00:15:35,235 --> 00:15:36,170
+- Ah!
+
+626
+00:15:36,236 --> 00:15:37,171
+- Ma lady va nous sortir
+
+627
+00:15:37,237 --> 00:15:38,172
+de là, Plagg.
+
+628
+00:15:38,238 --> 00:15:39,173
+- Oui, évidemment.
+
+629
+00:15:39,239 --> 00:15:40,174
+Comme elle fait toujours.
+
+630
+00:15:40,240 --> 00:15:41,175
+- Oh! Il faut absolument
+
+631
+00:15:41,241 --> 00:15:42,176
+que je lui explique
+
+632
+00:15:42,242 --> 00:15:43,177
+pourquoi Chat Noir n'arrive pas.
+
+633
+00:15:43,243 --> 00:15:44,845
+Plagg, transforme-moi!
+
+634
+00:15:44,912 --> 00:15:45,846
+Ma lady, j'ai vu une plateforme
+
+635
+00:15:45,913 --> 00:15:46,847
+bizarre apparaître dans
+
+636
+00:15:46,914 --> 00:15:47,848
+le ciel. J'arrive, mais...
+
+637
+00:15:47,915 --> 00:15:49,116
+- Ha! La violence ne règle
+
+638
+00:15:49,183 --> 00:15:50,417
+jamais les problèmes. Pourquoi
+
+639
+00:15:50,484 --> 00:15:51,685
+ne pas me donner l'objet
+
+640
+00:15:51,752 --> 00:15:52,986
+akumatisé et en parler
+
+641
+00:15:53,053 --> 00:15:54,254
+calmement tous ensemble?
+
+642
+00:15:54,321 --> 00:15:55,389
+- Vous voulez que nous en
+
+643
+00:15:55,455 --> 00:15:56,523
+parlions tous ensemble?
+
+644
+00:15:56,590 --> 00:15:58,158
+Vous croyez vraiment que
+
+645
+00:15:58,225 --> 00:15:59,760
+ces deux-là seraient intéressés?
+
+646
+00:15:59,826 --> 00:16:00,000
+Tout ce qu'ils savent,
+
+647
+00:16:00,000 --> 00:16:00,928
+Tout ce qu'ils savent,
+
+648
+00:16:00,994 --> 00:16:02,129
+c'est se battre et avoir raison!
+
+649
+00:16:02,196 --> 00:16:03,297
+Ce sont les mêmes.
+
+650
+00:16:03,363 --> 00:16:04,731
+- Eh, faut pas me mettre dans
+
+651
+00:16:04,798 --> 00:16:06,166
+le même panier que l'autre!
+
+652
+00:16:06,233 --> 00:16:07,668
+- Désolé! Ce n'est pas ma faute
+
+653
+00:16:07,734 --> 00:16:09,203
+si ma femme a perdu la tête à
+
+654
+00:16:09,269 --> 00:16:10,704
+cause de votre nourriture!
+
+655
+00:16:10,771 --> 00:16:12,039
+- C'est bien la preuve
+
+656
+00:16:12,105 --> 00:16:13,340
+de ce que j'avance, Ladybug.
+
+657
+00:16:13,407 --> 00:16:15,442
+(Bip, bip, bip!)
+
+658
+00:16:15,509 --> 00:16:16,743
+- Blablabla, "J'arrive,
+
+659
+00:16:16,810 --> 00:16:18,045
+mais j'aurai du retard."
+
+660
+00:16:18,111 --> 00:16:20,280
+Argh! Chat Noir!
+
+661
+00:16:22,516 --> 00:16:23,617
+- Ladybug ne se rend même pas
+
+662
+00:16:23,684 --> 00:16:24,751
+compte que ce sont eux
+
+663
+00:16:24,818 --> 00:16:26,086
+les vilains. Débarrassez-vous
+
+664
+00:16:26,153 --> 00:16:27,421
+d'elle et prenez-lui
+
+665
+00:16:27,487 --> 00:16:28,755
+son Miraculous.
+
+666
+00:16:28,822 --> 00:16:30,000
+- Battez Ladybug!
+
+667
+00:16:30,000 --> 00:16:30,424
+- Battez Ladybug!
+
+668
+00:16:30,490 --> 00:16:32,659
+- Ouf, ouf! Ah! Argh!
+
+669
+00:16:32,726 --> 00:16:33,660
+- Lucky Charm!
+
+670
+00:16:33,727 --> 00:16:34,661
+- Désolé, Ladybug!
+
+671
+00:16:34,728 --> 00:16:35,662
+- Toutes mes excuses,
+
+672
+00:16:35,729 --> 00:16:36,663
+Madame la superhéroïne!
+
+673
+00:16:36,730 --> 00:16:38,031
+- (Ringmaster): Vous vous amusez
+
+674
+00:16:38,098 --> 00:16:39,399
+bien avec vos amis, Ladybug?
+
+675
+00:16:39,466 --> 00:16:40,734
+- Renoncez au pouvoir qui vous a
+
+676
+00:16:40,801 --> 00:16:42,102
+été donné, je vous en prie!
+
+677
+00:16:42,169 --> 00:16:45,339
+- Jamais!
+
+678
+00:16:45,405 --> 00:16:46,340
+- Ouf, ouf!
+
+679
+00:16:46,406 --> 00:16:47,474
+- Aaah!
+
+680
+00:16:47,541 --> 00:16:49,009
+Vous l'aurez voulu.
+
+681
+00:16:49,076 --> 00:16:50,844
+Ouf, ouf! Ah!
+
+682
+00:16:50,911 --> 00:16:51,845
+- (ensemble) : Oh!
+
+683
+00:16:51,912 --> 00:16:52,846
+- Tu te trompes
+
+684
+00:16:52,913 --> 00:16:54,848
+de cible, Ladybug!
+
+685
+00:16:54,915 --> 00:16:56,984
+- Hop! Ouf!
+
+686
+00:17:01,154 --> 00:17:02,089
+- Oh!
+
+687
+00:17:02,155 --> 00:17:03,090
+- Vous savez ce qu'il y a
+
+688
+00:17:03,156 --> 00:17:04,091
+de plus solide au monde?
+
+689
+00:17:04,157 --> 00:17:05,092
+Les liens familiaux!
+
+690
+00:17:05,158 --> 00:17:06,460
+- (ensemble) : Aaah!
+
+691
+00:17:06,527 --> 00:17:07,561
+- Argh! Ah!
+
+692
+00:17:07,628 --> 00:17:10,397
+Non! Arrêtez, bande d'imbéciles!
+
+693
+00:17:10,464 --> 00:17:12,699
+Ouf, ouf! Ya!
+
+694
+00:17:12,766 --> 00:17:14,067
+- Faites-vous un petit câlin
+
+695
+00:17:14,134 --> 00:17:16,470
+pour vous réconcilier.
+
+696
+00:17:17,471 --> 00:17:20,107
+- (ensemble) : Aaah!
+
+697
+00:17:26,446 --> 00:17:27,814
+- Argh!
+
+698
+00:17:27,881 --> 00:17:30,000
+(Crac!)
+
+699
+00:17:30,000 --> 00:17:31,518
+(Crac!)
+
+700
+00:17:31,585 --> 00:17:32,686
+Tu as fait assez de mal
+
+701
+00:17:32,753 --> 00:17:35,155
+comme ça, ultrakuma.
+
+702
+00:17:37,991 --> 00:17:40,561
+Je te libère du mal!
+
+703
+00:17:40,627 --> 00:17:43,130
+(Pouf! Clic!)
+
+704
+00:17:43,197 --> 00:17:45,432
+Je t'ai eu.
+
+705
+00:17:45,499 --> 00:17:47,568
+Bye-bye, petit papillon.
+
+706
+00:17:47,634 --> 00:17:49,636
+Miraculous Ladybug!
+
+707
+00:17:53,740 --> 00:17:54,675
+- Oh!
+
+708
+00:17:54,741 --> 00:17:57,077
+- Ouf!
+
+709
+00:17:59,446 --> 00:18:00,000
+- Ouf, ouf, ouf!
+
+710
+00:18:00,000 --> 00:18:00,881
+- Ouf, ouf, ouf!
+
+711
+00:18:00,948 --> 00:18:02,516
+- Oh! Je crois que j'ai un peu
+
+712
+00:18:02,583 --> 00:18:04,585
+abusé des ballotins! Ha, ha, ha!
+
+713
+00:18:08,755 --> 00:18:10,023
+- J'espère que ce Magical
+
+714
+00:18:10,090 --> 00:18:11,391
+Charm vous aidera à prendre
+
+715
+00:18:11,458 --> 00:18:14,161
+la bonne décision.
+
+716
+00:18:14,228 --> 00:18:15,462
+Je dois vous laisser.
+
+717
+00:18:15,529 --> 00:18:17,531
+Point final. Hum!
+
+718
+00:18:19,633 --> 00:18:21,301
+- Où est Marinette?
+
+719
+00:18:21,368 --> 00:18:24,104
+Marinette! Marinette!
+
+720
+00:18:26,106 --> 00:18:28,041
+- Détransformation.
+
+721
+00:18:28,108 --> 00:18:30,000
+- Marinette! Marinette?
+
+722
+00:18:30,000 --> 00:18:30,677
+- Marinette! Marinette?
+
+723
+00:18:30,744 --> 00:18:31,678
+- Adrien!
+
+724
+00:18:31,745 --> 00:18:32,679
+- Marinette!
+
+725
+00:18:32,746 --> 00:18:33,680
+- (ensemble) : J'étais tellement
+
+726
+00:18:33,747 --> 00:18:35,983
+inquiet pour toi!
+
+727
+00:18:36,049 --> 00:18:37,217
+- Cette bague appartient
+
+728
+00:18:37,284 --> 00:18:38,452
+à Adrien.
+
+729
+00:18:38,519 --> 00:18:39,720
+C'est à lui de choisir
+
+730
+00:18:39,786 --> 00:18:42,456
+son avenir.
+
+731
+00:18:42,523 --> 00:18:44,758
+- Merci.
+
+732
+00:18:44,825 --> 00:18:45,959
+Mais je ne sais pas
+
+733
+00:18:46,026 --> 00:18:48,662
+ce que je veux.
+
+734
+00:18:51,131 --> 00:18:53,166
+- Hum!
+
+735
+00:18:53,233 --> 00:18:55,169
+- Oh!
+
+736
+00:18:55,235 --> 00:18:56,537
+- Nathalie, je ne suis
+
+737
+00:18:56,603 --> 00:18:57,871
+qu'une adolescente
+
+738
+00:18:57,938 --> 00:18:59,239
+et juste l'amoureuse d'Adrien.
+
+739
+00:18:59,306 --> 00:19:00,000
+Je ne peux ni décider pour lui
+
+740
+00:19:00,000 --> 00:19:01,175
+Je ne peux ni décider pour lui
+
+741
+00:19:01,241 --> 00:19:02,209
+ni empêcher ses grands-parents
+
+742
+00:19:02,276 --> 00:19:03,243
+de se battre pour sa garde.
+
+743
+00:19:03,310 --> 00:19:04,478
+Mais vous êtes une adulte.
+
+744
+00:19:04,545 --> 00:19:05,712
+Et surtout,
+
+745
+00:19:05,779 --> 00:19:07,314
+vous vous occupez de lui depuis
+
+746
+00:19:07,381 --> 00:19:08,882
+la disparition de ses parents.
+
+747
+00:19:08,949 --> 00:19:10,184
+S'il y a une chose
+
+748
+00:19:10,250 --> 00:19:11,485
+dont je suis certaine,
+
+749
+00:19:11,552 --> 00:19:12,786
+c'est que pour Adrien,
+
+750
+00:19:12,853 --> 00:19:15,155
+vous êtes comme une mère.
+
+751
+00:19:17,891 --> 00:19:19,359
+- Adrien n'est pas mon enfant.
+
+752
+00:19:19,426 --> 00:19:20,861
+Je n'ai aucun droit.
+
+753
+00:19:20,928 --> 00:19:22,196
+- Comme l'a dit un jour Jagged,
+
+754
+00:19:22,262 --> 00:19:23,564
+c'est toi qui l'aimes,
+
+755
+00:19:23,630 --> 00:19:24,898
+c'est toi qui es sa mère.
+
+756
+00:19:24,965 --> 00:19:25,966
+- Jagged a vraiment dit ça?
+
+757
+00:19:26,033 --> 00:19:27,067
+- Bien, si qu'il l'a pas fait,
+
+758
+00:19:27,134 --> 00:19:29,136
+il aurait dû.
+
+759
+00:19:29,203 --> 00:19:30,000
+- C'est vraiment ce que tu veux?
+
+760
+00:19:30,000 --> 00:19:31,638
+- C'est vraiment ce que tu veux?
+
+761
+00:19:33,607 --> 00:19:35,475
+- Ma vie est ici, à Paris.
+
+762
+00:19:35,542 --> 00:19:37,377
+Avec Marinette. Mes amis.
+
+763
+00:19:37,444 --> 00:19:40,314
+Et toi.
+
+764
+00:19:40,380 --> 00:19:41,815
+- Snif, snif!
+
+765
+00:19:41,882 --> 00:19:42,983
+- Je viendrai vous voir
+
+766
+00:19:43,050 --> 00:19:44,184
+pour les vacances.
+
+767
+00:19:44,251 --> 00:19:45,352
+On apprendra à se connaître.
+
+768
+00:19:45,419 --> 00:19:46,520
+Si vous le souhaitez, bien sûr.
+
+769
+00:19:46,587 --> 00:19:47,521
+- Bah, bien sûr
+
+770
+00:19:47,588 --> 00:19:48,522
+qu'on veut, voyons!
+
+771
+00:19:48,589 --> 00:19:49,523
+- C'est-à-dire--
+
+772
+00:19:49,590 --> 00:19:50,824
+- Tu as plus besoin d'une mère
+
+773
+00:19:50,891 --> 00:19:52,092
+que d'un blason. Nous serons
+
+774
+00:19:52,159 --> 00:19:53,393
+ravis de t'accueillir
+
+775
+00:19:53,460 --> 00:19:54,661
+quand tu voudras.
+
+776
+00:19:54,728 --> 00:19:55,662
+- Vous aussi, si vous voulez
+
+777
+00:19:55,729 --> 00:19:56,663
+venir nous voir,
+
+778
+00:19:56,730 --> 00:19:57,664
+vous êtes les bienvenus.
+
+779
+00:19:57,731 --> 00:19:58,999
+- Mais préférez-vous
+
+780
+00:19:59,066 --> 00:20:00,000
+ces délicieux ballotins?
+
+781
+00:20:00,000 --> 00:20:00,300
+ces délicieux ballotins?
+
+782
+00:20:00,367 --> 00:20:01,468
+- Et il y aura même des frites!
+
+783
+00:20:01,535 --> 00:20:02,636
+C'est la spécialité
+
+784
+00:20:02,703 --> 00:20:03,804
+des Grassette.
+
+785
+00:20:03,871 --> 00:20:05,038
+- Alors, nous acceptons
+
+786
+00:20:05,105 --> 00:20:06,273
+l'invitation avec plaisir.
+
+787
+00:20:06,340 --> 00:20:07,774
+- Que dites-vous, Milly?
+
+788
+00:20:07,841 --> 00:20:09,810
+- Emil, cela suffit. Soyez
+
+789
+00:20:09,877 --> 00:20:11,845
+honnête. Vous adorez les frites.
+
+790
+00:20:11,912 --> 00:20:13,847
+- Vous aimez? Vraiment?
+
+791
+00:20:13,914 --> 00:20:17,317
+- Oh! Euh! Hi, hi, hi! Euh!
+
+792
+00:20:28,195 --> 00:20:30,000
+- Oh! Ha, ha, ha!
+
+793
+00:20:30,000 --> 00:20:30,597
+- Oh! Ha, ha, ha!
+
+794
+00:20:30,664 --> 00:20:32,966
+Ouf, ouf, ouf!
+
+795
+00:20:33,033 --> 00:20:34,101
+Père! Vous avez trouvé
+
+796
+00:20:34,168 --> 00:20:35,202
+le médicament pour maman?
+
+797
+00:20:35,269 --> 00:20:36,537
+- Non.
+
+798
+00:20:36,603 --> 00:20:38,939
+- Vous allez encore repartir?
+
+799
+00:20:45,412 --> 00:20:46,513
+- Quand votre maman sera guérie,
+
+800
+00:20:46,580 --> 00:20:47,681
+votre père restera ici
+
+801
+00:20:47,748 --> 00:20:49,750
+avec vous deux. Pour toujours.
+
+802
+00:21:10,070 --> 00:21:13,006
+Sous-titrage :
+Verbit Canada

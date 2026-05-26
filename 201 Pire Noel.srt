@@ -1,0 +1,2393 @@
+﻿1
+00:00:01,969 --> 00:00:06,340
+- Je m'appelle Marinette,
+une fille comme les autres.
+
+2
+00:00:06,406 --> 00:00:07,808
+Mais quand
+le destin me choisit
+
+3
+00:00:07,875 --> 00:00:10,244
+pour lutter
+contre les forces du mal,
+
+4
+00:00:10,310 --> 00:00:13,213
+je deviens
+Miraculous Ladybug!
+
+5
+00:00:13,280 --> 00:00:16,250
+♪ Miraculous, porte-bonheur ♪
+
+6
+00:00:16,316 --> 00:00:19,286
+♪ Lady magique
+et lady chance ♪
+
+7
+00:00:19,353 --> 00:00:22,122
+♪ Miraculous, lady du coeur ♪
+
+8
+00:00:22,189 --> 00:00:24,958
+♪ Être héroïque
+en cas d'urgence ♪
+
+9
+00:00:25,025 --> 00:00:27,828
+♪ Miraculous ♪
+
+10
+00:00:31,465 --> 00:00:33,901
+- (choeur):
+
+11
+00:00:33,967 --> 00:00:36,470
+♪ Joyeux Noël à tous ♪
+
+12
+00:00:38,672 --> 00:00:39,907
+- ♪ Papa, maman, je vais
+
+13
+00:00:39,973 --> 00:00:41,208
+vous aider à la boulangerie
+
+14
+00:00:41,275 --> 00:00:42,476
+♪ Pour distribuer les bûches
+
+15
+00:00:42,543 --> 00:00:43,777
+à tous mes amis
+
+16
+00:00:43,844 --> 00:00:45,078
+♪ Allez, un joyeux Noël
+
+17
+00:00:45,145 --> 00:00:46,380
+à toute ta famille ♪
+
+18
+00:00:46,446 --> 00:00:47,648
+- ♪ Merci, Marina,
+
+19
+00:00:47,714 --> 00:00:48,949
+joyeux Noël aussi ♪
+
+20
+00:00:49,016 --> 00:00:50,250
+- ♪ Alix et son papa,
+
+21
+00:00:50,317 --> 00:00:51,518
+joyeux Noël à vous deux ♪
+
+22
+00:00:51,585 --> 00:00:52,786
+- ♪ Tom, Sabine et Marinette,
+
+23
+00:00:52,853 --> 00:00:54,087
+tous nos meilleurs voeux ♪
+
+24
+00:00:54,154 --> 00:00:55,422
+- ♪ Rose et Juleka, c'est
+
+25
+00:00:55,489 --> 00:00:56,757
+pour vous, joyeuses Fêtes ♪
+
+26
+00:00:56,823 --> 00:00:58,091
+- ♪ Joyeux Noël aussi ♪
+
+27
+00:00:58,158 --> 00:00:59,426
+- Joyeux Noël, Marinette.
+
+28
+00:00:59,493 --> 00:01:00,000
+- ♪ Joyeux Noël à vous,
+
+29
+00:01:00,000 --> 00:01:01,094
+- ♪ Joyeux Noël à vous,
+
+30
+00:01:01,161 --> 00:01:02,729
+Manon et Nadia
+
+31
+00:01:02,796 --> 00:01:04,398
+♪ Joyeux Noël, Nino et Sabrina
+
+32
+00:01:04,464 --> 00:01:06,066
+Joyeux No...
+
+33
+00:01:06,133 --> 00:01:07,701
+(La musique cesse soudainement.)
+
+34
+00:01:07,768 --> 00:01:09,369
+- Hum... tu veux ma photo?
+
+35
+00:01:09,436 --> 00:01:11,505
+- Marinette, c'est Noël.
+
+36
+00:01:11,572 --> 00:01:13,640
+(soupir)
+
+37
+00:01:13,707 --> 00:01:15,776
+- Ah... ♪ Joyeux Noël, Chloé ♪
+
+38
+00:01:15,843 --> 00:01:17,911
+- Tu veux bien répéter?
+
+39
+00:01:17,978 --> 00:01:20,047
+J'ai pas entendu.
+
+40
+00:01:20,113 --> 00:01:23,450
+- (fort): ♪ Joyeux Noël, Chloé ♪
+
+41
+00:01:23,517 --> 00:01:25,485
+- Hi! Hi!
+
+42
+00:01:25,552 --> 00:01:27,487
+- Chloé, la trêve de Noël.
+
+43
+00:01:27,554 --> 00:01:29,523
+(soupir)
+
+44
+00:01:29,590 --> 00:01:30,000
+- ♪ Joyeux Noël, Marinette ♪
+
+45
+00:01:30,000 --> 00:01:31,558
+- ♪ Joyeux Noël, Marinette ♪
+
+46
+00:01:31,625 --> 00:01:33,160
+(chuchotant): Mais
+
+47
+00:01:33,227 --> 00:01:34,761
+je te déteste, t'avise pas
+
+48
+00:01:34,828 --> 00:01:36,396
+de l'oublier.
+
+49
+00:01:36,463 --> 00:01:37,998
+- (ensemble): ♪ Joyeux Noël
+
+50
+00:01:38,065 --> 00:01:39,600
+à tous ♪
+
+51
+00:01:39,666 --> 00:01:41,969
+(rire)
+
+52
+00:01:42,035 --> 00:01:44,371
+(clochette)
+
+53
+00:01:47,875 --> 00:01:49,376
+- Le garde du corps d'Adrien?
+
+54
+00:01:49,443 --> 00:01:50,978
+Le cadeau! Je reviens
+
+55
+00:01:51,044 --> 00:01:52,613
+tout de suite!
+
+56
+00:01:54,314 --> 00:01:56,517
+Oh! J'y crois pas! Le cadeau, où
+
+57
+00:01:56,583 --> 00:01:58,785
+je l'ai mis? C'est pas vrai!
+
+58
+00:01:58,852 --> 00:02:00,000
+- Là.
+
+59
+00:02:00,000 --> 00:02:01,054
+- Là.
+
+60
+00:02:01,121 --> 00:02:03,390
+- Ah! Merci, Tikki.
+
+61
+00:02:06,760 --> 00:02:08,629
+Monsieur, attendez! S'il vous
+
+62
+00:02:08,695 --> 00:02:10,564
+plaît, c'est... un cadeau pour
+
+63
+00:02:10,631 --> 00:02:12,499
+Adrien. Vous voudrez bien
+
+64
+00:02:12,566 --> 00:02:14,401
+lui souhaiter un joyeux Noël
+
+65
+00:02:14,468 --> 00:02:16,336
+de ma part? Enfin, à vous aussi
+
+66
+00:02:16,403 --> 00:02:18,272
+d'ailleurs, joyeux Noël,
+
+67
+00:02:18,338 --> 00:02:20,207
+monsieur de... de ma part.
+
+68
+00:02:20,274 --> 00:02:22,209
+(démarrage de moteur)
+
+69
+00:02:27,748 --> 00:02:29,383
+J'espère qu'Adrien passera
+
+70
+00:02:29,449 --> 00:02:30,000
+un bon Noël.
+
+71
+00:02:30,000 --> 00:02:31,151
+un bon Noël.
+
+72
+00:02:36,323 --> 00:02:37,958
+(crissement de pneus)
+
+73
+00:02:38,025 --> 00:02:39,626
+- Qu'est-ce que vous en pensez,
+
+74
+00:02:39,693 --> 00:02:41,295
+Nathalie? Vous croyez qu'il
+
+75
+00:02:41,361 --> 00:02:43,063
+aimera toutes ces décorations?
+
+76
+00:02:44,765 --> 00:02:46,300
+Pourquoi il ne vient pas? Vous
+
+77
+00:02:46,366 --> 00:02:47,901
+l'avez appelé?
+
+78
+00:02:47,968 --> 00:02:49,536
+- Peut-être qu'il a besoin...
+
+79
+00:02:49,603 --> 00:02:51,138
+d'un peu de temps.
+
+80
+00:02:51,205 --> 00:02:52,739
+(soupir)
+
+81
+00:02:52,806 --> 00:02:54,875
+- À quoi bon tout ça?
+
+82
+00:02:54,942 --> 00:02:57,077
+Il viendra pas.
+
+83
+00:02:58,679 --> 00:03:00,000
+C'est gentil.
+
+84
+00:03:00,000 --> 00:03:00,647
+C'est gentil.
+
+85
+00:03:02,115 --> 00:03:03,917
+Je vous souhaite un joyeux Noël
+
+86
+00:03:03,984 --> 00:03:05,819
+à tous les deux.
+
+87
+00:03:05,886 --> 00:03:07,688
+(soupir)
+
+88
+00:03:07,754 --> 00:03:09,289
+(coups à la porte)
+
+89
+00:03:09,356 --> 00:03:10,891
+- Oui.
+
+90
+00:03:10,958 --> 00:03:12,492
+- Je devine à quel point ça doit
+
+91
+00:03:12,559 --> 00:03:14,094
+être difficile, monsieur, mais
+
+92
+00:03:14,161 --> 00:03:15,696
+pensez que c'est le premier Noël
+
+93
+00:03:15,762 --> 00:03:17,297
+d'Adrien sans sa mère.
+
+94
+00:03:17,364 --> 00:03:18,899
+Je crois sincèrement...
+
+95
+00:03:18,966 --> 00:03:20,133
+- Je sais, vous avez raison.
+
+96
+00:03:20,200 --> 00:03:21,401
+Je vais lui parler. Donnez-moi
+
+97
+00:03:21,468 --> 00:03:22,703
+juste un moment, j'arrive.
+
+98
+00:03:25,873 --> 00:03:28,275
+(soupir)
+
+99
+00:03:29,276 --> 00:03:30,000
+- Même le jour de Noël, il ne
+
+100
+00:03:30,000 --> 00:03:30,978
+- Même le jour de Noël, il ne
+
+101
+00:03:31,044 --> 00:03:32,746
+pense qu'à lui. Je voudrais en
+
+102
+00:03:32,813 --> 00:03:34,548
+avoir fini avec cette maudite
+
+103
+00:03:34,615 --> 00:03:36,316
+journée. Je déteste les Fêtes!
+
+104
+00:03:36,383 --> 00:03:38,151
+Plagg, transforme-moi!
+
+105
+00:03:56,904 --> 00:03:58,372
+♪ La ville s'illumine,
+
+106
+00:03:58,438 --> 00:03:59,873
+oui, c'est Noël à Paris
+
+107
+00:03:59,940 --> 00:04:00,000
+♪ Mais moi, je suis tout seul
+
+108
+00:04:00,000 --> 00:04:01,375
+♪ Mais moi, je suis tout seul
+
+109
+00:04:01,441 --> 00:04:02,910
+dans la nuit
+
+110
+00:04:02,976 --> 00:04:04,444
+♪ Retrouvailles en famille
+
+111
+00:04:04,511 --> 00:04:05,946
+et cadeaux qui scintillent
+
+112
+00:04:06,013 --> 00:04:07,447
+♪ Chat Noir qui est tout seul
+
+113
+00:04:07,514 --> 00:04:08,982
+ce soir
+
+114
+00:04:09,049 --> 00:04:10,517
+♪ Je rêve de chaleur,
+
+115
+00:04:10,584 --> 00:04:12,019
+de tendresse moi aussi
+
+116
+00:04:12,085 --> 00:04:13,520
+♪ Mais je reste seul
+
+117
+00:04:13,587 --> 00:04:15,055
+comme un chat dans la nuit
+
+118
+00:04:15,122 --> 00:04:16,623
+♪ Je suis un pauvre minet,
+
+119
+00:04:16,690 --> 00:04:18,192
+pourquoi personne a pitié
+
+120
+00:04:18,258 --> 00:04:19,726
+♪ Chat Noir se sent
+
+121
+00:04:19,793 --> 00:04:21,295
+si seul ce soir
+
+122
+00:04:21,361 --> 00:04:22,863
+♪ Chat Noir se sent
+
+123
+00:04:22,930 --> 00:04:24,431
+si seul ce soir
+
+124
+00:04:24,498 --> 00:04:25,465
+♪ Si je m'égare,
+
+125
+00:04:25,532 --> 00:04:26,500
+si je me perds
+
+126
+00:04:26,567 --> 00:04:27,501
+♪ Qu'est-ce que ça peut
+
+127
+00:04:27,568 --> 00:04:28,535
+bien faire
+
+128
+00:04:28,602 --> 00:04:29,570
+♪ Après tout, je suis
+
+129
+00:04:29,636 --> 00:04:30,000
+qu'un chat dans la nuit
+
+130
+00:04:30,000 --> 00:04:30,604
+qu'un chat dans la nuit
+
+131
+00:04:30,671 --> 00:04:32,172
+♪ Votre sapin me désespère,
+
+132
+00:04:32,239 --> 00:04:33,774
+je vais le réduire en poussière
+
+133
+00:04:33,841 --> 00:04:35,342
+♪ Je suis le chat vengeur
+
+134
+00:04:35,409 --> 00:04:36,910
+de la nuit
+
+135
+00:04:36,977 --> 00:04:38,512
+Je suis le chat vengeur
+
+136
+00:04:38,579 --> 00:04:40,080
+de la nuit ♪
+
+137
+00:04:40,147 --> 00:04:44,017
+Cataclysme!
+
+138
+00:04:46,019 --> 00:04:49,423
+Je peux pas... je peux pas!
+
+139
+00:04:52,893 --> 00:04:55,128
+♪ Être seul dans ce froid
+
+140
+00:04:55,195 --> 00:04:57,431
+ne me fait aucun bien
+
+141
+00:04:57,497 --> 00:04:59,733
+♪ Ruminer ma colère
+
+142
+00:04:59,800 --> 00:05:00,000
+ça n'a servi à rien
+
+143
+00:05:00,000 --> 00:05:02,035
+ça n'a servi à rien
+
+144
+00:05:02,102 --> 00:05:04,304
+♪ J'aimerais m'en aller
+
+145
+00:05:04,371 --> 00:05:06,607
+Retrouver mon foyer
+
+146
+00:05:06,673 --> 00:05:08,909
+♪ Ça ira mieux demain,
+
+147
+00:05:08,976 --> 00:05:11,211
+je le sais ♪
+
+148
+00:05:11,278 --> 00:05:13,280
+Rentrons à la maison.
+
+149
+00:05:13,347 --> 00:05:15,415
+Plagg, détransforme-moi.
+
+150
+00:05:17,084 --> 00:05:19,486
+Plagg? Plagg!
+
+151
+00:05:19,553 --> 00:05:21,955
+- ♪ J'aimerais pouvoir t'aider,
+
+152
+00:05:22,022 --> 00:05:24,424
+oui, t'aider à te transformer
+
+153
+00:05:24,491 --> 00:05:26,894
+♪ Mais regarde-moi, Adrien,
+
+154
+00:05:26,960 --> 00:05:29,329
+je n'y peux rien
+
+155
+00:05:29,396 --> 00:05:30,000
+♪ Je suis fatigué,
+
+156
+00:05:30,000 --> 00:05:31,798
+♪ Je suis fatigué,
+
+157
+00:05:31,865 --> 00:05:34,268
+mon ventre est affamé
+
+158
+00:05:34,334 --> 00:05:36,737
+♪ Je suis épuisé,
+
+159
+00:05:36,803 --> 00:05:39,206
+je ne peux plus avancer ♪
+
+160
+00:05:39,273 --> 00:05:40,974
+- Plagg, qu'est-ce que j'ai
+
+161
+00:05:41,041 --> 00:05:42,743
+fait! Attends, attends, je vais
+
+162
+00:05:42,809 --> 00:05:44,578
+t'aider. Oh.
+
+163
+00:05:55,856 --> 00:05:57,858
+Oh!
+
+164
+00:06:01,762 --> 00:06:03,597
+"Joyeux Noël", signé Marinette.
+
+165
+00:06:03,664 --> 00:06:05,499
+Elle est si gentille. On va
+
+166
+00:06:05,566 --> 00:06:07,367
+te remettre sur pattes, Plagg.
+
+167
+00:06:07,434 --> 00:06:09,269
+(tintements de cloche)
+
+168
+00:06:09,336 --> 00:06:12,439
+Tu entends ça? C'est Noël.
+
+169
+00:06:14,274 --> 00:06:16,510
+Joyeux Noël, Plagg.
+
+170
+00:06:16,577 --> 00:06:18,879
+- Joyeux Noël, Adrien.
+
+171
+00:06:22,382 --> 00:06:24,785
+(coups à la porte)
+
+172
+00:06:24,852 --> 00:06:27,221
+- Adrien... Adrien?
+
+173
+00:06:27,287 --> 00:06:30,000
+ADRIEEEEEN!
+
+174
+00:06:30,000 --> 00:06:30,190
+ADRIEEEEEN!
+
+175
+00:06:31,325 --> 00:06:33,060
+Retrouvez-le immédiatement!
+
+176
+00:06:33,126 --> 00:06:34,928
+Immédiatement!
+
+177
+00:06:36,930 --> 00:06:38,031
+- Bonsoir... oui, joyeux Noël
+
+178
+00:06:38,098 --> 00:06:39,199
+à vous aussi.
+
+179
+00:06:39,266 --> 00:06:40,334
+- Ah non, madame,
+
+180
+00:06:40,400 --> 00:06:41,502
+il est pas chez moi.
+
+181
+00:06:41,568 --> 00:06:42,669
+- Adrien n'est pas chez lui?
+
+182
+00:06:42,736 --> 00:06:43,837
+- Si ça se trouve,
+
+183
+00:06:43,904 --> 00:06:45,005
+il a été kidnappé.
+
+184
+00:06:45,072 --> 00:06:46,139
+- Ne t'en fais pas, Sabrina,
+
+185
+00:06:46,206 --> 00:06:47,307
+nous allons très vite retrouver
+
+186
+00:06:47,374 --> 00:06:48,475
+ton ami.
+
+187
+00:06:48,542 --> 00:06:50,010
+- Un kidnapping, c'est peut-être
+
+188
+00:06:50,077 --> 00:06:51,545
+un peu exagéré.
+
+189
+00:06:51,612 --> 00:06:53,080
+- Allons quand même faire
+
+190
+00:06:53,146 --> 00:06:54,615
+le tour du quartier.
+
+191
+00:06:54,681 --> 00:06:56,149
+Les cadeaux peuvent attendre.
+
+192
+00:06:56,216 --> 00:06:57,684
+Tu viens, Marinette?
+
+193
+00:06:57,751 --> 00:06:59,253
+- Je me sens pas très bien.
+
+194
+00:06:59,319 --> 00:07:00,000
+Je vais plutôt vous attendre
+
+195
+00:07:00,000 --> 00:07:00,787
+Je vais plutôt vous attendre
+
+196
+00:07:00,854 --> 00:07:02,322
+ici, et si j'ai des nouvelles,
+
+197
+00:07:02,389 --> 00:07:03,857
+je vous appelle, d'accord?
+
+198
+00:07:03,924 --> 00:07:05,392
+On doit retrouver Adrien, vite!
+
+199
+00:07:05,459 --> 00:07:06,994
+Tikki, transforme-moi!
+
+200
+00:07:28,882 --> 00:07:30,000
+- T'en fais pas, Plagg,
+
+201
+00:07:30,000 --> 00:07:30,083
+- T'en fais pas, Plagg,
+
+202
+00:07:30,150 --> 00:07:31,318
+je vais te trouver à manger.
+
+203
+00:07:31,385 --> 00:07:32,586
+Je te promets pas
+
+204
+00:07:32,653 --> 00:07:33,854
+du camembert, mais...
+
+205
+00:07:33,921 --> 00:07:35,122
+- Ho! Ho! Ho! Pas la peine
+
+206
+00:07:35,189 --> 00:07:36,390
+de faire un caprice, petit papa
+
+207
+00:07:36,456 --> 00:07:37,624
+Noël a un cadeau pour tous
+
+208
+00:07:37,691 --> 00:07:38,892
+les enfants!
+
+209
+00:07:38,959 --> 00:07:40,427
+- Ils sont nuls, tes cadeaux,
+
+210
+00:07:40,494 --> 00:07:41,929
+et pis ta barbe, elle est moche!
+
+211
+00:07:41,995 --> 00:07:43,463
+- Hééé, doucement, petite!
+
+212
+00:07:43,530 --> 00:07:44,965
+(rire)
+
+213
+00:07:45,032 --> 00:07:46,500
+- Je suis sûr que t'es même pas
+
+214
+00:07:46,567 --> 00:07:48,035
+le vrai Père Noël.
+
+215
+00:07:48,101 --> 00:07:49,536
+- Hé, ça suffit, qu'est-ce
+
+216
+00:07:49,603 --> 00:07:51,071
+qui vous arrive, les enfants?
+
+217
+00:07:51,138 --> 00:07:52,573
+Vous n'avez pas honte de vous
+
+218
+00:07:52,639 --> 00:07:54,107
+en prendre au Père Noël?
+
+219
+00:07:54,174 --> 00:07:55,776
+- Ce jeune homme a raison.
+
+220
+00:07:55,843 --> 00:07:57,411
+Excusez-vous tout de suite.
+
+221
+00:07:57,477 --> 00:07:59,079
+- (ensemble): Pardon, Père Noël.
+
+222
+00:07:59,146 --> 00:08:00,000
+- C'est pas très grave,
+
+223
+00:08:00,000 --> 00:08:00,447
+- C'est pas très grave,
+
+224
+00:08:00,514 --> 00:08:01,849
+les enfants, un joyeux Noël
+
+225
+00:08:01,915 --> 00:08:03,217
+quand même.
+
+226
+00:08:03,283 --> 00:08:04,618
+- Désolé, monsieur,
+
+227
+00:08:04,685 --> 00:08:05,986
+est-ce que tout va bien?
+
+228
+00:08:06,053 --> 00:08:07,354
+- T'en fais pas, je suis
+
+229
+00:08:07,421 --> 00:08:08,755
+un vieux Père Noël dur à cuire.
+
+230
+00:08:08,822 --> 00:08:10,123
+Mais toi, qu'est-ce que tu fais
+
+231
+00:08:10,190 --> 00:08:11,525
+dehors à cette heure-là?
+
+232
+00:08:11,592 --> 00:08:12,960
+Tu t'es perdue?
+
+233
+00:08:14,695 --> 00:08:16,230
+Habillé comme ça, tu dois pas
+
+234
+00:08:16,296 --> 00:08:17,865
+avoir bien chaud. Tu veux
+
+235
+00:08:17,931 --> 00:08:19,466
+une tasse de chocolat?
+
+236
+00:08:19,533 --> 00:08:21,068
+Il m'en reste un peu.
+
+237
+00:08:21,134 --> 00:08:22,669
+- Avec plaisir, monsieur. Il n'y
+
+238
+00:08:22,736 --> 00:08:24,304
+a rien de meilleur, sauf peut-
+
+239
+00:08:24,371 --> 00:08:25,906
+être un morceau de camembert.
+
+240
+00:08:25,973 --> 00:08:27,875
+- T'es en veine, petit, il m'en
+
+241
+00:08:27,941 --> 00:08:29,843
+reste justement du sandwich
+
+242
+00:08:29,910 --> 00:08:30,000
+de midi. J'en ai jamais mangé
+
+243
+00:08:30,000 --> 00:08:31,812
+de midi. J'en ai jamais mangé
+
+244
+00:08:31,879 --> 00:08:33,780
+qui sentait aussi fort. Hé! Hé!
+
+245
+00:08:33,847 --> 00:08:35,749
+- Il est parfait, ce fromage.
+
+246
+00:08:35,816 --> 00:08:37,784
+- Chacun ses goûts! Ha! Ha! Ha!
+
+247
+00:08:39,786 --> 00:08:41,788
+Tu t'es pas perdu, hein?
+
+248
+00:08:43,657 --> 00:08:45,225
+- C'est mon premier Noël sans ma
+
+249
+00:08:45,292 --> 00:08:46,827
+mère, monsieur. Mon père, il...
+
+250
+00:08:46,894 --> 00:08:48,462
+- ... sait pas trop s'y prendre.
+
+251
+00:08:48,529 --> 00:08:50,063
+Je le comprends, tu sais. Mais
+
+252
+00:08:50,130 --> 00:08:51,698
+ton père doit se demander
+
+253
+00:08:51,765 --> 00:08:53,300
+où t'es et se faire beaucoup
+
+254
+00:08:53,367 --> 00:08:54,935
+de souci pour toi. Maintenant
+
+255
+00:08:55,002 --> 00:08:56,537
+que t'as pu prendre l'air et
+
+256
+00:08:56,603 --> 00:08:58,172
+réfléchir un peu, tu crois pas
+
+257
+00:08:58,238 --> 00:08:59,773
+que ce serait bien de rentrer
+
+258
+00:08:59,840 --> 00:09:00,000
+chez toi?
+
+259
+00:09:00,000 --> 00:09:01,408
+chez toi?
+
+260
+00:09:01,475 --> 00:09:03,043
+- Vous avez raison, monsieur.
+
+261
+00:09:03,110 --> 00:09:04,645
+- À la bonne heure! Une famille
+
+262
+00:09:04,711 --> 00:09:06,280
+réunie sous le sapin, c'est tout
+
+263
+00:09:06,346 --> 00:09:07,881
+l'esprit de Noël! Je te dépose
+
+264
+00:09:07,948 --> 00:09:09,583
+en traîneau.
+
+265
+00:09:11,018 --> 00:09:12,519
+(rire)
+
+266
+00:09:12,586 --> 00:09:14,087
+- Viens là, Plagg. D'accord,
+
+267
+00:09:14,154 --> 00:09:15,656
+mais vous mettez ça. L'amie qui
+
+268
+00:09:15,722 --> 00:09:17,224
+me l'a offert serait contente
+
+269
+00:09:17,291 --> 00:09:18,759
+que vous l'ayez.
+
+270
+00:09:18,825 --> 00:09:20,327
+- Un cadeau... pour moi?
+
+271
+00:09:20,394 --> 00:09:21,895
+- Tout le monde a droit
+
+272
+00:09:21,962 --> 00:09:23,463
+à un cadeau de Noël.
+
+273
+00:09:23,530 --> 00:09:26,200
+- Je te remercie, mon grand.
+
+274
+00:09:28,435 --> 00:09:30,000
+Ah!
+
+275
+00:09:30,000 --> 00:09:30,737
+Ah!
+
+276
+00:09:45,986 --> 00:09:47,888
+♪ Il y a qu'un seul pouvoir
+
+277
+00:09:47,955 --> 00:09:49,857
+qui puisse de dégâts
+
+278
+00:09:49,923 --> 00:09:51,825
+♪ Le cataclysme de Chat Noir,
+
+279
+00:09:51,892 --> 00:09:53,794
+c'est certain
+
+280
+00:09:53,861 --> 00:09:55,729
+♪ Et cette carte de Noël,
+
+281
+00:09:55,796 --> 00:09:57,698
+elle n'est pas tombée du ciel
+
+282
+00:09:57,764 --> 00:09:59,666
+♪ Mais du cadeau
+
+283
+00:09:59,733 --> 00:10:00,000
+que j'ai fait à Adrien
+
+284
+00:10:00,000 --> 00:10:01,635
+que j'ai fait à Adrien
+
+285
+00:10:01,702 --> 00:10:03,570
+♪ Adrien disparaît
+
+286
+00:10:03,637 --> 00:10:05,506
+et Chat Noir apparaît
+
+287
+00:10:05,572 --> 00:10:07,441
+♪ Il doit chercher
+
+288
+00:10:07,508 --> 00:10:09,343
+à le protéger
+
+289
+00:10:09,409 --> 00:10:11,278
+♪ La seule explication
+
+290
+00:10:11,345 --> 00:10:13,213
+à ces questions
+
+291
+00:10:13,280 --> 00:10:15,148
+♪ C'est qu'un supervilain
+
+292
+00:10:15,215 --> 00:10:17,084
+veut s'en prendre à Adrien
+
+293
+00:10:17,150 --> 00:10:19,019
+♪ Il peut compter sur moi,
+
+294
+00:10:19,086 --> 00:10:20,954
+je vais le sortir de là
+
+295
+00:10:21,021 --> 00:10:22,890
+♪ Car c'est lui que j'aime
+
+296
+00:10:22,956 --> 00:10:24,825
+en secret
+
+297
+00:10:24,892 --> 00:10:26,727
+♪ Je ferai tout ce que je peux
+
+298
+00:10:26,793 --> 00:10:28,662
+pour t'aider de mon mieux
+
+299
+00:10:28,729 --> 00:10:30,000
+♪ Tu es celui que j'aime
+
+300
+00:10:30,000 --> 00:10:30,597
+♪ Tu es celui que j'aime
+
+301
+00:10:30,664 --> 00:10:32,533
+en secret
+
+302
+00:10:32,599 --> 00:10:34,601
+♪ Même si je dois me cacher,
+
+303
+00:10:34,668 --> 00:10:36,637
+je serai à tes côtés
+
+304
+00:10:36,703 --> 00:10:38,705
+♪ Tu es celui que j'aime
+
+305
+00:10:38,772 --> 00:10:40,774
+en secret
+
+306
+00:10:40,841 --> 00:10:42,809
+♪ Mais qu'est-ce que tu ferais
+
+307
+00:10:42,876 --> 00:10:44,878
+si tu savais la vérité
+
+308
+00:10:44,945 --> 00:10:46,914
+♪ C'est pour ça que je t'aime
+
+309
+00:10:46,980 --> 00:10:49,049
+en secret ♪
+
+310
+00:10:50,417 --> 00:10:52,653
+Qui a bien pu se faire
+
+311
+00:10:52,719 --> 00:10:54,988
+akumatiser le soir de Noël?
+
+312
+00:10:55,055 --> 00:10:57,357
+Des empreintes.
+
+313
+00:10:59,092 --> 00:11:00,000
+(tintements de clochettes)
+
+314
+00:11:00,000 --> 00:11:00,794
+(tintements de clochettes)
+
+315
+00:11:00,861 --> 00:11:02,596
+- Et vous monsieur, où est-ce
+
+316
+00:11:02,663 --> 00:11:04,364
+que vous allez fêter Noël?
+
+317
+00:11:04,431 --> 00:11:06,133
+- Moi? Mais partout dans Paris!
+
+318
+00:11:06,200 --> 00:11:07,935
+Le monde entier même.
+
+319
+00:11:08,001 --> 00:11:09,703
+Ho! Ho! Ho!
+
+320
+00:11:09,770 --> 00:11:11,038
+- Vous êtes tout seul, hein.
+
+321
+00:11:11,104 --> 00:11:12,339
+Écoutez, voilà ce qu'on va
+
+322
+00:11:12,406 --> 00:11:13,674
+faire. Ramenez-moi et restez
+
+323
+00:11:13,740 --> 00:11:15,008
+chez nous pour le repas. Aidez-
+
+324
+00:11:15,075 --> 00:11:16,343
+moi à faire revenir l'esprit
+
+325
+00:11:16,410 --> 00:11:17,678
+de Noël, monsieur.
+
+326
+00:11:17,744 --> 00:11:18,979
+- Bon, d'accord, mais
+
+327
+00:11:19,046 --> 00:11:20,314
+je ne pourrai pas rester bien
+
+328
+00:11:20,380 --> 00:11:21,648
+longtemps. C'est que j'ai
+
+329
+00:11:21,715 --> 00:11:22,950
+beaucoup de travail le soir
+
+330
+00:11:23,016 --> 00:11:24,284
+de Noël.
+
+331
+00:11:24,351 --> 00:11:25,686
+- Merci, Père Noël.
+
+332
+00:11:32,759 --> 00:11:33,861
+- Adrien, c'est toi? Et vous,
+
+333
+00:11:33,927 --> 00:11:35,028
+qui êtes-vous?
+
+334
+00:11:35,095 --> 00:11:36,196
+- Eh bien, ça se voit, non?
+
+335
+00:11:36,263 --> 00:11:37,364
+Je suis le Père Noël!
+
+336
+00:11:37,431 --> 00:11:38,532
+- Évidemment, et moi, je suis
+
+337
+00:11:38,599 --> 00:11:39,700
+le lapin de Pâques. Vous n'avez
+
+338
+00:11:39,766 --> 00:11:40,868
+pas honte de nous déranger
+
+339
+00:11:40,934 --> 00:11:42,035
+le soir de Noël? Fichez le camp
+
+340
+00:11:42,102 --> 00:11:43,203
+ou je vois envoie mon garde
+
+341
+00:11:43,270 --> 00:11:44,371
+du corps!
+
+342
+00:11:44,438 --> 00:11:45,873
+- Père, vous vous trompez!
+
+343
+00:11:45,939 --> 00:11:47,374
+- Non, il a raison. Ton père a
+
+344
+00:11:47,441 --> 00:11:48,876
+vu clair dans son jeu. Cet homme
+
+345
+00:11:48,942 --> 00:11:50,377
+est un supervilain sous
+
+346
+00:11:50,444 --> 00:11:51,879
+l'emprise du Papillon.
+
+347
+00:11:51,945 --> 00:11:53,380
+- Que... quoi?
+
+348
+00:11:53,447 --> 00:11:54,882
+- Vous avez tous perdu la tête!
+
+349
+00:11:54,948 --> 00:11:56,383
+- Non, Ladybug, stop! Cet homme
+
+350
+00:11:56,450 --> 00:11:57,885
+n'est pas akumatisé.
+
+351
+00:11:57,951 --> 00:11:59,386
+- Je sais reconnaître
+
+352
+00:11:59,453 --> 00:12:00,000
+un akumatisé, crois-moi.
+
+353
+00:12:00,000 --> 00:12:00,888
+un akumatisé, crois-moi.
+
+354
+00:12:00,954 --> 00:12:02,456
+- Allez, hue!
+
+355
+00:12:03,657 --> 00:12:05,259
+- Rentre chez toi,
+
+356
+00:12:05,325 --> 00:12:06,927
+c'est plus sûr.
+
+357
+00:12:06,994 --> 00:12:08,595
+- Non, attends! Plagg...
+
+358
+00:12:08,662 --> 00:12:10,330
+- Adrien.
+
+359
+00:12:11,532 --> 00:12:13,667
+(tintements de clochettes)
+
+360
+00:12:13,734 --> 00:12:15,936
+- Allez, les poneys! Hue, hue!
+
+361
+00:12:18,205 --> 00:12:20,040
+Non, mais ça va pas, la tête?
+
+362
+00:12:20,107 --> 00:12:21,942
+Qu'est-ce qui vous prend?
+
+363
+00:12:22,009 --> 00:12:23,877
+- Sans t'en rendre compte, tu
+
+364
+00:12:23,944 --> 00:12:25,812
+viens de m'offrir un merveilleux
+
+365
+00:12:25,879 --> 00:12:27,748
+cadeau de Noël, Ladybug:
+
+366
+00:12:27,814 --> 00:12:29,683
+un pauvre innocent que l'on
+
+367
+00:12:29,750 --> 00:12:30,000
+accuse à tort, et l'esprit
+
+368
+00:12:30,000 --> 00:12:31,618
+accuse à tort, et l'esprit
+
+369
+00:12:31,685 --> 00:12:33,620
+d'une fête que l'on bafoue.
+
+370
+00:12:35,989 --> 00:12:39,159
+C'est tout ce dont mon akuma a
+
+371
+00:12:39,226 --> 00:12:42,462
+besoin afin de noircir ce coeur!
+
+372
+00:12:48,035 --> 00:12:49,203
+- Adrien, où allez-vous?
+
+373
+00:12:49,269 --> 00:12:50,470
+- Dans ma chambre, bien sûr,
+
+374
+00:12:50,537 --> 00:12:51,705
+puisque mon père ne veut pas
+
+375
+00:12:51,772 --> 00:12:52,973
+fêter Noël.
+
+376
+00:12:53,040 --> 00:12:54,208
+- Vous vous trompez. Votre père
+
+377
+00:12:54,274 --> 00:12:55,475
+est venu vous voir, mais vous
+
+378
+00:12:55,542 --> 00:12:56,710
+étiez sorti. Je vais lui dire
+
+379
+00:12:56,777 --> 00:12:57,978
+que vous l'attendez, mais cette
+
+380
+00:12:58,045 --> 00:12:59,213
+fois, nous allons nous assurer
+
+381
+00:12:59,279 --> 00:13:00,000
+que vous restez dans
+
+382
+00:13:00,000 --> 00:13:00,480
+que vous restez dans
+
+383
+00:13:00,547 --> 00:13:01,782
+votre chambre.
+
+384
+00:13:03,417 --> 00:13:04,685
+(soupir)
+
+385
+00:13:04,751 --> 00:13:06,019
+- Vous... vous n'êtes pas
+
+386
+00:13:06,086 --> 00:13:07,354
+un supervilain?
+
+387
+00:13:07,421 --> 00:13:08,689
+- Bien sûr que non, vous lisez
+
+388
+00:13:08,755 --> 00:13:10,023
+trop d'histoires de superhéros,
+
+389
+00:13:10,090 --> 00:13:11,358
+ma chère petite!
+
+390
+00:13:11,425 --> 00:13:12,693
+- Je suis désolée, j'ai vraiment
+
+391
+00:13:12,759 --> 00:13:14,027
+cru que...
+
+392
+00:13:14,094 --> 00:13:15,362
+- Oh, ne me touchez plus!
+
+393
+00:13:15,429 --> 00:13:16,697
+Vous en avez déjà assez fait
+
+394
+00:13:16,763 --> 00:13:18,098
+comme ça.
+
+395
+00:13:25,439 --> 00:13:27,274
+Plus personne ne respecte
+
+396
+00:13:27,341 --> 00:13:29,142
+l'esprit de Noël de nos jours.
+
+397
+00:13:29,209 --> 00:13:30,000
+On ne croit plus en moi.
+
+398
+00:13:30,000 --> 00:13:31,111
+On ne croit plus en moi.
+
+399
+00:13:34,648 --> 00:13:36,683
+Moi, je crois en toi, mon cher
+
+400
+00:13:36,750 --> 00:13:38,785
+Pire Noël. Je suis le Papillon.
+
+401
+00:13:38,852 --> 00:13:40,854
+Ils t'ont accusé à tort d'être
+
+402
+00:13:40,921 --> 00:13:42,956
+un supervilain, dans ce cas,
+
+403
+00:13:43,023 --> 00:13:45,058
+c'est ce que tu seras désormais.
+
+404
+00:13:45,125 --> 00:13:47,160
+En échange, puisque j'ai été
+
+405
+00:13:47,227 --> 00:13:49,263
+bien sage toute l'année, je vais
+
+406
+00:13:49,329 --> 00:13:51,331
+te demander non pas un, mais
+
+407
+00:13:51,398 --> 00:13:53,433
+deux cadeaux: les miraculous
+
+408
+00:13:53,500 --> 00:13:55,536
+de Ladybug et Chat Noir!
+
+409
+00:13:55,602 --> 00:13:58,505
+- Et tu les auras. Joyeux Noël
+
+410
+00:13:58,572 --> 00:14:00,000
+à toi, Papillon.
+
+411
+00:14:00,000 --> 00:14:01,542
+à toi, Papillon.
+
+412
+00:14:08,248 --> 00:14:11,685
+LADYBUUUG!
+
+413
+00:14:12,686 --> 00:14:14,721
+(hennissements)
+
+414
+00:14:14,788 --> 00:14:16,823
+♪ Tu crois que je vais accepter
+
+415
+00:14:16,890 --> 00:14:18,926
+que tu te moques de moi ♪
+
+416
+00:14:18,992 --> 00:14:20,994
+(rire)
+
+417
+00:14:21,061 --> 00:14:23,096
+♪ Tu crois que je vais te
+
+418
+00:14:23,163 --> 00:14:25,199
+laisser m'accuser comme ça ♪
+
+419
+00:14:25,265 --> 00:14:27,301
+(rire)
+
+420
+00:14:27,367 --> 00:14:29,503
+♪ Je suis le Pire Noël,
+
+421
+00:14:29,570 --> 00:14:30,000
+merveilleusement cruel
+
+422
+00:14:30,000 --> 00:14:31,705
+merveilleusement cruel
+
+423
+00:14:31,772 --> 00:14:33,907
+♪ Je vais vous flanquer
+
+424
+00:14:33,974 --> 00:14:36,143
+la frousse
+
+425
+00:14:36,210 --> 00:14:38,345
+♪ Ce sera un affreux Noël
+
+426
+00:14:38,412 --> 00:14:40,547
+pour tous ♪
+
+427
+00:14:40,614 --> 00:14:42,482
+(couinements, cri)
+
+428
+00:14:42,549 --> 00:14:44,685
+(tintements de clochettes)
+
+429
+00:14:47,187 --> 00:14:49,323
+(bips de jeu vidéo)
+
+430
+00:14:54,661 --> 00:14:56,630
+- Le Père Noël?
+
+431
+00:14:56,697 --> 00:14:58,699
+- Pas tout à fait.
+
+432
+00:14:58,765 --> 00:15:00,000
+♪ Je suis le Pire Noël,
+
+433
+00:15:00,000 --> 00:15:00,767
+♪ Je suis le Pire Noël,
+
+434
+00:15:00,834 --> 00:15:02,803
+merveilleusement cruel
+
+435
+00:15:02,870 --> 00:15:04,838
+♪ Je vais vous flanquer
+
+436
+00:15:04,905 --> 00:15:06,907
+la frousse
+
+437
+00:15:06,974 --> 00:15:08,976
+♪ Ce sera un affreux Noël
+
+438
+00:15:09,042 --> 00:15:11,011
+pour tous ♪
+
+439
+00:15:11,078 --> 00:15:12,646
+(cris)
+
+440
+00:15:12,713 --> 00:15:14,281
+Ne t'en fais pas, Adrien,
+
+441
+00:15:14,348 --> 00:15:15,916
+je ne vais rien te faire. Je te
+
+442
+00:15:15,983 --> 00:15:17,584
+suis redevable. Tu m'as fait
+
+443
+00:15:17,651 --> 00:15:19,219
+un cadeau et je ne l'oublie pas.
+
+444
+00:15:19,286 --> 00:15:20,854
+Au contraire, je vais même
+
+445
+00:15:20,921 --> 00:15:22,489
+te venger, nous venger
+
+446
+00:15:22,556 --> 00:15:24,124
+tous les deux!
+
+447
+00:15:24,191 --> 00:15:25,759
+- Non, attendez!
+
+448
+00:15:25,826 --> 00:15:27,427
+- Ce sera le Noël
+
+449
+00:15:27,494 --> 00:15:29,062
+de la vengeance! Ha! Ha!
+
+450
+00:15:29,129 --> 00:15:30,000
+(exclamations)
+
+451
+00:15:30,000 --> 00:15:30,764
+(exclamations)
+
+452
+00:15:32,199 --> 00:15:34,034
+Plagg, transforme-moi!
+
+453
+00:15:34,101 --> 00:15:35,936
+- On dirait que le Père Noël
+
+454
+00:15:36,003 --> 00:15:37,871
+est passé, ma Chloé chérie.
+
+455
+00:15:37,938 --> 00:15:39,773
+(cris)
+
+456
+00:15:39,840 --> 00:15:41,808
+- Je vous souhaite un affreux
+
+457
+00:15:41,875 --> 00:15:43,877
+Noël à tous!
+
+458
+00:15:43,944 --> 00:15:45,946
+♪ Je suis le Pire Noël ♪
+
+459
+00:15:46,013 --> 00:15:47,981
+- Hé, mes cadeaux!
+
+460
+00:15:48,048 --> 00:15:50,017
+♪ Je vais vous flanquer
+
+461
+00:15:50,083 --> 00:15:52,085
+la frousse
+
+462
+00:15:52,152 --> 00:15:54,154
+♪ Ce sera un affreux Noël
+
+463
+00:15:54,221 --> 00:15:56,190
+pour tous ♪
+
+464
+00:15:56,256 --> 00:15:58,025
+(cris)
+
+465
+00:15:58,091 --> 00:15:59,893
+Ho! Ho! Ho!
+
+466
+00:15:59,960 --> 00:16:00,000
+(tintements de clochettes)
+
+467
+00:16:00,000 --> 00:16:01,795
+(tintements de clochettes)
+
+468
+00:16:03,230 --> 00:16:06,366
+Je vous souhaite un affreux Noël
+
+469
+00:16:06,433 --> 00:16:09,670
+à tous! Ho! Ho! Ho!
+
+470
+00:16:12,506 --> 00:16:13,974
+- À nous deux maintenant,
+
+471
+00:16:14,041 --> 00:16:15,509
+Pire Noël.
+
+472
+00:16:15,576 --> 00:16:17,077
+- À nous trois, ma lady.
+
+473
+00:16:17,144 --> 00:16:18,612
+- Chat Noir? Tu étais passé où?
+
+474
+00:16:18,679 --> 00:16:20,147
+Et qu'est-il arrivé à Adrien?
+
+475
+00:16:20,214 --> 00:16:21,715
+- C'est... c'est une longue
+
+476
+00:16:21,782 --> 00:16:23,250
+histoire. Les chats aussi
+
+477
+00:16:23,317 --> 00:16:24,852
+ont leurs petits secrets.
+
+478
+00:16:27,855 --> 00:16:29,156
+Qui va livrer les cadeaux aux
+
+479
+00:16:29,223 --> 00:16:30,000
+enfants cette nuit, Pire Noël?
+
+480
+00:16:30,000 --> 00:16:30,524
+enfants cette nuit, Pire Noël?
+
+481
+00:16:30,591 --> 00:16:31,892
+- Tout ça, c'est de l'histoire
+
+482
+00:16:31,959 --> 00:16:33,260
+ancienne. Adieu, cadeaux et
+
+483
+00:16:33,327 --> 00:16:34,661
+esprit de Noël! Vous n'aviez
+
+484
+00:16:34,728 --> 00:16:36,029
+qu'à être gentils! Ha! Ha! Ha!
+
+485
+00:16:36,096 --> 00:16:37,397
+- Mais j'ai été sage
+
+486
+00:16:37,464 --> 00:16:38,765
+toute l'année!
+
+487
+00:16:38,832 --> 00:16:40,868
+- Visiblement pas assez.
+
+488
+00:16:40,934 --> 00:16:43,003
+(long cri)
+
+489
+00:16:44,004 --> 00:16:46,240
+Je te tiens!
+
+490
+00:16:47,374 --> 00:16:49,343
+(exclamations)
+
+491
+00:16:49,409 --> 00:16:51,411
+(cris)
+
+492
+00:16:51,478 --> 00:16:53,447
+- Qu'est-ce que vous diriez
+
+493
+00:16:53,514 --> 00:16:55,516
+d'une balade en traîneau,
+
+494
+00:16:55,582 --> 00:16:57,551
+mes lutins? Ho! Ho! Ho!
+
+495
+00:16:57,618 --> 00:16:59,620
+Accrochez-vous! C'est parti!
+
+496
+00:16:59,686 --> 00:17:00,000
+Ho! Ho! Ho! Ho! Ho! Ho!
+
+497
+00:17:00,000 --> 00:17:01,655
+Ho! Ho! Ho! Ho! Ho! Ho!
+
+498
+00:17:01,722 --> 00:17:03,357
+- C'est pas comme ça qu'il aura
+
+499
+00:17:03,423 --> 00:17:05,092
+son permis traîneau.
+
+500
+00:17:05,158 --> 00:17:06,860
+(exclamations)
+
+501
+00:17:08,295 --> 00:17:10,197
+- C'est l'heure de déballer
+
+502
+00:17:10,264 --> 00:17:12,165
+vos cadeaux, les enfants!
+
+503
+00:17:12,232 --> 00:17:14,134
+- Je m'occupe du traîneau
+
+504
+00:17:14,201 --> 00:17:16,170
+et je te confie le Père Noël.
+
+505
+00:17:30,050 --> 00:17:31,852
+- Woh, tout doux!
+
+506
+00:17:31,919 --> 00:17:33,820
+(exclamations)
+
+507
+00:17:37,157 --> 00:17:38,992
+- Merci beaucoup.
+
+508
+00:17:39,059 --> 00:17:40,928
+- LADYBUG!
+
+509
+00:17:40,994 --> 00:17:42,863
+- Ça recommence!
+
+510
+00:17:42,930 --> 00:17:44,831
+(cris)
+
+511
+00:17:52,005 --> 00:17:53,473
+Ladybug? Chat Noir?
+
+512
+00:17:53,540 --> 00:17:55,008
+Ça, c'est un scoop de Noël. Un
+
+513
+00:17:55,075 --> 00:17:56,543
+petit mot pour mon Ladyblogue?
+
+514
+00:17:56,610 --> 00:17:58,078
+- Oh! Euh... non, non, c'est pas
+
+515
+00:17:58,145 --> 00:17:59,613
+ce que vous croyez.
+
+516
+00:17:59,680 --> 00:18:00,000
+(rires)
+
+517
+00:18:00,000 --> 00:18:01,114
+(rires)
+
+518
+00:18:01,181 --> 00:18:02,649
+- Ho! Ho! Ho!
+
+519
+00:18:02,716 --> 00:18:04,184
+- Non, attends,
+
+520
+00:18:04,251 --> 00:18:05,719
+j'ai une autre idée.
+
+521
+00:18:05,786 --> 00:18:07,321
+Lucky charm!
+
+522
+00:18:13,360 --> 00:18:15,529
+- Oh, top! Avec ça, c'est sûr,
+
+523
+00:18:15,596 --> 00:18:17,731
+l'affaire est dans la boîte.
+
+524
+00:18:17,798 --> 00:18:19,967
+- Hum... il va me falloir
+
+525
+00:18:20,033 --> 00:18:22,202
+du scotch, des ciseaux, ce genre
+
+526
+00:18:22,269 --> 00:18:24,404
+de choses. T'as pas ça ici?
+
+527
+00:18:24,471 --> 00:18:26,640
+- Là-haut.
+
+528
+00:18:26,707 --> 00:18:28,742
+- Ici aussi.
+
+529
+00:18:31,478 --> 00:18:33,146
+- (ensemble): Tiens.
+
+530
+00:18:34,548 --> 00:18:35,749
+- Ma liste de Noël. Passe à la
+
+531
+00:18:35,816 --> 00:18:36,984
+boulangerie des Dupain-Cheng et
+
+532
+00:18:37,050 --> 00:18:38,252
+ramène-moi ça. On se retrouve à
+
+533
+00:18:38,318 --> 00:18:39,486
+la tour Eiffel. Je t'expliquerai
+
+534
+00:18:39,553 --> 00:18:40,754
+tout là-bas.
+
+535
+00:18:40,821 --> 00:18:42,322
+- J'ai toujours rêvé d'être
+
+536
+00:18:42,389 --> 00:18:43,991
+ton Père Noël, ma lady!
+
+537
+00:18:45,225 --> 00:18:47,127
+- Ne vous inquiétez pas, tout
+
+538
+00:18:47,194 --> 00:18:49,062
+va redevenir comme avant. Woh!
+
+539
+00:18:49,129 --> 00:18:50,998
+- Bonne chance, Coccinoël!
+
+540
+00:18:51,064 --> 00:18:53,033
+(rire machiavélique)
+
+541
+00:18:54,034 --> 00:18:57,604
+- Hein? Grrr...
+
+542
+00:19:10,117 --> 00:19:12,252
+Hein? C'est moi?
+
+543
+00:19:12,319 --> 00:19:14,454
+- ♪ Pire Noël, cette fois,
+
+544
+00:19:14,521 --> 00:19:16,657
+c'est réglé
+
+545
+00:19:16,723 --> 00:19:18,859
+♪ On abandonne, t'as gagné
+
+546
+00:19:18,926 --> 00:19:21,061
+♪ Personne pour venir
+
+547
+00:19:21,128 --> 00:19:23,230
+à notre rescousse
+
+548
+00:19:23,297 --> 00:19:25,432
+♪ On te donne nos miraculous
+
+549
+00:19:25,499 --> 00:19:27,634
+♪ Mais avant ça,
+
+550
+00:19:27,701 --> 00:19:29,837
+on a un cadeau pour toi
+
+551
+00:19:29,903 --> 00:19:30,000
+♪ Car le soir de Noël,
+
+552
+00:19:30,000 --> 00:19:32,039
+♪ Car le soir de Noël,
+
+553
+00:19:32,105 --> 00:19:34,241
+même toi, tu y as droit ♪
+
+554
+00:19:34,308 --> 00:19:36,643
+- Un paquet pour moi?
+
+555
+00:19:36,710 --> 00:19:39,079
+- Ne l'écoute pas!
+
+556
+00:19:39,146 --> 00:19:41,481
+C'est forcément un piège!
+
+557
+00:19:41,548 --> 00:19:43,884
+- ♪ Tu nous fais si peur,
+
+558
+00:19:43,951 --> 00:19:46,286
+tu es tellement cruel
+
+559
+00:19:46,353 --> 00:19:48,722
+♪ Mais on a tous droit
+
+560
+00:19:48,789 --> 00:19:51,191
+à un cadeau le soir de Noël ♪
+
+561
+00:19:53,060 --> 00:19:55,262
+(efforts)
+
+562
+00:19:58,098 --> 00:20:00,000
+Joyeux Noël!
+
+563
+00:20:00,000 --> 00:20:00,100
+Joyeux Noël!
+
+564
+00:20:03,737 --> 00:20:05,839
+- Cataclysme!
+
+565
+00:20:18,118 --> 00:20:19,953
+Joyeux Noël, ma lady!
+
+566
+00:20:20,020 --> 00:20:21,889
+- Merci, chaton!
+
+567
+00:20:24,324 --> 00:20:25,893
+Tu as assez fait de mal
+
+568
+00:20:25,959 --> 00:20:27,628
+comme ça, petit akuma.
+
+569
+00:20:30,130 --> 00:20:32,733
+Je te libère du mal!
+
+570
+00:20:36,303 --> 00:20:39,506
+Je t'ai eu! Bye-bye, petit
+
+571
+00:20:39,573 --> 00:20:42,876
+papillon. Miraculous Ladybug!
+
+572
+00:20:51,618 --> 00:20:53,620
+Hein?
+
+573
+00:20:55,756 --> 00:20:57,624
+- (ensemble): Bien joué!
+
+574
+00:20:57,691 --> 00:20:59,560
+- Ladybug, Chat Noir, vous
+
+575
+00:20:59,626 --> 00:21:00,000
+pouvez bien passer un joyeux
+
+576
+00:21:00,000 --> 00:21:01,495
+pouvez bien passer un joyeux
+
+577
+00:21:01,562 --> 00:21:03,463
+Noël. On verra l'an prochain
+
+578
+00:21:03,530 --> 00:21:05,399
+pour qui seront
+
+579
+00:21:05,465 --> 00:21:07,401
+les plus beaux cadeaux!
+
+580
+00:21:10,737 --> 00:21:12,940
+Adrien, je ne peux pas accepter
+
+581
+00:21:13,006 --> 00:21:15,209
+que tu disparaisses ainsi. Je ne
+
+582
+00:21:15,275 --> 00:21:17,477
+supporterais pas de te perdre.
+
+583
+00:21:17,544 --> 00:21:20,681
+(sonnette)
+
+584
+00:21:23,250 --> 00:21:25,686
+- Vous avez de la visite.
+
+585
+00:21:29,089 --> 00:21:30,000
+Je me suis permis de les
+
+586
+00:21:30,000 --> 00:21:30,490
+Je me suis permis de les
+
+587
+00:21:30,557 --> 00:21:31,959
+prévenir qu'Adrien était sain et
+
+588
+00:21:32,025 --> 00:21:33,460
+sauf, monsieur. Ils se faisaient
+
+589
+00:21:33,527 --> 00:21:34,995
+du souci pour leur ami.
+
+590
+00:21:36,763 --> 00:21:38,632
+- Oh, s'il vous plaît, père,
+
+591
+00:21:38,699 --> 00:21:40,534
+c'est... c'est l'esprit de Noël.
+
+592
+00:21:40,601 --> 00:21:42,436
+- Entendu. Entrez donc.
+
+593
+00:21:42,503 --> 00:21:44,438
+(rires)
+
+594
+00:21:45,439 --> 00:21:47,674
+- Joyeux Noël, Adrien.
+
+595
+00:21:47,741 --> 00:21:51,111
+- (tous): Joyeux Noël à tous.
+
+596
+00:21:51,178 --> 00:21:54,548
+- Joyeux Noël, maman.
+
+597
+00:21:54,615 --> 00:21:58,051
+Sous-titrage: Télé-Québec

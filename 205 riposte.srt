@@ -1,0 +1,2329 @@
+﻿1
+00:00:01,969 --> 00:00:06,340
+- Je m'appelle Marinette,
+une fille comme les autres.
+
+2
+00:00:06,406 --> 00:00:07,808
+Mais quand
+le destin me choisit
+
+3
+00:00:07,875 --> 00:00:10,244
+pour lutter
+contre les forces du mal,
+
+4
+00:00:10,310 --> 00:00:13,213
+je deviens
+Miraculous Ladybug!
+
+5
+00:00:13,280 --> 00:00:16,250
+♪ Miraculous, porte-bonheur ♪
+
+6
+00:00:16,316 --> 00:00:19,286
+♪ Lady magique
+et lady chance ♪
+
+7
+00:00:19,353 --> 00:00:22,122
+♪ Miraculous, lady du coeur ♪
+
+8
+00:00:22,189 --> 00:00:24,958
+♪ Être héroïque
+en cas d'urgence ♪
+
+9
+00:00:25,025 --> 00:00:27,828
+♪ Miraculous ♪
+
+10
+00:00:31,565 --> 00:00:32,966
+- Cette tenue d'escrimeuse te va
+
+11
+00:00:33,033 --> 00:00:34,434
+très bien, Marinette.
+
+12
+00:00:34,501 --> 00:00:35,903
+- Merci, Tikki! J'espère que
+
+13
+00:00:35,969 --> 00:00:37,337
+je serai plus douée pour manier
+
+14
+00:00:37,404 --> 00:00:38,805
+le sabre que pour trouver
+
+15
+00:00:38,872 --> 00:00:40,274
+un casque à ma taille. Oh!
+
+16
+00:00:40,340 --> 00:00:41,808
+(rire)
+
+17
+00:00:42,176 --> 00:00:43,510
+Il faut absolument que j'assure!
+
+18
+00:00:43,577 --> 00:00:44,878
+L'école D'Argentcourt est
+
+19
+00:00:44,945 --> 00:00:46,280
+la plus réputée de Paris!
+
+20
+00:00:46,346 --> 00:00:47,681
+Cette journée portes ouvertes
+
+21
+00:00:47,748 --> 00:00:49,049
+est l'occasion rêvée de faire
+
+22
+00:00:49,116 --> 00:00:50,450
+mes preuves et de décrocher
+
+23
+00:00:50,517 --> 00:00:51,852
+une place!
+
+24
+00:00:51,919 --> 00:00:53,220
+- Tu as révisé les règles
+
+25
+00:00:53,287 --> 00:00:54,621
+de l'escrime tout le weekend.
+
+26
+00:00:54,688 --> 00:00:56,023
+Ça va bien se passer, tu verras.
+
+27
+00:00:56,089 --> 00:00:57,391
+- T'as raison! Je vais lui
+
+28
+00:00:57,457 --> 00:00:58,792
+en mettre plein la vue à Adrien!
+
+29
+00:00:58,859 --> 00:01:00,000
+Oh! Ah! Hé! Ah! Voilà! Celui-là
+
+30
+00:01:00,000 --> 00:01:01,528
+Oh! Ah! Hé! Ah! Voilà! Celui-là
+
+31
+00:01:01,595 --> 00:01:04,231
+me semble parfait!
+
+32
+00:01:04,298 --> 00:01:05,699
+- Je suis le maître d'armes,
+
+33
+00:01:05,766 --> 00:01:07,134
+M. D'Argentcourt. Je vous
+
+34
+00:01:07,201 --> 00:01:08,602
+rappelle que cette année,
+
+35
+00:01:08,669 --> 00:01:10,070
+il n'y a qu'une seule place
+
+36
+00:01:10,137 --> 00:01:11,538
+à pourvoir. Pour sélectionner
+
+37
+00:01:11,605 --> 00:01:13,006
+celui ou celle qui aura
+
+38
+00:01:13,073 --> 00:01:14,441
+la chance d'intégrer l'équipe
+
+39
+00:01:14,508 --> 00:01:15,909
+d'escrime, les néophytes
+
+40
+00:01:15,976 --> 00:01:17,377
+exécuteront une série d'assauts
+
+41
+00:01:17,444 --> 00:01:18,812
+face aux anciens.
+
+42
+00:01:18,879 --> 00:01:20,280
+- Mais où est Adrien?
+
+43
+00:01:20,347 --> 00:01:21,748
+- Mettez-vous en place!
+
+44
+00:01:21,815 --> 00:01:23,283
+- Tu cherches quelqu'un?
+
+45
+00:01:23,350 --> 00:01:24,785
+- Oui, je pensais qu'Adrien
+
+46
+00:01:24,852 --> 00:01:26,320
+serait là. Il fait à peu près
+
+47
+00:01:26,386 --> 00:01:27,821
+cette taille, il est blond,
+
+48
+00:01:27,888 --> 00:01:29,356
+super gentil et trop craquant.
+
+49
+00:01:29,423 --> 00:01:30,000
+- Merci pour le compliment!
+
+50
+00:01:30,000 --> 00:01:30,891
+- Merci pour le compliment!
+
+51
+00:01:30,958 --> 00:01:32,392
+- Oh!
+
+52
+00:01:32,459 --> 00:01:33,927
+- Je ne savais pas que
+
+53
+00:01:33,994 --> 00:01:35,462
+tu aimais l'escrime.
+
+54
+00:01:35,529 --> 00:01:36,964
+- Adrien, ravie de faire
+
+55
+00:01:37,030 --> 00:01:38,498
+de l'escrime! Oui, je suis
+
+56
+00:01:38,565 --> 00:01:40,033
+carrément folle de toi! Je veux
+
+57
+00:01:40,100 --> 00:01:41,535
+dire, ravie de te voir. Je suis
+
+58
+00:01:41,602 --> 00:01:43,070
+carrément folle d'escrime.
+
+59
+00:01:43,136 --> 00:01:44,571
+(petits rires)
+
+60
+00:01:44,638 --> 00:01:46,173
+- Mettez-vous en place!
+
+61
+00:01:48,208 --> 00:01:50,110
+- Mets ton pied gauche
+
+62
+00:01:50,177 --> 00:01:52,079
+en arrière et tourne-le vers
+
+63
+00:01:52,145 --> 00:01:54,047
+l'extérieur. Les genoux
+
+64
+00:01:54,114 --> 00:01:56,016
+bien fléchis. Parfait! Et mets
+
+65
+00:01:56,083 --> 00:01:57,985
+ton sabre en avant, comme ça.
+
+66
+00:01:58,051 --> 00:02:00,000
+(petit rire)
+
+67
+00:02:00,000 --> 00:02:00,120
+(petit rire)
+
+68
+00:02:00,187 --> 00:02:02,356
+- Saluez-vous!
+
+69
+00:02:06,293 --> 00:02:09,796
+En garde... Prêts? Allez!
+
+70
+00:02:09,863 --> 00:02:12,366
+(petits cris)
+
+71
+00:02:14,268 --> 00:02:16,403
+- Allez! Vas-y, Marinette!
+
+72
+00:02:16,470 --> 00:02:18,572
+Tu dois me toucher.
+
+73
+00:02:18,639 --> 00:02:20,741
+- Ha! Ha! Te toucher,
+
+74
+00:02:20,807 --> 00:02:22,943
+c'est ça...
+
+75
+00:02:23,010 --> 00:02:24,678
+(petit cri)
+
+76
+00:02:24,745 --> 00:02:26,446
+- Attaque. Touche.
+
+77
+00:02:26,513 --> 00:02:28,182
+Point. Continuez.
+
+78
+00:02:28,248 --> 00:02:29,917
+- Merci!
+
+79
+00:02:29,983 --> 00:02:30,000
+- Je n'ai fait qu'attaquer.
+
+80
+00:02:30,000 --> 00:02:31,652
+- Je n'ai fait qu'attaquer.
+
+81
+00:02:31,718 --> 00:02:33,420
+Tu as de bons réflexes.
+
+82
+00:02:33,487 --> 00:02:35,155
+En garde!
+
+83
+00:02:35,222 --> 00:02:36,523
+- Prête? Allez!
+
+84
+00:02:36,590 --> 00:02:37,858
+- Charger!
+
+85
+00:02:37,925 --> 00:02:39,226
+- Oh!
+
+86
+00:02:39,293 --> 00:02:40,561
+- Ha!
+
+87
+00:02:40,627 --> 00:02:41,929
+- Attaque parée, riposte,
+
+88
+00:02:41,995 --> 00:02:43,263
+contre-attaque. Point pour
+
+89
+00:02:43,330 --> 00:02:44,631
+toi, Marinette.
+
+90
+00:02:44,698 --> 00:02:45,966
+- Je comprends pas. Tu m'as
+
+91
+00:02:46,033 --> 00:02:47,334
+touchée en premier.
+
+92
+00:02:47,401 --> 00:02:48,669
+- Au sabre, le tireur qui touche
+
+93
+00:02:48,735 --> 00:02:50,037
+en premier n'est pas forcément
+
+94
+00:02:50,103 --> 00:02:51,405
+celui qui gagne le point. Tu as
+
+95
+00:02:51,471 --> 00:02:52,739
+pris l'initiative, on dit que
+
+96
+00:02:52,806 --> 00:02:54,107
+tu as la priorité. Je ne pouvais
+
+97
+00:02:54,174 --> 00:02:55,442
+que parer ou riposter. Donc,
+
+98
+00:02:55,509 --> 00:02:56,810
+je perds.
+
+99
+00:02:56,877 --> 00:02:58,145
+- Ça va tellement vite. Comment
+
+100
+00:02:58,212 --> 00:02:59,513
+tu fais pour savoir qui a gagné
+
+101
+00:02:59,580 --> 00:03:00,000
+le point?
+
+102
+00:03:00,000 --> 00:03:00,848
+le point?
+
+103
+00:03:00,914 --> 00:03:02,216
+- On ne peut pas toujours
+
+104
+00:03:02,282 --> 00:03:03,550
+savoir. C'est pour ça qu'on peut
+
+105
+00:03:03,617 --> 00:03:04,985
+s'abstenir. On continue?
+
+106
+00:03:07,321 --> 00:03:08,889
+- Hé! Monsieur! Vous êtes
+
+107
+00:03:08,956 --> 00:03:10,524
+le maître d'armes D'Argentcourt?
+
+108
+00:03:10,591 --> 00:03:12,159
+- Plaît-il?
+
+109
+00:03:12,226 --> 00:03:13,794
+- Je veux intégrer votre école.
+
+110
+00:03:13,861 --> 00:03:15,429
+- Il n'y a que les meilleurs qui
+
+111
+00:03:15,495 --> 00:03:17,064
+le peuvent, insolente!
+
+112
+00:03:17,130 --> 00:03:18,665
+- Partout où je suis allée,
+
+113
+00:03:18,732 --> 00:03:20,300
+j'étais de ceux-là.
+
+114
+00:03:20,367 --> 00:03:21,935
+- Par le fer! C'est que
+
+115
+00:03:22,002 --> 00:03:23,570
+cette damoiselle a de l'aplomb!
+
+116
+00:03:23,637 --> 00:03:25,205
+Entendu! Je pourrai envisager
+
+117
+00:03:25,272 --> 00:03:26,840
+votre admission lorsque vous
+
+118
+00:03:26,907 --> 00:03:28,542
+aurez battu l'un de mes élèves.
+
+119
+00:03:30,043 --> 00:03:32,112
+- Qui est le meilleur
+
+120
+00:03:32,179 --> 00:03:34,281
+tireur ici?
+
+121
+00:03:34,348 --> 00:03:36,416
+(murmures)
+
+122
+00:03:36,483 --> 00:03:38,585
+- Adrien, donnez donc une leçon
+
+123
+00:03:38,652 --> 00:03:40,721
+de modestie à notre visiteuse.
+
+124
+00:03:40,787 --> 00:03:43,390
+- Très bien, maître!
+
+125
+00:03:57,204 --> 00:03:58,539
+- Oh! C'est pas juste! Elle va
+
+126
+00:03:58,605 --> 00:03:59,973
+obtenir la seule place
+
+127
+00:04:00,040 --> 00:04:01,375
+disponible. En plus de ça,
+
+128
+00:04:01,441 --> 00:04:02,809
+elle est arrivée en retard.
+
+129
+00:04:02,876 --> 00:04:04,211
+- Attends! Il faut d'abord
+
+130
+00:04:04,278 --> 00:04:05,646
+qu'elle batte Adrien.
+
+131
+00:04:05,712 --> 00:04:07,114
+- En garde...
+
+132
+00:04:08,782 --> 00:04:11,985
+Prêts? Allez!
+
+133
+00:04:16,123 --> 00:04:17,457
+(bip)
+
+134
+00:04:17,524 --> 00:04:18,926
+Simultané. Pas de touche.
+
+135
+00:04:19,927 --> 00:04:21,228
+- J'étais sûre qu'Adrien l'avait
+
+136
+00:04:21,295 --> 00:04:22,596
+touchée en premier.
+
+137
+00:04:22,663 --> 00:04:23,931
+- C'est pas sûr. En tout cas,
+
+138
+00:04:23,997 --> 00:04:25,299
+on ne discute pas
+
+139
+00:04:25,365 --> 00:04:26,667
+une décision d'arbitrage.
+
+140
+00:04:26,733 --> 00:04:30,000
+- En garde! Prêts? Allez!
+
+141
+00:04:30,000 --> 00:04:30,904
+- En garde! Prêts? Allez!
+
+142
+00:04:30,971 --> 00:04:32,739
+(petits cris)
+
+143
+00:04:32,806 --> 00:04:34,575
+(bip)
+
+144
+00:04:34,641 --> 00:04:36,410
+(murmures)
+
+145
+00:04:36,476 --> 00:04:38,212
+Euh... Abstention.
+
+146
+00:04:38,278 --> 00:04:40,047
+- Qu'est-ce qui se passe?
+
+147
+00:04:40,113 --> 00:04:41,882
+- M. D'Argentcourt n'est pas
+
+148
+00:04:41,949 --> 00:04:43,717
+sûr. Il préfère s'abstenir.
+
+149
+00:04:43,784 --> 00:04:45,552
+C'est serré.
+
+150
+00:04:45,619 --> 00:04:46,920
+- En garde!
+
+151
+00:04:46,987 --> 00:04:48,288
+- Attendez! Je propose
+
+152
+00:04:48,355 --> 00:04:49,656
+qu'on fasse ça à l'ancienne.
+
+153
+00:04:49,723 --> 00:04:51,024
+Sans machine, nous serons
+
+154
+00:04:51,091 --> 00:04:52,392
+plus libres.
+
+155
+00:04:52,459 --> 00:04:53,760
+- Adrien?
+
+156
+00:04:53,827 --> 00:04:55,195
+- D'accord.
+
+157
+00:04:58,966 --> 00:05:00,000
+- Mais comment on va savoir qui
+
+158
+00:05:00,000 --> 00:05:00,701
+- Mais comment on va savoir qui
+
+159
+00:05:00,767 --> 00:05:02,503
+touche l'autre en premier.
+
+160
+00:05:02,569 --> 00:05:04,338
+- En ouvrant grand les yeux.
+
+161
+00:05:04,404 --> 00:05:06,206
+- En garde!
+
+162
+00:05:07,207 --> 00:05:09,376
+Prêts? Allez!
+
+163
+00:05:09,443 --> 00:05:11,712
+(petits cris)
+
+164
+00:05:16,717 --> 00:05:18,452
+- Ah!
+
+165
+00:05:23,891 --> 00:05:25,726
+- Ça ressemble à ça l'escrime?
+
+166
+00:05:25,792 --> 00:05:27,661
+- Par sang bleu! Mais c'est tout
+
+167
+00:05:27,728 --> 00:05:29,630
+à fait ça, l'escrime!
+
+168
+00:05:37,571 --> 00:05:39,273
+- Oh!
+
+169
+00:05:39,339 --> 00:05:41,008
+- C'est tout ce que tu peux
+
+170
+00:05:41,074 --> 00:05:42,843
+faire? Ah!
+
+171
+00:05:45,779 --> 00:05:47,347
+- L'instant fatidique! L'assaut
+
+172
+00:05:47,414 --> 00:05:49,049
+final! Oh!
+
+173
+00:05:54,054 --> 00:05:55,756
+(cri)
+
+174
+00:05:59,359 --> 00:06:00,000
+- Faites place!
+
+175
+00:06:00,000 --> 00:06:01,161
+- Faites place!
+
+176
+00:06:01,228 --> 00:06:03,030
+(cris)
+
+177
+00:06:03,096 --> 00:06:04,965
+Oh...
+
+178
+00:06:12,239 --> 00:06:14,942
+- Finissons-en! Ya!
+
+179
+00:06:18,412 --> 00:06:20,480
+- Oh...
+
+180
+00:06:22,482 --> 00:06:24,017
+- Qui a frappé le premier? Qui?
+
+181
+00:06:24,084 --> 00:06:25,619
+- Euh... Je...
+
+182
+00:06:25,686 --> 00:06:27,221
+- Qui a porté la touche?
+
+183
+00:06:27,287 --> 00:06:28,822
+Je veux le savoir.
+
+184
+00:06:28,889 --> 00:06:30,000
+- Je sais pas. Je crois... que
+
+185
+00:06:30,000 --> 00:06:30,424
+- Je sais pas. Je crois... que
+
+186
+00:06:30,490 --> 00:06:32,025
+c'était... Adrien.
+
+187
+00:06:32,092 --> 00:06:33,627
+- Excellent! Voilà une victoire
+
+188
+00:06:33,694 --> 00:06:35,229
+qui lavera l'honneur
+
+189
+00:06:35,295 --> 00:06:36,830
+de l'école D'Argentcourt.
+
+190
+00:06:36,897 --> 00:06:39,433
+(soupir)
+
+191
+00:06:45,839 --> 00:06:47,074
+- T'es sûre de toi, Marinette?
+
+192
+00:06:47,140 --> 00:06:48,375
+- Euh... J'ai pas vraiment
+
+193
+00:06:48,442 --> 00:06:49,676
+l'habitude. Il m'a semblé que
+
+194
+00:06:49,743 --> 00:06:50,978
+c'était toi, mais tout a été
+
+195
+00:06:51,044 --> 00:06:52,279
+si rapide.
+
+196
+00:06:52,346 --> 00:06:53,580
+- Je crois que c'est elle qui a
+
+197
+00:06:53,647 --> 00:06:54,882
+frappé la première.
+
+198
+00:06:54,948 --> 00:06:56,183
+- La décision de l'arbitre
+
+199
+00:06:56,250 --> 00:06:57,484
+est souveraine.
+
+200
+00:06:57,551 --> 00:07:00,000
+(soupir)
+
+201
+00:07:00,000 --> 00:07:00,187
+(soupir)
+
+202
+00:07:11,131 --> 00:07:13,300
+- Une championne déçue par
+
+203
+00:07:13,367 --> 00:07:15,569
+une décision injuste. L'honneur
+
+204
+00:07:15,636 --> 00:07:17,838
+bafoué est l'acier idéal pour
+
+205
+00:07:17,905 --> 00:07:20,140
+forger la lame de la vengeance.
+
+206
+00:07:25,579 --> 00:07:28,415
+Va, petit akuma! Trouve
+
+207
+00:07:28,482 --> 00:07:30,000
+cette escrimeuse et noircis
+
+208
+00:07:30,000 --> 00:07:31,318
+cette escrimeuse et noircis
+
+209
+00:07:31,385 --> 00:07:34,288
+son coeur!
+
+210
+00:07:37,658 --> 00:07:39,459
+- Je vais lui proposer
+
+211
+00:07:39,526 --> 00:07:41,428
+une revanche.
+
+212
+00:07:46,700 --> 00:07:49,837
+Attends! Ton sabre!
+
+213
+00:07:56,043 --> 00:07:57,611
+Oh!
+
+214
+00:07:57,678 --> 00:07:59,279
+- Ah?
+
+215
+00:08:02,282 --> 00:08:04,184
+- Et si... et si nous faisions
+
+216
+00:08:04,251 --> 00:08:06,186
+une... une revanche?
+
+217
+00:08:06,253 --> 00:08:08,155
+- C'est pas la peine. Tu as
+
+218
+00:08:08,222 --> 00:08:10,123
+gagné. Dans ma famille,
+
+219
+00:08:10,190 --> 00:08:12,125
+les secondes chances,
+
+220
+00:08:12,192 --> 00:08:14,161
+ça n'existe pas. Au revoir!
+
+221
+00:08:15,796 --> 00:08:17,464
+(vrombissement)
+
+222
+00:08:17,531 --> 00:08:19,199
+- Hé! C'est quoi ton nom?
+
+223
+00:08:19,266 --> 00:08:20,934
+- Tu pourras peut-être intégrer
+
+224
+00:08:21,001 --> 00:08:22,736
+l'équipe d'escrime finalement.
+
+225
+00:08:24,137 --> 00:08:26,373
+- Suivez cette voiture!
+
+226
+00:08:27,407 --> 00:08:30,000
+- Oh! Un akuma!
+
+227
+00:08:30,000 --> 00:08:31,345
+- Oh! Un akuma!
+
+228
+00:08:39,086 --> 00:08:41,088
+Il faut qu'on le capture avant
+
+229
+00:08:41,154 --> 00:08:43,156
+qu'il akumatise quelqu'un!
+
+230
+00:08:43,223 --> 00:08:45,225
+- À ton service, Marinette!
+
+231
+00:08:45,292 --> 00:08:47,361
+- Vitesse! Adrien est en danger!
+
+232
+00:08:48,362 --> 00:08:51,465
+Tikki, transforme-moi! Ah!
+
+233
+00:09:05,746 --> 00:09:08,115
+(expressions de surprise)
+
+234
+00:09:12,819 --> 00:09:14,721
+- Je ne suis pas disponible.
+
+235
+00:09:14,788 --> 00:09:16,690
+Laissez un message.
+
+236
+00:09:16,757 --> 00:09:18,659
+- Mère, vous pensiez que j'étais
+
+237
+00:09:18,725 --> 00:09:20,661
+à la hauteur, mais j'ai perdu.
+
+238
+00:09:20,727 --> 00:09:22,629
+Je n'intégrerai pas
+
+239
+00:09:22,696 --> 00:09:24,665
+l'école D'Argentcourt.
+
+240
+00:09:34,775 --> 00:09:36,610
+- Riposte, je suis le Papillon.
+
+241
+00:09:36,677 --> 00:09:38,512
+Je t'accorde une seconde chance.
+
+242
+00:09:38,579 --> 00:09:40,414
+Tu vas pouvoir prouver que tu es
+
+243
+00:09:40,480 --> 00:09:42,316
+la meilleure escrimeuse, mais
+
+244
+00:09:42,382 --> 00:09:44,251
+en échange, tu devras
+
+245
+00:09:44,318 --> 00:09:46,153
+me rapporter les Miraculous
+
+246
+00:09:46,220 --> 00:09:48,055
+de Ladybug et Chat Noir.
+
+247
+00:09:48,121 --> 00:09:49,957
+- Sur mon honneur, Papillon,
+
+248
+00:09:50,023 --> 00:09:51,925
+je vaincrai!
+
+249
+00:10:03,003 --> 00:10:04,471
+- C'est la fille unique
+
+250
+00:10:04,538 --> 00:10:06,006
+d'une famille de prestigieux
+
+251
+00:10:06,073 --> 00:10:07,541
+escrimeurs! Sa mère et
+
+252
+00:10:07,608 --> 00:10:09,076
+son grand-père étaient champions
+
+253
+00:10:09,142 --> 00:10:10,644
+du monde. Je l'avais déjà lu
+
+254
+00:10:10,711 --> 00:10:12,179
+quelque part. Elle vient
+
+255
+00:10:12,246 --> 00:10:13,714
+d'arriver à Paris avec sa mère.
+
+256
+00:10:13,780 --> 00:10:15,315
+C'est incroyable!
+
+257
+00:10:16,483 --> 00:10:17,851
+Ah?
+
+258
+00:10:17,918 --> 00:10:19,286
+(choc)
+
+259
+00:10:19,353 --> 00:10:20,687
+(crissement de pneus)
+
+260
+00:10:20,754 --> 00:10:22,189
+Oh!
+
+261
+00:10:23,757 --> 00:10:25,158
+- Tu m'as offert une revanche.
+
+262
+00:10:25,225 --> 00:10:26,593
+Je suis venue te dire que
+
+263
+00:10:26,660 --> 00:10:28,061
+je l'accepte.
+
+264
+00:10:28,128 --> 00:10:29,530
+- Je... Je peux pas t'affronter
+
+265
+00:10:29,596 --> 00:10:30,000
+comme ça. Tu n'es pas...
+
+266
+00:10:30,000 --> 00:10:30,998
+comme ça. Tu n'es pas...
+
+267
+00:10:31,064 --> 00:10:32,432
+Tu n'es pas toi-même.
+
+268
+00:10:32,499 --> 00:10:33,901
+- Bats-toi!
+
+269
+00:10:33,967 --> 00:10:35,802
+- Halte, Riposte! Si tu désires
+
+270
+00:10:35,869 --> 00:10:37,704
+te venger, il faut tout d'abord
+
+271
+00:10:37,771 --> 00:10:39,640
+que tu récupères les Miraculous
+
+272
+00:10:39,706 --> 00:10:41,542
+de Ladybug et Chat Noir.
+
+273
+00:10:41,608 --> 00:10:43,443
+- C'est d'accord, Papillon!
+
+274
+00:10:43,510 --> 00:10:45,946
+Où est-ce que tu vas comme ça?
+
+275
+00:10:46,013 --> 00:10:48,448
+Reste là et sois patient!
+
+276
+00:10:48,515 --> 00:10:50,951
+- Oh!
+
+277
+00:10:51,018 --> 00:10:52,619
+- Ah?
+
+278
+00:10:52,686 --> 00:10:54,321
+- Que dirais-tu de commencer par
+
+279
+00:10:54,388 --> 00:10:56,056
+un duel avec moi? Ah!
+
+280
+00:10:57,357 --> 00:10:58,892
+Il fait partie de sa main!
+
+281
+00:10:58,959 --> 00:11:00,000
+(cri)
+
+282
+00:11:00,000 --> 00:11:00,494
+(cri)
+
+283
+00:11:00,561 --> 00:11:02,095
+- Donne-moi un instant, Adrien.
+
+284
+00:11:02,162 --> 00:11:03,730
+Je dois d'abord en finir avec
+
+285
+00:11:03,797 --> 00:11:05,332
+elle. Mais tu n'as pas de souci
+
+286
+00:11:05,399 --> 00:11:06,934
+à te faire. Je ne t'oublie pas.
+
+287
+00:11:07,000 --> 00:11:08,535
+Ça ne sera pas long!
+
+288
+00:11:08,602 --> 00:11:10,137
+- Ah?
+
+289
+00:11:10,204 --> 00:11:13,340
+(cris)
+
+290
+00:11:13,407 --> 00:11:15,309
+- Attention, Ladybug!
+
+291
+00:11:15,375 --> 00:11:17,277
+Ne la laisse pas avancer!
+
+292
+00:11:17,344 --> 00:11:18,946
+(petits cris)
+
+293
+00:11:19,012 --> 00:11:20,614
+- Merci, mais maintenant,
+
+294
+00:11:20,681 --> 00:11:22,249
+il faut que tu files.
+
+295
+00:11:22,316 --> 00:11:23,984
+Cette fille ne te mérite pas.
+
+296
+00:11:28,255 --> 00:11:29,723
+- Attention, Ladybug!
+
+297
+00:11:29,790 --> 00:11:30,000
+- Ah?
+
+298
+00:11:30,000 --> 00:11:31,291
+- Ah?
+
+299
+00:11:31,358 --> 00:11:32,893
+(cri)
+
+300
+00:11:34,094 --> 00:11:35,295
+- Oh! Aïe!
+
+301
+00:11:35,362 --> 00:11:36,597
+- Tu t'es fait mal?
+
+302
+00:11:36,663 --> 00:11:37,865
+- Ça va aller!
+
+303
+00:11:37,931 --> 00:11:39,132
+- Il faut que je te mette
+
+304
+00:11:39,199 --> 00:11:40,400
+à l'abri. Le plus loin possible
+
+305
+00:11:40,467 --> 00:11:41,702
+de cette fille.
+
+306
+00:11:41,768 --> 00:11:43,036
+- Ça me semble un bon plan.
+
+307
+00:11:46,206 --> 00:11:49,176
+(cri d'assaut)
+
+308
+00:11:52,746 --> 00:11:54,381
+- C'est de l'escrime, ça?
+
+309
+00:11:54,448 --> 00:11:56,116
+- J'ai jamais vu ça!
+
+310
+00:11:56,183 --> 00:11:57,818
+- Ça va être compliqué
+
+311
+00:11:57,885 --> 00:11:59,520
+de te protéger en même temps que
+
+312
+00:11:59,586 --> 00:12:00,000
+je me bats. Et Chat Noir qui
+
+313
+00:12:00,000 --> 00:12:01,255
+je me bats. Et Chat Noir qui
+
+314
+00:12:01,321 --> 00:12:02,956
+se fait attendre!
+
+315
+00:12:03,023 --> 00:12:04,858
+- Il est peut-être... occupé!
+
+316
+00:12:04,925 --> 00:12:06,793
+(chocs)
+
+317
+00:12:06,860 --> 00:12:08,695
+- Laissez-moi vous expliquer
+
+318
+00:12:08,762 --> 00:12:10,597
+les règles. Vous n'êtes pas
+
+319
+00:12:10,664 --> 00:12:12,533
+autorisés à abandonner. Adrien
+
+320
+00:12:12,599 --> 00:12:14,434
+est à moi! Je vous vaincrai
+
+321
+00:12:14,501 --> 00:12:16,370
+tous les deux! Je suis
+
+322
+00:12:16,436 --> 00:12:18,272
+la meilleure escrimeuse.
+
+323
+00:12:18,338 --> 00:12:19,506
+- Personne n'a dit le contraire.
+
+324
+00:12:19,573 --> 00:12:20,741
+Mon amie Marinette a sans doute
+
+325
+00:12:20,807 --> 00:12:22,009
+fait une erreur.
+
+326
+00:12:22,075 --> 00:12:23,243
+- Une erreur d'arbitrage
+
+327
+00:12:23,310 --> 00:12:24,478
+en escrime, ça arrive. Il a
+
+328
+00:12:24,545 --> 00:12:25,712
+raison. Il faut dire que c'est
+
+329
+00:12:25,779 --> 00:12:26,947
+quand même un sport compliqué.
+
+330
+00:12:27,014 --> 00:12:28,215
+- Je suis sûr que Marinette
+
+331
+00:12:28,282 --> 00:12:29,449
+n'avait pas l'intention
+
+332
+00:12:29,516 --> 00:12:30,000
+de t'humilier.
+
+333
+00:12:30,000 --> 00:12:30,684
+de t'humilier.
+
+334
+00:12:30,751 --> 00:12:32,819
+- Évidemment que non! Euh... Hé,
+
+335
+00:12:32,886 --> 00:12:34,955
+hé! Enfin, j'en suis persuadée.
+
+336
+00:12:35,022 --> 00:12:37,124
+- Le mal est fait. C'est trop
+
+337
+00:12:37,191 --> 00:12:39,259
+tard maintenant. Et cette fois,
+
+338
+00:12:39,326 --> 00:12:41,395
+je serai seule juge. Ah!
+
+339
+00:12:41,461 --> 00:12:43,530
+- Recule, Adrien!
+
+340
+00:12:43,597 --> 00:12:45,699
+- Ah?
+
+341
+00:12:45,766 --> 00:12:47,901
+(gémissements de douleur)
+
+342
+00:12:53,207 --> 00:12:54,741
+(petit rire)
+
+343
+00:12:54,808 --> 00:12:56,310
+(cri)
+
+344
+00:12:56,376 --> 00:12:57,911
+(grondement)
+
+345
+00:12:57,978 --> 00:12:59,580
+- Oh?
+
+346
+00:13:02,950 --> 00:13:04,384
+- Tu as le goût
+
+347
+00:13:04,451 --> 00:13:05,853
+du risque aujourd'hui.
+
+348
+00:13:05,919 --> 00:13:07,354
+- C'est pas comme si j'avais
+
+349
+00:13:07,421 --> 00:13:08,822
+le choix. Ladybug a besoin
+
+350
+00:13:08,889 --> 00:13:10,324
+de moi. Plagg, tran...
+
+351
+00:13:10,390 --> 00:13:11,825
+- Adrien! Est-ce que ça va?
+
+352
+00:13:11,892 --> 00:13:13,293
+- Euh... Oui. Et toi?
+
+353
+00:13:13,360 --> 00:13:14,795
+- Ça ira mieux quand tu seras
+
+354
+00:13:14,862 --> 00:13:16,263
+en sécurité loin de cette fille.
+
+355
+00:13:16,330 --> 00:13:17,764
+Allez, on y va!
+
+356
+00:13:17,831 --> 00:13:19,399
+- Euh...
+
+357
+00:13:19,466 --> 00:13:21,068
+(petits rires)
+
+358
+00:13:36,016 --> 00:13:37,518
+- Ne restez pas là! Alerte
+
+359
+00:13:37,584 --> 00:13:39,119
+akuma! Évacuez les lieux dans
+
+360
+00:13:39,186 --> 00:13:40,687
+le calme.
+
+361
+00:13:40,754 --> 00:13:42,289
+- Par ici, messieurs-dames.
+
+362
+00:13:42,356 --> 00:13:43,857
+- Alerte akuma. Ladybug et
+
+363
+00:13:43,924 --> 00:13:45,425
+Chat Noir devraient rapidement
+
+364
+00:13:45,492 --> 00:13:47,027
+régler la situation.
+
+365
+00:13:47,094 --> 00:13:48,595
+En attendant, nos aimables
+
+366
+00:13:48,662 --> 00:13:50,197
+visiteurs sont priés de quitter
+
+367
+00:13:50,264 --> 00:13:51,765
+les lieux dans le calme. Merci!
+
+368
+00:13:51,832 --> 00:13:54,401
+- Un endroit sûr, un endroit
+
+369
+00:13:54,468 --> 00:13:57,070
+sûr... Là! Désolée! Mais au
+
+370
+00:13:57,137 --> 00:13:59,706
+moins, là, tu seras en sécurité.
+
+371
+00:13:59,773 --> 00:14:00,000
+- Sois prudente, Ladybug!
+
+372
+00:14:00,000 --> 00:14:01,375
+- Sois prudente, Ladybug!
+
+373
+00:14:01,441 --> 00:14:03,043
+- Euh... Oui, ça va aller.
+
+374
+00:14:03,110 --> 00:14:04,678
+Je te remercie. Et toi,
+
+375
+00:14:04,745 --> 00:14:06,346
+s'il te plaît, reste à l'abri
+
+376
+00:14:06,413 --> 00:14:08,081
+du danger.
+
+377
+00:14:21,728 --> 00:14:23,263
+(expressions de surprise)
+
+378
+00:14:23,330 --> 00:14:24,831
+(grincement)
+
+379
+00:14:24,898 --> 00:14:26,400
+- Ah!
+
+380
+00:14:26,466 --> 00:14:28,001
+- Ah! Où l'as-tu caché?
+
+381
+00:14:28,068 --> 00:14:29,603
+- Tu crois vraiment que je vais
+
+382
+00:14:29,670 --> 00:14:30,000
+te le dire? Cette histoire est
+
+383
+00:14:30,000 --> 00:14:31,171
+te le dire? Cette histoire est
+
+384
+00:14:31,238 --> 00:14:32,739
+désormais entre toi
+
+385
+00:14:32,806 --> 00:14:34,341
+et moi, Riposte!
+
+386
+00:14:34,408 --> 00:14:35,943
+- Tu n'es pas à la hauteur.
+
+387
+00:14:36,009 --> 00:14:37,511
+Bien! Je vais te battre, prendre
+
+388
+00:14:37,578 --> 00:14:39,079
+tes Miraculous et ensuite,
+
+389
+00:14:39,146 --> 00:14:40,681
+je trouverai où il se cache.
+
+390
+00:14:40,747 --> 00:14:42,282
+- Tu ne toucheras pas à un seul
+
+391
+00:14:42,349 --> 00:14:43,851
+de ses cheveux!
+
+392
+00:14:43,917 --> 00:14:45,586
+- Il temps de rejoindre Ladybug!
+
+393
+00:14:45,652 --> 00:14:47,287
+- (Plagg): Tu n'as pas entendu?
+
+394
+00:14:47,354 --> 00:14:49,022
+Il t'a dit de l'attendre ici.
+
+395
+00:14:49,089 --> 00:14:50,757
+Tu ne vas pas lui désobéir.
+
+396
+00:14:50,824 --> 00:14:52,459
+- Mais je dois l'aider!
+
+397
+00:14:52,526 --> 00:14:54,261
+Plagg, transforme-moi!
+
+398
+00:15:01,468 --> 00:15:04,438
+Ah! Aïe! Ah!
+
+399
+00:15:07,040 --> 00:15:09,309
+(petits cris)
+
+400
+00:15:13,981 --> 00:15:15,916
+(cri)
+
+401
+00:15:17,985 --> 00:15:19,086
+- Chat Noir!
+
+402
+00:15:19,152 --> 00:15:20,287
+- Il y a un tournoi d'escrime
+
+403
+00:15:20,354 --> 00:15:21,455
+au Louvre et je n'y suis même
+
+404
+00:15:21,522 --> 00:15:22,656
+pas invité?
+
+405
+00:15:22,723 --> 00:15:23,824
+- Laisse-moi deviner. T'es
+
+406
+00:15:23,891 --> 00:15:25,025
+en retard parce que t'étais chez
+
+407
+00:15:25,092 --> 00:15:26,193
+le vétérinaire?
+
+408
+00:15:26,260 --> 00:15:27,394
+- Je faisais ma toilette,
+
+409
+00:15:27,461 --> 00:15:28,562
+ma lady. Nous autres, les chats,
+
+410
+00:15:28,629 --> 00:15:29,763
+nous pouvons y passer
+
+411
+00:15:29,830 --> 00:15:30,000
+des heures.
+
+412
+00:15:30,000 --> 00:15:30,998
+des heures.
+
+413
+00:15:35,068 --> 00:15:36,470
+- Ah! Ah?
+
+414
+00:15:36,537 --> 00:15:37,938
+- Échec et mat, Riposte!
+
+415
+00:15:38,005 --> 00:15:39,406
+- Tu te trompes de sport,
+
+416
+00:15:39,473 --> 00:15:40,874
+ma lady! Là, il faudrait plutôt
+
+417
+00:15:40,941 --> 00:15:42,376
+dire: Attaque et point, Ladybug
+
+418
+00:15:42,442 --> 00:15:43,844
+et Chat Noir.
+
+419
+00:15:43,911 --> 00:15:45,312
+(petit cri de douleur)
+
+420
+00:15:45,379 --> 00:15:46,780
+- Chat Noir, qu'est-ce
+
+421
+00:15:46,847 --> 00:15:48,315
+qui t'arrive?
+
+422
+00:15:49,650 --> 00:15:51,418
+Ah?
+
+423
+00:15:51,485 --> 00:15:53,287
+(grognement)
+
+424
+00:15:53,353 --> 00:15:55,122
+(alarme)
+
+425
+00:15:55,189 --> 00:15:57,357
+- Ladybug!
+
+426
+00:15:57,424 --> 00:15:59,560
+- Prête pour la défaite?
+
+427
+00:15:59,626 --> 00:16:00,000
+(petits cris)
+
+428
+00:16:00,000 --> 00:16:01,595
+(petits cris)
+
+429
+00:16:06,900 --> 00:16:10,237
+- Cataclysme!
+
+430
+00:16:16,777 --> 00:16:18,812
+(gémissements de douleur)
+
+431
+00:16:18,879 --> 00:16:20,948
+(cri)
+
+432
+00:16:21,014 --> 00:16:23,116
+- Oh!
+
+433
+00:16:28,622 --> 00:16:30,000
+- Ah? C'est évident!
+
+434
+00:16:30,000 --> 00:16:30,924
+- Ah? C'est évident!
+
+435
+00:16:30,991 --> 00:16:33,293
+(petits cris)
+
+436
+00:16:33,360 --> 00:16:35,662
+L'heure de ma revanche a sonné!
+
+437
+00:16:35,729 --> 00:16:37,998
+- NON!
+
+438
+00:16:38,065 --> 00:16:40,367
+(fracas)
+
+439
+00:16:40,434 --> 00:16:42,736
+- Ah?
+
+440
+00:16:42,803 --> 00:16:45,105
+- Ah?
+
+441
+00:16:45,172 --> 00:16:47,541
+- Hum!
+
+442
+00:16:49,243 --> 00:16:50,677
+(alarme)
+
+443
+00:16:50,744 --> 00:16:52,179
+- Ah!
+
+444
+00:16:52,246 --> 00:16:53,647
+- Il n'est plus là!
+
+445
+00:16:53,714 --> 00:16:55,148
+- Ah! Qui ça?
+
+446
+00:16:55,215 --> 00:16:56,650
+- Le garçon dont Riposte veut
+
+447
+00:16:56,717 --> 00:16:58,151
+se venger. Je l'avais caché dans
+
+448
+00:16:58,218 --> 00:16:59,620
+le sarcophage.
+
+449
+00:16:59,686 --> 00:17:00,000
+- Peut-être qu'il n'aime pas...
+
+450
+00:17:00,000 --> 00:17:01,121
+- Peut-être qu'il n'aime pas...
+
+451
+00:17:01,188 --> 00:17:02,623
+être enfermé.
+
+452
+00:17:02,689 --> 00:17:05,025
+- Cherchons-le ensemble,
+
+453
+00:17:05,092 --> 00:17:07,394
+Ladybug, et finissons-en,
+
+454
+00:17:07,461 --> 00:17:09,863
+cette fois-ci! Ah!
+
+455
+00:17:11,532 --> 00:17:15,402
+- Ah! Lucky Charm!
+
+456
+00:17:19,406 --> 00:17:21,241
+Un radiateur?
+
+457
+00:17:21,308 --> 00:17:23,110
+- Euh... Génial! Exactement
+
+458
+00:17:23,177 --> 00:17:25,078
+ce qu'il nous fallait!
+
+459
+00:17:28,282 --> 00:17:30,000
+- L'akuma est dans son épée!
+
+460
+00:17:30,000 --> 00:17:30,150
+- L'akuma est dans son épée!
+
+461
+00:17:30,217 --> 00:17:32,119
+- Si on passait
+
+462
+00:17:32,186 --> 00:17:34,054
+à l'assaut final?
+
+463
+00:17:34,121 --> 00:17:36,056
+(cris d'assaut)
+
+464
+00:17:43,430 --> 00:17:46,133
+(petits cris)
+
+465
+00:17:46,200 --> 00:17:49,002
+Elle est trop rapide!
+
+466
+00:17:51,905 --> 00:17:54,074
+- Il me faut ta ceinture!
+
+467
+00:17:54,141 --> 00:17:56,310
+- Prépare-toi!
+
+468
+00:17:56,376 --> 00:17:58,312
+(petits cris)
+
+469
+00:17:58,378 --> 00:18:00,000
+En garde!
+
+470
+00:18:00,000 --> 00:18:00,314
+En garde!
+
+471
+00:18:00,380 --> 00:18:02,316
+- Prêt?
+
+472
+00:18:02,382 --> 00:18:04,318
+- Ah!
+
+473
+00:18:04,384 --> 00:18:06,320
+- Allez!
+
+474
+00:18:06,386 --> 00:18:07,888
+- Ah!
+
+475
+00:18:07,955 --> 00:18:10,791
+- Tu as assez fait de mal comme
+
+476
+00:18:10,858 --> 00:18:13,760
+ça, petit akuma.
+
+477
+00:18:15,629 --> 00:18:19,466
+Je te libère du mal!
+
+478
+00:18:22,669 --> 00:18:24,972
+Je t'ai eu!
+
+479
+00:18:25,038 --> 00:18:27,307
+Bye, bye, petit papillon!
+
+480
+00:18:27,374 --> 00:18:30,000
+Miraculous Ladybug!
+
+481
+00:18:30,000 --> 00:18:31,345
+Miraculous Ladybug!
+
+482
+00:18:37,885 --> 00:18:39,419
+- Qu'est-ce qui s'est passé?
+
+483
+00:18:39,486 --> 00:18:41,021
+- (ensemble): Bien joué!
+
+484
+00:18:41,088 --> 00:18:42,623
+(signal sonore)
+
+485
+00:18:42,689 --> 00:18:44,224
+- Je dois y aller! J'ai
+
+486
+00:18:44,291 --> 00:18:45,826
+rendez-vous chez le vétérinaire.
+
+487
+00:18:45,893 --> 00:18:47,427
+Tu veux bien t'occuper
+
+488
+00:18:47,494 --> 00:18:49,029
+de la jeune fille?
+
+489
+00:18:49,096 --> 00:18:52,633
+- Tout va bien! C'est fini!
+
+490
+00:18:57,571 --> 00:18:59,606
+- Détransformation.
+
+491
+00:18:59,673 --> 00:19:00,000
+- Oh... Tout ce sport m'a donné
+
+492
+00:19:00,000 --> 00:19:01,742
+- Oh... Tout ce sport m'a donné
+
+493
+00:19:01,808 --> 00:19:03,877
+énormément faim!
+
+494
+00:19:03,944 --> 00:19:05,979
+- Plus tard! Chut!
+
+495
+00:19:06,046 --> 00:19:08,081
+- Vas-y! Il faut que j'aille
+
+496
+00:19:08,148 --> 00:19:10,284
+retrouver quelqu'un.
+
+497
+00:19:11,351 --> 00:19:12,986
+Mais où est-ce qu'il est passé?
+
+498
+00:19:13,053 --> 00:19:14,721
+- Ladybug!
+
+499
+00:19:14,788 --> 00:19:16,423
+- Ouf! Te voilà enfin!
+
+500
+00:19:16,490 --> 00:19:18,158
+- Oui. Désolé! Je me suis dit
+
+501
+00:19:18,225 --> 00:19:19,860
+qu'ici, ce serait plus facile
+
+502
+00:19:19,927 --> 00:19:21,562
+de m'enfuir si Riposte arrivait.
+
+503
+00:19:21,628 --> 00:19:23,297
+Et puis, je... j'aime pas
+
+504
+00:19:23,363 --> 00:19:24,998
+être enfermé.
+
+505
+00:19:25,065 --> 00:19:26,733
+- Oh! C'est moi qui suis
+
+506
+00:19:26,800 --> 00:19:28,502
+désolée! T'as bien fait! Oh!
+
+507
+00:19:29,636 --> 00:19:30,000
+- Et alors... Chat Noir est
+
+508
+00:19:30,000 --> 00:19:30,971
+- Et alors... Chat Noir est
+
+509
+00:19:31,038 --> 00:19:32,339
+arrivé finalement?
+
+510
+00:19:32,406 --> 00:19:33,740
+- Oui. Il a pris son temps.
+
+511
+00:19:33,807 --> 00:19:35,142
+Sûrement occupé à faire le beau
+
+512
+00:19:35,209 --> 00:19:36,510
+auprès d'une demoiselle
+
+513
+00:19:36,577 --> 00:19:37,911
+en détresse.
+
+514
+00:19:37,978 --> 00:19:39,313
+(ricanement)
+
+515
+00:19:39,379 --> 00:19:40,681
+- Et Riposte?
+
+516
+00:19:40,747 --> 00:19:42,082
+- Elle est saine et sauve.
+
+517
+00:19:42,149 --> 00:19:43,483
+(signal sonore)
+
+518
+00:19:43,550 --> 00:19:44,852
+Ah! Je crois qu'il va falloir
+
+519
+00:19:44,918 --> 00:19:46,253
+que j'y aille! Euh... Ce serait
+
+520
+00:19:46,320 --> 00:19:49,523
+bien que tu lui rendes ça.
+
+521
+00:19:53,527 --> 00:19:56,063
+- Ah?
+
+522
+00:19:56,129 --> 00:19:58,765
+- Au revoir!
+
+523
+00:20:03,036 --> 00:20:04,671
+- L'alerte akuma est maintenant
+
+524
+00:20:04,738 --> 00:20:06,340
+terminée. Le Louvre va bientôt
+
+525
+00:20:06,406 --> 00:20:08,041
+rouvrir ses portes. Merci pour
+
+526
+00:20:08,108 --> 00:20:09,743
+votre coopération!
+
+527
+00:20:09,810 --> 00:20:11,445
+- Je suis au Louvre.
+
+528
+00:20:11,512 --> 00:20:13,146
+Je vous attends.
+
+529
+00:20:13,213 --> 00:20:14,815
+- Excuse-moi!
+
+530
+00:20:14,882 --> 00:20:16,583
+- Ah?
+
+531
+00:20:18,785 --> 00:20:20,487
+Écoute...
+
+532
+00:20:20,554 --> 00:20:22,222
+- Je suis désolé!
+
+533
+00:20:22,289 --> 00:20:23,991
+- Je suis désolée!
+
+534
+00:20:24,057 --> 00:20:25,759
+- (ensemble): Oh!
+
+535
+00:20:25,826 --> 00:20:27,761
+- Peut-être que maintenant,
+
+536
+00:20:27,828 --> 00:20:29,863
+tu voudras bien le reprendre.
+
+537
+00:20:30,864 --> 00:20:32,132
+- Non. J'ai perdu. Tu peux
+
+538
+00:20:32,199 --> 00:20:33,500
+le garder.
+
+539
+00:20:33,567 --> 00:20:34,835
+- Moi, je pense que tu avais
+
+540
+00:20:34,902 --> 00:20:36,170
+le point.
+
+541
+00:20:36,236 --> 00:20:37,504
+- Ce n'est pourtant pas ce qu'a
+
+542
+00:20:37,571 --> 00:20:38,872
+vu ton amie.
+
+543
+00:20:38,939 --> 00:20:40,207
+- Marinette est parfois
+
+544
+00:20:40,274 --> 00:20:41,542
+maladroite, mais elle est
+
+545
+00:20:41,608 --> 00:20:42,910
+honnête et gentille. Tricher
+
+546
+00:20:42,976 --> 00:20:44,244
+n'est pas son genre.
+
+547
+00:20:44,311 --> 00:20:45,846
+Elle n'avait jamais fait
+
+548
+00:20:45,913 --> 00:20:47,447
+d'escrime avant aujourd'hui.
+
+549
+00:20:47,514 --> 00:20:49,049
+- Tu l'aimes bien, n'est-ce pas?
+
+550
+00:20:49,116 --> 00:20:50,651
+- Marinette? Oui, bien sûr!
+
+551
+00:20:50,717 --> 00:20:52,252
+C'est une très bonne amie.
+
+552
+00:20:52,319 --> 00:20:53,820
+Et quand tu la connaîtras,
+
+553
+00:20:53,887 --> 00:20:55,422
+tu l'apprécieras toi aussi.
+
+554
+00:20:55,489 --> 00:20:57,024
+- Une très bonne amie... Oh!
+
+555
+00:20:57,090 --> 00:20:58,625
+- C'est déjà un bon
+
+556
+00:20:58,692 --> 00:21:00,000
+début, Marinette.
+
+557
+00:21:00,000 --> 00:21:00,227
+début, Marinette.
+
+558
+00:21:00,294 --> 00:21:02,296
+- Prends-le, s'il te plaît.
+
+559
+00:21:03,330 --> 00:21:05,265
+- Je serais vraiment heureuse
+
+560
+00:21:05,332 --> 00:21:07,234
+de connaître ton amie Marinette.
+
+561
+00:21:07,301 --> 00:21:09,303
+- Hum.
+
+562
+00:21:13,273 --> 00:21:15,375
+Moi, c'est Adrien. Et toi?
+
+563
+00:21:15,442 --> 00:21:17,611
+- Kagami.
+
+564
+00:21:19,780 --> 00:21:22,049
+Et tiens-toi prêt pour
+
+565
+00:21:22,115 --> 00:21:24,384
+la revanche.
+
+566
+00:21:24,451 --> 00:21:26,787
+- J'ai hâte, Kagami.
+
+567
+00:21:34,161 --> 00:21:35,529
+- Au moins, maintenant, tu sais
+
+568
+00:21:35,596 --> 00:21:36,997
+combien votre amitié compte
+
+569
+00:21:37,064 --> 00:21:38,432
+pour Adrien.
+
+570
+00:21:38,498 --> 00:21:39,867
+- C'est sûr! Génial! Il m'aime
+
+571
+00:21:39,933 --> 00:21:41,335
+bien. Mais ça ne me suffit pas
+
+572
+00:21:41,401 --> 00:21:42,769
+à moi. Je ne veux pas qu'il
+
+573
+00:21:42,836 --> 00:21:44,204
+se contente de bien m'aimer.
+
+574
+00:21:44,271 --> 00:21:45,639
+Je veux qu'il m'aime!
+
+575
+00:21:45,706 --> 00:21:47,107
+Tu comprends?
+
+576
+00:21:47,174 --> 00:21:48,542
+- Dans ce cas, tu as intérêt
+
+577
+00:21:48,609 --> 00:21:49,977
+à t'améliorer en escrime.
+
+578
+00:21:50,043 --> 00:21:51,445
+(rire)
+
+579
+00:21:51,512 --> 00:21:52,880
+- Tikki, en garde! Tching!
+
+580
+00:21:52,946 --> 00:21:55,682
+(rire de Tikki)
+
+581
+00:22:01,388 --> 00:22:03,390
+Sous-titrage: Télé-Québec
