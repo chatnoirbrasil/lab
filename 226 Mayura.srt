@@ -1,40 +1,40 @@
-﻿1
+1
 00:00:01,969 --> 00:00:06,340
-- Je m'appelle Marinette,
-une fille comme les autres.
+- Meu nome é Marinette,
+uma garota como qualquer outra.
 
 2
 00:00:06,406 --> 00:00:07,808
-Mais quand
-le destin me choisit
+Mas quando
+o destino me escolhe
 
 3
 00:00:07,875 --> 00:00:10,244
-pour lutter
-contre les forces du mal,
+para lutar
+contra as forças do mal,
 
 4
 00:00:10,310 --> 00:00:13,213
-je deviens
+eu me torno
 Miraculous Ladybug!
 
 5
 00:00:13,280 --> 00:00:16,250
-♪ Miraculous, porte-bonheur ♪
+♪ Miraculous amuleto da sorte ♪
 
 6
 00:00:16,316 --> 00:00:19,286
-♪ Lady magique
-et lady chance ♪
+♪ Lady mágica
+e lady sorte ♪
 
 7
 00:00:19,353 --> 00:00:22,122
-♪ Miraculous, lady du coeur ♪
+♪ Miraculous, lady do coração ♪
 
 8
 00:00:22,189 --> 00:00:24,958
-♪ Être héroïque
-en cas d'urgence ♪
+♪ Sendo heroica
+em caso de emergência ♪
 
 9
 00:00:25,025 --> 00:00:27,828
@@ -42,299 +42,299 @@ en cas d'urgence ♪
 
 10
 00:00:30,230 --> 00:00:31,565
-- Si vous voulez de l'info, j'ai
+- Se vocês querem informação, eu tenho
 
 11
 00:00:31,632 --> 00:00:32,933
-ce qu'il vous faut! Bienvenue
+o que vocês precisam! Bem-vindos
 
 12
 00:00:33,000 --> 00:00:34,334
-à ceux qui nous rejoignent pour
+a todos que estão se juntando a nós para
 
 13
 00:00:34,401 --> 00:00:35,702
-ce programme spécial. Vous allez
+este programa especial. Vocês vão
 
 14
 00:00:35,769 --> 00:00:37,104
-être les témoins privilégiés
+ser as testemunhas privilegiadas
 
 15
 00:00:37,171 --> 00:00:38,472
-de la victoire de notre nouveau
+da vitória do nosso novo
 
 16
 00:00:38,539 --> 00:00:39,873
-leader, Papillon Écarlate!
+líder, o Hawk Moth Escarlate!
 
 17
 00:00:39,940 --> 00:00:41,241
-- (tous): Gloire à Papillon
+- (todos): Glória ao Hawk Moth
 
 18
 00:00:41,308 --> 00:00:42,643
-Écarlate! Gloire à Papillon
+Escarlate! Glória ao Hawk Moth
 
 19
 00:00:42,709 --> 00:00:44,011
-Écarlate! Gloire
+Escarlate! Glória
 
 20
 00:00:44,077 --> 00:00:45,412
-à Papillon Écarlate.
+ao Hawk Moth Escarlate.
 
 21
-00:00:45,479 --> 00:00:46,780
-- Désormais, ce jour sera
+00:04:45,479 --> 00:04:46,780
+- De agora em diante, este dia será
 
 22
-00:00:46,847 --> 00:00:48,248
-le jour des vilains.
+00:04:46,847 --> 00:04:48,248
+o dia dos vilões.
 
 23
 00:00:49,249 --> 00:00:50,784
-- Gloire à Papillon Écarlate!
+- Glória ao Hawk Moth Escarlate!
 
 24
 00:00:50,851 --> 00:00:52,386
-Gloire à Papillon Écarlate!
+Glória ao Hawk Moth Escarlate!
 
 25
 00:00:52,452 --> 00:00:53,954
-- C'est l'heure,
+- Chegou a hora,
 
 26
 00:00:54,021 --> 00:00:55,556
-Papillon Écarlate.
+Hawk Moth Escarlate.
 
 27
 00:00:55,622 --> 00:00:57,157
-- Gloire à Papillon Écarlate!
+- Glória ao Hawk Moth Escarlate!
 
 28
 00:00:57,224 --> 00:00:58,725
-- Ladybug, Chat Noir, je sens
+- Ladybug, Chat Noir, eu sinto
 
 29
 00:00:58,792 --> 00:01:00,000
-que vous n'êtes pas très loin
+que vocês não estão muito longe
 
 30
 00:01:00,000 --> 00:01:00,327
-que vous n'êtes pas très loin
+que vocês não estão muito longe
 
 31
 00:01:00,394 --> 00:01:01,929
-d'ici. Si vous voulez sauver
+daqui. Se vocês querem salvar
 
 32
 00:01:01,995 --> 00:01:03,530
-Paris et tous ses habitants,
+Paris e todos os seus habitantes,
 
 33
 00:01:03,597 --> 00:01:05,132
-je vous accorde une dernière
+eu dou a vocês uma última
 
 34
 00:01:05,199 --> 00:01:06,700
-chance. Rendez-vous et apportez-
+chance. Se rendam e me tragam
 
 35
 00:01:06,767 --> 00:01:08,302
-moi vos miraculous!
+os seus Miraculous!
 
 36
 00:01:08,368 --> 00:01:09,603
-- Dis-moi, à quoi tu penses,
+- Me diz, no que você está pensando,
 
 37
 00:01:09,670 --> 00:01:10,904
-ma lady?
+minha lady?
 
 38
 00:01:10,971 --> 00:01:12,239
-- C'est comme s'il avait prévu
+- É como se ele estivesse planejando
 
 39
 00:01:12,306 --> 00:01:13,540
-son coup depuis très longtemps,
+esse golpe há muito tempo,
 
 40
 00:01:13,607 --> 00:01:14,842
-mais nous, on n'est pas préparés
+mas nós não estamos preparados
 
 41
 00:01:14,908 --> 00:01:16,143
-à ça.
+para isso.
 
 42
 00:01:16,210 --> 00:01:17,444
-- Mais si, on est prêts. On a
+- Claro que estamos prontos. Nós
 
 43
 00:01:17,511 --> 00:01:18,779
-déjà gagné contre chacun d'eux,
+já vencemos cada um deles,
 
 44
 00:01:18,846 --> 00:01:20,080
-et en plus, maintenant,
+e além disso, agora,
 
 45
 00:01:20,147 --> 00:01:21,448
-on est cinq!
+nós somos cinco!
 
 46
 00:01:23,183 --> 00:01:24,751
-- Si on veut gagner, il faut
+- Se quisermos ganhar, precisamos
 
 47
 00:01:24,818 --> 00:01:26,386
-qu'on batte le Papillon, et lui,
+derrotar o Hawk Moth, e ele,
 
 48
 00:01:26,453 --> 00:01:28,021
-nous ne l'avons jamais affronté
+nós nunca enfrentamos direto
 
 49
 00:01:28,088 --> 00:01:29,690
-avant. Papillon, j'espère que
+antes. Hawk Moth, espero que
 
 50
 00:01:29,756 --> 00:01:30,000
-tu as profité de l'illusion
+você tenha aproveitado a ilusão
 
 51
 00:01:30,000 --> 00:01:31,325
-tu as profité de l'illusion
+você tenha aproveitado a ilusão
 
 52
 00:01:31,391 --> 00:01:32,960
-de Volpina, parce que la vraie
+da Volpina, porque a verdadeira
 
 53
 00:01:33,026 --> 00:01:34,595
-Ladybug ne te donnera jamais
+Ladybug nunca vai te dar
 
 54
 00:01:34,661 --> 00:01:36,230
-son miraculous!
+o Miraculous dela!
 
 55
 00:01:36,296 --> 00:01:37,598
-- Et on a une meilleure idée:
+- E nós temos uma ideia melhor:
 
 56
 00:01:37,664 --> 00:01:38,966
-c'est toi qui vas nous donner
+é você quem vai entregar
 
 57
 00:01:39,032 --> 00:01:40,334
-ton miraculous.
+o seu Miraculous.
 
 58
 00:01:40,400 --> 00:01:41,702
-- T'as peut-être une armée
+- Você pode até ter um exército
 
 59
 00:01:41,768 --> 00:01:43,036
-de guerriers akumatisés...
+de guerreiros akumatizados...
 
 60
 00:01:43,103 --> 00:01:44,404
-- ... mais nous, on est
+- ... mas nós somos
 
 61
 00:01:44,471 --> 00:01:45,772
-une équipe de superhéros!
+uma equipe de super-heróis!
 
 62
 00:01:45,839 --> 00:01:47,140
-- Tu vas regretter d'avoir
+- Você vai se arrepender de ter
 
 63
 00:01:47,207 --> 00:01:48,509
-enfilé ce costume
+vestido esse traje
 
 64
 00:01:48,575 --> 00:01:49,943
-totalement ridicule!
+totalmente ridículo!
 
 65
 00:01:52,112 --> 00:01:54,147
-- Ha! Ha! Ha! Puisque vous avez
+- Ha! Ha! Ha! Já que vocês
 
 66
 00:01:54,214 --> 00:01:56,250
-décidé de vous battre, que votre
+decidiram lutar, que o seu
 
 67
 00:01:56,316 --> 00:01:58,385
-voeu soit exaucé! Guitare
+desejo seja realizado! Guitarra
 
 68
 00:01:58,452 --> 00:02:00,000
-Vilain, Rossignoble, musique!
+Vilã, Rossignoble, música!
 
 69
 00:02:00,000 --> 00:02:00,487
-Vilain, Rossignoble, musique!
+Vilã, Rossignoble, música!
 
 70
 00:02:00,554 --> 00:02:03,423
-- ♪ Triple choc ♪
+- ♪ Triplo choque ♪
 
 71
 00:02:04,558 --> 00:02:05,759
-- Que le spectacle commence!
+- Que o espetáculo comece!
 
 72
 00:02:05,826 --> 00:02:07,027
-L'armée écarlate s'apprête à
+O exército escarlate está prestes a
 
 73
 00:02:07,094 --> 00:02:08,295
-réduire à néant ces pitoyables
+reduzir a nada esses patéticos
 
 74
 00:02:08,362 --> 00:02:09,563
-porteurs de miraculous!
+portadores de Miraculous!
 
 75
 00:02:09,630 --> 00:02:10,831
-- On se concentre sur
+- Vamos focar no
 
 76
 00:02:10,898 --> 00:02:12,099
-l'objectif, c'est le papillon
+objetivo, é o Hawk Moth
 
 77
 00:02:12,165 --> 00:02:13,367
-qu'il faut vaincre!
+que precisamos derrotar!
 
 78
 00:02:13,433 --> 00:02:14,668
-- Pour une fois, le plan est
+- Para uma variação, o plano é
 
 79
 00:02:14,735 --> 00:02:15,936
-simple: atteindre le boss
+simples: chegar no chefão
 
 80
 00:02:16,003 --> 00:02:17,204
-de fin.
+final.
 
 81
 00:02:17,271 --> 00:02:18,472
-- On va lui montrer.
+- Vamos mostrar para ele.
 
 82
 00:02:18,539 --> 00:02:19,740
-- Je vous couvre!
+- Eu cubro vocês!
 
 83
 00:02:19,806 --> 00:02:21,008
-- Tu peux compter sur moi,
+- Pode contar comigo,
 
 84
 00:02:21,074 --> 00:02:22,276
@@ -342,31 +342,31 @@ Ladybug!
 
 85
 00:02:22,342 --> 00:02:23,544
-- Cyclone!
+- Ciclone!
 
 86
 00:02:23,610 --> 00:02:27,114
-- Horus, donne-moi tes ailes!
+- Hórus, me dê as suas asas!
 
 87
 00:02:30,951 --> 00:02:32,419
-- Foudre!
+- Relâmpago!
 
 88
 00:02:32,486 --> 00:02:33,987
-- Carapace, protection!
+- Carapaça, casco protetor!
 
 89
 00:02:43,664 --> 00:02:44,932
-Vos épées ne font pas le poids
+As suas espadas não dão nem pro cheiro
 
 90
 00:02:44,998 --> 00:02:46,266
-contre Chat Noir. Une petite
+contra o Chat Noir. Querem uma
 
 91
 00:02:46,333 --> 00:02:47,668
-démonstration?
+demonstraçãozinha?
 
 92
 00:02:50,237 --> 00:02:51,505
@@ -374,1099 +374,1099 @@ Queen Bee!
 
 93
 00:02:51,572 --> 00:02:52,940
-(indistincte)
+(indistinto)
 
 94
 00:02:53,907 --> 00:02:55,542
-- Bien joué.
+- Bem jogado.
 
 95
 00:02:58,478 --> 00:03:00,000
-(cris)
+(gritos)
 
 96
 00:03:00,000 --> 00:03:00,380
-(cris)
+(gritos)
 
 97
 00:03:00,447 --> 00:03:02,449
-- Rena Rouge, sauvetage!
+- Rena Rouge, resgate!
 
 98
 00:03:03,784 --> 00:03:05,986
-- Bien visé, Chloé!
+- Na mosca, Chloé!
 
 99
 00:03:08,589 --> 00:03:10,190
-- Hé! Moi, c'est Queen Bee,
+- Ei! Meu nome é Queen Bee,
 
 100
 00:03:10,257 --> 00:03:11,892
-je te rappelle.
+só para te lembrar.
 
 101
 00:03:16,530 --> 00:03:18,398
-(ricanement)
+(risadinhas)
 
 102
 00:03:31,144 --> 00:03:32,513
-- On forme une équipe de choc!
+- Nós formamos uma equipe imbatível!
 
 103
 00:03:32,579 --> 00:03:33,947
-- Je suis d'accord, mais c'est
+- Eu concordo, mas ainda não
 
 104
 00:03:34,014 --> 00:03:35,382
-pas encore fini.
+acabou.
 
 105
 00:03:35,449 --> 00:03:36,817
-- Tout se déroule comme prévu,
+- Tudo está correndo como planejado,
 
 106
 00:03:36,884 --> 00:03:38,285
-Catalyste.
+Catalisadora.
 
 107
 00:03:38,352 --> 00:03:39,720
-- C'est tellement réjouissant de
+- É tão divertido deixar
 
 108
 00:03:39,786 --> 00:03:41,154
-leur laisser croire que la
+eles acreditarem que a
 
 109
 00:03:41,221 --> 00:03:42,589
-victoire est encore possible,
+vitória ainda é possível,
 
 110
 00:03:42,656 --> 00:03:44,024
-alors que nous savons tous les
+sendo que nós dois sabemos
 
 111
 00:03:44,091 --> 00:03:45,459
-deux que c'est joué d'avance.
+que o jogo já está ganho.
 
 112
 00:03:45,526 --> 00:03:46,860
-- À toi de jouer, Disloqueur!
+- É a sua vez, Cupido Negro!
 
 113
 00:03:46,927 --> 00:03:48,295
-- Peuple de Paris, à l'image des
+- Povo de Paris, assim como os
 
 114
 00:03:48,362 --> 00:03:49,696
-superhéros que nous célébrons
+super-heróis que celebramos
 
 115
 00:03:49,763 --> 00:03:51,131
-aujourd'hui, nous ne céderons
+hoje, nós nunca vamos ceder
 
 116
 00:03:51,198 --> 00:03:52,533
-jamais à la méchanceté
+à maldade
 
 117
 00:03:52,599 --> 00:03:53,967
-et à la vilenie. Ensemble,
+e à vilania. Juntos,
 
 118
 00:03:54,034 --> 00:03:55,369
-nous résisterons, et tous unis,
+nós resistiremos, e todos unidos,
 
 119
 00:03:55,435 --> 00:03:56,803
-nous triompherons!
+venceremos!
 
 120
 00:03:56,870 --> 00:03:58,272
-(sonnerie de cellulaire)
+(celular tocando)
 
 121
 00:03:59,406 --> 00:04:00,000
-Hum-hum. Oui, Audrey chérie?
+Hum-hum. Sim, Audrey querida?
 
 122
 00:04:00,000 --> 00:04:00,741
-Hum-hum. Oui, Audrey chérie?
+Hum-hum. Sim, Audrey querida?
 
 123
 00:04:00,807 --> 00:04:02,142
-- Qu'est-ce que tu fabriques,
+- O que você está aprontando,
 
 124
 00:04:02,209 --> 00:04:03,544
-André? Dépêche-toi!
+André? Anda logo!
 
 125
 00:04:03,610 --> 00:04:04,978
-- Ne t'inquiète pas,
+- Não se preocupe,
 
 126
 00:04:05,045 --> 00:04:06,380
-ma chérie. J'arrive.
+minha querida. Já estou indo.
 
 127
 00:04:06,446 --> 00:04:07,781
-- En attendant, je superviserai
+- Enquanto isso, eu vou supervisionar
 
 128
 00:04:07,848 --> 00:04:09,183
-la défense de Paris, hum...
+a defesa de Paris, hum...
 
 129
 00:04:09,249 --> 00:04:10,651
-depuis mon hélicoptère!
+direto do meu helicóptero!
 
 130
-00:04:11,685 --> 00:04:13,420
-Au revoir!
+11:11:685 --> 00:11:13,420
+Até logo!
 
 131
 00:04:14,421 --> 00:04:15,923
-(respiration haletante)
+(respiração ofegante)
 
 132
 00:04:15,989 --> 00:04:17,524
-- Audrey, ma chérie, où est
+- Audrey, minha querida, onde está
 
 133
 00:04:17,591 --> 00:04:19,092
-notre petite Chloé?
+a nossa pequena Chloé?
 
 134
 00:04:19,159 --> 00:04:20,694
-- Sûrement encore en train
+- Certamente ainda está por aí
 
 135
 00:04:20,761 --> 00:04:22,329
-de jouer à la superhéroïne.
+brincando de super-heroína.
 
 136
 00:04:24,998 --> 00:04:26,333
-- Je ne suis pas d'accord,
+- Eu não concordo com isso,
 
 137
 00:04:26,400 --> 00:04:27,734
-elle n'a pas à jouer
+ela não tem que ficar brincando
 
 138
 00:04:27,801 --> 00:04:29,136
-les superhéroïnes.
+de super-heroína.
 
 139
 00:04:29,203 --> 00:04:30,000
-- Tout cela est inadmissible,
+- Tudo isso é inadmissível,
 
 140
 00:04:30,000 --> 00:04:30,537
-- Tout cela est inadmissible,
+- Tudo isso é inadmissível,
 
 141
 00:04:30,604 --> 00:04:31,939
-parfaitement inadmissible.
+completamente inadmissível.
 
 142
 00:04:32,005 --> 00:04:33,307
-- Mademoiselle devra recevoir
+- A senhorita vai ter que receber
 
 143
 00:04:33,373 --> 00:04:34,708
-une punition.
+uma punição.
 
 144
 00:04:34,775 --> 00:04:36,109
-- Beau travail. Bravo,
+- Belo trabalho. Parabéns,
 
 145
 00:04:36,176 --> 00:04:37,511
-Disloqueur. La famille Bourgeois
+Cupido Negro. A família Bourgeois
 
 146
 00:04:37,578 --> 00:04:38,912
-est désormais prête à suivre
+agora está pronta para seguir
 
 147
 00:04:38,979 --> 00:04:40,314
-mon plan.
+o meu plano.
 
 148
 00:04:40,380 --> 00:04:41,782
-(rire)
+(gargalhada)
 
 149
 00:04:44,251 --> 00:04:45,886
-Style Queen, Malédikteur, Doudou
+Estilista de Rainhas, Ditador, Urso
 
 150
 00:04:45,953 --> 00:04:47,588
-Vilain, lassés que cette chère
+Malandro, cansados de ver essa querida
 
 151
 00:04:47,654 --> 00:04:49,289
-Chloé ne cesse de vous désobéir?
+Chloé desobedecer vocês sem parar?
 
 152
 00:04:49,356 --> 00:04:51,024
-Eh bien, je vous donne le
+Pois bem, eu dou a vocês o
 
 153
 00:04:51,091 --> 00:04:52,726
-pouvoir de la punir une bonne
+poder de puni-la de uma vez
 
 154
 00:04:52,793 --> 00:04:54,494
-fois pour toutes.
+por todas.
 
 155
 00:04:56,964 --> 00:04:59,867
-- Bien fait pour vous!
+- Bem feito para vocês!
 
 156
 00:05:02,803 --> 00:05:04,304
-- Changement de météo, la Reine
+- Mudança no tempo, Rainha
 
 157
 00:05:04,371 --> 00:05:05,973
-des glaces.
+do Gelo.
 
 158
 00:05:07,908 --> 00:05:09,176
-- Non!
+- Não!
 
 159
 00:05:09,243 --> 00:05:10,544
-(cri)
+(grito)
 
 160
 00:05:18,218 --> 00:05:19,620
-- Tu aimes t'en prendre
+- Você adora atacar
 
 161
 00:05:19,686 --> 00:05:21,121
-aux innocentes, Papillon,
+os inocentes, Hawk Moth,
 
 162
 00:05:21,188 --> 00:05:22,589
-mais c'en est bientôt fini!
+mais isso está prestes a acabar!
 
 163
 00:05:22,656 --> 00:05:24,124
-Lucky charm!
+Talismã!
 
 164
 00:05:35,102 --> 00:05:36,703
-Tenez-vous prêts, je vais avoir
+Fiquem prontos, eu vou precisar
 
 165
 00:05:36,770 --> 00:05:38,438
-besoin de vous tous.
+de todos vocês.
 
 166
 00:05:40,207 --> 00:05:42,876
-- C'est le moment, Disloqueur.
+- É a hora, Cupido Negro.
 
 167
 00:05:47,447 --> 00:05:49,349
-- Quoi?
+- O quê?
 
 168
 00:05:52,486 --> 00:05:53,687
-- Quel rebondissement
+- Que reviravolta
 
 169
 00:05:53,754 --> 00:05:54,988
-incroyable! Ces héros minables
+inacreditável! Esses heróis caídos
 
 170
 00:05:55,055 --> 00:05:56,256
-n'ont rien vu venir.
+não viram isso chegando.
 
 171
 00:05:56,323 --> 00:05:57,558
-- Le Papillon utilise
+- O Hawk Moth está usando
 
 172
 00:05:57,624 --> 00:05:58,825
-le Disloqueur pour créer
+o Cupido Negro para criar
 
 173
 00:05:58,892 --> 00:06:00,000
-les mauvaises émotions dont
+as emoções negativas das quais
 
 174
 00:06:00,000 --> 00:06:00,127
-les mauvaises émotions dont
+as emoções negativas das quais
 
 175
 00:06:00,194 --> 00:06:01,461
-il a besoin.
+ele precisa.
 
 176
 00:06:09,436 --> 00:06:10,704
-- C'est un cauchemar!
+- Isso é um pesadelo!
 
 177
-00:06:10,771 --> 00:06:12,039
-- On reste concentrés,
+00:16:10,771 --> 00:16:12,039
+- Vamos manter o foco,
 
 178
 00:06:12,105 --> 00:06:13,340
-le Papillon ne doit pas gagner!
+o Hawk Moth não pode vencer!
 
 179
 00:06:13,407 --> 00:06:14,675
-- Une pluie d'akumas écarlates
+- Uma chuva de akumas escarlates
 
 180
 00:06:14,741 --> 00:06:16,076
-vous attend!
+espera por vocês!
 
 181
-00:06:17,778 --> 00:06:19,279
+00:16:17,778 --> 00:16:19,279
 - Hein?
 
 182
-00:06:20,581 --> 00:06:22,282
-Attention!
+00:16:20,581 --> 00:16:22,282
+Cuidado!
 
 183
-00:06:22,349 --> 00:06:24,718
-- Oh non!
+00:16:22,349 --> 00:16:24,718
+- Oh não!
 
 184
-00:06:26,286 --> 00:06:28,055
-- Grâce à son plan
+00:16:26,286 --> 00:16:28,055
+- Graças ao seu plano
 
 185
-00:06:28,121 --> 00:06:29,857
-machiavélique, le Papillon
+00:16:28,121 --> 00:16:29,857
+maquiavélico, o Hawk Moth
 
 186
-00:06:29,923 --> 00:06:30,000
-Écarlate ne va faire qu'une
+00:16:29,923 --> 00:16:30,000
+Escarlate vai acabar rapidinho
 
 187
-00:06:30,000 --> 00:06:31,692
-Écarlate ne va faire qu'une
+00:16:30,000 --> 00:16:31,692
+Escarlate vai acabar rapidinho
 
 188
-00:06:31,758 --> 00:06:33,493
-bouchée de vos héros préférés
+00:16:31,758 --> 00:16:33,493
+com os seus heróis favoritos,
 
 189
-00:06:33,560 --> 00:06:35,395
-en direct live! Ha! Ha! Ha!
+00:16:33,560 --> 00:16:35,395
+ao vivo na TV! Ha! Ha! Ha!
 
 190
-00:06:43,337 --> 00:06:45,706
-- Carapace! Attention!
+00:16:43,337 --> 00:16:45,706
+- Carapaça! Cuidado!
 
 191
-00:06:50,210 --> 00:06:51,945
-- Rena, non! Pas toi!
+00:16:50,210 --> 00:16:51,945
+- Rena, não! Você não!
 
 192
-00:06:52,012 --> 00:06:53,747
-(gémissement)
+00:16:52,012 --> 00:16:53,747
+(gemi de dor)
 
 193
-00:06:53,814 --> 00:06:55,582
-- Bas les pattes.
+00:16:53,814 --> 00:16:55,582
+- Tira as patas.
 
 194
-00:06:55,649 --> 00:06:57,384
+00:16:55,649 --> 00:16:57,384
 - Ah...!
 
 195
-00:06:57,451 --> 00:06:59,186
-- Petit joueur...
+00:16:57,451 --> 00:16:59,186
+- Fraco demais...
 
 196
-00:06:59,253 --> 00:07:00,000
-- Rena Rouge, ne laisse pas
+00:16:59,253 --> 00:17:00,000
+- Rena Rouge, não deixe
 
 197
-00:07:00,000 --> 00:07:00,988
-- Rena Rouge, ne laisse pas
+00:17:00,000 --> 00:17:00,988
+- Rena Rouge, não deixe
 
 198
-00:07:01,054 --> 00:07:02,789
-les émotions négatives prendre
+00:17:01,054 --> 00:17:02,789
+as emoções negativas tomarem conta
 
 199
-00:07:02,856 --> 00:07:04,625
-le dessus ou tu vas te faire
+00:17:02,856 --> 00:17:04,625
+ou você vai acabar sendo
 
 200
-00:07:04,691 --> 00:07:06,426
-akumatiser! C'est ce que
+00:17:04,691 --> 00:17:06,426
+akumatizada! É isso o que
 
 201
-00:07:06,493 --> 00:07:08,228
-veut Papillon!
+00:17:06,493 --> 00:17:08,228
+o Hawk Moth quer!
 
 202
-00:07:08,295 --> 00:07:10,397
-- Tiens bon!
+00:17:08,295 --> 00:17:10,397
+- Aguenta firme!
 
 203
-00:07:10,464 --> 00:07:12,566
-- Tu n'as pas l'étoffe d'un
+00:17:10,464 --> 00:17:12,566
+- Você não tem fibra de
 
 204
-00:07:12,633 --> 00:07:14,768
-superhéros. AH! Lâche-moi tout
+00:17:12,633 --> 00:17:14,768
+super-herói. AH! Me solta agora
 
 205
-00:07:14,835 --> 00:07:16,937
-de suite, espèce de moustique!
+00:17:14,835 --> 00:17:16,937
+mesmo, seu mosquito ridículo!
 
 206
-00:07:17,004 --> 00:07:19,173
-- Chut... du calme.
+00:17:17,004 --> 00:17:19,173
+- Shiu... calma.
 
 207
-00:07:20,574 --> 00:07:22,643
-- Surtout ne t'inquiète pas pour
+00:17:20,574 --> 00:17:22,643
+- Não precisa se preocupar comigo,
 
 208
-00:07:22,709 --> 00:07:24,745
-moi, je ne me laisserai jamais
+00:17:22,709 --> 00:17:24,745
+eu nunca vou me deixar
 
 209
-00:07:24,811 --> 00:07:26,880
-avoir par mes émotions.
+00:17:24,811 --> 00:17:26,880
+levar pelas minhas emoções.
 
 210
-00:07:26,947 --> 00:07:29,016
-- Attention, il ne faut jamais
+00:17:26,947 --> 00:17:29,016
+- Cuidado, a gente nunca deve
 
 211
-00:07:29,082 --> 00:07:30,000
-dire... jamais.
+00:17:29,082 --> 00:17:30,000
+dizer... nunca.
 
 212
-00:07:30,000 --> 00:07:31,151
-dire... jamais.
+00:17:30,000 --> 00:17:31,151
+dizer... nunca.
 
 213
-00:07:31,218 --> 00:07:33,253
-- (ensemble): Chloé!
+00:17:31,218 --> 00:17:33,253
+- (juntos): Chloé!
 
 214
-00:07:33,320 --> 00:07:35,389
-- Ah! Papa? Maman...?
+00:17:33,320 --> 00:17:35,389
+- Ah! Papai? Mamãe...?
 
 215
-00:07:35,455 --> 00:07:36,890
-- Hein? Concentre-toi,
+00:17:35,455 --> 00:17:36,890
+- Hein? Se concentra,
 
 216
-00:07:36,957 --> 00:07:38,392
+00:17:36,957 --> 00:17:38,392
 Queen Bee!
 
 217
-00:07:38,458 --> 00:07:39,927
-- Chloé, je t'ordonne d'arrêter
+00:17:38,458 --> 00:17:39,927
+- Chloé, eu estou te mandando parar
 
 218
-00:07:39,993 --> 00:07:41,495
-de jouer les superhéroïnes.
+00:17:39,993 --> 00:17:41,495
+de brincar de super-heroína.
 
 219
-00:07:50,671 --> 00:07:53,473
-- Je suis désormais Rena Rage.
+00:17:50,671 --> 00:17:53,473
+- Agora eu sou a Rena Fúria.
 
 220
-00:07:53,540 --> 00:07:56,443
-- NOOOOON!
+00:17:53,540 --> 00:17:56,443
+- NÃOOOOO!
 
 221
-00:07:59,179 --> 00:08:00,000
-- Carapace, non!
+00:17:59,179 --> 00:18:00,000
+- Carapaça, não!
 
 222
-00:08:00,000 --> 00:08:01,582
-- Carapace, non!
+00:18:00,000 --> 00:18:01,582
+- Carapaça, não!
 
 223
-00:08:01,648 --> 00:08:04,151
-- Dites adieu à Carapace
+00:18:01,648 --> 00:18:04,151
+- Digam adeus ao Carapaça
 
 224
-00:08:04,218 --> 00:08:06,787
-et bonjour à Carapire!
+00:18:04,218 --> 00:18:06,787
+e olá ao Caraterror!
 
 225
-00:08:12,993 --> 00:08:14,795
-- Stop!
+00:18:12,993 --> 00:18:14,795
+- Para!
 
 226
-00:08:18,398 --> 00:08:20,067
+00:18:18,398 --> 00:18:20,067
 - Queen Bee!
 
 227
-00:08:20,133 --> 00:08:21,768
-- Appelle-moi Queen Wasp.
+00:18:20,133 --> 00:18:21,768
+- Pode me chamar de Queen Wasp.
 
 228
-00:08:21,835 --> 00:08:23,570
-Cafard!
+00:18:21,835 --> 00:18:23,570
+Barata!
 
 229
-00:08:24,771 --> 00:08:25,973
-- Ce serait pas le moment
+00:18:24,771 --> 00:18:25,973
+- Não seria uma boa hora
 
 230
-00:08:26,039 --> 00:08:27,241
-d'utiliser ton lucky charm,
+00:18:26,039 --> 00:18:27,241
+para usar o seu Talismã,
 
 231
-00:08:27,307 --> 00:08:28,509
-par hasard?
+00:18:27,307 --> 00:18:28,509
+por acaso?
 
 232
-00:08:28,575 --> 00:08:29,810
-- J'avais besoin de tout le
+00:18:28,575 --> 00:18:29,810
+- Eu precisava de todo mundo
 
 233
-00:08:29,877 --> 00:08:30,000
-monde pour m'en servir, je peux
+00:18:29,877 --> 00:18:30,000
+por perto para usar, não posso
 
 234
-00:08:30,000 --> 00:08:31,078
-monde pour m'en servir, je peux
+00:18:30,000 --> 00:18:31,078
+por perto para usar, não posso
 
 235
-00:08:31,144 --> 00:08:32,412
-plus rien en faire maintenant.
+00:18:31,144 --> 00:18:32,412
+fazer mais nada com ele agora.
 
 236
-00:08:34,281 --> 00:08:35,716
-(♪ vocalises ♪)
+00:18:34,281 --> 00:18:35,716
+(♪ vocalização ♪)
 
 237
-00:08:35,782 --> 00:08:37,251
-- Jeu, set et match, Ladybug.
+00:18:35,782 --> 00:18:37,251
+- Fim de jogo, Ladybug.
 
 238
-00:08:37,317 --> 00:08:38,752
-- Cette fois, je vois pas
+00:18:37,317 --> 00:18:38,752
+- Dessa vez, eu não vejo
 
 239
-00:08:38,819 --> 00:08:40,254
-comment on va s'en sortir,
+00:18:38,819 --> 00:18:40,254
+como vamos sair dessa,
 
 240
-00:08:40,320 --> 00:08:41,755
-ma lady.
+00:18:40,320 --> 00:18:41,755
+minha lady.
 
 241
-00:08:41,822 --> 00:08:43,257
-- On va se faire akumatiser
+00:18:41,822 --> 00:18:43,257
+- Nós vamos ser akumatizados
 
 242
-00:08:43,323 --> 00:08:44,791
-si on perd espoir.
+00:18:43,323 --> 00:18:44,791
+se perdermos as esperanças.
 
 243
-00:08:44,858 --> 00:08:46,293
-- La situation est plutôt
+00:18:44,858 --> 00:18:46,293
+- A situação está meio
 
 244
-00:08:46,360 --> 00:08:47,794
-cataclysmique, non?
+00:18:46,360 --> 00:18:47,794
+cataclísmica, não acha?
 
 245
-00:08:47,861 --> 00:08:49,329
-- Ah...! Cataclysme, mais oui!
+00:18:47,861 --> 00:18:49,329
+- Ah...! Cataclismo, mas é claro!
 
 246
-00:08:49,396 --> 00:08:50,831
-Sous nos pieds, Chat Noir.
+00:18:49,396 --> 00:18:50,831
+Debixo dos nossos pés, Chat Noir.
 
 247
-00:08:50,898 --> 00:08:52,399
-- Avec plaisir! Cataclysme!
+00:18:50,898 --> 00:18:52,399
+- Com prazer! Cataclismo!
 
 248
-00:08:58,839 --> 00:09:00,000
-- Adieu, Ladybug et Chat Noir!
+00:18:58,839 --> 00:19:00,000
+- Adeus, Ladybug e Chat Noir!
 
 249
-00:09:00,000 --> 00:09:01,175
-- Adieu, Ladybug et Chat Noir!
+00:19:00,000 --> 00:19:01,175
+- Adeus, Ladybug e Chat Noir!
 
 250
-00:09:01,241 --> 00:09:03,644
-Ce sont-ils désintégrés?
+00:19:01,241 --> 00:19:03,644
+Será que eles foram desintegrados?
 
 251
-00:09:06,213 --> 00:09:07,481
-(bips)
+00:19:06,213 --> 00:19:07,481
+(apitos)
 
 252
-00:09:07,548 --> 00:09:08,782
-- Je vais bientôt
+00:19:07,548 --> 00:19:08,782
+- Eu vou acabar
 
 253
-00:09:08,849 --> 00:09:10,083
-me détransformer. Je vais
+00:19:08,849 --> 00:10:08,782
+me destransformando. Eu vou
 
 254
-00:09:10,150 --> 00:09:11,485
-de ce côté et toi par là.
+00:19:10,150 --> 00:19:11,485
+por esse lado e você por ali.
 
 255
-00:09:14,021 --> 00:09:16,223
-Cette fois, c'était moins une.
+00:19:14,021 --> 00:19:16,223
+Dessa vez foi por muito pouco.
 
 256
-00:09:18,258 --> 00:09:20,627
-- Détransformation.
+00:19:18,258 --> 00:19:20,627
+- Destransformar.
 
 257
-00:09:21,628 --> 00:09:23,130
-Régale-toi vite, on n'a pas
+00:19:21,628 --> 00:19:23,130
+Come rápido, a gente não tem
 
 258
-00:09:23,197 --> 00:09:24,698
-beaucoup de temps.
+00:19:23,197 --> 00:19:24,698
+muito tempo.
 
 259
-00:09:24,765 --> 00:09:26,300
-- On va le partager. Toi aussi,
+00:19:24,765 --> 00:19:26,300
+- Vamos dividir. Você também
 
 260
-00:09:26,366 --> 00:09:27,868
-tu en as besoin.
+00:19:26,366 --> 00:19:27,868
+está precisando.
 
 261
-00:09:27,935 --> 00:09:29,436
-- C'est gentil, Plagg.
+00:19:27,935 --> 00:19:29,436
+- Valeu, Plagg.
 
 262
-00:09:29,503 --> 00:09:30,000
-- Animan, retrouve Ladybug
+00:19:29,503 --> 00:19:30,000
+- Animan, encontre a Ladybug
 
 263
-00:09:30,000 --> 00:09:31,238
-- Animan, retrouve Ladybug
+00:19:30,000 --> 00:19:31,238
+- Animan, encontre a Ladybug
 
 264
-00:09:31,305 --> 00:09:33,006
-et Chat Noir, ils ne doivent
+00:19:31,305 --> 00:19:33,006
+e o Chat Noir, eles não podem
 
 265
-00:09:33,073 --> 00:09:34,875
-pas m'échapper.
+00:19:33,073 --> 00:19:34,875
+me escapar.
 
 266
-00:09:35,909 --> 00:09:37,110
-(rugissement)
+00:19:35,909 --> 00:19:37,110
+(rugido)
 
 267
-00:09:37,177 --> 00:09:38,345
-- Est-ce que tout va bien,
+00:19:37,177 --> 00:19:38,345
+- Está tudo bem,
 
 268
-00:09:38,412 --> 00:09:39,580
-ma lady?
+00:19:38,412 --> 00:19:39,580
+minha lady?
 
 269
-00:09:39,646 --> 00:09:40,848
-- Le Papillon n'a jamais
+00:19:39,646 --> 00:19:40,848
+- O Hawk Moth nunca
 
 270
-00:09:40,914 --> 00:09:42,115
-réakumatisé autant de personnes
+00:19:40,914 --> 00:19:42,115
+reakumatizou tantas pessoas
 
 271
-00:09:42,182 --> 00:09:43,350
-en même temps. Il y a quelque
+00:19:42,182 --> 00:19:43,350
+ao mesmo tempo. Tem alguma
 
 272
-00:09:43,417 --> 00:09:44,585
-chose qui a changé.
+00:19:43,417 --> 00:19:44,585
+coisa que mudou.
 
 273
-00:09:44,651 --> 00:09:45,853
-- Peut-être qu'il a compris
+00:19:44,651 --> 00:19:45,853
+- Talvez ele tenha descoberto
 
 274
-00:09:45,919 --> 00:09:47,120
-comment booster ses pouvoirs
+00:19:45,919 --> 00:19:47,120
+como amplificar os poderes dele
 
 275
-00:09:47,187 --> 00:09:48,355
-comme nous deux.
+00:19:47,187 --> 00:19:48,355
+assim como nós dois.
 
 276
-00:09:48,422 --> 00:09:49,590
-- Tu crois encore qu'on peut
+00:19:48,422 --> 00:19:49,590
+- Você ainda acha que podemos
 
 277
-00:09:49,656 --> 00:09:50,924
-le battre?
+00:19:49,656 --> 00:19:50,924
+vencer ele?
 
-278
-00:09:53,260 --> 00:09:54,795
-- Tu l'as dit toi-même, on doit
+272
+00:19:53,260 --> 00:19:54,795
+- Você mesma disse, precisamos
 
 279
-00:09:54,862 --> 00:09:56,363
-garder espoir. Tout le monde
+00:19:54,862 --> 00:19:56,363
+manter a esperança. Todo mundo
 
 280
-00:09:56,430 --> 00:09:57,931
-compte sur nous.
+00:19:56,430 --> 00:19:57,931
+está contando com a gente.
 
 281
-00:09:57,998 --> 00:09:59,533
-- Mais... on n'a même
+00:19:57,998 --> 00:19:59,533
+- Mas... nós nem temos
 
 282
-00:09:59,600 --> 00:10:00,000
-plus d'équipe.
+00:19:59,600 --> 00:10:00,000
+mais uma equipe.
 
 283
 00:10:00,000 --> 00:10:01,134
-plus d'équipe.
+mais uma equipe.
 
 284
 00:10:01,201 --> 00:10:02,703
-- Alors, retour à la formule qui
+- Então, voltamos à fórmula que
 
 285
 00:10:02,769 --> 00:10:04,271
-marche, un duo. Toi et moi
+funciona: uma dupla. Você e eu
 
 286
 00:10:04,338 --> 00:10:05,873
-contre le monde entier!
+contra o mundo inteiro!
 
 287
 00:10:05,939 --> 00:10:08,342
-(rugissement au loin)
+(rugido ao longe)
 
 288
 00:10:08,408 --> 00:10:10,878
-- Ils nous ont retrouvés!
+- Eles acharam a gente!
 
 289
 00:10:12,646 --> 00:10:15,182
-- Un tour de toboggan?
+- Uma volta no escorregador?
 
 290
 00:10:15,249 --> 00:10:16,783
-- N'oublie pas de mettre
+- Não esquece de colocar
 
 291
 00:10:16,850 --> 00:10:18,385
-ta tenue de plongée! Tikki,
+o seu traje de mergulho! Tikki,
 
 292
 00:10:18,452 --> 00:10:19,987
-transforme-toi!
+transformar!
 
 293
 00:10:20,053 --> 00:10:23,056
-- Plagg, transforme-toi!
+- Plagg, transformar!
 
 294
 00:10:23,123 --> 00:10:25,192
-(cris)
+(gritos)
 
 295
 00:10:30,430 --> 00:10:34,034
-- Ah! Syren.
+- Ah! Sereia.
 
 296
 00:10:39,540 --> 00:10:41,508
-- Chacun le sien!
+- Cada um cuida do seu!
 
 297
 00:10:58,525 --> 00:10:59,860
-Ça va nous prendre beaucoup de
+Isso vai levar muito tempo para
 
 298
 00:10:59,927 --> 00:11:00,000
-désakumatiser tous ces vilains
+desakumatizar todos esses vilões
 
 299
 00:11:00,000 --> 00:11:01,295
-désakumatiser tous ces vilains
+desakumatizar todos esses vilões
 
 300
 00:11:01,361 --> 00:11:02,696
-un par un.
+um por um.
 
 301
 00:11:02,763 --> 00:11:04,131
-- C'est justement pour ça qu'il
+- É exatamente por isso que
 
 302
 00:11:04,198 --> 00:11:05,532
-faut qu'on s'attaque directement
+temos que atacar direto
 
 303
 00:11:05,599 --> 00:11:06,934
-au Papillon. Il se sert de sa
+o Hawk Moth. Ele usa o seu
 
 304
 00:11:07,000 --> 00:11:08,368
-canne pour réakumatiser ses
+bastão para reakumatizar as suas
 
 305
 00:11:08,435 --> 00:11:09,770
-victimes. Si on arrive à la
+vítimas. Se conseguirmos
 
 306
 00:11:09,837 --> 00:11:11,205
-détruire, alors il ne pourra
+destruí-lo, ele não vai mais
 
 307
 00:11:11,271 --> 00:11:12,673
-plus compter sur son armée.
+poder contar com o exército dele.
 
 308
 00:11:15,409 --> 00:11:17,578
-- Ha! Ha! Ha! Assistez à mon
+- Ha! Ha! Ha! Presenciem o meu
 
 309
 00:11:17,644 --> 00:11:19,813
-triomphe, Parisiens. Vos héros
+triunfo, parisienses. Os seus heróis
 
 310
 00:11:19,880 --> 00:11:22,115
-sont pris au piège!
+caíram na armadilha!
 
 311
 00:11:27,588 --> 00:11:30,000
-- (ensemble): Détransformation!
+- (juntos): Destransformar!
 
 312
 00:11:30,000 --> 00:11:30,424
-- (ensemble): Détransformation!
+- (juntos): Destransformar!
 
 313
 00:11:40,033 --> 00:11:42,069
-- Ne manquez pas la suite, chers
+- Não percam a continuação, caros
 
 314
 00:11:42,135 --> 00:11:44,171
-téléspectateurs. Il est temps
+telespectadores. É hora
 
 315
 00:11:44,238 --> 00:11:46,306
-de montrer au monde entier que
+de mostrar ao mundo inteiro que
 
 316
 00:11:46,373 --> 00:11:48,475
-la vraie Ladybug est de retour!
+a verdadeira Ladybug está de volta!
 
 317
 00:11:54,481 --> 00:11:55,949
-(rires)
+(risadas)
 
 318
 00:11:56,016 --> 00:11:57,451
-- Regardez, nos héros sont
+- Olhem lá, os nossos heróis estão
 
 319
 00:11:57,518 --> 00:11:58,986
-de retour.
+de volta.
 
 320
 00:11:59,052 --> 00:12:00,000
-(exclamations de joie)
+(gritos de alegria)
 
 321
 00:12:00,000 --> 00:12:00,521
-(exclamations de joie)
+(gritos de alegria)
 
 322
 00:12:00,587 --> 00:12:02,022
-- Audimatrix, éteins
+- Audimatrix, desliga
 
 323
 00:12:02,089 --> 00:12:03,557
-les caméras.
+as câmeras.
 
 324
 00:12:03,624 --> 00:12:05,158
-- Fini, la dérobade, manants.
+- Chega de covardia, seus vermes.
 
 325
 00:12:05,225 --> 00:12:06,727
-Sus à l'ennemi!
+Atacar o inimigo!
 
 326
 00:12:06,793 --> 00:12:08,328
-- Je te propose qu'on fasse
+- Eu sugiro que a gente faça
 
 327
 00:12:08,395 --> 00:12:09,897
-un petit détour.
+um pequeno desvio.
 
 328
 00:12:09,963 --> 00:12:11,565
-- Excellente idée, ma lady.
+- Excelente ideia, minha lady.
 
 329
 00:12:22,809 --> 00:12:24,111
-T'as pas une idée miraculeuse,
+Você não tem nenhuma ideia miraculosa,
 
 330
 00:12:24,178 --> 00:12:25,479
-ma lady?
+minha lady?
 
 331
 00:12:25,546 --> 00:12:26,880
-- À part courir pour survivre
+- Fora correr para sobreviver
 
 332
 00:12:26,947 --> 00:12:28,315
-aux vilains?
+desses vilões?
 
 333
 00:12:39,259 --> 00:12:40,827
-- Parisiens, on peut être des
+- Parisienses, nós podemos ser
 
 334
 00:12:40,894 --> 00:12:42,496
-héros juste pour un jour.
+heróis por apenas um dia.
 
 335
 00:12:42,563 --> 00:12:44,131
-(exclamations entremêlées)
+(gritos misturados)
 
 336
 00:12:44,198 --> 00:12:45,766
-- Sacrebleu, la populace
+- Que droga, a multidão
 
 337
 00:12:45,832 --> 00:12:47,434
-se révolte. Chargez!
+está se revoltando. Atacar!
 
 338
 00:12:47,501 --> 00:12:49,136
-(cris)
+(gritos)
 
 339
 00:12:52,339 --> 00:12:54,308
-- Est-ce que tout va bien?
+- Está tudo bem com vocês?
 
 340
 00:12:55,409 --> 00:12:56,510
-- On est tellement contentes
+- Nós estamos tão felizes
 
 341
 00:12:56,577 --> 00:12:57,711
-de vous retrouver.
+de ver vocês de novo.
 
 342
 00:12:57,778 --> 00:12:58,879
-- Tous les Parisiens sont
+- Todos os parisienses estão
 
 343
 00:12:58,946 --> 00:13:00,000
-à vos côtés.
+ao lado de vocês.
 
 344
 00:13:00,000 --> 00:13:00,080
-à vos côtés.
+ao lado de vocês.
 
 345
 00:13:00,147 --> 00:13:01,248
-- On va les ralentir, occupez-
+- Nós vamos atrasar eles, cuidem
 
 346
 00:13:01,315 --> 00:13:02,449
-vous de sauver la ville.
+de salvar a nossa cidade.
 
 347
 00:13:02,516 --> 00:13:03,617
-- Vous êtes les meilleurs,
+- Vocês são os melhores,
 
 348
 00:13:03,684 --> 00:13:04,818
-merci! Soyez prudents!
+obrigada! Tomem cuidado!
 
 349
 00:13:04,885 --> 00:13:05,986
-- Merci beaucoup!
+- Muito obrigado!
 
 350
 00:13:06,053 --> 00:13:08,121
-- À vous de jouer, mes géants.
+- É com vocês, meus gigantes.
 
 351
 00:13:08,188 --> 00:13:10,257
-Détruisez Ladybug et Chat Noir
+Destruam a Ladybug e o Chat Noir
 
 352
 00:13:10,324 --> 00:13:12,359
-et tous ceux qui voudront
+e qualquer um que tentar
 
 353
 00:13:12,426 --> 00:13:14,561
-se mettre sur votre chemin!
+ficar no caminho de vocês!
 
 354
 00:13:15,596 --> 00:13:18,732
-(coups de klaxon)
+(sons de buzina)
 
 355
 00:13:23,437 --> 00:13:26,073
-(vrombissement, bips)
+(ronco de motor, apitos)
 
 356
 00:13:28,442 --> 00:13:29,943
-- Oh, les gens sont incroyables!
+- Oh, as pessoas são incríveis!
 
 357
 00:13:30,010 --> 00:13:31,512
-- Voilà pourquoi il ne faut
+- É por isso que a gente nunca
 
 358
 00:13:31,578 --> 00:13:33,080
-jamais perdre espoir, mon minou!
+deve perder a esperança, gatinho!
 
 359
 00:13:33,146 --> 00:13:34,648
-- Hum, ils se montrent plus
+- Hum, eles estão se mostrando mais
 
 360
 00:13:34,715 --> 00:13:36,216
-résistants que prévu.
+resistentes do que o esperado.
 
 361
 00:13:36,283 --> 00:13:37,784
-- Mais il reste toujours
+- Mas ainda resta
 
 362
 00:13:37,851 --> 00:13:39,419
-la dernière phase du plan.
+a última fase do plano.
 
 363
 00:13:42,222 --> 00:13:43,423
-- Je te laisse le marchand de
+- Eu deixo o sorveteiro com
 
 364
 00:13:43,490 --> 00:13:44,691
-glaces, Chat Noir.
+você, Chat Noir.
 
 365
 00:13:44,758 --> 00:13:45,993
-- Ça tombe bien, cette bataille
+- Veio em boa hora, essa batalha
 
 366
 00:13:46,059 --> 00:13:47,327
-m'a creusé l'estomac!
+me deu uma baita fome!
 
 367
 00:14:02,976 --> 00:14:04,578
@@ -1474,652 +1474,652 @@ m'a creusé l'estomac!
 
 368
 00:14:04,645 --> 00:14:06,213
-- Il ne reste que nous
+- Só restamos nós
 
 369
 00:14:06,280 --> 00:14:07,848
-trois, Papillon.
+três, Hawk Moth.
 
 370
 00:14:07,915 --> 00:14:09,583
-- Cataclysme!
+- Cataclismo!
 
 371
 00:14:14,221 --> 00:14:16,423
-- Lucky charm!
-
-372
-00:14:23,330 --> 00:14:24,631
-C'est un signe, Papillon,
+- Talismã!
 
 373
-00:14:24,698 --> 00:14:25,999
-le signe que ton miraculous
+00:14:23,330 --> 00:14:24,631
+Isto é um sinal, Hawk Moth,
 
 374
-00:14:26,066 --> 00:14:27,367
-va finir à sa place, dans
+00:14:24,698 --> 00:14:25,999
+o sinal de que o seu Miraculous
 
 375
-00:14:27,434 --> 00:14:28,735
-cette boîte.
+00:14:26,066 --> 00:14:27,367
+vai acabar no lugar dele, dentro
 
 376
-00:14:28,802 --> 00:14:30,000
-- Êtes-vous sûrs que vous ne
+00:14:27,434 --> 00:14:28,735
+desta caixa.
 
 377
-00:14:30,000 --> 00:14:30,103
-- Êtes-vous sûrs que vous ne
+00:14:28,802 --> 00:14:30,000
+- Vocês têm certeza de que não
 
 378
-00:14:30,170 --> 00:14:31,471
-faites pas une grave erreur? Que
+00:14:30,000 --> 00:14:30,103
+- Vocês têm certeza de que não
 
 379
-00:14:31,538 --> 00:14:32,840
-le voeu que je souhaitais
+00:14:30,170 --> 00:14:31,471
+estão cometendo um erro grave? Que
 
 380
-00:14:32,906 --> 00:14:34,208
-formuler n'aurait pas été
+00:14:31,538 --> 00:14:32,840
+o desejo que eu pretendia
 
 381
-00:14:34,274 --> 00:14:35,576
-immensément bénéfique?
+00:14:32,906 --> 00:14:34,208
+realizar não teria sido
 
 382
-00:14:35,642 --> 00:14:36,810
-- Pour chaque voeu prononcé,
+00:14:34,274 --> 00:14:35,576
+imensamente benéfico?
 
 383
-00:14:36,877 --> 00:14:38,011
-il y a un prix à payer. Pourquoi
+00:14:35,642 --> 00:14:36,810
+- Para cada desejo realizado,
 
 384
-00:14:38,078 --> 00:14:39,246
-ne pas nous dire ce que
+00:14:36,877 --> 00:14:38,011
+existe um preço a pagar. Por que
 
 385
-00:14:39,313 --> 00:14:40,480
-tu souhaites?
+00:14:38,078 --> 00:14:39,246
+não nos diz o que você
 
 386
-00:14:40,547 --> 00:14:41,715
-- Donnez-moi vos miraculous et
+00:14:39,313 --> 00:14:40,480
+tanto quer?
 
 387
-00:14:41,782 --> 00:14:42,950
-vous le découvrirez.
+00:14:40,547 --> 00:14:41,715
+- Me deem os seus Miraculous e
 
 388
-00:14:43,016 --> 00:14:44,151
-Contrairement...
+00:14:41,782 --> 00:14:42,950
+vocês vão descobrir.
 
 389
-00:14:44,218 --> 00:14:45,385
-Contrairement à vous, je n'ai
-
-390
-00:14:45,452 --> 00:14:46,620
-pas peur de ces pouvoirs.
-
-391
-00:14:46,687 --> 00:14:47,821
-Puisque vous êtes des gentils,
-
-392
-00:14:47,888 --> 00:14:49,056
-pourquoi ne pas vous en servir
-
-393
-00:14:49,122 --> 00:14:50,290
-pour changer le monde en mieux?
-
-394
-00:14:50,357 --> 00:14:51,592
-- Détrompe-toi, Papillon. Chaque
-
-395
-00:14:51,658 --> 00:14:52,893
-jour, nous changeons le monde
-
-396
-00:14:52,960 --> 00:14:54,161
-par nos actions, pas en
-
-397
-00:14:54,228 --> 00:14:55,462
-akumatisant des citoyens
-
-398
-00:14:55,529 --> 00:14:56,763
-innocents pour réaliser je ne
-
-399
-00:14:56,830 --> 00:14:58,065
-sais quel voeu!
+00:14:43,016 --> 00:14:44,151
+Ao contrário...
 
 400
-00:14:58,131 --> 00:14:59,566
-- Peu importe ton voeu,
+00:14:44,218 --> 00:14:45,385
+Ao contrário de vocês, eu não
 
 401
-00:14:59,633 --> 00:15:00,000
-il ne peut être que maléfique
+00:14:45,452 --> 00:14:46,620
+tenho medo desses poderes.
 
 402
-00:15:00,000 --> 00:15:01,068
-il ne peut être que maléfique
+00:14:46,687 --> 00:14:47,821
+Já que vocês são bonzinhos,
 
 403
-00:15:01,134 --> 00:15:02,636
-vu le chaos que tu sèmes.
+00:14:47,888 --> 00:14:49,056
+por que não usá-los
 
 404
-00:15:06,240 --> 00:15:08,375
-- L'heure est venue. La victoire
+00:14:49,122 --> 00:14:50,290
+para mudar o mundo para melhor?
 
 405
-00:15:08,442 --> 00:15:10,644
-est enfin entre vos mains.
+00:14:50,357 --> 00:14:51,592
+- Você está muito enganado, Hawk Moth. Todo
 
 406
+00:14:51,658 --> 00:14:52,893
+dia nós mudamos o mundo
+
+407
+00:14:52,960 --> 00:14:54,161
+com as nossas ações, não
+
+408
+00:14:54,228 --> 00:14:55,462
+akumatizando cidadãos
+
+409
+00:14:55,529 --> 00:14:56,763
+inocentes para realizar não sei
+
+410
+00:14:56,830 --> 00:14:58,065
+que tipo de desejo!
+
+411
+00:14:58,131 --> 00:14:59,566
+- Não importa o seu desejo,
+
+412
+00:14:59,633 --> 00:15:00,000
+ele só pode ser maligno
+
+413
+00:15:00,000 --> 00:15:01,068
+ele só pode ser maligno
+
+414
+00:15:01,134 --> 00:15:02,636
+olhando todo esse caos que você espalha.
+
+415
+00:15:06,240 --> 00:15:08,375
+- Chegou a hora. A vitória
+
+416
+00:15:08,442 --> 00:15:10,644
+está finalmente nas mãos de vocês.
+
+417
 00:15:14,181 --> 00:15:16,049
 - Hein?
 
-407
-00:15:16,116 --> 00:15:17,985
-- Il n'est pas trop tard, tu
-
-408
-00:15:18,051 --> 00:15:19,887
-peux faire ce qui est juste...
-
-409
-00:15:19,953 --> 00:15:21,889
-à nos côtés. Oh!
-
-410
-00:15:27,594 --> 00:15:30,000
-(cri)
-
-411
-00:15:30,000 --> 00:15:30,397
-(cri)
-
-412
-00:15:32,399 --> 00:15:33,600
-- NON! Grrr...
-
-413
-00:15:33,667 --> 00:15:34,868
-- Tu n'es vraiment qu'un lâche,
-
-414
-00:15:34,935 --> 00:15:36,136
-Papillon.
-
-415
-00:15:36,203 --> 00:15:37,404
-- Cette fois, tu ne peux plus
-
-416
-00:15:37,471 --> 00:15:38,739
-te cacher.
-
-417
-00:16:09,369 --> 00:16:12,439
-- NON! Aaah!
-
 418
-00:16:12,506 --> 00:16:13,740
-- Très bien, les enfants, je
+00:15:16,116 --> 00:15:17,985
+- Não é tarde demais, você
 
 419
-00:16:13,807 --> 00:16:15,042
-vais vous montrer ce qu'un homme
+00:15:18,051 --> 00:15:19,887
+pode fazer o que é certo...
 
 420
-00:16:15,108 --> 00:16:16,376
-qui n'a rien à perdre
+00:15:19,953 --> 00:15:21,889
+ao nosso lado. Oh!
 
 421
-00:16:16,443 --> 00:16:17,678
-peut faire.
+00:15:27,594 --> 00:15:30,000
+(grito)
 
 422
-00:16:17,744 --> 00:16:19,046
-(cris)
+00:15:30,000 --> 00:15:30,397
+(grito)
 
 423
-00:16:27,254 --> 00:16:28,822
-Vous ne gagnerez pas jamais, ni
+00:15:32,399 --> 00:15:33,600
+- NÃO! Grrr...
 
 424
-00:16:28,889 --> 00:16:30,000
-aujourd'hui ni n'importe quel
+00:15:33,667 --> 00:15:34,868
+- Você não passa de um covarde,
 
 425
-00:16:30,000 --> 00:16:30,424
-aujourd'hui ni n'importe quel
+00:15:34,935 --> 00:15:36,136
+Hawk Moth.
 
 426
-00:16:30,490 --> 00:16:32,059
-jour. Vous êtes encore
+00:15:36,203 --> 00:15:37,404
+- Dessa vez você não tem mais onde
 
 427
-00:16:32,125 --> 00:16:33,694
-inexpérimentés, jeunes
+00:15:37,471 --> 00:15:38,739
+se esconder.
 
 428
-00:16:33,760 --> 00:16:35,329
-superhéros, incapables de rester
+00:16:09,369 --> 00:16:12,439
+- NÃO! Aaah!
 
 429
-00:16:35,395 --> 00:16:36,930
-transformés après avoir utilisé
+00:16:12,506 --> 00:16:13,740
+- Muito bem, crianças, eu
 
 430
-00:16:36,997 --> 00:16:38,632
-vos pouvoirs.
+00:16:13,807 --> 00:16:15,042
+vou mostrar para vocês o que um homem
 
 431
-00:16:42,202 --> 00:16:45,105
-- Un coup de main?
+00:16:15,108 --> 00:16:16,376
+que não tem nada a perder
 
 432
-00:16:49,443 --> 00:16:50,844
-- Tu es pris dans notre filet,
+00:16:16,443 --> 00:16:17,678
+pode fazer.
 
 433
-00:16:50,911 --> 00:16:52,279
-Papillon. Cette fois, tu ne peux
+00:16:17,744 --> 00:16:19,046
+(gritos)
 
 434
-00:16:52,346 --> 00:16:53,814
-plus nous échapper.
+00:16:27,254 --> 00:16:28,822
+Vocês nunca vão vencer, nem
 
 435
-00:16:54,815 --> 00:16:56,216
-Venin! Je le paralyse et tu
+00:16:28,889 --> 00:16:30,000
+hoje e nem em nenhum outro
 
 436
-00:16:56,283 --> 00:16:57,651
-pourras en faire ce que
+00:16:30,000 --> 00:16:30,424
+hoje e nem em nenhum outro
 
 437
-00:16:57,718 --> 00:16:59,186
-tu veux, Ladybug.
+00:16:30,490 --> 00:16:32,059
+dia. Vocês ainda são
 
 438
-00:17:24,545 --> 00:17:26,547
-- Papillon, je suis Mayura. Te
+00:16:32,125 --> 00:16:33,694
+inexperientes, jovens
 
 439
-00:17:26,613 --> 00:17:28,615
-voilà dos au mur, en proie au
+00:16:33,760 --> 00:16:35,329
+super-heróis, incapazes de continuar
 
 440
-00:17:28,682 --> 00:17:30,000
-plus profond désespoir. Laisse-
+00:16:35,395 --> 00:16:36,930
+transformados depois de usar
 
 441
-00:17:30,000 --> 00:17:30,684
-plus profond désespoir. Laisse-
+00:16:36,997 --> 00:16:38,632
+os seus poderes.
 
 442
-00:17:30,751 --> 00:17:32,753
-moi donc t'aider.
+00:16:42,202 --> 00:16:45,105
+- Uma ajudinha?
 
 443
-00:17:32,819 --> 00:17:34,821
-- Non! Ne faites pas ça!
+00:16:49,443 --> 00:16:50,844
+- Você caiu na nossa rede,
 
 444
-00:17:34,888 --> 00:17:36,890
-- Que ton désespoir s'incarne
+00:16:50,911 --> 00:16:52,279
+Hawk Moth. Dessa vez você não
 
 445
-00:17:36,957 --> 00:17:39,026
-sous la forme d'un protecteur.
+00:16:52,346 --> 00:16:53,814
+pode mais nos escapar.
 
 446
-00:17:48,869 --> 00:17:51,939
-(cris)
+00:16:54,815 --> 00:16:56,216
+Veneno! Eu paraliso ele e você
 
 447
-00:17:52,005 --> 00:17:53,140
-- Qu'est-ce que c'est
+00:16:56,283 --> 00:16:57,651
+vai poder fazer o que quiser com ele,
 
 448
-00:17:53,207 --> 00:17:54,441
-que ce monstre?
+00:16:57,718 --> 00:16:59,186
+Ladybug.
 
 449
-00:18:03,350 --> 00:18:04,885
-C'est une plume. Le second
+00:17:24,545 --> 00:17:26,547
+- Hawk Moth, eu sou a Mayura. Você
 
 450
-00:18:04,952 --> 00:18:06,520
-miraculous que Maître Fu
+00:17:26,613 --> 00:17:28,615
+está contra a parede, tomado pelo
 
 451
-00:18:06,587 --> 00:18:08,121
-a perdu...
+00:17:28,682 --> 00:17:30,000
+mais profundo desespero. Deixe-
 
 452
-00:18:08,188 --> 00:18:09,756
-- ... était celui du paon!
+00:17:30,000 --> 00:17:30,684
+mais profundo desespero. Deixe-
 
 453
-00:18:09,823 --> 00:18:11,358
-- Ladybug! Le Papillon!
+00:17:30,751 --> 00:17:32,753
+me então te ajudar.
 
 454
-00:18:11,425 --> 00:18:12,993
-- Il a profité de la confusion
+00:17:32,819 --> 00:17:34,821
+- Não! Não faça isso!
 
 455
-00:18:13,060 --> 00:18:14,595
-pour s'échapper.
+00:17:34,888 --> 00:17:36,890
+- Que o seu desespero ganhe vida
 
 456
-00:18:14,661 --> 00:18:16,296
-- Le Papillon n'agit plus seul
+00:17:36,957 --> 00:17:39,026
+na forma de um protetor.
 
 457
-00:18:16,363 --> 00:18:17,965
-désormais. Il a un allié. Le
+00:17:48,869 --> 00:17:51,939
+(gritos)
 
 458
-00:18:18,031 --> 00:18:19,666
-porteur du miraculous du paon
+00:17:52,005 --> 00:17:53,140
+- O que é
 
 459
-00:18:19,733 --> 00:18:21,368
-est dans son camp. Hum...
+00:17:53,207 --> 00:17:54,441
+esse monstro?
 
 460
-00:18:21,435 --> 00:18:23,036
-ça pourrait nous aider
+00:18:03,350 --> 00:18:04,885
+É uma pena. O segundo
 
 461
-00:18:23,103 --> 00:18:24,738
-à le retrouver.
+00:18:04,952 --> 00:18:06,520
+Miraculous que o Mestre Fu
 
 462
-00:18:24,805 --> 00:18:27,674
-(gémissements)
+00:18:06,587 --> 00:18:08,121
+perdeu...
 
 463
-00:18:29,009 --> 00:18:30,000
-- Maître...
+00:18:08,188 --> 00:18:09,756
+- ... era o do pavão!
 
 464
-00:18:30,000 --> 00:18:30,711
-- Maître...
+00:18:09,823 --> 00:18:11,358
+- Ladybug! O Hawk Moth!
 
 465
-00:18:30,777 --> 00:18:32,446
-- Maintenant, on n'a plus
+00:18:11,425 --> 00:18:12,993
+- Ele se aproveitou da confusão
 
 466
-00:18:32,513 --> 00:18:34,214
-aucun indice.
+00:18:13,060 --> 00:18:14,595
+para escapar.
 
 467
-00:18:34,281 --> 00:18:35,949
-- Il a dû se détransformer.
+00:18:14,661 --> 00:18:16,296
+- O Hawk Moth não age mais sozinho
 
 468
-00:18:36,016 --> 00:18:37,718
-(bips)
+00:18:16,363 --> 00:18:17,965
+de agora em diante. Ele tem uma aliada. O
 
 469
-00:18:37,784 --> 00:18:39,453
-On se sépare, les amis. Mais
+00:18:18,031 --> 00:18:19,666
+portador do Miraculous do pavão
 
 470
-00:18:39,520 --> 00:18:41,288
-avant ça... Miraculous Ladybug!
+00:18:19,733 --> 00:18:21,368
+está do lado dele. Hum...
 
 471
-00:19:10,217 --> 00:19:11,685
-(toux, soupir)
+00:18:21,435 --> 00:18:23,036
+isso poderia nos ajudar
 
 472
-00:19:11,752 --> 00:19:13,253
-- Je vous avais pourtant dit de
+00:18:23,103 --> 00:18:24,738
+a encontrá-lo.
 
 473
-00:19:13,320 --> 00:19:14,788
-ne jamais utiliser le miraculous
+00:18:24,805 --> 00:18:27,674
+(gemidos de dor)
 
 474
-00:19:14,855 --> 00:19:16,356
-du paon.
+00:18:29,009 --> 00:18:30,000
+- Mestre...
 
 475
-00:19:16,423 --> 00:19:17,891
-- Je n'avais pas le choix,
+00:18:30,000 --> 00:18:30,711
+- Mestre...
 
 476
-00:19:17,958 --> 00:19:19,426
-monsieur, il fallait que
+00:18:30,777 --> 00:18:32,446
+- Agora nós não temos
 
 477
-00:19:19,493 --> 00:19:20,994
-je vous sauve.
+00:18:32,513 --> 00:18:34,214
+pista nenhuma.
 
 478
-00:19:21,061 --> 00:19:22,529
-(toux)
+00:18:34,281 --> 00:18:35,949
+- Ele deve ter se destransformado.
 
 479
-00:19:22,596 --> 00:19:24,064
-- Il est endommagé, c'est
+00:18:36,016 --> 00:18:37,718
+(apitos)
 
 480
-00:19:24,131 --> 00:19:25,632
-beaucoup trop dangereux.
+00:18:37,784 --> 00:18:39,453
+Vamos nos separar, pessoal. Mas
 
 481
-00:19:25,699 --> 00:19:27,167
-- Je tiens à vous aider... quel
+00:18:39,520 --> 00:18:41,288
+antes disso... Miraculous Ladybug!
 
 482
-00:19:27,234 --> 00:19:28,735
-qu'en soit le prix.
+00:19:10,217 --> 00:19:11,685
+(tosse, suspiro)
 
 483
-00:19:28,802 --> 00:19:30,000
-(soupir)
+00:19:11,752 --> 00:19:13,253
+- Mas eu tinha dito para você
 
 484
-00:19:30,000 --> 00:19:30,337
-(soupir)
+00:19:13,320 --> 00:19:14,788
+nunca usar o Miraculous
 
 485
-00:19:31,338 --> 00:19:33,674
-- Je vous remercie, Nathalie.
+00:19:14,855 --> 00:19:16,356
+do pavão.
 
 486
-00:19:45,786 --> 00:19:47,454
-- Oh! Hors de question que je
+00:19:16,423 --> 00:19:17,891
+- Eu não tinha escolha,
 
 487
-00:19:47,521 --> 00:19:49,156
-goûte à un seul de vos machins
+00:19:17,958 --> 00:19:19,426
+senhor, eu precisava
 
 488
-00:19:49,223 --> 00:19:50,958
-faits maison, trop risqué.
+00:19:19,493 --> 00:19:20,994
+te salvar.
 
 489
-00:19:51,959 --> 00:19:54,862
-(sanglots)
+00:19:21,061 --> 00:19:22,529
+(tosse)
 
 490
-00:19:59,967 --> 00:20:00,000
-- Hé, c'est pris! C'est pris
+00:19:22,596 --> 00:19:24,064
+- Ele está danificado, é
 
 491
-00:20:00,000 --> 00:20:01,702
-- Hé, c'est pris! C'est pris
+00:19:24,131 --> 00:19:25,632
+perigoso demais.
 
 492
-00:20:01,768 --> 00:20:03,537
-aussi, mais il reste
+00:19:25,699 --> 00:19:27,167
+- Eu faço questão de te ajudar... não importa
 
 493
-00:20:03,604 --> 00:20:05,339
-une place là-bas.
+00:19:27,234 --> 00:19:28,735
+qual seja o preço.
 
 494
-00:20:05,405 --> 00:20:07,140
-(exclamations)
+00:19:28,802 --> 00:19:30,000
+(suspiro)
 
 495
-00:20:07,207 --> 00:20:08,976
-- Là, là, là!
+00:19:30,000 --> 00:19:30,337
+(suspiro)
 
 496
-00:20:12,279 --> 00:20:13,647
-- Je peux?
+00:19:31,338 --> 00:19:33,674
+- Muito obrigado, Nathalie.
 
 497
-00:20:13,714 --> 00:20:15,048
-- Non, euh... non, va-t'en,
+00:19:45,786 --> 00:19:47,454
+- Oh! Nem pensar que eu vou
 
 498
-00:20:15,115 --> 00:20:16,483
-pardon, vas-y, je t'en prie,
+00:19:47,521 --> 00:19:49,156
+provar uma única dessas coisas
 
 499
-00:20:16,550 --> 00:20:17,885
-asseyez-moi, euh non,
+00:19:49,223 --> 00:19:50,958
+feitas em casa, risco demais.
 
 500
-00:20:17,951 --> 00:20:19,319
-assieds-toi...
+00:19:51,959 --> 00:19:54,862
+(soluços de choro)
 
 501
-00:20:19,386 --> 00:20:20,954
-- Merci.
+19:59,967 --> 00:20:00,000
+- Ei, está ocupado! Está ocupado
 
 502
-00:20:22,823 --> 00:20:24,591
-(sonnerie de cellulaire)
+00:20:00,000 --> 00:20:01,702
+- Ei, está ocupado! Está ocupado
 
 503
-00:20:27,027 --> 00:20:29,029
-Oh mince... mon père veut que
+00:20:01,768 --> 00:20:03,537
+também, mas ainda tem
 
 504
-00:20:29,096 --> 00:20:30,000
-je participe à une soirée
+00:20:03,604 --> 00:20:05,339
+um lugarzinho ali.
 
 505
-00:20:30,000 --> 00:20:31,098
-je participe à une soirée
+00:20:05,405 --> 00:20:07,140
+(exclamações)
 
 506
-00:20:31,164 --> 00:20:33,233
-de charité. Je dois y aller.
+00:20:07,207 --> 00:20:08,976
+- Ali, ali, ali!
 
 507
-00:20:35,769 --> 00:20:37,204
-Je voulais te dire, c'est vrai
+00:12:12,279 --> 00:12:13,647
+- Posso?
 
 508
-00:20:37,271 --> 00:20:38,705
-ce qu'a dit Rose tout à l'heure,
+00:20:13,714 --> 00:20:15,048
+- Não, er... não, vai embora,
 
 509
-00:20:38,772 --> 00:20:40,207
-tu aides toujours les gens,
+00:20:15,115 --> 00:20:16,483
+desculpa, quer dizer, por favor,
 
 510
-00:20:40,274 --> 00:20:41,708
-comme quand tu as aidé Juleka à
+00:20:16,550 --> 00:20:17,885
+senta em mim, quer dizer, não,
 
 511
-00:20:41,775 --> 00:20:43,210
-vaincre sa malédiction de la
+00:20:17,951 --> 00:20:19,319
+pode sentar...
 
 512
-00:20:43,277 --> 00:20:44,711
-photo de classe, ou quand tu as
+00:20:19,386 --> 00:20:20,954
+- Obrigada.
 
 513
-00:20:44,778 --> 00:20:46,213
-présenté Marc à Nathaniel pour
+00:20:22,823 --> 00:20:24,591
+(celular tocando)
 
 514
-00:20:46,280 --> 00:20:47,714
-sa bande dessinée. Et quand tu
+00:20:27,027 --> 00:20:29,029
+Ah, puxa... meu pai quer que
 
 515
-00:20:47,781 --> 00:20:49,249
-m'as aidé à aller voir le film
+00:20:29,096 --> 00:20:30,000
+eu participe de um jantar
 
 516
-00:20:49,316 --> 00:20:50,751
-de ma mère au cinéma. C'est pour
+00:20:30,000 --> 00:20:31,098
+eu participe de um jantar
 
 517
-00:20:50,817 --> 00:20:52,252
-ça que tout le monde a voulu
+00:20:31,164 --> 00:20:33,233
+de caridade. Eu preciso ir.
 
 518
-00:20:52,319 --> 00:20:53,754
-t'aider à organiser le pique-
+00:20:35,769 --> 00:20:37,204
+Eu queria te dizer que é verdade
 
 519
-00:20:53,820 --> 00:20:55,255
-nique. Aujourd'hui, pour
+00:20:37,271 --> 00:20:38,705
+o que a Rose falou mais cedo,
 
 520
-00:20:55,322 --> 00:20:56,757
-changer, c'était notre tour
+00:20:38,772 --> 00:20:40,207
+você está sempre ajudando as pessoas,
 
 521
-00:20:56,823 --> 00:20:58,258
-de t'aider. Tu es notre Ladybug
+00:20:40,274 --> 00:20:41,708
+como quando você ajudou a Juleka a
 
 522
-00:20:58,325 --> 00:20:59,760
-du quotidien. Passe une bonne
+00:20:41,775 --> 00:20:43,210
+vencer a maldição dela na
 
 523
-00:20:59,826 --> 00:21:00,000
-soirée, Super Marinette.
+00:20:43,277 --> 00:20:44,711
+foto de classe, ou quando você
 
 524
-00:21:00,000 --> 00:21:01,328
-soirée, Super Marinette.
+00:20:44,778 --> 00:20:46,213
+apresentou o Marc pro Nathaniel pro
 
 525
-00:21:13,640 --> 00:21:16,643
-- Adrien! Euh... euh...
+00:20:46,280 --> 00:20:47,714
+quadrinho dele. E quando você
 
 526
-00:21:16,710 --> 00:21:19,780
-je voulais te...
+00:20:47,781 --> 00:20:49,249
+me ajudou a ir ver o filme
 
 527
-00:21:26,420 --> 00:21:28,655
-Merci.
+00:20:49,316 --> 00:20:50,751
+da minha mãe no cinema. É por
 
 528
-00:21:31,191 --> 00:21:33,894
-- Mais de rien, Marinette.
+00:20:50,817 --> 00:20:52,252
+isso que todo mundo quis
 
 529
-00:21:35,596 --> 00:21:38,699
-(cris d'enthousiasme, rires)
+00:20:52,319 --> 00:20:53,754
+te ajudar a organizar o piquenique.
 
 530
+00:20:53,820 --> 00:20:55,255
+Hoje, para variar,
+
+531
+00:20:55,322 --> 00:20:56,757
+era a nossa vez
+
+532
+00:20:56,823 --> 00:20:58,258
+de te ajudar. Você é a nossa Ladybug
+
+533
+00:20:58,325 --> 00:20:59,760
+do dia a dia. Tenha uma boa
+
+534
+00:20:59,826 --> 00:21:00,000
+noite, Super Marinette.
+
+535
+00:21:00,000 --> 00:21:01,328
+noite, Super Marinette.
+
+536
+00:21:13,640 --> 00:21:16,643
+- Adrien! Er... er...
+
+537
+00:21:16,710 --> 00:21:19,780
+eu queria te...
+
+538
+00:21:26,420 --> 00:21:28,655
+Obrigada.
+
+539
+00:21:31,191 --> 00:21:33,894
+- Não foi nada, Marinette.
+
+540
+00:21:35,596 --> 00:21:38,699
+(gritos de empolgação, risadas)
+
+541
 00:21:51,245 --> 00:21:53,247
-Sous-titrage: Télé-Québec
+Legendas por: eliascsc
